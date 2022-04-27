@@ -484,7 +484,7 @@
                     WIDTH="241"
                     HEIGHT="73">
             <Shape><Polygon POINTS="1322 2263 1322 2208 1556 2208 1560 2267 1556 2277 1319 2281"/></Shape>
-	    <String CONTENT="act&#39; ł motus"
+	    <String CONTENT="actꝰ ł motus"
                     HPOS="1319"
                     VPOS="2208"
                     WIDTH="241"
@@ -698,6 +698,33 @@
           
         </TextBlock>
         
+        <TextBlock HPOS="1691"
+                   VPOS="312"
+                   WIDTH="154"
+                   HEIGHT="194"
+                   ID="eSc_textblock_ac9e591b"
+                   TAGREFS="BT">
+          <Shape><Polygon POINTS="1691 312 1691 506 1845 506 1845 312"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_21c12a9f"
+                    
+                    BASELINE="1711 453 1805 453" 
+                    HPOS="1706"
+                    VPOS="320"
+                    WIDTH="98"
+                    HEIGHT="150">
+            <Shape><Polygon POINTS="1710 449 1706 324 1800 320 1804 449 1804 470 1710 470"/></Shape>
+	    <String CONTENT="16."
+                    HPOS="1706"
+                    VPOS="320"
+                    WIDTH="98"
+                    HEIGHT="150"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
         <TextBlock HPOS="2274"
                    VPOS="649"
                    WIDTH="458"
@@ -708,7 +735,7 @@
           
           
           <TextLine ID="eSc_line_6ab21954"
-                    TAGREFS="LT1039"
+                    TAGREFS="LT1037"
                     BASELINE="2306 756 2690 761" 
                     HPOS="2299"
                     VPOS="690"
@@ -725,7 +752,7 @@
           
           
           <TextLine ID="eSc_line_1c9f70f4"
-                    TAGREFS="LT1039"
+                    TAGREFS="LT1037"
                     BASELINE="2306 837 2740 802" 
                     HPOS="2292"
                     VPOS="736"
