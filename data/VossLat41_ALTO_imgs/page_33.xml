@@ -280,7 +280,7 @@
                     WIDTH="642"
                     HEIGHT="120">
             <Shape><Polygon POINTS="1085 1032 1078 987 1710 976 1720 1029 1136 1041 1551 1096"/></Shape>
-	    <String CONTENT="dicitur [odor] carne ꝓcedit ut scabies.sanies"
+	    <String CONTENT="dicitur qđ ex carne ꝓcedit ut scabies./sanies"
                     HPOS="1078"
                     VPOS="976"
                     WIDTH="642"
@@ -943,7 +943,7 @@
                     WIDTH="203"
                     HEIGHT="118">
             <Shape><Polygon POINTS="2271 2386 2268 2333 2463 2302 2467 2399 2460 2420 2264 2410"/></Shape>
-	    <String CONTENT="insa[nia]"
+	    <String CONTENT="insania"
                     HPOS="2264"
                     VPOS="2302"
                     WIDTH="203"
