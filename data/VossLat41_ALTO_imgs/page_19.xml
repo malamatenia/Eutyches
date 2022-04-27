@@ -72,15 +72,15 @@
                     TAGREFS="LT1037"
                     BASELINE="509 781 757 784 750 767" 
                     HPOS="506"
-                    VPOS="715"
+                    VPOS="732"
                     WIDTH="244"
-                    HEIGHT="97">
-            <Shape><Polygon POINTS="509 781 509 715 729 729 750 767 746 802 506 812"/></Shape>
+                    HEIGHT="80">
+            <Shape><Polygon POINTS="509 781 513 732 733 742 750 767 746 802 506 812"/></Shape>
 	    <String CONTENT="Grunnio"
                     HPOS="506"
-                    VPOS="715"
+                    VPOS="732"
                     WIDTH="244"
-                    HEIGHT="97"></String>
+                    HEIGHT="80"></String>
           </TextLine>
 
           
@@ -327,15 +327,15 @@
                     TAGREFS="LT1037"
                     BASELINE="526 1733 820 1747" 
                     HPOS="520"
-                    VPOS="1643"
+                    VPOS="1672"
                     WIDTH="300"
-                    HEIGHT="115">
-            <Shape><Polygon POINTS="526 1733 526 1643 820 1691 820 1747 813 1758 520 1747"/></Shape>
+                    HEIGHT="86">
+            <Shape><Polygon POINTS="526 1733 526 1672 820 1691 820 1747 813 1758 520 1747"/></Shape>
 	    <String CONTENT="Garrio"
                     HPOS="520"
-                    VPOS="1643"
+                    VPOS="1672"
                     WIDTH="300"
-                    HEIGHT="115"></String>
+                    HEIGHT="86"></String>
           </TextLine>
 
           
@@ -1406,13 +1406,13 @@
                     HPOS="917"
                     VPOS="2399"
                     WIDTH="398"
-                    HEIGHT="109">
-            <Shape><Polygon POINTS="924 2462 921 2403 1308 2399 1315 2469 1308 2508 917 2494"/></Shape>
+                    HEIGHT="95">
+            <Shape><Polygon POINTS="924 2462 921 2403 1308 2399 1315 2469 1304 2483 917 2494"/></Shape>
 	    <String CONTENT="interfitio ."
                     HPOS="917"
                     VPOS="2399"
                     WIDTH="398"
-                    HEIGHT="109"></String>
+                    HEIGHT="95"></String>
           </TextLine>
 
           
@@ -1471,15 +1471,15 @@
           <TextLine ID="eSc_line_eaff2301"
                     TAGREFS="LT1037"
                     BASELINE="940 2721 1170 2731" 
-                    HPOS="928"
+                    HPOS="909"
                     VPOS="2663"
-                    WIDTH="241"
+                    WIDTH="260"
                     HEIGHT="138">
-            <Shape><Polygon POINTS="938 2720 942 2663 1158 2672 1169 2727 1169 2755 1060 2801 1057 2801 1053 2801 1050 2801 928 2748"/></Shape>
+            <Shape><Polygon POINTS="938 2720 942 2663 1158 2672 1169 2727 909 2738 1060 2801 1057 2801 1053 2801 1050 2801 928 2748"/></Shape>
 	    <String CONTENT="capio"
-                    HPOS="928"
+                    HPOS="909"
                     VPOS="2663"
-                    WIDTH="241"
+                    WIDTH="260"
                     HEIGHT="138"></String>
           </TextLine>
 
@@ -1577,7 +1577,7 @@
                     VPOS="3090"
                     WIDTH="234"
                     HEIGHT="115">
-            <Shape><Polygon POINTS="924 3163 924 3090 1155 3122 1155 3181 1151 3205 921 3205"/></Shape>
+            <Shape><Polygon POINTS="924 3163 924 3090 1155 3122 1155 3181 1151 3205 921 3163"/></Shape>
 	    <String CONTENT="fodio"
                     HPOS="921"
                     VPOS="3090"

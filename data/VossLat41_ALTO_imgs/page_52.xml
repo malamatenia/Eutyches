@@ -258,16 +258,16 @@
           <TextLine ID="eSc_line_40b0bdf7"
                     TAGREFS="LT1039"
                     BASELINE="967 2109 1102 2121" 
-                    HPOS="953"
+                    HPOS="964"
                     VPOS="2038"
-                    WIDTH="147"
-                    HEIGHT="195">
-            <Shape><Polygon POINTS="964 2107 964 2038 1100 2055 1100 2118 1089 2219 953 2233"/></Shape>
+                    WIDTH="136"
+                    HEIGHT="181">
+            <Shape><Polygon POINTS="964 2107 964 2038 1100 2055 1100 2118 1089 2219 1077 2136"/></Shape>
 	    <String CONTENT="cresco"
-                    HPOS="953"
+                    HPOS="964"
                     VPOS="2038"
-                    WIDTH="147"
-                    HEIGHT="195"></String>
+                    WIDTH="136"
+                    HEIGHT="181"></String>
           </TextLine>
 
           
