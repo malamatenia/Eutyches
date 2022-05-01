@@ -11,7 +11,7 @@
   </Description>
   
   <Tags>
-    <OtherTag ID="BT3230" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT3229" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT3228" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT3227" LABEL="MarginTextZone#5" DESCRIPTION="block type MarginTextZone#5"/><OtherTag ID="BT3226" LABEL="MarginTextZone#4" DESCRIPTION="block type MarginTextZone#4"/><OtherTag ID="BT3225" LABEL="MarginTextZone#3" DESCRIPTION="block type MarginTextZone#3"/><OtherTag ID="BT3224" LABEL="MarginTextZone#2" DESCRIPTION="block type MarginTextZone#2"/><OtherTag ID="BT3223" LABEL="MarginTextZone#1" DESCRIPTION="block type MarginTextZone#1"/><OtherTag ID="BT3222" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT3221" LABEL="MainZone#6" DESCRIPTION="block type MainZone#6"/><OtherTag ID="BT3220" LABEL="MainZone#5" DESCRIPTION="block type MainZone#5"/><OtherTag ID="BT3219" LABEL="MainZone#4" DESCRIPTION="block type MainZone#4"/><OtherTag ID="BT3218" LABEL="MainZone#3" DESCRIPTION="block type MainZone#3"/><OtherTag ID="BT3217" LABEL="MainZone#2" DESCRIPTION="block type MainZone#2"/><OtherTag ID="BT3216" LABEL="MainZone#1" DESCRIPTION="block type MainZone#1"/><OtherTag ID="BT3215" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="BT3234" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT3230" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT3229" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT3228" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT3222" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT3220" LABEL="MainZone#5" DESCRIPTION="block type MainZone#5"/><OtherTag ID="BT3219" LABEL="MainZone#4" DESCRIPTION="block type MainZone#4"/><OtherTag ID="BT3218" LABEL="MainZone#3" DESCRIPTION="block type MainZone#3"/><OtherTag ID="BT3217" LABEL="MainZone#2" DESCRIPTION="block type MainZone#2"/><OtherTag ID="BT3216" LABEL="MainZone#1" DESCRIPTION="block type MainZone#1"/><OtherTag ID="BT3215" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
     <OtherTag ID="LT1121" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT1118" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT1117" LABEL="MusicLine" DESCRIPTION="line type MusicLine"/><OtherTag ID="LT1116" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT1115" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/>
   </Tags>
   
@@ -501,7 +501,7 @@
                     WIDTH="1832.0"
                     HEIGHT="157.0">
             <Shape><Polygon POINTS="1057 1635 1046 1555 1116 1530 1119 1530 1123 1530 1126 1530 1130 1530 1158 1555 1231 1555 1262 1555 1262 1551 1301 1523 1304 1523 1308 1523 1311 1523 1315 1523 1318 1523 1353 1551 1486 1530 1489 1530 1594 1551 1597 1551 1625 1527 1629 1527 1632 1527 1636 1527 1779 1527 1782 1527 1786 1527 1817 1551 1828 1558 2110 1558 2128 1548 2190 1527 2194 1527 2197 1527 2476 1530 2480 1530 2518 1548 2546 1562 2644 1562 2661 1548 2675 1534 2679 1534 2682 1534 2686 1534 2878 1548 2878 1649 2871 1680 2679 1663 2417 1673 2326 1677 2323 1677 2319 1677 2316 1677 2316 1673 2312 1673 2298 1659 2253 1670 2229 1677 2225 1677 2222 1677 2180 1670 2096 1656 1974 1666 1855 1677 1852 1677 1848 1677 1845 1677 1845 1673 1835 1663 1824 1656 1740 1656 1726 1663 1705 1677 1702 1677 1698 1677 1695 1677 1691 1677 1653 1659 1629 1652 1601 1659 1555 1673 1552 1673 1552 1677 1336 1677 1332 1673 1329 1673 1325 1673 1301 1656 1294 1652 1053 1652"/></Shape>
-	    <String CONTENT="duxi dux . luxi lux . rupi rupes. ambigo ambe{i}gi"
+	    <String CONTENT="duxi dux . luxi lux . rupi rupes. ambigo ambegi"
                     HPOS="1046.0"
                     VPOS="1523.0"
                     WIDTH="1832.0"
@@ -586,7 +586,7 @@
                     WIDTH="276.0"
                     HEIGHT="80.0">
             <Shape><Polygon POINTS="2508 2053 2504 1994 2776 1987 2780 2053 2780 2064 2508 2067"/></Shape>
-	    <String CONTENT="qo dct̃r᷑ a uerƀ"
+	    <String CONTENT=" dct̃r᷑ a uerƀ"
                     HPOS="2504.0"
                     VPOS="1987.0"
                     WIDTH="276.0"
@@ -953,12 +953,12 @@
           
         </TextBlock>
         
-        <TextBlock HPOS="554.0"
-                   VPOS="1403.0"
-                   WIDTH="442.0"
-                   HEIGHT="321.0"
+        <TextBlock HPOS="554"
+                   VPOS="1403"
+                   WIDTH="442"
+                   HEIGHT="321"
                    ID="eSc_textblock_044f59bf"
-                   TAGREFS="BT3223">
+                   TAGREFS="BT3222">
           <Shape><Polygon POINTS="554 1403 554 1724 996 1724 996 1403"/></Shape>
           
           
@@ -980,12 +980,12 @@
           
         </TextBlock>
         
-        <TextBlock HPOS="325.0"
-                   VPOS="2167.0"
-                   WIDTH="705.0"
-                   HEIGHT="180.0"
+        <TextBlock HPOS="325"
+                   VPOS="2167"
+                   WIDTH="705"
+                   HEIGHT="180"
                    ID="eSc_textblock_77b5b5ff"
-                   TAGREFS="BT3224">
+                   TAGREFS="BT3222">
           <Shape><Polygon POINTS="325 2167 325 2347 1030 2347 1030 2167"/></Shape>
           
           
@@ -1024,12 +1024,12 @@
           
         </TextBlock>
         
-        <TextBlock HPOS="495.0"
-                   VPOS="2420.0"
-                   WIDTH="526.0"
-                   HEIGHT="204.0"
+        <TextBlock HPOS="495"
+                   VPOS="2420"
+                   WIDTH="526"
+                   HEIGHT="204"
                    ID="eSc_textblock_c005052c"
-                   TAGREFS="BT3225">
+                   TAGREFS="BT3222">
           <Shape><Polygon POINTS="495 2420 495 2624 1021 2624 1021 2420"/></Shape>
           
           
