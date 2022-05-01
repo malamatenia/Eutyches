@@ -11,7 +11,7 @@
   </Description>
   
   <Tags>
-    <OtherTag ID="BT3230" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT3229" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT3228" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT3227" LABEL="MarginTextZone#5" DESCRIPTION="block type MarginTextZone#5"/><OtherTag ID="BT3226" LABEL="MarginTextZone#4" DESCRIPTION="block type MarginTextZone#4"/><OtherTag ID="BT3225" LABEL="MarginTextZone#3" DESCRIPTION="block type MarginTextZone#3"/><OtherTag ID="BT3224" LABEL="MarginTextZone#2" DESCRIPTION="block type MarginTextZone#2"/><OtherTag ID="BT3223" LABEL="MarginTextZone#1" DESCRIPTION="block type MarginTextZone#1"/><OtherTag ID="BT3222" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT3221" LABEL="MainZone#6" DESCRIPTION="block type MainZone#6"/><OtherTag ID="BT3220" LABEL="MainZone#5" DESCRIPTION="block type MainZone#5"/><OtherTag ID="BT3219" LABEL="MainZone#4" DESCRIPTION="block type MainZone#4"/><OtherTag ID="BT3218" LABEL="MainZone#3" DESCRIPTION="block type MainZone#3"/><OtherTag ID="BT3217" LABEL="MainZone#2" DESCRIPTION="block type MainZone#2"/><OtherTag ID="BT3216" LABEL="MainZone#1" DESCRIPTION="block type MainZone#1"/><OtherTag ID="BT3215" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="BT3234" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT3230" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT3229" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT3228" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT3222" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT3220" LABEL="MainZone#5" DESCRIPTION="block type MainZone#5"/><OtherTag ID="BT3219" LABEL="MainZone#4" DESCRIPTION="block type MainZone#4"/><OtherTag ID="BT3218" LABEL="MainZone#3" DESCRIPTION="block type MainZone#3"/><OtherTag ID="BT3217" LABEL="MainZone#2" DESCRIPTION="block type MainZone#2"/><OtherTag ID="BT3216" LABEL="MainZone#1" DESCRIPTION="block type MainZone#1"/><OtherTag ID="BT3215" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
     <OtherTag ID="LT1121" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT1118" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT1117" LABEL="MusicLine" DESCRIPTION="line type MusicLine"/><OtherTag ID="LT1116" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT1115" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/>
   </Tags>
   
@@ -392,7 +392,7 @@
                     WIDTH="133.0"
                     HEIGHT="88.0">
             <Shape><Polygon POINTS="1060 1545 1060 1499 1183 1499 1186 1548 1179 1587 1053 1583"/></Shape>
-	    <String CONTENT="adũ locũ/rectę qualitati"
+	    <String CONTENT="recte/adũ locũ qualitatis"
                     HPOS="1053.0"
                     VPOS="1499.0"
                     WIDTH="133.0"
@@ -1235,12 +1235,12 @@
           
         </TextBlock>
         
-        <TextBlock HPOS="2363.0"
-                   VPOS="683.0"
-                   WIDTH="420.0"
-                   HEIGHT="219.0"
+        <TextBlock HPOS="2363"
+                   VPOS="683"
+                   WIDTH="420"
+                   HEIGHT="219"
                    ID="eSc_textblock_93baf84a"
-                   TAGREFS="BT3223">
+                   TAGREFS="BT3222">
           <Shape><Polygon POINTS="2363 683 2363 902 2783 902 2783 683"/></Shape>
           
           
@@ -1279,12 +1279,12 @@
           
         </TextBlock>
         
-        <TextBlock HPOS="2406.0"
-                   VPOS="1789.0"
-                   WIDTH="607.0"
-                   HEIGHT="195.0"
+        <TextBlock HPOS="2406"
+                   VPOS="1789"
+                   WIDTH="607"
+                   HEIGHT="195"
                    ID="eSc_textblock_c0adaa96"
-                   TAGREFS="BT3224">
+                   TAGREFS="BT3222">
           <Shape><Polygon POINTS="2406 1789 2406 1875 2406 1984 3013 1984 3013 1789 2487 1789"/></Shape>
           
           
@@ -1367,12 +1367,12 @@
           
         </TextBlock>
         
-        <TextBlock HPOS="2439.0"
-                   VPOS="2306.0"
-                   WIDTH="201.0"
-                   HEIGHT="243.0"
+        <TextBlock HPOS="2439"
+                   VPOS="2306"
+                   WIDTH="201"
+                   HEIGHT="243"
                    ID="eSc_textblock_824158e1"
-                   TAGREFS="BT">
+                   TAGREFS="BT3234">
           <Shape><Polygon POINTS="2439 2306 2439 2549 2640 2549 2640 2306"/></Shape>
           
         </TextBlock>
