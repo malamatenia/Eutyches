@@ -1,4 +1,4 @@
-# Eutychès
+# Eutychès (Ευτυχής in greek means blissful, something I will automatically become once this glosse edition is over)
 This repository hosts all the documents necessary for the evaluation of my M1 dissertation in Digital Humanities at the ENC.
 
 More documentation to come alongside scripts and bibliography.
