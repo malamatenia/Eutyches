@@ -11,7 +11,7 @@
   </Description>
   
   <Tags>
-    <OtherTag ID="BT3274" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT3151" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT3150" LABEL="MarginTextZone#5" DESCRIPTION="block type MarginTextZone#5"/><OtherTag ID="BT3149" LABEL="MarginTextZone#4" DESCRIPTION="block type MarginTextZone#4"/><OtherTag ID="BT3148" LABEL="MarginTextZone#3" DESCRIPTION="block type MarginTextZone#3"/><OtherTag ID="BT3147" LABEL="MarginTextZone#2" DESCRIPTION="block type MarginTextZone#2"/><OtherTag ID="BT3146" LABEL="MarginTextZone#1" DESCRIPTION="block type MarginTextZone#1"/><OtherTag ID="BT3144" LABEL="MainZone#5" DESCRIPTION="block type MainZone#5"/><OtherTag ID="BT3143" LABEL="MainZone#4" DESCRIPTION="block type MainZone#4"/><OtherTag ID="BT3142" LABEL="MainZone#3" DESCRIPTION="block type MainZone#3"/><OtherTag ID="BT3141" LABEL="MainZone#2" DESCRIPTION="block type MainZone#2"/><OtherTag ID="BT3140" LABEL="MainZone#1" DESCRIPTION="block type MainZone#1"/><OtherTag ID="BT3139" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT3138" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT3137" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT3136" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="BT3136" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT3137" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT3138" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT3139" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT3140" LABEL="MainZone#1" DESCRIPTION="block type MainZone#1"/><OtherTag ID="BT3141" LABEL="MainZone#2" DESCRIPTION="block type MainZone#2"/><OtherTag ID="BT3142" LABEL="MainZone#3" DESCRIPTION="block type MainZone#3"/><OtherTag ID="BT3143" LABEL="MainZone#4" DESCRIPTION="block type MainZone#4"/><OtherTag ID="BT3144" LABEL="MainZone#5" DESCRIPTION="block type MainZone#5"/><OtherTag ID="BT3146" LABEL="MarginTextZone#1" DESCRIPTION="block type MarginTextZone#1"/><OtherTag ID="BT3147" LABEL="MarginTextZone#2" DESCRIPTION="block type MarginTextZone#2"/><OtherTag ID="BT3148" LABEL="MarginTextZone#3" DESCRIPTION="block type MarginTextZone#3"/><OtherTag ID="BT3149" LABEL="MarginTextZone#4" DESCRIPTION="block type MarginTextZone#4"/><OtherTag ID="BT3150" LABEL="MarginTextZone#5" DESCRIPTION="block type MarginTextZone#5"/><OtherTag ID="BT3151" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT3274" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/>
     <OtherTag ID="LT1135" LABEL="MusicLine" DESCRIPTION="line type MusicLine"/><OtherTag ID="LT1095" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT1094" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT1093" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT1096" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/>
   </Tags>
   
@@ -24,6 +24,33 @@
                   VPOS="0"
                   WIDTH="3305"
                   HEIGHT="4186">
+        
+        <TextBlock HPOS="1577.0"
+                   VPOS="305.0"
+                   WIDTH="201.0"
+                   HEIGHT="154.0"
+                   ID="eSc_textblock_c7ffa751"
+                   TAGREFS="BT3138">
+          <Shape><Polygon POINTS="1577 305 1577 459 1778 459 1778 305"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_7c7dfa52"
+                    TAGREFS="LT1094"
+                    BASELINE="1623 426 1744 419" 
+                    HPOS="1608"
+                    VPOS="296"
+                    WIDTH="133"
+                    HEIGHT="160">
+            <Shape><Polygon POINTS="1622 425 1608 306 1661 296 1664 296 1668 296 1738 327 1741 418 1738 443 1622 456"/></Shape>
+	    <String CONTENT="4"
+                    HPOS="1608"
+                    VPOS="296"
+                    WIDTH="133"
+                    HEIGHT="160"></String>
+          </TextLine>
+
+          
+        </TextBlock>
         
         <TextBlock HPOS="472.0"
                    VPOS="507.0"
@@ -42,7 +69,7 @@
                     WIDTH="1752"
                     HEIGHT="157">
             <Shape><Polygon POINTS="499 645 492 544 680 537 684 537 687 537 697 540 757 572 886 572 980 540 1022 526 1026 526 1029 526 1092 537 1155 551 1207 537 1252 526 1256 526 1259 526 1263 526 1266 526 1284 537 1312 554 1382 537 1385 537 1389 537 1392 537 1402 537 1511 551 1542 537 1563 526 1566 526 1570 526 1573 526 1601 537 1636 547 1675 533 1727 516 1731 516 1734 516 1870 516 1874 516 1877 516 1993 569 1909 537 1915 533 1954 516 1957 516 1961 516 1964 516 2017 533 2031 537 2233 533 2244 603 2244 624 499 673"/></Shape>
-	    <String CONTENT="pritiua tertia sibi sola coniugatio uindicat; ut in {buo}"
+	    <String CONTENT="pritiua tertia sibi sola coniugatio uindicat ; ut in (buo)"
                     HPOS="492"
                     VPOS="516"
                     WIDTH="1752"
@@ -178,7 +205,7 @@
                     WIDTH="1881"
                     HEIGHT="164">
             <Shape><Polygon POINTS="495 767 488 676 781 697 1015 673 1022 710 1689 696 1731 666 1779 652 1783 652 1786 652 1849 666 1891 673 1936 662 2048 641 2052 641 2362 662 2369 725 2366 756 2118 753 2024 767 1975 774 1971 774 1968 774 1954 770 1926 756 1807 774 1741 781 1738 781 1683 747 1591 763 1546 781 1532 784 1528 784 1525 784 1521 784 1511 781 1476 767 1462 781 1462 784 1458 784 1455 784 1451 784 1448 784 1444 784 1444 781 1423 770 1406 784 1399 788 1395 788 1392 788 1389 788 1329 784 1204 777 1113 791 1078 795 1074 795 1053 791 977 777 938 795 931 798 928 798 924 798 875 798 652 784 495 805"/></Shape>
-	    <String CONTENT="tribuo . acuo . induo . arguo. fluo polluo . pluo alluo"
+	    <String CONTENT="tribuo. acuo. induo. arguo. fluo. polluo. pluo. alluo."
                     HPOS="488"
                     VPOS="641"
                     WIDTH="1881"
@@ -314,7 +341,7 @@
                     WIDTH="1860"
                     HEIGHT="147">
             <Shape><Polygon POINTS="495 886 488 819 2338 784 2348 840 2345 865 2226 886 2223 886 2219 886 2216 886 2191 872 2181 865 2156 872 2090 889 2087 889 2083 889 1985 875 1971 875 1954 875 1797 906 1793 906 1790 906 1710 886 1622 913 1619 913 1615 913 1612 913 1560 893 1476 917 1472 917 1469 917 1465 917 1406 893 1402 889 1399 893 1354 920 1350 920 1347 920 1343 920 1120 910 1001 931 998 931 994 931 935 903 924 899 785 899 767 906 701 931 697 931 694 931 691 931 638 910 621 906 495 913"/></Shape>
-	    <String CONTENT="innuo . minuo. spuo . ruo . suo .metuo fatuo. liquor"
+	    <String CONTENT="innuo. minuo. spuo. ruo. suo. metuo. fatuo. liquor."
                     HPOS="488"
                     VPOS="784"
                     WIDTH="1860"
@@ -348,7 +375,7 @@
                     WIDTH="1850"
                     HEIGHT="168">
             <Shape><Polygon POINTS="499 987 495 913 596 924 677 910 694 906 697 906 701 906 704 906 746 927 809 906 820 903 823 903 827 903 830 903 834 903 834 906 858 931 952 931 1162 903 1165 903 1169 903 1172 903 1200 920 1392 920 1416 896 1420 893 1420 889 1423 889 1427 889 1430 889 1458 893 1553 913 1598 893 1608 886 1612 886 1615 886 1619 886 1636 889 1696 910 1818 889 1821 889 1825 889 1853 903 1881 886 1884 882 1888 882 1891 882 2090 875 2093 875 2097 875 2100 875 2107 882 2132 903 2195 903 2334 879 2345 959 2345 990 1849 994 1846 1001 1832 1011 1832 1015 1828 1015 1825 1015 1821 1015 1650 1004 1591 1001 1535 1004 1368 1025 1364 1025 1361 1025 1301 1011 1291 1008 1284 1011 1249 1029 1245 1029 1242 1029 1029 1018 966 1036 963 1036 959 1036 872 1018 869 1018 865 1018 652 1043 649 1043 495 1022"/></Shape>
-	    <String CONTENT="loquor. fruor. et abomnib; eis compositis. exceptis"
+	    <String CONTENT="loquor. fruor. et ab omnib; eis compositis. exceptis"
                     HPOS="495"
                     VPOS="875"
                     WIDTH="1850"
@@ -416,7 +443,7 @@
                     WIDTH="1853"
                     HEIGHT="153">
             <Shape><Polygon POINTS="513 1241 506 1168 2348 1130 2359 1196 2359 1217 2292 1241 2289 1241 2285 1241 2034 1227 1936 1255 1933 1255 1929 1255 1926 1255 1888 1238 1664 1262 1661 1262 1416 1241 1329 1269 1326 1269 1322 1269 1162 1248 1088 1273 1085 1273 1081 1273 792 1262 666 1283 663 1283 509 1259"/></Shape>
-	    <String CONTENT="trahit ratio dequa postea dicetur; ut uacuo . tenuo"
+	    <String CONTENT="trahit ratio de qua postea dicetur ; ut uacuo. tenuo"
                     HPOS="506"
                     VPOS="1130"
                     WIDTH="1853"
@@ -518,7 +545,7 @@
                     WIDTH="1793"
                     HEIGHT="150">
             <Shape><Polygon POINTS="499 1360 492 1283 806 1297 1001 1273 1005 1273 1008 1273 1012 1273 1015 1273 1040 1290 1298 1290 1378 1266 1382 1266 1385 1266 1629 1280 1706 1259 1710 1259 1713 1259 1717 1259 1762 1276 1811 1255 1814 1255 1818 1255 1821 1255 1835 1255 1961 1269 2275 1248 2285 1318 2285 1353 1483 1381 1479 1381 1235 1370 1190 1370 1186 1370 1155 1388 1151 1388 1148 1388 1008 1374 991 1374 970 1374 823 1395 820 1395 666 1381 663 1381 614 1398 610 1398 607 1398 495 1381"/></Shape>
-	    <String CONTENT="sinuo . continuo . insinuo. fluctuo . tumultuor."
+	    <String CONTENT="sinuo. continuo. insinuo. fluctuo. tumultuor."
                     HPOS="492"
                     VPOS="1248"
                     WIDTH="1793"
@@ -552,7 +579,7 @@
                     WIDTH="1868"
                     HEIGHT="198">
             <Shape><Polygon POINTS="502 1486 498 1438 678 1442 699 1448 673 1388 722 1398 809 1451 885 1429 882 1374 886 1374 903 1381 952 1405 1270 1441 1207 1367 1211 1367 1214 1367 1235 1374 1312 1398 1361 1370 1368 1363 1371 1363 1375 1363 1378 1363 1382 1363 1392 1367 1444 1395 1668 1395 1853 1388 1888 1356 1888 1353 1891 1353 1895 1353 1898 1353 1902 1353 1905 1353 1905 1356 1936 1384 2006 1363 2010 1363 2013 1363 2017 1363 2020 1363 2020 1367 2038 1384 2174 1384 2209 1353 2209 1349 2212 1349 2216 1349 2219 1349 2296 1363 2352 1343 2366 1447 2362 1506 2111 1486 2027 1513 2024 1513 2020 1513 2017 1513 1950 1493 1765 1510 1762 1510 1629 1493 1385 1503 1364 1524 1361 1524 1357 1524 1354 1524 1235 1499 1183 1517 1179 1517 1176 1517 1172 1517 1169 1517 1148 1499 879 1517 875 1517 872 1517 841 1503 502 1541"/></Shape>
-	    <String CONTENT="uiduo . estuo . mutuor : .i. uero anteo habentia tri"
+	    <String CONTENT="uiduo. estuo. mutuor. : .i. uero ante o habentia tri¬"
                     HPOS="498"
                     VPOS="1343"
                     WIDTH="1868"
@@ -603,7 +630,7 @@
                     WIDTH="1846"
                     HEIGHT="147">
             <Shape><Polygon POINTS="506 1608 495 1538 565 1517 568 1517 572 1517 778 1534 799 1534 806 1534 869 1513 872 1513 875 1513 1256 1527 1273 1513 1273 1510 1277 1510 1280 1510 1416 1506 1420 1506 1940 1520 2024 1499 2027 1499 2031 1499 2334 1520 2341 1587 2338 1618 2195 1629 2191 1629 2188 1629 2170 1622 2149 1611 2062 1622 1943 1636 1940 1636 1936 1636 1933 1636 1919 1622 1905 1615 1566 1615 1542 1625 1493 1639 1490 1639 1486 1639 1305 1625 1277 1625 1259 1625 1109 1646 1106 1646 1102 1646 1053 1629 1050 1625 1043 1629 1008 1646 1005 1646 1001 1646 875 1629 844 1625 506 1629"/></Shape>
-	    <String CONTENT="um s̃ coniagationũ idẽ primae tertiae quartę;"
+	    <String CONTENT="um s̃ coniagationũ idẽ primae tertiae quartę ;"
                     HPOS="495"
                     VPOS="1499"
                     WIDTH="1846"
@@ -637,7 +664,7 @@
                     WIDTH="1881"
                     HEIGHT="157">
             <Shape><Polygon POINTS="516 1841 506 1775 589 1744 593 1744 596 1744 725 1768 729 1768 792 1744 795 1744 799 1744 802 1744 862 1765 865 1768 1127 1768 1211 1758 1308 1747 1312 1747 1315 1747 1333 1754 1347 1761 1354 1754 1361 1747 1361 1744 1364 1744 1368 1744 1371 1744 1375 1744 1392 1751 1402 1758 1413 1751 1437 1733 1441 1733 1444 1733 1448 1733 1573 1747 1657 1758 1678 1744 1692 1733 1696 1733 1699 1733 1703 1733 1706 1733 1744 1744 1783 1754 1811 1744 1835 1730 1839 1730 1842 1730 2380 1730 2387 1820 2387 1838 1811 1841 1804 1845 1755 1876 1751 1876 1748 1876 1748 1880 1601 1880 1598 1876 1594 1876 1591 1876 1556 1848 1521 1876 1518 1876 1514 1876 1399 1880 1395 1880 1155 1862 1022 1883 1019 1883 1015 1883 963 1855 956 1855 830 1855 820 1859 781 1883 778 1883 774 1883 771 1883 624 1862 607 1859 603 1862 565 1887 561 1887 558 1887 554 1887 551 1887 547 1887 506 1862"/></Shape>
-	    <String CONTENT="quartã nominare; licet quoq; quidã eam tertiã"
+	    <String CONTENT="quartã nominare ; licet quoq; quidã eam tertiã"
                     HPOS="506"
                     VPOS="1730"
                     WIDTH="1881"
@@ -654,7 +681,7 @@
                     WIDTH="150"
                     HEIGHT="70">
             <Shape><Polygon POINTS="2038 1873 2031 1824 2170 1820 2181 1869 2177 1890 2034 1883"/></Shape>
-	    <String CONTENT="s̃ uerba"
+	    <String CONTENT="s uerba"
                     HPOS="2031"
                     VPOS="1820"
                     WIDTH="150"
@@ -671,7 +698,7 @@
                     WIDTH="1811"
                     HEIGHT="168">
             <Shape><Polygon POINTS="526 1981 523 1869 575 1883 736 1866 760 1866 764 1866 774 1866 869 1887 970 1866 977 1866 980 1866 987 1866 1088 1880 1169 1866 1186 1862 1190 1862 1193 1862 1197 1862 1231 1880 1266 1862 1280 1859 1284 1859 1287 1859 1291 1859 1305 1862 1336 1876 1587 1876 1668 1862 1772 1845 1776 1845 1863 1859 1881 1862 1898 1859 1968 1841 1971 1841 1975 1841 1978 1841 2031 1859 2045 1862 2324 1859 2334 1946 2327 1974 2163 1960 2128 1977 2100 1991 2097 1991 1961 1995 1378 2005 1375 2005 1207 1991 1088 1981 910 1981 886 1995 858 2009 855 2009 851 2009 848 2009 799 1995 760 1988 526 1998"/></Shape>
-	    <String CONTENT="solã sed productã appellauerunt; Sed illa primae"
+	    <String CONTENT="solã sed productã appellauerunt ; Sed illa primae"
                     HPOS="523"
                     VPOS="1841"
                     WIDTH="1811"
@@ -688,7 +715,7 @@
                     WIDTH="691"
                     HEIGHT="90">
             <Shape><Polygon POINTS="1395 2002 1385 1939 2066 1922 2076 1974 2076 1991 1395 2012"/></Shape>
-	    <String CONTENT="s̃ copulata &amp; coïunta uidelicet ꝑ diriuatione"
+	    <String CONTENT="s copulata &amp; coïunta uidelicet ꝑ diriuatione"
                     HPOS="1385"
                     VPOS="1922"
                     WIDTH="691"
@@ -705,7 +732,7 @@
                     WIDTH="1853"
                     HEIGHT="126">
             <Shape><Polygon POINTS="513 2075 509 2002 642 2002 687 1970 691 1970 694 1970 697 1970 701 1970 767 2002 966 2002 1050 1970 1053 1970 1057 1970 1214 1988 1368 1970 1371 1970 1375 1970 1416 1991 1758 1977 1762 1977 1867 1998 2128 1970 2132 1970 2135 1970 2139 1970 2139 1974 2167 1998 2359 2002 2362 2072 2355 2096 1915 2079 1804 2096 1786 2096 1783 2096 1769 2096 1692 2079 509 2086"/></Shape>
-	    <String CONTENT="coniugationis s̃ que adherentia nominib; non mi"
+	    <String CONTENT="coniugationis s̃ que adherentia nominib; non mi¬"
                     HPOS="509"
                     VPOS="1970"
                     WIDTH="1853"
@@ -722,7 +749,7 @@
                     WIDTH="1871"
                     HEIGHT="150">
             <Shape><Polygon POINTS="520 2176 516 2103 645 2082 649 2082 750 2103 757 2103 760 2103 886 2079 889 2079 893 2079 959 2099 987 2082 991 2082 994 2082 998 2082 1235 2082 1238 2082 1242 2082 1280 2106 1364 2106 1483 2110 1500 2110 1633 2086 1636 2086 1640 2086 1699 2110 1706 2113 1717 2110 1748 2096 1751 2096 1755 2096 1842 2110 1856 2113 1860 2110 1888 2089 1891 2089 1895 2089 1898 2089 1902 2089 1905 2089 1936 2113 1943 2117 2013 2117 2020 2113 2038 2096 2038 2093 2041 2093 2045 2093 2048 2093 2052 2093 2121 2113 2139 2117 2376 2117 2380 2194 2373 2229 2278 2211 2181 2225 2156 2229 2153 2229 2107 2225 1985 2211 1884 2218 1814 2225 1811 2225 1807 2225 1786 2218 1758 2208 1703 2215 1661 2222 1657 2222 1654 2222 1650 2222 1643 2215 1626 2204 1476 2211 1260 2186 1263 2222 1123 2204 1088 2201 1085 2204 1064 2218 1060 2218 1057 2218 1053 2218 889 2201 858 2197 830 2197 586 2215 582 2215 579 2215 509 2190"/></Shape>
-	    <String CONTENT="nus tris syllabis absque pio pias et hio hias .i. puram"
+	    <String CONTENT="nus trissyllabis absque pio pias et hio hias .i. puram"
                     HPOS="509"
                     VPOS="2079"
                     WIDTH="1871"
@@ -773,7 +800,7 @@
                     WIDTH="1895"
                     HEIGHT="139">
             <Shape><Polygon POINTS="526 2319 520 2249 711 2225 715 2225 1458 2242 1647 2225 1650 2225 1929 2239 1971 2222 1975 2222 1978 2222 2156 2239 2181 2222 2184 2222 2188 2222 2191 2222 2195 2222 2198 2222 2198 2225 2216 2242 2408 2242 2415 2312 2411 2344 1640 2354 1636 2354 1633 2354 1629 2354 1608 2337 1476 2337 907 2358 896 2358 893 2358 889 2358 851 2340 610 2340 530 2361"/></Shape>
-	    <String CONTENT="penultimã nulla sequente consonante sẽper haben"
+	    <String CONTENT="penultimã nulla sequente consonante sẽper haben¬"
                     HPOS="520"
                     VPOS="2222"
                     WIDTH="1895"
@@ -795,33 +822,6 @@
                     VPOS="2358"
                     WIDTH="817"
                     HEIGHT="129"></String>
-          </TextLine>
-
-          
-        </TextBlock>
-        
-        <TextBlock HPOS="1577.0"
-                   VPOS="305.0"
-                   WIDTH="201.0"
-                   HEIGHT="154.0"
-                   ID="eSc_textblock_c7ffa751"
-                   TAGREFS="BT3138">
-          <Shape><Polygon POINTS="1577 305 1577 459 1778 459 1778 305"/></Shape>
-          
-          
-          <TextLine ID="eSc_line_7c7dfa52"
-                    TAGREFS="LT1094"
-                    BASELINE="1623 426 1744 419" 
-                    HPOS="1608"
-                    VPOS="296"
-                    WIDTH="133"
-                    HEIGHT="160">
-            <Shape><Polygon POINTS="1622 425 1608 306 1661 296 1664 296 1668 296 1738 327 1741 418 1738 443 1622 456"/></Shape>
-	    <String CONTENT="4"
-                    HPOS="1608"
-                    VPOS="296"
-                    WIDTH="133"
-                    HEIGHT="160"></String>
           </TextLine>
 
           
@@ -878,7 +878,7 @@
                     WIDTH="566"
                     HEIGHT="140">
             <Shape><Polygon POINTS="526 2682 526 2616 778 2616 848 2591 851 2591 855 2591 980 2609 1050 2591 1053 2591 1057 2591 1060 2591 1064 2591 1092 2616 1085 2682 1085 2706 526 2731"/></Shape>
-	    <String CONTENT="nuntio . nutias ."
+	    <String CONTENT="nuntio. nutias."
                     HPOS="526"
                     VPOS="2591"
                     WIDTH="566"
@@ -929,7 +929,7 @@
                     WIDTH="499"
                     HEIGHT="132">
             <Shape><Polygon POINTS="530 2916 533 2822 614 2849 680 2829 701 2825 704 2825 708 2825 760 2825 764 2825 767 2825 767 2829 778 2836 795 2853 1019 2853 1022 2923 1015 2954 523 2951"/></Shape>
-	    <String CONTENT="Sotio.sotias"
+	    <String CONTENT="Sotio. sotias"
                     HPOS="523"
                     VPOS="2822"
                     WIDTH="499"
@@ -980,7 +980,7 @@
                     WIDTH="541"
                     HEIGHT="168">
             <Shape><Polygon POINTS="540 3118 547 3027 656 3059 1078 3062 1078 3153 1074 3170 970 3195 966 3195 963 3195 848 3167 792 3153 537 3156"/></Shape>
-	    <String CONTENT="Sautio . sautias"
+	    <String CONTENT="Sautio. sautias"
                     HPOS="537"
                     VPOS="3027"
                     WIDTH="541"
@@ -1031,7 +1031,7 @@
                     WIDTH="636"
                     HEIGHT="146">
             <Shape><Polygon POINTS="544 3390 526 3320 558 3296 561 3296 565 3296 568 3296 572 3296 617 3317 697 3317 781 3317 792 3310 872 3289 875 3289 879 3289 882 3289 949 3306 973 3310 1001 3303 1085 3286 1088 3286 1158 3299 1162 3390 1155 3425 1043 3404 813 3422 809 3422 806 3422 802 3422 799 3422 781 3408 753 3422 732 3432 729 3432 725 3432 540 3418"/></Shape>
-	    <String CONTENT="Decurio.decuria"
+	    <String CONTENT="Decurio. decurias."
                     HPOS="526"
                     VPOS="3286"
                     WIDTH="636"
@@ -1048,7 +1048,7 @@
                     WIDTH="370"
                     HEIGHT="150">
             <Shape><Polygon POINTS="645 3477 635 3404 987 3397 1005 3463 636 3474 649 3547"/></Shape>
-	    <String CONTENT="uirga geometricalis"
+	    <String CONTENT="uirga geometricalis."
                     HPOS="635"
                     VPOS="3397"
                     WIDTH="370"
@@ -1092,7 +1092,7 @@
                     WIDTH="492"
                     HEIGHT="129">
             <Shape><Polygon POINTS="1109 2553 1109 2490 1224 2494 1238 2490 1256 2476 1259 2476 1263 2476 1266 2476 1333 2490 1361 2494 1382 2490 1437 2469 1441 2469 1444 2469 1601 2490 1601 2553 1601 2595 1109 2598"/></Shape>
-	    <String CONTENT="Radio.radias."
+	    <String CONTENT="Radio. radias."
                     HPOS="1109"
                     VPOS="2469"
                     WIDTH="492"
@@ -1160,7 +1160,7 @@
                     WIDTH="412"
                     HEIGHT="105">
             <Shape><Polygon POINTS="1064 2923 1067 2849 1134 2870 1231 2856 1256 2853 1259 2853 1472 2867 1472 2926 1469 2954 1060 2954"/></Shape>
-	    <String CONTENT="conciliũ"
+	    <String CONTENT="conciliũ."
                     HPOS="1060"
                     VPOS="2849"
                     WIDTH="412"
@@ -1177,7 +1177,7 @@
                     WIDTH="664"
                     HEIGHT="125">
             <Shape><Polygon POINTS="1071 3041 1060 2958 1713 2951 1724 3031 1717 3076 1067 3069"/></Shape>
-	    <String CONTENT="concilio . concilias"
+	    <String CONTENT="concilio. concilias."
                     HPOS="1060"
                     VPOS="2951"
                     WIDTH="664"
@@ -1211,7 +1211,7 @@
                     WIDTH="129"
                     HEIGHT="136">
             <Shape><Polygon POINTS="1148 3226 1148 3160 1273 3167 1277 3233 1273 3296 1275 3233"/></Shape>
-	    <String CONTENT="d&#39;trao"
+	    <String CONTENT="detrao"
                     HPOS="1148"
                     VPOS="3160"
                     WIDTH="129"
@@ -1228,7 +1228,7 @@
                     WIDTH="639"
                     HEIGHT="160">
             <Shape><Polygon POINTS="1095 3282 1097 3226 1727 3202 1734 3275 1724 3327 1661 3306 1619 3298 1197 3297 1549 3359 1209 3300 1319 3362 1256 3352 1252 3352 1249 3352 1207 3313 1200 3310 1095 3310"/></Shape>
-	    <String CONTENT="Defolio defolias"
+	    <String CONTENT="Defolio defolias."
                     HPOS="1095"
                     VPOS="3202"
                     WIDTH="639"
@@ -1425,7 +1425,7 @@
                     WIDTH="657"
                     HEIGHT="157">
             <Shape><Polygon POINTS="1758 2933 1751 2846 2202 2836 2205 2829 2223 2815 2223 2811 2223 2811 2226 2811 2226 2811 2226 2811 2230 2811 2230 2811 2230 2811 2233 2811 2401 2825 2408 2895 2408 2937 2048 2937 1758 2968"/></Shape>
-	    <String CONTENT="Auxilior.auxiliaris"
+	    <String CONTENT="Auxilior. auxiliaris"
                     HPOS="1751"
                     VPOS="2811"
                     WIDTH="657"
@@ -1459,7 +1459,7 @@
                     WIDTH="489"
                     HEIGHT="185">
             <Shape><Polygon POINTS="1779 3097 1769 3034 2006 3027 2020 3010 2024 3003 2027 3003 2027 2999 2031 2999 2034 2999 2038 2999 2041 2999 2045 2999 2052 3006 2093 3031 2146 2996 2156 2989 2160 2989 2163 2989 2167 2989 2251 2989 2258 3083 1776 3103 1779 3174"/></Shape>
-	    <String CONTENT="ecriñabis traho"
+	    <String CONTENT="e criñabis traho"
                     HPOS="1769"
                     VPOS="2989"
                     WIDTH="489"
@@ -1700,7 +1700,7 @@
                     WIDTH="1867"
                     HEIGHT="167">
             <Shape><Polygon POINTS="624 3669 617 3606 666 3579 670 3579 673 3579 677 3579 739 3606 917 3606 945 3582 945 3579 949 3579 952 3579 956 3579 1026 3579 1029 3579 1113 3603 1148 3582 1151 3582 1155 3582 1158 3582 1162 3582 1165 3582 1165 3586 1169 3586 1183 3603 1343 3582 1347 3582 1350 3582 1354 3582 1389 3606 1828 3582 1832 3582 1835 3582 1839 3582 1839 3586 1867 3610 1867 3613 2059 3613 2059 3610 2087 3589 2087 3586 2090 3586 2093 3586 2097 3586 2474 3613 2477 3680 2474 3729 2415 3742 2411 3742 2408 3742 2376 3729 2338 3711 2296 3729 2261 3742 2258 3742 2258 3746 2153 3746 2149 3742 2146 3742 2107 3729 2045 3701 1954 3701 1902 3725 1867 3742 1863 3742 1860 3742 1769 3739 1765 3739 1731 3725 1668 3697 1483 3722 1472 3722 1469 3722 1465 3722 1462 3722 1437 3701 1368 3715 1364 3715 1231 3694 945 3694 910 3718 882 3736 879 3736 875 3736 862 3685 656 3739 852 3687 631 3681 645 3736 610 3715"/></Shape>
-	    <String CONTENT="fiducia. fiducior .aris Repudium. repudior.repudiaris."
+	    <String CONTENT="fiducia. fiducior .aris Repudium. repudior. repudiaris."
                     HPOS="610"
                     VPOS="3579"
                     WIDTH="1867"
