@@ -11,7 +11,7 @@ Extraction of info
 
 Exploitation of data
 
-Bibio
+Biblio
 
 To do (a lot):
 -finalize transcription norms (desinences, punctus elevatus, space/dot ambiguity -maybe comma?-)
