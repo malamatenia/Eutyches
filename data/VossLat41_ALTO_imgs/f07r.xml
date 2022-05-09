@@ -11,7 +11,7 @@
   </Description>
   
   <Tags>
-    <OtherTag ID="BT3136" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT3137" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT3138" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT3139" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT3140" LABEL="MainZone#1" DESCRIPTION="block type MainZone#1"/><OtherTag ID="BT3141" LABEL="MainZone#2" DESCRIPTION="block type MainZone#2"/><OtherTag ID="BT3142" LABEL="MainZone#3" DESCRIPTION="block type MainZone#3"/><OtherTag ID="BT3143" LABEL="MainZone#4" DESCRIPTION="block type MainZone#4"/><OtherTag ID="BT3144" LABEL="MainZone#5" DESCRIPTION="block type MainZone#5"/><OtherTag ID="BT3146" LABEL="MarginTextZone#1" DESCRIPTION="block type MarginTextZone#1"/><OtherTag ID="BT3147" LABEL="MarginTextZone#2" DESCRIPTION="block type MarginTextZone#2"/><OtherTag ID="BT3148" LABEL="MarginTextZone#3" DESCRIPTION="block type MarginTextZone#3"/><OtherTag ID="BT3149" LABEL="MarginTextZone#4" DESCRIPTION="block type MarginTextZone#4"/><OtherTag ID="BT3150" LABEL="MarginTextZone#5" DESCRIPTION="block type MarginTextZone#5"/><OtherTag ID="BT3151" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT3274" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/>
+    <OtherTag ID="BT3136" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT3137" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT3138" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT3139" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT3140" LABEL="MainZone#1" DESCRIPTION="block type MainZone#1"/><OtherTag ID="BT3141" LABEL="MainZone#2" DESCRIPTION="block type MainZone#2"/><OtherTag ID="BT3142" LABEL="MainZone#3" DESCRIPTION="block type MainZone#3"/><OtherTag ID="BT3143" LABEL="MainZone#4" DESCRIPTION="block type MainZone#4"/><OtherTag ID="BT3144" LABEL="MainZone#5" DESCRIPTION="block type MainZone#5"/><OtherTag ID="BT3146" LABEL="MarginTextZone#1" DESCRIPTION="block type MarginTextZone#1"/><OtherTag ID="BT3147" LABEL="MarginTextZone#2" DESCRIPTION="block type MarginTextZone#2"/><OtherTag ID="BT3148" LABEL="MarginTextZone#3" DESCRIPTION="block type MarginTextZone#3"/><OtherTag ID="BT3149" LABEL="MarginTextZone#4" DESCRIPTION="block type MarginTextZone#4"/><OtherTag ID="BT3150" LABEL="MarginTextZone#5" DESCRIPTION="block type MarginTextZone#5"/><OtherTag ID="BT3151" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT3274" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT3405" LABEL="MainZone#6" DESCRIPTION="block type MainZone#6"/>
     <OtherTag ID="LT1135" LABEL="MusicLine" DESCRIPTION="line type MusicLine"/><OtherTag ID="LT1095" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT1094" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT1093" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT1096" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/>
   </Tags>
   
@@ -756,7 +756,7 @@
                     WIDTH="135"
                     HEIGHT="138">
             <Shape><Polygon POINTS="460 2065 458 2032 593 2021 593 2065 464 2076 460 2159"/></Shape>
-	    <String CONTENT="opubator"
+	    <String CONTENT="opułator"
                     HPOS="458"
                     VPOS="2021"
                     WIDTH="135"
@@ -1630,7 +1630,7 @@
                    WIDTH="73.0"
                    HEIGHT="12.0"
                    ID="eSc_textblock_4c5b4c1f"
-                   TAGREFS="BT">
+                   >
           <Shape><Polygon POINTS="814 3217 814 3229 741 3229 741 3217"/></Shape>
           
         </TextBlock>
