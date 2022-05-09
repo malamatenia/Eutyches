@@ -11,7 +11,7 @@
   </Description>
   
   <Tags>
-    <OtherTag ID="BT3136" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT3137" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT3138" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT3139" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT3140" LABEL="MainZone#1" DESCRIPTION="block type MainZone#1"/><OtherTag ID="BT3141" LABEL="MainZone#2" DESCRIPTION="block type MainZone#2"/><OtherTag ID="BT3142" LABEL="MainZone#3" DESCRIPTION="block type MainZone#3"/><OtherTag ID="BT3143" LABEL="MainZone#4" DESCRIPTION="block type MainZone#4"/><OtherTag ID="BT3144" LABEL="MainZone#5" DESCRIPTION="block type MainZone#5"/><OtherTag ID="BT3146" LABEL="MarginTextZone#1" DESCRIPTION="block type MarginTextZone#1"/><OtherTag ID="BT3147" LABEL="MarginTextZone#2" DESCRIPTION="block type MarginTextZone#2"/><OtherTag ID="BT3148" LABEL="MarginTextZone#3" DESCRIPTION="block type MarginTextZone#3"/><OtherTag ID="BT3149" LABEL="MarginTextZone#4" DESCRIPTION="block type MarginTextZone#4"/><OtherTag ID="BT3150" LABEL="MarginTextZone#5" DESCRIPTION="block type MarginTextZone#5"/><OtherTag ID="BT3151" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT3274" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/>
+    <OtherTag ID="BT3136" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT3137" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT3138" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT3139" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT3140" LABEL="MainZone#1" DESCRIPTION="block type MainZone#1"/><OtherTag ID="BT3141" LABEL="MainZone#2" DESCRIPTION="block type MainZone#2"/><OtherTag ID="BT3142" LABEL="MainZone#3" DESCRIPTION="block type MainZone#3"/><OtherTag ID="BT3143" LABEL="MainZone#4" DESCRIPTION="block type MainZone#4"/><OtherTag ID="BT3144" LABEL="MainZone#5" DESCRIPTION="block type MainZone#5"/><OtherTag ID="BT3146" LABEL="MarginTextZone#1" DESCRIPTION="block type MarginTextZone#1"/><OtherTag ID="BT3147" LABEL="MarginTextZone#2" DESCRIPTION="block type MarginTextZone#2"/><OtherTag ID="BT3148" LABEL="MarginTextZone#3" DESCRIPTION="block type MarginTextZone#3"/><OtherTag ID="BT3149" LABEL="MarginTextZone#4" DESCRIPTION="block type MarginTextZone#4"/><OtherTag ID="BT3150" LABEL="MarginTextZone#5" DESCRIPTION="block type MarginTextZone#5"/><OtherTag ID="BT3151" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT3274" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT3405" LABEL="MainZone#6" DESCRIPTION="block type MainZone#6"/>
     <OtherTag ID="LT1135" LABEL="MusicLine" DESCRIPTION="line type MusicLine"/><OtherTag ID="LT1095" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT1094" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT1093" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT1096" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/>
   </Tags>
   
@@ -910,7 +910,7 @@
                    WIDTH="1826"
                    HEIGHT="1278"
                    ID="eSc_textblock_ad57a5e0"
-                   TAGREFS="BT3136">
+                   TAGREFS="BT3142">
           <Shape><Polygon POINTS="1174 501 1169 1095 843 1080 863 1779 2669 1750 2420 511"/></Shape>
           
           
@@ -1870,12 +1870,12 @@
           
         </TextBlock>
         
-        <TextBlock HPOS="1258.0"
-                   VPOS="1770.0"
-                   WIDTH="1263.0"
-                   HEIGHT="1878.0"
+        <TextBlock HPOS="1258"
+                   VPOS="1770"
+                   WIDTH="1263"
+                   HEIGHT="1878"
                    ID="eSc_textblock_d6f0eac5"
-                   TAGREFS="BT3136">
+                   TAGREFS="BT3405">
           <Shape><Polygon POINTS="1716 1775 1732 2889 1258 2884 1281 3618 2516 3648 2521 1770"/></Shape>
           
           
