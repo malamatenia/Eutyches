@@ -558,18 +558,18 @@
           
           
           <TextLine ID="eSc_line_677627c9"
-                    
+                    TAGREFS="LT1094"
                     BASELINE="2506 1291 3043 1296" 
-                    HPOS="2498.0"
-                    VPOS="1126.0"
-                    WIDTH="544.0"
-                    HEIGHT="196.0">
+                    HPOS="2498"
+                    VPOS="1126"
+                    WIDTH="544"
+                    HEIGHT="196">
             <Shape><Polygon POINTS="2505 1290 2505 1126 2746 1126 2749 1126 2753 1126 2756 1130 2788 1154 3035 1137 3042 1294 3035 1322 2498 1315"/></Shape>
 	    <String CONTENT="spiranti"
-                    HPOS="2498.0"
-                    VPOS="1126.0"
-                    WIDTH="544.0"
-                    HEIGHT="196.0"></String>
+                    HPOS="2498"
+                    VPOS="1126"
+                    WIDTH="544"
+                    HEIGHT="196"></String>
           </TextLine>
 
           
@@ -585,18 +585,18 @@
           
           
           <TextLine ID="eSc_line_6cee1c86"
-                    
+                    TAGREFS="LT1094"
                     BASELINE="2472 1724 2553 1717" 
-                    HPOS="2449.0"
-                    VPOS="1562.0"
-                    WIDTH="101.0"
-                    HEIGHT="178.0">
+                    HPOS="2449"
+                    VPOS="1562"
+                    WIDTH="101"
+                    HEIGHT="178">
             <Shape><Polygon POINTS="2470 1723 2449 1583 2529 1562 2550 1716 2547 1730 2470 1740"/></Shape>
 	    <String CONTENT="S"
-                    HPOS="2449.0"
-                    VPOS="1562.0"
-                    WIDTH="101.0"
-                    HEIGHT="178.0"></String>
+                    HPOS="2449"
+                    VPOS="1562"
+                    WIDTH="101"
+                    HEIGHT="178"></String>
           </TextLine>
 
           

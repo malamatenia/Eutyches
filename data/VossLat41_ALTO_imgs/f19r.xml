@@ -62,18 +62,18 @@
           
           
           <TextLine ID="eSc_line_d783cfc7"
-                    
+                    TAGREFS="LT1094"
                     BASELINE="296 669 938 645 2194 666" 
-                    HPOS="289.0"
-                    VPOS="554.0"
-                    WIDTH="1905.0"
-                    HEIGHT="136.0">
+                    HPOS="289"
+                    VPOS="554"
+                    WIDTH="1905"
+                    HEIGHT="136">
             <Shape><Polygon POINTS="296 669 289 582 572 561 575 561 697 579 858 554 861 554 865 554 938 579 1245 558 1249 558 1430 582 1486 558 1490 558 1493 558 1497 558 1500 558 1542 586 1545 586 1591 561 1594 561 1598 561 1720 586 1727 589 1811 589 1814 586 1849 561 1852 561 1856 561 1859 561 2191 589 2194 666 2191 687 293 690"/></Shape>
 	    <String CONTENT="exceptis etiã in cor desinentib; cõmunib; ł depo¬"
-                    HPOS="289.0"
-                    VPOS="554.0"
-                    WIDTH="1905.0"
-                    HEIGHT="136.0"></String>
+                    HPOS="289"
+                    VPOS="554"
+                    WIDTH="1905"
+                    HEIGHT="136"></String>
           </TextLine>
 
           
