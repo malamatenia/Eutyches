@@ -1702,16 +1702,16 @@
           <TextLine ID="eSc_line_d19d7c86"
                     TAGREFS="LT1093"
                     BASELINE="1329 2030 1678 2023" 
-                    HPOS="1322.0"
-                    VPOS="1974.0"
-                    WIDTH="356.0"
-                    HEIGHT="80.0">
+                    HPOS="1322"
+                    VPOS="1974"
+                    WIDTH="356"
+                    HEIGHT="80">
             <Shape><Polygon POINTS="1329 2030 1322 1981 1668 1974 1678 2023 1675 2044 1329 2054"/></Shape>
 	    <String CONTENT="suffero sustineo"
-                    HPOS="1322.0"
-                    VPOS="1974.0"
-                    WIDTH="356.0"
-                    HEIGHT="80.0"></String>
+                    HPOS="1322"
+                    VPOS="1974"
+                    WIDTH="356"
+                    HEIGHT="80"></String>
           </TextLine>
 
           

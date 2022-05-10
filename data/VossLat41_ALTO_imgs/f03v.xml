@@ -851,18 +851,18 @@
           
           
           <TextLine ID="eSc_line_21789e26"
-                    
+                    TAGREFS="LT1093"
                     BASELINE="2294 2877 2400 2876" 
-                    HPOS="2282.0"
-                    VPOS="2824.0"
-                    WIDTH="115.0"
-                    HEIGHT="66.0">
+                    HPOS="2282"
+                    VPOS="2824"
+                    WIDTH="115"
+                    HEIGHT="66">
             <Shape><Polygon POINTS="2292 2876 2282 2827 2386 2824 2397 2873 2393 2886 2292 2890"/></Shape>
 	    <String CONTENT="tristor"
-                    HPOS="2282.0"
-                    VPOS="2824.0"
-                    WIDTH="115.0"
-                    HEIGHT="66.0"></String>
+                    HPOS="2282"
+                    VPOS="2824"
+                    WIDTH="115"
+                    HEIGHT="66"></String>
           </TextLine>
 
           

@@ -25,33 +25,6 @@
                   WIDTH="3305"
                   HEIGHT="4186">
         
-        <TextBlock HPOS="1669.0"
-                   VPOS="350.0"
-                   WIDTH="215.0"
-                   HEIGHT="224.0"
-                   ID="eSc_textblock_52bd3e91"
-                   TAGREFS="BT3138">
-          <Shape><Polygon POINTS="1669 350 1669 574 1884 574 1884 350"/></Shape>
-          
-          
-          <TextLine ID="eSc_line_b6b62f4c"
-                    TAGREFS="LT1094"
-                    BASELINE="1731 505 1797 505" 
-                    HPOS="1724"
-                    VPOS="383"
-                    WIDTH="73"
-                    HEIGHT="171">
-            <Shape><Polygon POINTS="1731 505 1724 411 1790 383 1797 505 1793 554 1727 551"/></Shape>
-	    <String CONTENT="8"
-                    HPOS="1724"
-                    VPOS="383"
-                    WIDTH="73"
-                    HEIGHT="171"></String>
-          </TextLine>
-
-          
-        </TextBlock>
-        
         <TextBlock HPOS="304.0"
                    VPOS="574.0"
                    WIDTH="2197.0"
@@ -148,17 +121,17 @@
           
           <TextLine ID="eSc_line_f83be776"
                     TAGREFS="LT1093"
-                    BASELINE="1685 1105 2160 1088 2177 1043 2237 1043" 
-                    HPOS="1678.0"
-                    VPOS="1018.0"
-                    WIDTH="562.0"
-                    HEIGHT="108.0">
-            <Shape><Polygon POINTS="1685 1105 1678 1060 2233 1018 2237 1043 2240 1109 1685 1126"/></Shape>
+                    BASELINE="1685 1105 2160 1106 2251 1105 2282 1096" 
+                    HPOS="1678"
+                    VPOS="1039"
+                    WIDTH="600"
+                    HEIGHT="91">
+            <Shape><Polygon POINTS="2205 1043 2170 1046 2135 1053 2100 1049 2066 1046 2031 1046 2006 1043 1682 1046 1682 1102 1678 1112 2271 1130 2278 1095 2268 1039 2205 1039 2205 1043"/></Shape>
 	    <String CONTENT="mulier ꝗ disponit nuptias"
-                    HPOS="1678.0"
-                    VPOS="1018.0"
-                    WIDTH="562.0"
-                    HEIGHT="108.0"></String>
+                    HPOS="1678"
+                    VPOS="1039"
+                    WIDTH="600"
+                    HEIGHT="91"></String>
           </TextLine>
 
           
@@ -251,16 +224,16 @@
           <TextLine ID="eSc_line_0c77d71a"
                     TAGREFS="LT1093"
                     BASELINE="369 1349 558 1348" 
-                    HPOS="362.0"
-                    VPOS="1287.0"
-                    WIDTH="192.0"
-                    HEIGHT="153.0">
+                    HPOS="362"
+                    VPOS="1287"
+                    WIDTH="192"
+                    HEIGHT="153">
             <Shape><Polygon POINTS="366 1346 369 1287 554 1301 554 1346 383 1351 362 1440"/></Shape>
 	    <String CONTENT="blandior"
-                    HPOS="362.0"
-                    VPOS="1287.0"
-                    WIDTH="192.0"
-                    HEIGHT="153.0"></String>
+                    HPOS="362"
+                    VPOS="1287"
+                    WIDTH="192"
+                    HEIGHT="153"></String>
           </TextLine>
 
           
@@ -724,6 +697,23 @@
 
           
           
+          <TextLine ID="eSc_line_b1f2d1b0"
+                    TAGREFS="LT1094"
+                    BASELINE="362 2229 1755 2274 2247 2267" 
+                    HPOS="355.0"
+                    VPOS="2145.0"
+                    WIDTH="1892.0"
+                    HEIGHT="178.0">
+            <Shape><Polygon POINTS="362 2229 355 2166 411 2145 415 2145 418 2145 485 2203 599 2196 2244 2201 2247 2267 2244 2302 2121 2323 2118 2323 1821 2298 1779 2295 1776 2295 1744 2312 1741 2312 1738 2312 1647 2295 1605 2288 1566 2295 1486 2305 1471 2285 1235 2288 970 2270 910 2284 893 2288 889 2288 886 2288 882 2288 869 2284 823 2267 359 2274"/></Shape>
+	    <String CONTENT="ut epulor epulo. lateo latro, lenio leno . Comedo palpo"
+                    HPOS="355.0"
+                    VPOS="2145.0"
+                    WIDTH="1892.0"
+                    HEIGHT="178.0"></String>
+          </TextLine>
+
+          
+          
           <TextLine ID="eSc_line_0b6fce7e"
                     TAGREFS="LT1093"
                     BASELINE="1580 2201 1752 2205" 
@@ -754,23 +744,6 @@
                     VPOS="2159.0"
                     WIDTH="119.0"
                     HEIGHT="80.0"></String>
-          </TextLine>
-
-          
-          
-          <TextLine ID="eSc_line_b1f2d1b0"
-                    TAGREFS="LT1094"
-                    BASELINE="362 2229 1755 2274 2247 2267" 
-                    HPOS="355.0"
-                    VPOS="2145.0"
-                    WIDTH="1892.0"
-                    HEIGHT="178.0">
-            <Shape><Polygon POINTS="362 2229 355 2166 411 2145 415 2145 418 2145 485 2203 599 2196 2244 2201 2247 2267 2244 2302 2121 2323 2118 2323 1821 2298 1779 2295 1776 2295 1744 2312 1741 2312 1738 2312 1647 2295 1605 2288 1566 2295 1486 2305 1471 2285 1235 2288 970 2270 910 2284 893 2288 889 2288 886 2288 882 2288 869 2284 823 2267 359 2274"/></Shape>
-	    <String CONTENT="ut epulor epulo. lateo latro, lenio leno . Comedo palpo"
-                    HPOS="355.0"
-                    VPOS="2145.0"
-                    WIDTH="1892.0"
-                    HEIGHT="178.0"></String>
           </TextLine>
 
           
@@ -1468,6 +1441,33 @@
                     VPOS="3512.0"
                     WIDTH="1881.0"
                     HEIGHT="168.0"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1669.0"
+                   VPOS="350.0"
+                   WIDTH="215.0"
+                   HEIGHT="224.0"
+                   ID="eSc_textblock_52bd3e91"
+                   TAGREFS="BT3138">
+          <Shape><Polygon POINTS="1669 350 1669 574 1884 574 1884 350"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_b6b62f4c"
+                    TAGREFS="LT1094"
+                    BASELINE="1731 505 1797 505" 
+                    HPOS="1724"
+                    VPOS="383"
+                    WIDTH="73"
+                    HEIGHT="171">
+            <Shape><Polygon POINTS="1731 505 1724 411 1790 383 1797 505 1793 554 1727 551"/></Shape>
+	    <String CONTENT="8"
+                    HPOS="1724"
+                    VPOS="383"
+                    WIDTH="73"
+                    HEIGHT="171"></String>
           </TextLine>
 
           

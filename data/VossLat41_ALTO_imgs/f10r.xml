@@ -392,18 +392,18 @@
           
           
           <TextLine ID="eSc_line_9324591a"
-                    TAGREFS="LT1095"
+                    TAGREFS="LT1094"
                     BASELINE="465 2958 642 2958" 
-                    HPOS="460.0"
-                    VPOS="2672.0"
-                    WIDTH="178.0"
-                    HEIGHT="314.0">
+                    HPOS="460"
+                    VPOS="2672"
+                    WIDTH="178"
+                    HEIGHT="314">
             <Shape><Polygon POINTS="464 2954 460 2699 635 2672 638 2954 635 2986 460 2982"/></Shape>
 	    <String CONTENT="N"
-                    HPOS="460.0"
-                    VPOS="2672.0"
-                    WIDTH="178.0"
-                    HEIGHT="314.0"></String>
+                    HPOS="460"
+                    VPOS="2672"
+                    WIDTH="178"
+                    HEIGHT="314"></String>
           </TextLine>
 
           
