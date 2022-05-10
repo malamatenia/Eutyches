@@ -89,7 +89,7 @@
                         <xsl:value-of select="'principal'"/>          
                     </xsl:when>
                     <xsl:otherwise>
-                        <xsl:value-of select="'intelinear'"/>
+                        <xsl:value-of select="'interlinear'"/>
                     </xsl:otherwise>
                 </xsl:choose>             
             </xsl:attribute>
