@@ -30,7 +30,7 @@
                             </xsl:element>
                         </xsl:element>
                         <xsl:element name="sourceDesc">
-                            <xsl:element name="p">
+                            <xsl:element name="ab">
                                 <xsl:text>Fichier créé par transformation à partir de l'export réalisé dans escriptorium</xsl:text>
                             </xsl:element>
                         </xsl:element> 
