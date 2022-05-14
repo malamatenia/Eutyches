@@ -144,7 +144,7 @@
                     WIDTH="1776.0"
                     HEIGHT="147.0">
             <Shape><Polygon POINTS="460 1018 460 948 778 948 781 948 785 948 785 952 788 955 813 976 956 990 1026 959 1050 948 1053 948 1057 948 1060 948 1085 959 1141 981 1197 962 1224 952 1228 952 1231 952 1235 952 1263 966 1322 994 1608 994 1629 973 1643 959 1643 955 1647 955 1650 955 1731 948 1734 948 1772 948 1776 948 1779 948 1779 952 1807 976 1814 987 1835 976 1895 952 1898 952 1902 952 1905 952 1909 952 1943 980 1961 994 2083 994 2097 983 2118 966 2121 966 2125 966 2128 966 2226 987 2233 1049 2230 1074 1183 1091 1179 1091 1176 1091 1127 1074 1092 1091 1088 1091 1088 1095 862 1095 858 1091 855 1091 806 1063 799 1063 457 1063"/></Shape>
-	    <String CONTENT="positionis ante o. ł eo ł io . lnuenta seruatur In om"
+	    <String CONTENT="positio uis ante o. ł eo ł io . lnuenta seruatur In om"
                     HPOS="457.0"
                     VPOS="948.0"
                     WIDTH="1776.0"
@@ -1343,6 +1343,23 @@
 
           
           
+          <TextLine ID="eSc_line_ce617756"
+                    TAGREFS="LT1093"
+                    BASELINE="743 3388 830 3386 1088 3378" 
+                    HPOS="736"
+                    VPOS="3310"
+                    WIDTH="349"
+                    HEIGHT="84">
+            <Shape><Polygon POINTS="739 3394 1081 3390 1085 3376 1074 3310 736 3310 739 3387"/></Shape>
+	    <String CONTENT="cooperimentũ"
+                    HPOS="736"
+                    VPOS="3310"
+                    WIDTH="349"
+                    HEIGHT="84"></String>
+          </TextLine>
+
+          
+          
           <TextLine ID="eSc_line_a591d55c"
                     TAGREFS="LT1093"
                     BASELINE="1166 3391 1766 3381" 
@@ -1362,17 +1379,17 @@
           
           <TextLine ID="eSc_line_d6332001"
                     TAGREFS="LT1093"
-                    BASELINE="533 3394 830 3386 1088 3378" 
-                    HPOS="520.0"
-                    VPOS="3306.0"
-                    WIDTH="565.0"
-                    HEIGHT="171.0">
-            <Shape><Polygon POINTS="530 3390 520 3324 1074 3306 1085 3376 820 3394 938 3467 935 3467 831 3406 879 3449 875 3449 809 3477 836 3395 802 3477 838 3395"/></Shape>
-	    <String CONTENT="cooperio cooperimentũ"
-                    HPOS="520.0"
-                    VPOS="3306.0"
-                    WIDTH="565.0"
-                    HEIGHT="171.0"></String>
+                    BASELINE="533 3394 735 3389" 
+                    HPOS="526"
+                    VPOS="3310"
+                    WIDTH="206"
+                    HEIGHT="94">
+            <Shape><Polygon POINTS="530 3404 732 3401 732 3387 722 3310 526 3313 530 3390"/></Shape>
+	    <String CONTENT="cooperio"
+                    HPOS="526"
+                    VPOS="3310"
+                    WIDTH="206"
+                    HEIGHT="94"></String>
           </TextLine>
 
           
