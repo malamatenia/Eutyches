@@ -698,12 +698,12 @@
           
         </TextBlock>
         
-        <TextBlock HPOS="1691.0"
-                   VPOS="312.0"
-                   WIDTH="154.0"
-                   HEIGHT="194.0"
+        <TextBlock HPOS="1691"
+                   VPOS="312"
+                   WIDTH="154"
+                   HEIGHT="194"
                    ID="eSc_textblock_ac9e591b"
-                   >
+                   TAGREFS="BT3138">
           <Shape><Polygon POINTS="1691 312 1691 506 1845 506 1845 312"/></Shape>
           
           
