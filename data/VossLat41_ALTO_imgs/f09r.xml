@@ -127,7 +127,7 @@
                     WIDTH="1847.0"
                     HEIGHT="139.0">
             <Shape><Polygon POINTS="383 781 376 708 1057 694 1060 694 1064 694 1067 694 1102 715 1109 722 1354 722 1399 718 1633 701 1636 701 1640 701 1643 701 1643 704 1664 722 1671 729 1710 725 1776 715 1779 715 1891 725 1950 732 1957 729 1978 711 1978 708 1982 708 1985 708 1989 708 2219 732 2223 795 2216 823 1821 816 1765 823 1689 833 1685 833 1556 823 1441 812 1413 823 1392 830 1389 830 1385 830 1284 819 1148 809 1095 819 1064 826 1060 826 966 819 732 802 380 816"/></Shape>
-	    <String CONTENT="in mentũ . ut fundamentũ . ornamentū . sacram¬"
+	    <String CONTENT="in mentũ . ut fundamentũ . ornamentū . sacram̃¬"
                     HPOS="376.0"
                     VPOS="694.0"
                     WIDTH="1847.0"
@@ -765,23 +765,6 @@
 
           
           
-          <TextLine ID="eSc_line_84f0e0d7"
-                    TAGREFS="LT1093"
-                    BASELINE="396 2553 524 2553" 
-                    HPOS="383.0"
-                    VPOS="2501.0"
-                    WIDTH="140.0"
-                    HEIGHT="128.0">
-            <Shape><Polygon POINTS="394 2549 383 2501 520 2513 523 2629 510 2570 407 2588"/></Shape>
-	    <String CONTENT="seruat᷑"
-                    HPOS="383.0"
-                    VPOS="2501.0"
-                    WIDTH="140.0"
-                    HEIGHT="128.0"></String>
-          </TextLine>
-
-          
-          
           <TextLine ID="eSc_line_76c62000"
                     TAGREFS="LT1093"
                     BASELINE="1867 2547 2093 2542" 
@@ -795,6 +778,23 @@
                     VPOS="2494"
                     WIDTH="237"
                     HEIGHT="97"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_84f0e0d7"
+                    TAGREFS="LT1093"
+                    BASELINE="396 2553 524 2553" 
+                    HPOS="383.0"
+                    VPOS="2501.0"
+                    WIDTH="140.0"
+                    HEIGHT="128.0">
+            <Shape><Polygon POINTS="394 2549 383 2501 520 2513 523 2629 510 2570 407 2588"/></Shape>
+	    <String CONTENT="seruat᷑"
+                    HPOS="383.0"
+                    VPOS="2501.0"
+                    WIDTH="140.0"
+                    HEIGHT="128.0"></String>
           </TextLine>
 
           
@@ -901,23 +901,6 @@
 
           
           
-          <TextLine ID="eSc_line_39d04b69"
-                    TAGREFS="LT1093"
-                    BASELINE="1594 2947 2154 2938" 
-                    HPOS="1584.0"
-                    VPOS="2891.0"
-                    WIDTH="569.0"
-                    HEIGHT="67.0">
-            <Shape><Polygon POINTS="1591 2944 1584 2891 2146 2891 2153 2937 2146 2958 1587 2954"/></Shape>
-	    <String CONTENT="ipsũ documentũ sapientia"
-                    HPOS="1584.0"
-                    VPOS="2891.0"
-                    WIDTH="569.0"
-                    HEIGHT="67.0"></String>
-          </TextLine>
-
-          
-          
           <TextLine ID="eSc_line_9e6b9ad0"
                     TAGREFS="LT1093"
                     BASELINE="2205 2937 2212 2937 2488 2909" 
@@ -935,6 +918,23 @@
 
           
           
+          <TextLine ID="eSc_line_52ea1cbc"
+                    
+                    BASELINE="1971 2941 2154 2938" 
+                    HPOS="1964"
+                    VPOS="2898"
+                    WIDTH="189"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="1968 2940 1968 2968 2149 2954 2153 2937 2146 2898 1964 2898 1968 2940"/></Shape>
+	    <String CONTENT="sapientia"
+                    HPOS="1964"
+                    VPOS="2898"
+                    WIDTH="189"
+                    HEIGHT="70"></String>
+          </TextLine>
+
+          
+          
           <TextLine ID="eSc_line_30504a18"
                     TAGREFS="LT1094"
                     BASELINE="383 2944 788 2986 1186 2999 2261 2992" 
@@ -948,6 +948,23 @@
                     VPOS="2888.0"
                     WIDTH="1885.0"
                     HEIGHT="153.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_39d04b69"
+                    TAGREFS="LT1093"
+                    BASELINE="1594 2947 1960 2941" 
+                    HPOS="1587"
+                    VPOS="2877"
+                    WIDTH="370"
+                    HEIGHT="88">
+            <Shape><Polygon POINTS="1591 2944 1591 2965 1954 2965 1957 2940 1947 2877 1587 2891 1591 2944"/></Shape>
+	    <String CONTENT="ipsũ documentũ"
+                    HPOS="1587"
+                    VPOS="2877"
+                    WIDTH="370"
+                    HEIGHT="88"></String>
           </TextLine>
 
           
