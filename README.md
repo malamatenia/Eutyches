@@ -16,11 +16,9 @@ Exploitation of data
 
 Biblio
 
-To do (a lot):
--finalize transcription norms (desinences, punctus elevatus, space/dot ambiguity -maybe comma?-)
--complete excel with hand characterization and granularity
--pipeline modeling
--scripts python for ALTO manipulation
--test for automatic glose-lemma attribution
+To do (quite some stuff):
+-pipeline modeling 
+-scripts python for ALTO manipulation (M2)
+-test for automatic glose-lemma attribution (M2)
 -LaTeX documentation.
 -github workflows for characters,SegmOnto and stats.
