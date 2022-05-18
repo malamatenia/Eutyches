@@ -4,7 +4,7 @@
 <!--<!DOCTYPE texte [
 <!ENTITY pbarre-pre "<choice><abbr>&#58981;</abbr><expan>p<ex>re</ex></expan></choice>" >
 ]>-->
-<?xml-model href="../temoins/VossLat41/ODD/out/VLO41_edition_oddbyexample.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="ODD/out/VLO41_edition_oddbyexample.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
       <teiHeader>
             <fileDesc>
@@ -424,9 +424,7 @@
                                     resp="#MV">bo</supplied>
                               <lb facs="2411 840 2401 763 2687 746 2697 819 2697 847 2411 861"
                                     type="principal"/> nus contextor. </fw>
-                        
-                        
-                        <!--premier lemma, id composé du folio, ligne et numéro ce qui donne f02r_l01.1-->
+                                                <!--premier lemma, id composé du folio, ligne et numéro ce qui donne f02r_l01.1-->
                         <seg type="lemma" xml:id="f02r_l01.1">
                               <lb
                                     facs="535 1380 504 757 1027 778 1030 1419 886 1304 889 1304 893 1304 970 1325 973 1370 973 1388 547 1391"
@@ -543,7 +541,7 @@
                         <!-- Ligne 7-->
                         <lb
                               facs="558 1747 561 1632 645 1656 799 1643 802 1643 806 1643 809 1643 809 1646 837 1670 1001 1639 1005 1639 1008 1639 1012 1639 1012 1643 1046 1670 1207 1643 1211 1643 1214 1643 1294 1674 1490 1674 1591 1656 1594 1656 1598 1656 1601 1656 1619 1670 1643 1649 1647 1649 1650 1649 1654 1649 1811 1674 1839 1653 1839 1649 1842 1649 1846 1649 1849 1649 1905 1660 1975 1639 1978 1639 1982 1639 1985 1639 2045 1667 2097 1639 2100 1639 2104 1639 2422 1639 2425 1754 2415 1789 2334 1768 2251 1786 2247 1786 2244 1786 2198 1765 2027 1782 2024 1782 1947 1768 1926 1786 1926 1789 1922 1789 1919 1789 1915 1789 1898 1789 1751 1765 1497 1765 1451 1786 1448 1786 1444 1786 1444 1789 1081 1789 1078 1786 1074 1786 1067 1782 1029 1765 952 1782 945 1782 942 1782 938 1782 896 1761 554 1779"
-                              type="interlinear"/> satis fatiens meorũ <seg type="lemma"
+                              type="principal"/> satis fatiens meorũ <seg type="lemma"
                               xml:id="f02r_l07.1">diligentissime</seg> dicipulorũ <seg type="lemma"
                               xml:id="f02r_l07.2">cratere</seg>
                         <lb facs="1305 1698 1305 1646 1493 1646 1493 1698 1493 1709 1305 1712"
