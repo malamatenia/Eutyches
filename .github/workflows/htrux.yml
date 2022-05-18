@@ -20,4 +20,4 @@ jobs:
         pip install htrvx
     - name: Run HTRVX
       run: |
-        htrvx --verbose --group --format alto --segmonto --xsd --check-empty --raise-empty UNIX/data/VossLat41_ALTO_imgs/*.xml
+        htrvx --verbose --group --format alto --segmonto --xsd --check-empty --raise-empty /data/VossLat41_ALTO_imgs/*.xml
