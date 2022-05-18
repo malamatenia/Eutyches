@@ -1,0 +1,15 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Voss.Lat.O.41 - Eutyches "de uerbo" glossed
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: dataset
+authors:
+  - given-names: Malamatenia
+    family-names: Vlachou-Efstathiou
+    email: matenia03@gmail.com
+    affiliation: Ecole nationale des Chartes
+    orcid: 'https://orcid.org/0000-0002-9397-356X'
