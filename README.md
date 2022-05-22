@@ -4,4 +4,4 @@
 
 This repository hosts all the documents necessary for the evaluation of my M1 dissertation in Digital Humanities at the ENC.
 
-![Pipeline du Master1](modelisation_pipeline.png)
+![modelisation_pipeline](https://user-images.githubusercontent.com/92155767/169708060-5867a67e-90d9-4618-8ebd-f00358ad3227.png)
