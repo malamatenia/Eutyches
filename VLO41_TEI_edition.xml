@@ -3538,7 +3538,7 @@
                         <lb
                               facs="1912 3041 1902 2972 2170 2930 2145 2951 2394 2958 2425 3024 2422 3048 1908 3060"
                               type="interlinear"/>
-                        <gloss rend="italic" type="S53" xml:id="f06r_l21.2_a" target="#f06r_l21.2" resp="#"> nisi
+                        <gloss rend="italic" type="S53" xml:id="f06r_l21.2_a" target="#f06r_l21.2" resp="#AB"> nisi
                               lũ s̃ nomina </gloss>
                         <!--Ligne 22-->
                         <lb
@@ -3714,7 +3714,7 @@
                         <lb
                               facs="931 1990 924 1896 1008 1896 1439 1922 1203 1833 1207 1833 1210 1833 1499 1942 1441 1976 946 2001 1137 2085 1134 2081 1130 2081 1081 2057 1057 2043 931 2043"
                               type="interlinear"/>
-                        <gloss rend="italic" type="S22" xml:id="_a" target="#f06v_l12.1" resp="#B">inꝗsitor </gloss>
+                        <gloss rend="italic" type="S22" xml:id="f06v_l12.1_a" target="#f06v_l12.1" resp="#B">inꝗsitor </gloss>
                         <gloss rend="italic" type="S22" xml:id="f06v_l12.1_b" target="#f06v_l12.1" resp="#AB"
                               >consiliarius</gloss>
                         <lb facs="1476 1983 1476 1935 1685 1938 1689 1987 1685 2008 1472 2008"
@@ -4564,7 +4564,7 @@
                               type="principal"/> lum.</seg> Item in bilis. ut sto stas stabilis .; Item in
                         <lb
                               facs="1594 3089 1584 3012 1912 2995 1922 3054 1593 3105 1779 3151 1772 3155 1727 3179 1723 3179 1720 3179 1716 3179 1678 3162 1675 3158 1598 3162"
-                              type="interlinear"/> <gloss rend="italic" type="S22" xml:id="f07v_l21.1_a" target="#" resp="#Α">crux ł torm̃ta </gloss>  
+                              type="interlinear"/> <gloss rend="italic" type="S22" xml:id="f07v_l21.1_a" target="#f07v_l21.1" resp="#Α">crux ł torm̃ta </gloss>  
                         <lb
                               facs="2439 3050 2439 2984 2882 2991 2882 3054 2438 3054 2502 3172 2498 3172 2495 3172 2428 3151"
                               type="interlinear"/> <gloss rend="italic" type="S23" xml:id="f07v_l21.2_a" target="#f07v_l21.2" resp="#Α">locꝰ ubi aliꝗd funditur   </gloss> 
@@ -8129,7 +8129,7 @@
                               type="interlinear"/> <gloss rend="italic" type="S22" xml:id="f15v_l08.3_a" target="#f15v_l08.3" resp="#Α">increpo  </gloss>
                         <lb
                               facs="1910 1447 1906 1398 2130 1395 2133 1447 2130 1461 1906 1458"
-                              type="interlinear"/> <gloss rend="italic" type="S23" xml:id="f15v_l08.4_a" target="#" resp="#Α">penas soluo </gloss>
+                              type="interlinear"/> <gloss rend="italic" type="S23" xml:id="f15v_l08.4_a" target="#f15v_l08.3" resp="#Α">penas soluo </gloss>
                         
                         <lb
                               facs="2688 1458 2688 1391 2898 1398 2901 1465 2898 1479 2685 1482"
