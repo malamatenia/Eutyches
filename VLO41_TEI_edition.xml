@@ -843,7 +843,7 @@
                               lat̃ </gloss>
                         <lb facs="1741 1077 1730 1014 1922 1011 1929 1065 1941 1082 1741 1086"
                               type="interlinear"/>
-                        <gloss rend="italic" type="S" xml:id="f02v_l05.2_a" target="#f02v_l05.2" resp="#C">&amp;
+                        <gloss rend="italic" type="S22" xml:id="f02v_l05.2_a" target="#f02v_l05.2" resp="#C">&amp;
                               finalem </gloss>
                         <!--Ligne 6-->
                         <lb
@@ -909,7 +909,7 @@
                         <lb
                               facs="2254 2074 2243 2008 2400 2001 2411 2067 2411 2172 2355 2161 2276 2107 2327 2189 2327 2193 2324 2193 2320 2193 2317 2193 2407 2069"
                               type="interlinear"/>
-                        <gloss rend="italic" type="S" xml:id="f02v_l13.3_a" target="#f02v_l13.3" resp="#B"
+                        <gloss rend="italic" type="S22" xml:id="f02v_l13.3_a" target="#f02v_l13.3" resp="#B"
                               >c̃pellim᷑ </gloss>
                         <!--Ligne 14 -->
                         <lb
@@ -1893,7 +1893,7 @@
                               <seg type="lemma" xml:id="f04r_c1_l05">Sautius</seg>
                               <lb facs="596 2961 596 2909 795 2926 795 2986 788 2992 593 2972"
                                     type="interlinear"/>
-                              <gloss rend="italic" type="S" xml:id="f04r_c1_l05_a" target="#f04r_c1_l05" resp="#Α"
+                              <gloss rend="italic" type="S22" xml:id="f04r_c1_l05_a" target="#f04r_c1_l05" resp="#Α"
                                     > uulneratus </gloss>
                               <lb n="06"
                                     facs="540 3118 547 3027 656 3059 1078 3062 1078 3153 1074 3170 970 3195 966 3195 963 3195 848 3167 792 3153 537 3156"
@@ -1920,15 +1920,19 @@
                               <cb n="2"/>
                               <lb n="01"
                                     facs="1109 2553 1109 2490 1224 2494 1238 2490 1256 2476 1259 2476 1263 2476 1266 2476 1333 2490 1361 2494 1382 2490 1437 2469 1441 2469 1444 2469 1601 2490 1601 2553 1601 2595 1109 2598"
-                                    type="principal"/> Radio. radias. <lb n="02"
+                                    type="principal"/> Radio. radias.
+                                    <lb n="02"
                                     facs="1120 2682 1113 2602 1549 2616 1556 2679 1549 2724 1423 2699 1120 2720"
-                                    type="principal"/> consilium <lb n="03"
+                                    type="principal"/> consilium 
+                                    <lb n="03"
                                     facs="1050 2804 1050 2738 1197 2738 1204 2731 1245 2703 1249 2703 1249 2703 1249 2703 1252 2703 1252 2703 1256 2703 1256 2703 1256 2703 1259 2703 1259 2703 1259 2703 1263 2703 1298 2727 1301 2731 1305 2727 1350 2703 1350 2703 1350 2703 1354 2703 1354 2703 1357 2703 1462 2703 1462 2703 1462 2703 1465 2703 1465 2703 1465 2703 1469 2703 1500 2724 1507 2727 1514 2720 1539 2706 1542 2706 1542 2706 1546 2706 1546 2706 1546 2706 1549 2706 1549 2706 1553 2706 1553 2706 1553 2706 1580 2720 1601 2731 1734 2717 1738 2804 1738 2832 1050 2832"
-                                    type="principal"/> consilior c̃siliaris <lb n="04"
+                                    type="principal"/> consilior c̃siliaris
+                                    <lb n="04"
                                     facs="1064 2923 1067 2849 1134 2870 1231 2856 1256 2853 1259 2853 1472 2867 1472 2926 1469 2954 1060 2954"
                                     type="principal"/>
                               <seg type="lemma" xml:id="f04r_c2_l04">conciliũ </seg>
-                              <lb facs="1137 2891 1127 2818 1252 2804 1263 2884 1263 2895 1137 2898"
+                              
+                                    <lb facs="1137 2891 1127 2818 1252 2804 1263 2884 1263 2895 1137 2898"
                                     type="interlinear"/>
                               <gloss rend="italic" type="S22" xml:id="f04r_c2_l04_a" target="#f04r_c2_l04"
                                     resp="#B">iudiciũ </gloss>
