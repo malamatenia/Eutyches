@@ -10,10 +10,7 @@ The typology of the manuscripts comes with two interesting features that pose at
 
 This project adhere to this renewal of tools and methods for the edition of grammatical texts in order to make full use of the precious information present in the manuscript tradition. Our case study for the first year of the Master's program in Digital Humanities in the marvelous codex *Vossianus Latinus* O. 41, a real life specimen of a grammar manualu sed in class. Written by 4 hands and annotated by another 4 (and some more for corrections), and containing ordered -or not- lists of examples find their way into doctrinal discussion it constitutes an exemplar case study for a diachronic survey of the different "annotation campaigns" as well as an attempt to modelise its heterogenous layout structure. A telling example: 
 
-
-![alt-text-1]( ![!![exemple_mise_en_page](https://user-images.githubusercontent.com/92155767/170119204-a9c6c525-2276-43b7-82fa-29448c803b08.jpg)])
-"folio 4v" width="425") ![alt-text-2](![exemple_mise_en_page2 jpg](https://user-images.githubusercontent.com/92155767/170118764-169a3d76-01af-41a6-8ee3-392c578cce0a.jpg)
- "folio 5r" width="425")
+<img src="https://user-images.githubusercontent.com/92155767/170118764-169a3d76-01af-41a6-8ee3-392c578cce0a.jpg width="100" height="100">
 
 
 
