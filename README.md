@@ -16,7 +16,7 @@ This project adhere to this renewal of tools and methods for the edition of gram
   <img width="500" height="700" src="https://user-images.githubusercontent.com/92155767/170118764-169a3d76-01af-41a6-8ee3-392c578cce0a.jpg" >
 </p>
 
-# ** A wild pipeline appears! **
+# **A wild pipeline appears!**
 
 The following graph concisely describes the pipeline ( that clearly has optimization potential!) that was developped and implemented for the M1 dissertation. Limitations and improvements (in frech) are discussed in the final chapter.
 
@@ -26,7 +26,7 @@ The following graph concisely describes the pipeline ( that clearly has optimiza
 
 
 
-# ** Navigating though the repository **
+# **Navigating though the repository**
 
 ## Folder names
 
