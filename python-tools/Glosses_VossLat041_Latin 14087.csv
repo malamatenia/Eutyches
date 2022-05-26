@@ -1,4 +1,4 @@
-Lt,Le,Tl,Gm,Gi,Gnorm,folio,line,Lorder,Mg,Temp,Loc,Forme,Sens,grammatical terminology (Schad),Notes divers,Concordance avec Latin 14087
+Lt,Le,Tl,Gm,Gi,Gnorm,folio,line,Lorder,Mg,Temp,Loc,Forme,Sens,grammatical terminology (Schad),Notes divers,Lat.14087
 INCIPIT LIBER EUTI/GRAMMAT(I)CI CI/DE UERBO,,,++++/de uer[bo] ++++/nus contextor ,,,2r,0,,C,T3,P1 en haut à droite,F4,S523,,"contextio, weaving (also fig. of other structures), construction [saec. iv on.]. contextor, compiler (Cop. Theod. 1. 1. 6. 2). contextus (pple as adj.), consecutive // Forcellini :demendi supervacanea, et adjiciendi necessaria, et mutandi ambigua, et emendandi incongrua tribuimus potestatem",
 cum semper,semper,,,s cũ frequentia,scilicet cum frequentia,2r,1,a,B,T2,P0,F3,S22,,"*cum superfluitate, cum est superflu ?",
 noues quaestiones,quaestiones,,,novẽ int̃rogaciones,noues interogationes,2r,1,b,B,T2,P0,F3,S22,,,
@@ -130,7 +130,7 @@ reboantq;,reboantque,,,&  resonant,et resonans,3v,5,,C,T3,P0,F2,S22,,,
 olimpus,,,,nom̃ montis ẽ,nomen montis est,3v,6,a,C,T3,P0,F3,S551,,,
 inchoo,,,,incipio,,3v,6,b,C,T3,P0,F2,S22,,,
 axoo,,,,ch,achoo,3v,6,c,m0,T0,P0,F2,S611,,,
-traductum,,,,d,traductum,3v,7,,m0,T0,ligne principale,F1,S611,,*supprimé/effacé,
+traductum,,,,d,traductum,3v,7,,m0,T0,P0,F1,S611,,*supprimé/effacé,
 artium scriptores,,,,ueteres,ueteres,3v,9,,m0,T0,P0,F2,S53,,,
 quę sola,quae sola ,,,coniugatio,,3v,10,,A,T1,P0,F2,S53,,,
 aliae,,,,+++ c̃. uix,,3v,11,a,m0,T0,P0,F3,S611,,*effacé déliberamment première partie. Uix post aliae codex 7499,
@@ -614,7 +614,7 @@ ruina,,,,euersio,,8r,12,b,B,T2,P0,F2,S22,,,
 rapio,,,,tollo,,8r,12,c,B,T2,P0,F2,S22,,,
 rapina,,,, p̃da,,8r,12,d,B,T2,P0,F2,S22,,,
 cubo,,,,a cubando,,8r,12,e,A,T1,P0,F3,S54,,,Cubo reqͥesco.
-mascłna,,,s genꝰ monstri,,genus monstri,8r,13,,B,T2,P1 right,F3,?,,,
+mascłna,,,s genꝰ monstri,,scicilet genus monstri,8r,13,,B,T2,P1 right,F3, ,,,
 epulo,,,,comedo ,,8r,14,a,A,T1,P0,F2,S22,,,
 epulor,,,,uorax cõmesor,,8r,14,b,B,T2,P0,F2,S22,,,
 latro,,,,a latendo,,8r,14,c,A,T1,P0,F3,S54,,,
@@ -786,7 +786,7 @@ hospitalitas,,,,receptio hospitũ,receptio hospitum,10v,12,a,3,,P0,F3,S23,,,
 paupertas,,,,egestas,,10v,12,b,3,,P0,F2,S22,,,
 pene,,,, ñ õnes,quia non omnes ,10v,16,,B,T2,P0,F3,S521,,,
 turba,,,,cont᷑bacio,conturbacio,10v,17,,B,T2,P0,F2,S22,,,
-predor,,,,deponens uasto,,10v,18,a,AB,,P0,F3,S22 et S331,,,
+predor,,,,deponens uasto,,10v,18,a,AB,,P0,F3,S331,,,
 fuga ,,,,dr̃ fugitiuus,dicitur fugitiuus,10v,18,b,A,T1,P0,F3,S22,,,
 fugo,,,,repẽllo ac,repello,10v,18,c,A,T1,P0,F2,S22,,,
 stillo,,,,defluo,,10v,19,a,AB,,P0,F2,S22,,,
@@ -794,7 +794,7 @@ stipulor,,,,int̃rogo ł inꝗro spondeo,interrogo uel inquiro spondeo,10v,19,b,
 trutina,,,,libra eꝗ lanx,libra aequa lanx,10v,20,a,A,T1,P0,F3,S23,,,Trutina pensa statera mensura
 trutino,,,,equo,,10v,20,b,A,T1,P0,F2,S22,,,Trutino. pondero ł ꝓpendo. 
 machina,,,,instrum̃tũ qđcũq; p̃paratũ ad insidias,instrumentum quodcumque preparatum ad insidias,10v,21,a,A,T1,P0,F4,S23,,,Machina instructio bellica
-machinor,,,,molior fraudẽ g̃ deponens,,10v,21,b,A,T1,P0,F3,S22 et S331,,,Machinor. molior ex quiro. fabrico. paro c̃fitio. Exstruo
+machinor,,,,molior fraudẽ g̃ deponens,,10v,21,b,A,T1,P0,F3,S23,,,Machinor. molior ex quiro. fabrico. paro c̃fitio. Exstruo
 pugna,,,,p̃liũ aliqđ,proelium aliquid,10v,21,c,AB,,P0,F3,S22,,,
 nundine,,,,mercata pubica,,10v,22,a,A,T1,P0,F3,S23,,,Nundinę. loca mercati id ÷ argisteria.
 nundinor,,,,mercator,,10v,22,b,A,T1,P0,F2,S22,,,Nundinor . meror . Emo. comparo.
@@ -1101,12 +1101,12 @@ an,,,,in,,25r,20,,,,,F1,S611,,,
 ,ambulo as ululo um uculo us. similo as. cum,,,,,25r,29,,,,P1 bottom,F4,,,,
 ,e in i mu,,,,,26r,13,,,,P1 right,F3,S611,,,
 obprimat consternat.,expontué,,,,,27r,11,,,,,,,,,
-,,,,,,27r,13,,,,,,S611,,,
+,,,,,,27r,13,,,,,,,,,
 ,,,,,,27r,17,,,,,,S611,,,
 ,,,,in i,,27v,20,,,,,F3,S611,,,
-,,,,et etiam,,27v,22,,,,P1 right et left,F3,,,,
+,,,,et etiam,,27v,22,,,,P1 right,F3,,,,
 ,bosceo ?,,,,,30v,25,,,,P1 left,,,,,
-**neumes**,,,,inuiolata,,31v,1-3,,,,upper P1 ,F2,,,"Sequentia https://www.gregorianum.org/wiki/Inviolata#Spartiti_musicali*57 Prl. Inviolata nos iuva ; Inviolata integra // f. 164v (Add. X-XIe s.) Trois mélismes pour les Prl. Inviolata* (R. Gaude Maria. Hofmann-Brandt n° 355, 348 ; Cantus DB 6759 ; Latin 12044 f. 57r ; Aubert p. 56-59). *liste = https://manno.saprat.fr/fr/recherche-manuscrit?field_m_mss_shelf_mark_value=&field_m_mss_original_place_tid=&field_m_mss_s_festival_singing_tid=&field_m_mss_s_singing_incipit_value_op=contains&field_m_mss_s_singing_incipit_value=inviolata
+**neumes**,,,,inuiolata,,31v,1-3,,,,P1 top,F2,,,"Sequentia https://www.gregorianum.org/wiki/Inviolata#Spartiti_musicali*57 Prl. Inviolata nos iuva ; Inviolata integra // f. 164v (Add. X-XIe s.) Trois mélismes pour les Prl. Inviolata* (R. Gaude Maria. Hofmann-Brandt n° 355, 348 ; Cantus DB 6759 ; Latin 12044 f. 57r ; Aubert p. 56-59). *liste = https://manno.saprat.fr/fr/recherche-manuscrit?field_m_mss_shelf_mark_value=&field_m_mss_original_place_tid=&field_m_mss_s_festival_singing_tid=&field_m_mss_s_singing_incipit_value_op=contains&field_m_mss_s_singing_incipit_value=inviolata
 355, 348)*https://manno.saprat.fr/fr/manuscrit/antiphonarium-4",
 ,tarecogant᷑,,,,,32v,1,,,,P1 left,F2,,,,
 ,PIOY. feci PiεII,,,,,32v,21,,,,P1 left,F3,,,,
