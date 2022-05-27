@@ -1,4 +1,4 @@
-# *Eutyches Grammaticus*
+# *Eutyches Grammaticus, but glossed*
 
 # **Introduction**
 
