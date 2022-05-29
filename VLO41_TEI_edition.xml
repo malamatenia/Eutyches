@@ -86,8 +86,25 @@
                                           De Meyier note sur la provenance: "insuper custos quidam
                                           bibliothecae Floriacensis (?) 80 VOSS.LAT.O.4 1 saec. xii
                                           litteris maioribus ab imo ad summum codicis indicem
-                                          scripsit: Liber Tsidori iunioris cu(m) euticio grammatico;
+                                          scripsit: Liber Ysidori iunioris cu(m) euticio grammatico;
                                           cf. ad cod. O.37)"</note>
+                                    <note>Des initiales ornées figurent dans les folios 2r, 3r, 8v 
+                                          (celle-ci à l'encre verte et jaune) et un beau  O  majuscule 
+                                          entouré des croix dans le folio 19v, marquant le début du deuxième livre. 
+                                          Des initiales capitales de taille normale mais accentuées 
+                                          (dépassant ou non d'une ligne de hauteur) marquant potentiellement 
+                                          le début d'un paragraphe se trouvent partout dans le folio, et sont parfois des 
+                                          ajouts postérieurs (πrécisément dans les folios 5r, 5v, 6v, 10r, 12v, 13v,
+                                          14r, 15r, 16r, 17r, 19r, 23v, 26r, 29v, 30r). Des motifs fonctionnels
+                                          en forme de croix marquent le début/la fin des chapitres (lorsque les 
+                                          initiales ne le font pas) dans les folios 2r,3r,3v,4v,5v. 
+                                          Dans certains folios, l'encre jaune sert de surligneur pour des mots (3r,4r)
+                                          ou même pour des colonnes entières (4v,5r). Deux dessins ont été conservés
+                                          legèrement effacés dans les folios 5v (une tête) et 10v (une figure tournant 
+                                          le dos au texte), et un troisième semble avoir été effacé dans le folio 29r. 
+                                          Des marqueurs des chapitres visiblement postérieurs en chiffres romains 
+                                          surlignés à l'encre verte, allant de VIII (folio 13v) à XII (folio 17v), 
+                                          figurent également.</note>
                               </head>
                               <!-- structure du manuscrit -->
                               <msContents>
@@ -147,14 +164,14 @@
                                                 <!-- disposition du texte sur le folio -->
                                                 <layout writtenLines="25"> Le texte principale est
                                                   écrit strictemment en 25 lignes, en respectant la
-                                                  réglure, sauf pour le folio 4r qui comporte 26
+                                                  réglure, sauf pour le folio 4r qui comporte 27
                                                   lignes après l'ajout postérieure d'une partie du
                                                   texte. Sur la mise en page des folios 4r,4v et 5r
                                                   : Le folio 4r présente à la fin 3 colonnes de
                                                   taille égale en guise de tableau d'exemples qui
                                                   occupe la deuxième moitié du folio. Le folio 5r
                                                   présente 4 petites colonnes à la fin en guise de
-                                                  tableau d'exemples qui occupe le 1/3 de la page.
+                                                  tableau d'exemples qui occupent le 1/3 de la page.
                                                   Une partie du texte est incluse dans une petite
                                                   cellule en haut à gauche. Le folio 5r présente la
                                                   plus grande héterogéneité avec 4 colonnes de
@@ -2921,8 +2938,10 @@
                               type="principal"/> in io sine pretdictis obseruationib; ut quarte sit. <!-- Ligne 3-->
                         <lb
                               facs="1071 878 1067 805 1497 791 1500 791 1591 808 1643 819 1804 812 1957 805 1961 805 1964 805 1968 805 1968 808 1975 812 1989 826 2072 815 2128 808 2132 808 2135 808 2156 815 2205 833 2418 819 2481 815 2484 815 2488 815 2505 819 2575 840 2641 822 2645 822 2648 822 2652 822 2655 822 2690 843 2735 822 2739 822 2742 822 2903 826 2906 913 2893 972 2858 948 2697 965 2627 972 2624 972 2620 972 2589 962 2554 951 2544 962 2537 969 2533 969 2530 969 2526 969 2341 965 2338 965 2334 965 2334 962 2331 962 2327 955 2320 948 2181 951 1961 955 1957 955 1954 955 1950 955 1936 944 1912 923 1776 937 1678 948 1675 948 1671 948 1668 948 1668 944 1654 934 1633 916 1479 916 1469 930 1458 937 1458 941 1455 941 1451 941 1448 941 1444 941 1406 927 1354 910 1266 910 1252 923 1238 934 1238 937 1235 937 1231 937 1228 937 1137 934 1134 934 1130 934 1130 930 1116 920 1102 906 1071 916"
-                              type="principal"/> primae ÷ plerumq; coniugationis; <milestone n="III"
-                              unit="chapter" resp="#Keil"/> Sed quia sunt <!-- Ligne 4-->
+                              type="principal"/> primae ÷ plerumq; coniugationis;
+                        <milestone n="III"
+                              unit="chapter" resp="#Keil"/> Sed quia sunt 
+                        <!-- Ligne 4-->
                         <lb
                               facs="1053 986 1050 916 1350 903 1354 903 1357 903 1444 927 1455 930 1476 930 1640 913 1643 913 1647 913 1650 913 1650 916 1654 916 1671 937 1741 916 1744 916 1748 916 1751 916 1800 941 1814 941 2034 927 2038 927 2153 951 2243 934 2247 934 2250 934 2254 934 2282 958 2285 958 2299 958 2442 948 2446 948 2449 948 2488 965 2491 965 2537 944 2540 944 2544 944 2547 944 2638 969 2648 976 2840 979 2840 1049 2833 1084 2676 1080 2673 1080 2666 1077 2617 1056 2470 1066 2467 1066 2348 1049 2324 1063 2320 1066 2317 1066 2313 1066 2310 1066 2306 1066 2296 1063 2240 1039 2003 1035 1975 1049 1961 1056 1957 1056 1954 1056 1905 1046 1828 1028 1804 1042 1793 1049 1790 1049 1786 1049 1783 1049 1779 1049 1758 1039 1723 1025 1685 1035 1654 1046 1650 1046 1647 1046 1046 1007"
                               type="principal"/> et a nominib; uerba et a uerbis nomina diriuata <!-- Ligne 5-->
@@ -9008,7 +9027,7 @@
                         <lb
                               facs="898 2525 884 2386 1176 2375 1180 2375 1180 2375 1183 2375 1183 2375 1183 2375 1197 2382 1277 2424 1521 2438 1608 2410 1611 2410 1611 2410 1611 2410 1615 2410 1615 2410 1615 2410 1618 2410 1618 2410 1684 2438 1719 2407 1719 2403 1719 2403 1723 2403 1723 2403 1726 2403 1726 2403 1726 2403 1730 2403 1730 2403 1730 2403 1733 2403 1806 2427 1883 2386 1883 2386 1883 2386 1886 2386 1886 2386 1886 2386 1890 2386 1890 2386 1890 2386 1893 2386 1973 2413 2029 2386 2029 2386 2029 2386 2032 2386 2032 2386 2036 2386 2036 2386 2036 2386 2151 2410 2203 2375 2207 2375 2207 2375 2207 2375 2210 2375 2210 2375 2213 2375 2213 2375 2213 2375 2377 2407 2589 2372 2589 2372 2593 2372 2593 2372 2593 2372 2596 2372 2596 2372 2600 2372 2600 2372 2635 2400 2917 2400 2990 2365 3004 2448 3004 2490 2830 2497 2826 2497 2826 2497 2823 2497 2823 2497 2823 2497 2774 2480 2697 2500 2683 2504 2680 2504 2680 2504 2680 2504 2676 2504 2676 2504 2673 2504 2673 2504 2673 2504 2666 2500 2631 2483 2607 2504 2603 2507 2603 2507 2600 2507 2600 2507 2600 2507 2596 2507 2596 2507 2593 2507 2593 2507 2593 2507 2589 2507 2589 2507 2589 2507 2582 2504 2548 2487 2443 2507 2408 2514 2408 2514 2408 2514 2314 2518 2311 2518 2311 2518 2311 2518 2307 2518 2307 2518 2304 2518 2304 2518 2304 2518 2301 2514 2283 2497 2255 2514 2241 2521 2241 2521 2241 2521 2238 2521 2238 2521 2238 2521 2234 2521 2234 2521 2234 2521 2231 2521 2210 2514 2168 2500 2147 2518 2144 2521 2144 2521 2140 2521 2140 2521 2140 2521 2137 2521 2137 2521 2133 2521 2133 2521 2133 2521 2113 2518 2050 2504 1987 2521 1952 2532 1949 2532 1949 2532 1949 2532 1945 2532 1945 2532 1893 2525 1824 2514 1803 2528 1799 2532 1799 2532 1796 2532 1796 2532 1792 2532 1792 2532 1792 2532 1789 2532 1730 2528 1590 2521 1573 2535 1569 2539 1569 2539 1566 2539 1566 2539 1566 2539 1563 2539 1563 2539 1559 2539 1437 2539 1187 2535 1145 2546 1089 2563 1086 2563 1086 2563 1086 2563 1082 2563 894 2553"
                               type="principal" break="no"/>
-                        <milestone n="I" unit="book" resp="#Keil"/> Omnia uerba in bo uel in bor
+                        <milestone n="II" unit="book" resp="#Keil"/> Omnia uerba in bo uel in bor
                         desinentia quacumq; uo  <lb
                               facs="1159 2629 1148 2553 3066 2500 3073 2591 3070 2612 2509 2608 2419 2626 2349 2636 2346 2636 2342 2636 2307 2626 2273 2615 2252 2626 2234 2640 2231 2640 2227 2640 2224 2640 2071 2629 1991 2626 1949 2633 1848 2650 1844 2650 1618 2636 1573 2636 1569 2640 1528 2660 1524 2660 1521 2660 1155 2643"
                               type="principal"/> cali seu consonante precedente prime sunt
