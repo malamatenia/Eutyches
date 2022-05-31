@@ -36,8 +36,9 @@ The following graph concisely describes the pipeline ( that clearly has optimiza
 |  ODD | Contains the ODD file and its outputs on XHTML and pdf as well as the RNG schema that validates our edition |
 | XSL | Contains xsl transformation scenarios to concatenate ALTO files and turn them into minimal TEI |
 | data | Itself containing 3 folders, one for the alto files of the dataset, one for the HTR model and one for the .txt transcriptions |
-| diagrams | Contains pipeline modelisation diagrams and the graphics/visualisation of the above .csv file |
-| python-tools | contains a csv with information on the manuscript glosses and notebooks for the visualisation of the data |
+| diagrams | Contains pipeline modelisation diagrams |
+| python-tools | contains a .csv file with information on the manuscript glosses and notebooks for the visualisation of the data and the graphics/visualisation of the aforementionned .csv file|
+| rendu |  The pdf and .tex file of the Master1 mini-dissertation |
  
 The rest of the repository contains also the documentary edition of the work under ``` VLO41_TEI_edition.xml ``` , a small guide to the hand attribution under ``` hand_attribution_guide ``` the actual disertation on LaTeX/pdf and the ```table.csv``` for chocomufin.
 
