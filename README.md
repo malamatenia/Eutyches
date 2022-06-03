@@ -40,7 +40,7 @@ The following graph concisely describes the pipeline ( that clearly has optimiza
 | python-tools | contains a .csv file with information on the manuscript glosses and notebooks for the visualisation of the data and the graphics/visualisation of the aforementionned .csv file|
 | rendu |  The pdf and .tex file of the Master1 mini-dissertation |
  
-The rest of the repository contains also the documentary edition of the work under ``` VLO41_TEI_edition.xml ``` , a small guide to the hand attribution under ``` hand_attribution_guide ``` the actual disertation on LaTeX/pdf and the ```table.csv``` for chocomufin.
+The rest of the repository contains also the documentary edition of the work under ``` VLO41_TEI_edition.xml ``` , a small guide to the hand attribution under ``` hand_attribution_guide ``` and the ```table.csv``` for the chocomufin character control.
 
 # **Quality control**
 
