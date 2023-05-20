@@ -20,4 +20,4 @@ jobs:
         pip install htrvx
     - name: Run HTRVX
       run: |
-        htrvx --verbose --format alto --segmonto ./data/altos/**/*.xml
+        htrvx --verbose --format alto --segmonto ./VLO41/GT/alto/*/xml BambergMsc30/GT/alto/*/xml Lat7499/GT/alto/*/xml Lat14087/GT/alto/*/xml
