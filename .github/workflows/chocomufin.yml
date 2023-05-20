@@ -20,4 +20,4 @@ jobs:
         pip install chocomufin
     - name: Run ChocoMufin
       run: |
-        chocomufin --norm NFD control table.csv data/altos/**/*.xml 
+        chocomufin --norm NFD control table.csv VLO41/GT/alto/*/xml BambergMsc30/GT/alto/*/xml Lat7499/GT/alto/*/xml Lat14087/GT/alto/*/xml
