@@ -1,5 +1,7 @@
 # *Eutyches Grammaticus, but glossed*
 
+## link to the YALTAi model weights : https://drive.google.com/drive/folders/16K4tPTaZvcc-rYqEFlUAoHX9vtaYLfnF?usp=share_link 
+
 # **Introduction**
 
 Eutychès was a Latin Grammarian, active in mid 6th century AD Constantinople, disciple of Priscianus Caesariensis. His contribution to the field of grammar consist mainly on a treatise called *De uerbo*, adressed to his *diligentissimum discipulorum* Craterus.The *ars* elaborates on the criteria for the classification of the conjugation of verbs, in short if the genitif of *dico* is *dicas* or *dicis*. Itself a rather arid development of principles that do not escape the general rule, nevertheless thanks to *De uerbo* 141 citations of classical authors have been passed down to us -some passages being otherwise lost-, mostly early Augustean poets. Adding to this, exhaustive lists of examples of verbs and derived nouns make integral part of the treatise, that have been recycled from posterior Grammatici.
