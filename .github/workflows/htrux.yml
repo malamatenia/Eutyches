@@ -3,7 +3,7 @@
 
 name: HTRVX
 
-on: [push, pull_request] # You can edit this of course !
+on: [pull_request] # You can edit this of course !
 
 jobs:
   test:
