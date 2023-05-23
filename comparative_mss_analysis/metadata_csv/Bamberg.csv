@@ -1,11 +1,11 @@
 folio,lemma_id,lemma,gloss_id,gloss,gloss_type,gloss_form,nature,marginal_note_id,marginal_note_type,marginal_note_form
 71r,p447_l01_o00,EVTICII ,,,,,,p447_l01_o00_a,S54,F5
 71r,p447_l05_o02,SEMPER ,p447_l05_o02_a,ꝓ sepe,S22,F2,normal,,,
-71r,p447_l05_o04,QVĘSTIONES ,p447_l05_o04_a,ꝓ positiones,S22,F2,shorthand,,,
-71r,p447_l05_o05,DOCTORIBVS ,p447_l05_o05_a,PRAECEP ͭ ͦ ͬ ͥᵇ ͧ ᷤ,S22,F2,normal,,,
+71r,p447_l05_o04,QVĘSTIONES ,p447_l05_o04_a,ꝓ positiones,S22,F2,normal,,,
+71r,p447_l05_o05,DOCTORIBVS ,p447_l05_o05_a,PRAECEP ͭ ͦ ͬ ͥᵇ ͧ ᷤ,S22,F2,shorthand,,,
 71r,p447_l05_o06,AVDITORVM ,p447_l05_o06_a,discipulorũ,S22,F2,normal,,,
-71r,p447_l05_o07,ACVTIora ,p447_l05_o07_a,peritiora astutiora /subtiliora VALᵈ ͤ <...?>/excellentiora,S22,F3,shorthand,,,
-71r,p447_l05_o08,comouere ,p447_l05_o08_a,incitare,S22,F2,shorthand,,,
+71r,p447_l05_o07,ACVTIora ,p447_l05_o07_a,peritiora astutiora /subtiliora VALᵈ ͤ <...?>/excellentiora,S22,F3,normal,,,
+71r,p447_l05_o08,comouere ,p447_l05_o08_a,incitare,S22,F2,normal,,,
 71r,p447_l06_o02,soleant ,p447_l06_o02_a,c̃suescant,S22,F2,normal,,,
 71r,p447_l06_o03,ingenia ,,,,,,,,
 71r,p447_l06_o05,curiositas ,p447_l06_o05_a,(a cora) sagax sollicitudo,S22,F2,normal,,,
@@ -15,149 +15,149 @@ folio,lemma_id,lemma,gloss_id,gloss,gloss_type,gloss_form,nature,marginal_note_i
 71r,p447_l07_o01,desider& ,p447_l07_o01_a,c̃cupiscat,S22,F2,normal,,,
 71r,p447_l07_o03,recens ,p447_l07_o03_a,nouum,S22,F2,normal,,,
 71r,p447_l07_o04,inexcusabilis ,p447_l07_o04_a,ineuitabilis,S22,F2,normal,,,
-71r,p447_l07_o05,quodãmodo ,p447_l07_o05_a,aliquo modo,S22,F2,shorthand,,,
+71r,p447_l07_o05,quodãmodo ,p447_l07_o05_a,aliquo modo,S22,F2,normal,,,
 71r,p447_l08_o02,iurę ,p447_l08_o02_a,merito,S22,F2,normal,,,
 71r,p447_l08_o03,uidetur ,p447_l08_o03_a,existimat᷑,S22,F2,normal,,,
 71r,p447_l08_o04,imponi ,p447_l08_o04_a,dignũ ducit᷑,S23,F3,normal,,,
 71r,p447_l08_o07,p&itionibus ,p447_l08_o07_a,postulationib,S22,F2,normal,,,
 71r,p447_l08_o08,satisfaciens ,p447_l08_o08_a,oboediens,S22,F2,normal,,,
-71r,p447_l09_o03,diligentissime ,p447_l09_o03_a,studiosissime,S22,F2,shorthand,,,
+71r,p447_l09_o03,diligentissime ,p447_l09_o03_a,studiosissime,S22,F2,normal,,,
 71r,p447_l09_o05,cratere ,p447_l09_o05_a,uocesca s̃,S553,F2,normal,,,
 71r,p447_l09_o06,quẽ ,p447_l09_o06_a,SUBAUD ͥ ͭ ͧ ͬ te,S3232,F3,normal,,,
 71r,p447_l10_o01,facundia ,p447_l10_o01_a,eloquentia,S22,F2,normal,p447_l10_o01_b,S22,F2
 71r,p447_l10_o03,aequiperatẽ ,p447_l10_o03_a,assimilantẽ ꝓsequentẽ,S22,F3,normal,,,
-71r,p447_l10_o04,maiores ,p447_l10_o04_a,priores,S22,F2,shorthand,,,
-71r,p447_l11_o01,excellentes ,p447_l11_o01_a,EMIN ͤ ᷠ ͭ ͤ ᷤ SUBAUD ͥ ͭ ͧ ͬ ILL ͦ ᷤ IDEST MA ͥ ͦ ͬ ͧ ͫ TU ͦ ᷤ,S23,F4,normal,,,
+71r,p447_l10_o04,maiores ,p447_l10_o04_a,priores,S22,F2,normal,,,
+71r,p447_l11_o01,excellentes ,p447_l11_o01_a,EMIN ͤ ᷠ ͭ ͤ ᷤ SUBAUD ͥ ͭ ͧ ͬ ILL ͦ ᷤ IDEST MA ͥ ͦ ͬ ͧ ͫ TU ͦ ᷤ,S23,F4,shorthand,,,
 71r,p447_l11_o05,superauisse ,p447_l11_o05_a,uicisse,S22,F2,normal,,,
 71r,p447_l11_o06,romana ,p447_l11_o06_a,latina,S22,F2,normal,,,
-71r,p447_l11_o07,opusculũ ,p447_l11_o07_a,libellũ hunc,S53,F3,shorthand,,,
+71r,p447_l11_o07,opusculũ ,p447_l11_o07_a,libellũ hunc,S53,F3,normal,,,
 71r,p447_l12_o02,discernendas ,p447_l12_o02_a,distinguendas,S22,F2,normal,,,
 71r,p447_l12_o08,inclusi ,p447_l12_o08_a,cõp̃hendi,S22,F2,normal,p447_l12_o08_b,S22,F2
 71r,p447_l12_o09,quorũ ,p447_l12_o09_a,sb̶ librorũ,S3232,F2,normal,,,
 71r,p447_l13_o02,obseruationib; ,p447_l13_o02_a,regulis,S22,F2,normal,,,
-71r,p447_l13_o03,instruit᷑ ,p447_l13_o03_a,disponit᷑ ORDIN ͣ ͭ ͧ ͬ,S22,F3,shorthand,,,
+71r,p447_l13_o03,instruit᷑ ,p447_l13_o03_a,disponit᷑ ORDIN ͣ ͭ ͧ ͬ,S22,F3,normal,,,
 71r,p447_l13_o04,generalibus ,p447_l13_o04_a,cõmunib,S22,F2,normal,,,
-71r,p447_l13_o06,indicio ,p447_l13_o06_a,agnitione,S22,F2,shorthand,,,
-71r,p447_l13_o07,finalitatis ,p447_l13_o07_a,TERMINA ͭ ͥ ͦ ᷠ ͥ ᷤ,S22,F3,normal,,,
+71r,p447_l13_o06,indicio ,p447_l13_o06_a,agnitione,S22,F2,normal,,,
+71r,p447_l13_o07,finalitatis ,p447_l13_o07_a,TERMINA ͭ ͥ ͦ ᷠ ͥ ᷤ,S22,F3,shorthand,,,
 71r,p447_l14_o01,speciales ,p447_l14_o01_a,singulares PROP ͬ ͥ ͧ ͫ,S22,F3,normal,,,
-71r,p447_l14_o02,exsequit᷑ ,p447_l14_o02_a,c̃seꝗt᷑ c̃tin&,S22,F3,shorthand,,,
+71r,p447_l14_o02,exsequit᷑ ,p447_l14_o02_a,c̃seꝗt᷑ c̃tin&,S22,F3,normal,,,
 71r,p447_l17_o02,quidem ,p447_l17_o02_a,causa ł c̃iunctio,S35,F3,normal,,,
 71r,p447_l17_o07,species ,p447_l17_o07_a,significationes ł formę,S22,F3,normal,,,
 71r,p447_l17_o08,Vna ,p447_l17_o08_a,PRO pͥma PON ͥ ͭ ͧ ͬ,S53,F4,normal,,,
 71r,p447_l18_o01,carens ,p447_l18_o01_a,ñ habens,S23,F3,normal,,,
 71r,p447_l18_o02,tenore ,p447_l18_o02_a,accentũ,S22,F2,normal,,,
 71r,p447_l18_o05,barutonos ,p447_l18_o05_a,bari apud g̃cos dr̃ grauis tonos accentꝰ inde/baritonos id ÷ grauis accentus,S211,F4,normal,,,
-71r,p447_l18_o07,eis ,p447_l18_o07_a,SUBAUD ͥ ͭ ͧ ͬ gręcis,S3232,F3,shorthand,,,
+71r,p447_l18_o07,eis ,p447_l18_o07_a,SUBAUD ͥ ͭ ͧ ͬ gręcis,S3232,F3,normal,,,
 71r,p447_l18_o09,quę ,p447_l18_o09_a,sb̶ pͥma species CONIUGA ͭ ͥ ͦ ᷠ ͥ ᷤ,S3232,F4,normal,,,
 71r,p448_l01_o05,ordinẽ ,,,,,,,,
 71r,p448_l01_o06,sex ,,,,,,p448_l01_o06_a,S64,F4
 71r,p448_l01_o08,significat ,p448_l01_o08_a,demonstrat,S22,F2,normal,,,
-71r,p448_l01_o09,Alia ,p448_l01_o09_a,sb̶ species CONIUGA ͭ ͥ ͦ ᷠ ͥ ᷤ,S3232,F3,shorthand,p448_l01_o09_b,S53,F4
+71r,p448_l01_o09,Alia ,p448_l01_o09_a,sb̶ species CONIUGA ͭ ͥ ͦ ᷠ ͥ ᷤ,S3232,F3,normal,p448_l01_o09_b,S53,F4
 71r,p448_l02_o04,ꝓlata ,p448_l02_o04_a,enuntiata,S22,F2,normal,,,
 71r,p448_l02_o06,eos ,p448_l02_o06_a,sb̶ gręcos,S3232,F2,normal,,,
-71r,p448_l02_o08,ꝑispomene ,p448_l02_o08_a,peri DIC ͥ ͭ ͧ ͬ circũ UNDE perispomene IDEST CIRCUM FLEXIBILIS,S211,F4,shorthand,,,
-71r,p448_l04_o03,t̃tia ,p448_l04_o03_a,sb̶ species CONIUGA ͭ ͥ ͦ ᷠ ͥ ᷤ,S53,F4,shorthand,,,
+71r,p448_l02_o08,ꝑispomene ,p448_l02_o08_a,peri DIC ͥ ͭ ͧ ͬ circũ UNDE perispomene IDEST CIRCUM FLEXIBILIS,S211,F4,normal,,,
+71r,p448_l04_o03,t̃tia ,p448_l04_o03_a,sb̶ species CONIUGA ͭ ͥ ͦ ᷠ ͥ ᷤ,S53,F4,normal,,,
 71r,p448_l04_o10,t̃minatione ,p448_l04_o10_a,instu?cia que nobis uult,S53,F4,normal,,,
 71r,p448_l04_o11,dicunt ,p448_l04_o11_a,sb̶ gręci,S415,F2,normal,,,
-71r,p448_l05_o06,habent ,p448_l05_o06_a,sb̶ gręci,S415,F2,shorthand,,,
+71r,p448_l05_o06,habent ,p448_l05_o06_a,sb̶ gręci,S415,F2,normal,,,
 71r,p448_l06_o03,multis ,p448_l06_o03_a,SUBAUD ͥ ͭ ͧ ͬ regulis,S3232,F3,normal,,,
 71r,p448_l06_o05,prorsus ,p448_l06_o05_a,omnino,S22,F2,normal,,,
 71r,p448_l07_o01,indicia ,p448_l07_o01_a,signa,S22,F2,normal,,,
 71r,p448_l07_o03,iterũ ,p448_l07_o03_a,SUBAUD ͥ ͭ ͧ ͬ VID ͤ ᷠ ͭ ͧ ͬ,S53,F2,normal,,,
 71r,p448_l07_o05,penitꝰ ,p448_l07_o05_a,funditꝰ,S22,F2,normal,,,
-71r,p448_l07_o06,omĩb; ,p448_l07_o06_a,sb̶ indiciis,S53,F2,shorthand,,,
+71r,p448_l07_o06,omĩb; ,p448_l07_o06_a,sb̶ indiciis,S53,F2,normal,,,
 71r,p448_l08_o02,uident᷑ ,p448_l08_o02_a,sb̶ latini,S415,F2,normal,,,
 71r,p448_l08_o03,imitari ,p448_l08_o03_a,sequi,S22,F2,normal,,,
 71r,p448_l08_o05,t̃minalẽ ,p448_l08_o05_a,finalẽ,S22,F2,normal,,,
-71r,p448_l08_o08-09,in-plerisq; ,p448_l08_o08-09_a,in multis modis,S53,F3,shorthand,,,
+71r,p448_l08_o08-09,in-plerisq; ,p448_l08_o08-09_a,in multis modis,S53,F3,normal,,,
 71r,p448_l09_o01,habentes ,p448_l09_o01_a,illi latini,S415,F3,normal,,,
 71r,p448_l09_o07-08,natura ,p448_l09_o07-08_a,ꝑ naturã,S22,F2,normal,,,
 71r,p448_l10_o04,tenore ,p448_l10_o04_a,accentu,S22,F2,normal,,,
-71r,p448_l10_o05,prorsus ,p448_l10_o05_a,PENI ͭ ͧ ᷤ,S22,F2,shorthand,,,
-71r,p448_l11_o02,carent ,p448_l11_o02_a,sb̶ uerba,S53,F2,shorthand,,,
-71r,p448_l12_o02,ostendentia ,p448_l12_o02_a,illa uerba,S53,F3,shorthand,,,
-71r,p448_l13_o01,t̃minalis ,p448_l13_o01_a,FIN ͣ ᷝ ͥ ᷤ,S22,F2,normal,,,
+71r,p448_l10_o05,prorsus ,p448_l10_o05_a,PENI ͭ ͧ ᷤ,S22,F2,normal,,,
+71r,p448_l11_o02,carent ,p448_l11_o02_a,sb̶ uerba,S53,F2,normal,,,
+71r,p448_l12_o02,ostendentia ,p448_l12_o02_a,illa uerba,S53,F3,normal,,,
+71r,p448_l13_o01,t̃minalis ,p448_l13_o01_a,FIN ͣ ᷝ ͥ ᷤ,S22,F2,shorthand,,,
 71r,p448_l13_o03,qua ,p448_l13_o03_a,s̃ obseruationes,S3232,F2,normal,,,
-71r,p448_l13_o04,dinosci ,p448_l13_o04_a,cͦgnosci,S22,F2,shorthand,,,
+71r,p448_l13_o04,dinosci ,p448_l13_o04_a,cͦgnosci,S22,F2,normal,,,
 71r,p448_l13_o06-07,artiũ scriptores ,p448_l13_o06-07_a,artigraphi,S23,F2,normal,,,
 71r,p448_l14_o01,romanos ,p448_l14_o01_a,latinos,S22,F2,normal,,,
 71r,p448_l14_o02,penitꝰ ,p448_l14_o02_a,radicitꝰ,S22,F2,normal,,,
 71r,p448_l14_o04,incerta ,p448_l14_o04_a,dubia,S22,F2,normal,,,
-71r,p448_l14_o08,cogim᷑ ,p448_l14_o08_a,cõpellim᷑,S22,F2,shorthand,,,
-71r,p448_l15_o02,t̃tię ,p448_l15_o02_a,CONIUGA ͭ ͥ ͦ ᷠ ͥ ᷤ,S3232,F2,shorthand,,,
+71r,p448_l14_o08,cogim᷑ ,p448_l14_o08_a,cõpellim᷑,S22,F2,normal,,,
+71r,p448_l15_o02,t̃tię ,p448_l15_o02_a,CONIUGA ͭ ͥ ͦ ᷠ ͥ ᷤ,S3232,F2,normal,,,
 71r,p448_l15_o06,primę ,p448_l15_o06_a,CONIUGA ͭ ͥ ͦ ᷠ ͥ ᷤ,S53,F2,shorthand,,,
 71r,p448_l15_o08,cubo ,p448_l15_o08_a,IAC ͤ ͦ,S22,F2,shorthand,,,
 71r,p448_l16_o09,possĩ ,p448_l16_o09_a,CONIUNCTI ͧ ͧ ᷤ MODUS,S333,F3,shorthand,,,
 71r,p448_l18_o06,positionis ,p448_l18_o06_a,pͥmae ꝑsonae,S53,F3,normal,,,
 71r,p448_l18_o08,c̃siderans. ,p448_l18_o08_a,c̃spiciens (PERSPICI?)  ͤ ᷠ ᷤ,S22,F3,normal,,,
-71r,p448_l18_o09,Notatis ,p448_l18_o09_a,exceptis SEGREGA ͭ ͥ ᷤ,S22,F3,shorthand,,,
+71r,p448_l18_o09,Notatis ,p448_l18_o09_a,exceptis SEGREGA ͭ ͥ ᷤ,S22,F3,normal,,,
 71r,p448_l19_o01,anomalis ,p448_l19_o01_a,inęqualib,S22,F2,normal,,,
 71r,p448_l19_o06,plerũq ,p448_l19_o06_a,sedulo,S22,F2,normal,,,
 71r,p448_l19_o10,analogię ,p448_l19_o10_a,c̃rationalitatis,S53,F3,normal,,,
 71r,p448_l20_o02,"possũ, ",,,,,,p448_l20_o02_a,S24,F4
 71r,p448_l20_o03,"inquã, ",p448_l20_o03_a,dico,S22,F2,normal,,,
-71r,p448_l20_o04,"cedo, ",p448_l20_o04_a,dic,S22,F2,shorthand,,,
+71r,p448_l20_o04,"cedo, ",p448_l20_o04_a,dic,S22,F2,normal,,,
 71r,p448_l20_o05,edo ,p448_l20_o05_a,COMED ͦ,S22,F2,shorthand,,,
 71r,p448_l20_o06,"faxo, ",p448_l20_o06_a,facio ł ILLUMIN ͦ?,S22,F3,normal,,,
 71r,p448_l20_o07,"sodes, ",p448_l20_o07_a,si audes,S25,F3,normal,,,
 71r,p448_l20_o08,"aue, ",p448_l20_o08_a,salue,S22,F2,normal,,,
 71r,p448_l20_o09,"ferit, ",p448_l20_o09_a,ꝑcutit,S22,F2,normal,p448_l20_o09_b,S54,F4
 71r,p448_l20_o10,"infit, ",p448_l20_o10_a,inquit,S22,F2,normal,,,
-71r,p448_l21_o03,ipsis ,p448_l21_o03_a,anomalis,S3232,F2,shorthand,,,
+71r,p448_l21_o03,ipsis ,p448_l21_o03_a,anomalis,S3232,F2,normal,,,
 71r,p448_l21_o04,quędã ,p448_l21_o04_a,+,S3232,F2,shorthand,,,
-71r,p448_l22_o03,oboedire ,p448_l22_o03_a,PAR ͤ ͬ ͤ ET sequi,S22,F3,shorthand,,,
+71r,p448_l22_o03,oboedire ,p448_l22_o03_a,PAR ͤ ͬ ͤ ET sequi,S22,F3,normal,,,
 71r,p448_l24_o01-02,hac ,p448_l24_o01-02_a,ista,S22,F2,normal,,,
 71r,p448_l24_o03,ambiguitate ,p448_l24_o03_a,dubietate,S22,F2,normal,,,
-71r,p448_l24_o06,tẽptabo ,p448_l24_o06_a,conabor nitare,S53,F3,shorthand,,,
+71r,p448_l24_o06,tẽptabo ,p448_l24_o06_a,conabor nitare,S53,F3,normal,,,
 71r,p448_l24_o07,qđ ,p448_l24_o07_a,VERB ͣ,S3232,F2,normal,,,
 71r,p448_l24_o08,inchoatiua ,,,,,,p448_l24_o08_a,S23,F5
-71r,p448_l25_o01,ꝗdem ,p448_l25_o01_a,VERB ͣ,S3232,F2,shorthand,,,
+71r,p448_l25_o01,ꝗdem ,p448_l25_o01_a,VERB ͣ,S3232,F2,normal,,,
 71r,p448_l26_o08,solũ ,p448_l26_o08_a,solũ modo,S53,F2,normal,,,
-71r,p448_l27_o04,artigaphis ,p448_l27_o04_a,artiũ scriptorib,S23,F3,shorthand,,,
+71r,p448_l27_o04,artigaphis ,p448_l27_o04_a,artiũ scriptorib,S23,F3,normal,,,
 71v,p448_l27_o09,t̃tię ,,,,,,,,
-71v,p448_l28_o02,"hebesco, ",p448_l28_o02_a,hebes fieri incipio,S23,F3,shorthand,,,
+71v,p448_l28_o02,"hebesco, ",p448_l28_o02_a,hebes fieri incipio,S23,F3,normal,,,
 71v,p448_l28_o03,"caluesco, ",p448_l28_o03_a,caluus FI ͤ ͬ ͥ INCIPI ͦ,S23,F3,shorthand,,,
 71v,p448_l28_o04,"ꝑtimesco, ",p448_l28_o04_a,ꝑtimere INCIPI ͦ,S23,F3,shorthand,,,
 71v,p448_l28_o05,"euanesco, ",p448_l28_o05_a,uanꝰ INCIPI ͦ FI ͤ ͬ ͥ,S23,F3,shorthand,,,
 71v,p449_l01_o04,"labasco, ",p449_l01_o04_a,labere ID EST CAD ͤ ͬ ͤ INCIPI ͦ,S23,F3,normal,p449_l01_o04_b,S54,F4
 71v,p449_l01_o07,"purpurasco, ",,,,,,p449_l01_o07_a,S22,F3
-71v,p449_l02_o04,glisco  ,p449_l02_o04_a,crescere INCIPI ͦ,S23,F3,shorthand,,,
+71v,p449_l02_o04,glisco  ,p449_l02_o04_a,crescere INCIPI ͦ,S23,F3,normal,,,
 71v,p449_l02_o07,meditatiua ,p449_l02_o07_a,VERB ͣ,S53,F2,shorthand,p449_l02_o07_b,S53,F5
-71v,p449_l02_o10,solũ ,p449_l02_o10_a,?,S22,F2,normal,,,
-71v,p449_l03_o09,lecturio ,p449_l03_o09_a,legere meditor,S23,F3,shorthand,,,
-71v,p449_l03_o10,"dicturio, ",p449_l03_o10_a,DIC ͤ ͬ ͤ VOLO,S23,F3,normal,,,
-71v,p449_l04_o01,"micturio, ",p449_l04_o01_a,mingere meditor,S23,F3,shorthand,,,
+71v,p449_l02_o10,solũ ,p449_l02_o10_a,?,S22,F2,shorthand,,,
+71v,p449_l03_o09,lecturio ,p449_l03_o09_a,legere meditor,S23,F3,normal,,,
+71v,p449_l03_o10,"dicturio, ",p449_l03_o10_a,DIC ͤ ͬ ͤ VOLO,S23,F3,shorthand,,,
+71v,p449_l04_o01,"micturio, ",p449_l04_o01_a,mingere meditor,S23,F3,normal,,,
 71v,p449_l04_o02,esurio ,,,,,,p449_l04_o02_a,S333,F4
 71v,p449_l04_o06,similit̃ ,p449_l04_o06_a,ID EST UT inchoatiua & meditatiua,S53,F3,shorthand,,,
 71v,p449_l07_o01,"lectito, ",p449_l07_o01_a,frequent̃ lego,S23,F3,normal,,,
 71v,p449_l07_o08,merso ,p449_l07_o08_a,A MERG ͦ VERB ͦ,S54,F3,normal,,,
-71v,p449_l07_o10,"nexo, ",p449_l07_o10_a,frequent̃ necto ID EST ligo,S23,F3,shorthand,,,
-71v,p449_l07_o11,Viso ,p449_l07_o11_a,desidero uidere,S23,F4,shorthand,,,
-71v,p449_l08_o03,qđ ,p449_l08_o03_a,VERB ͧ ͫ (?),S3232,F2,normal,,,
-71v,p449_l09_o04,eodem ,p449_l09_o04_a,SUBAUD ͥ ͭ ͧ ͬ libro,S3232,F3,shorthand,,,
-71v,p449_l15_o03,formę ,p449_l15_o03_a,: uerba,S611,F2,shorthand,,,
+71v,p449_l07_o10,"nexo, ",p449_l07_o10_a,frequent̃ necto ID EST ligo,S23,F3,normal,,,
+71v,p449_l07_o11,Viso ,p449_l07_o11_a,desidero uidere,S23,F4,normal,,,
+71v,p449_l08_o03,qđ ,p449_l08_o03_a,VERB ͧ ͫ (?),S3232,F2,shorthand,,,
+71v,p449_l09_o04,eodem ,p449_l09_o04_a,SUBAUD ͥ ͭ ͧ ͬ libro,S3232,F3,normal,,,
+71v,p449_l15_o03,formę ,p449_l15_o03_a,: uerba,S611,F2,normal,,,
 71v,p449_l15_o08,anomala ,,,,,,p449_l15_o08_a,S53,F4
 71v,p449_l17_o01,ea ,p449_l17_o01_a,VERB ͣ,S3232,F2,shorthand,,,
 71v,p449_l17_o03,arbitror ,p449_l17_o03_a,reor  autumo,S22,F3,normal,,,
-71v,p449_l17_o05,discerni ,p449_l17_o05_a,distingui,S22,F2,shorthand,,,
-71v,p449_l18_o01,facilior ,p449_l18_o01_a,planior leuior,S22,F3,shorthand,,,
+71v,p449_l17_o05,discerni ,p449_l17_o05_a,distingui,S22,F2,normal,,,
+71v,p449_l18_o01,facilior ,p449_l18_o01_a,planior leuior,S22,F3,normal,,,
 71v,p449_l19_o05,finalis ,p449_l19_o05_a,+,S22,F2,shorthand,,,
 71v,p449_l19_o13,penitꝰ ,p449_l19_o13_a,funditꝰ,S22,F2,normal,,,
 71v,p449_l20_o06,reboo ,p449_l20_o06_a,resono,S22,F2,normal,p449_l20_o06_b,S53,F5
-71v,p449_l20_o11,boω ,p449_l20_11_a,sono,S22,F2,shorthand,,,
+71v,p449_l20_o11,boω ,p449_l20_11_a,sono,S22,F2,normal,,,
 71v,p449_l22_o06,reboant ,,,,,,,,
 71v,p449_l22_o10,olimpus ,p449_l22_o10_a,mons ÷,S554,F4,normal,,,
 71v,p449_l23_o02,inchoo ,p449_l23_o02_a,incipio,S22,F2,normal,,,
-71v,p449_l23_o09,traductũ ,p449_l23_o09_a,deductũ diriuatũ,S22,F3,shorthand,,,
+71v,p449_l23_o09,traductũ ,p449_l23_o09_a,deductũ diriuatũ,S22,F3,normal,,,
 71v,p449_l24_o02,igit᷑ ,p449_l24_o02_a,+,S22,F2,shorthand,,,
 71v,p449_l25_o04,u&eres ,p449_l25_o04_a,antiquos,S22,F2,normal,,,
-71v,p449_l25_o05-06,artiũ scriptores ,p449_l25_o05-06_a,artiũ disciplinarum doctores,S23,F3,shorthand,,,
-71v,p449_l25_o08,c̃iugationis ,p449_l25_o08_a,SUBAUD ͥ ͭ ͧ ͬ?  SUNT,S53,F2,normal,,,
-71v,p449_l26_o02,sola ,p449_l26_o02_a,CONIUGA ͭ ͥ ͦ SECUND ͣ,S53,F3,shorthand,,,
+71v,p449_l25_o05-06,artiũ scriptores ,p449_l25_o05-06_a,artiũ disciplinarum doctores,S23,F3,normal,,,
+71v,p449_l25_o08,c̃iugationis ,p449_l25_o08_a,SUBAUD ͥ ͭ ͧ ͬ?  SUNT,S53,F2,shorthand,,,
+71v,p449_l26_o02,sola ,p449_l26_o02_a,CONIUGA ͭ ͥ ͦ SECUND ͣ,S53,F3,normal,,,
 71v,p449_l26_o11,alię ,,,,,,,,
-71v,p449_l27_o07,frequentatiua ,p449_l27_o07_a,SUBAUD ͥ ͭ ͧ ͬ VERB ͣ POSSID ͤ ͭ,S53,F4,shorthand,,,
-71v,p449_l27_o08,t̃tia ,p449_l27_o08_a,CONIUGA ͭ ͥ ͦ,S53,F2,normal,,,
-71v,p449_l27_o09,inchoatiua ,p449_l27_o09_a,SUBAUD ͥ ͭ ͧ ͬ VERB ͣ POSSID ͤ ͭ,S53,F4,shorthand,,,
+71v,p449_l27_o07,frequentatiua ,p449_l27_o07_a,SUBAUD ͥ ͭ ͧ ͬ VERB ͣ POSSID ͤ ͭ,S53,F4,normal,,,
+71v,p449_l27_o08,t̃tia ,p449_l27_o08_a,CONIUGA ͭ ͥ ͦ,S53,F2,shorthand,,,
+71v,p449_l27_o09,inchoatiua ,p449_l27_o09_a,SUBAUD ͥ ͭ ͧ ͬ VERB ͣ POSSID ͤ ͭ,S53,F4,normal,,,
 71v,p449_l28_o01,quarta ,,,,,,,,
 71v,p449_l28_o05,scđa ,p449_l28_o05_a,CONIUGA ͭ ͥ ͦ,S53,F2,shorthand,p449_l28_o05_b,S63,F4
 71v,p449_l29_o01,specialẽ  ,p449_l29_o01_a,PROPRI ͣ ͫ POSSID ͤ ͭ,S53,F4,shorthand,,,
@@ -172,15 +172,15 @@ folio,lemma_id,lemma,gloss_id,gloss,gloss_type,gloss_form,nature,marginal_note_i
 71v,p449_l31_o01,"censeo, ",p449_l31_o01_a,iudico,S22,F2,normal,,,
 71v,p449_l30_o05,"candeo, ",p449_l30_o05_a,albesco,S22,F2,normal,,,
 71v,p449_l30_o08,"timeo, ",p449_l30_o08_a,uereor,S22,F2,normal,,,
-71v,p449_l30_o06,"egeo, ",p449_l30_o06_a,opus habeo,S23,F4,shorthand,,,
+71v,p449_l30_o06,"egeo, ",p449_l30_o06_a,opus habeo,S23,F4,normal,,,
 71v,p449_l31_o02,"pateo, ",p449_l31_o02_a,aperio,S22,F2,normal,,,
-71v,p449_l31_o03,caueo ,p449_l31_o03_a,p̃uideo,S22,F2,shorthand,,,
-71v,p449_l33_o02,"polliceor, ",p449_l33_o02_a,spondeo,S22,F2,shorthand,p449_l33_o02_b,S63,F2
-71v,p449_l33_o03,"liqueor, ",p449_l33_o03_a,defluo DECURR ͦ,S23,F3,normal,,,
+71v,p449_l31_o03,caueo ,p449_l31_o03_a,p̃uideo,S22,F2,normal,,,
+71v,p449_l33_o02,"polliceor, ",p449_l33_o02_a,spondeo,S22,F2,normal,p449_l33_o02_b,S63,F2
+71v,p449_l33_o03,"liqueor, ",p449_l33_o03_a,defluo DECURR ͦ,S23,F3,shorthand,,,
 71v,p449_l33_o04,"medeor, ",p449_l33_o04_a,sano medico,S22,F3,normal,,,
 71v,p449_l33_o06,"męreor, ",p449_l33_o06_a,tristor,S22,F2,normal,,,
 71v,p449_l33_o05,"reor, ",p449_l33_o05_a,ęstimo autumo,S22,F3,normal,,,
-71v,p449_l33_o07,"uereor, ",p449_l33_o07_a,paueo,S22,F2,shorthand,,,
+71v,p449_l33_o07,"uereor, ",p449_l33_o07_a,paueo,S22,F2,normal,,,
 71v,p449_l33_o10,fateor ,p449_l33_o10_a,dico,S22,F2,normal,,,
 71v,p450_l01_o01,ꝓfiteor ,p450_l01_o01_a,c̃fiteor,S22,F2,normal,,,
 71v,p450_l01_o02,tueor ,p450_l01_o02_a,uideo ł defendo,S22,F3,normal,,,
@@ -188,7 +188,7 @@ folio,lemma_id,lemma,gloss_id,gloss,gloss_type,gloss_form,nature,marginal_note_i
 71v,p450_l01_o04,Notant᷑ ,p450_l01_o04_a,excipiunt᷑,S22,F2,normal,,,
 71v,p450_l01_o06,primę ,,,,,,p450_l01_o06_a,S63,F3
 71v,p450_l01_o08,"beo, ",p450_l01_o08_a,beatũ facio,S23,F4,normal,,,
-71v,p450_l01_o09,"creo, ",p450_l01_o09_a,c̃do,S22,F2,shorthand,,,
+71v,p450_l01_o09,"creo, ",p450_l01_o09_a,c̃do,S22,F2,normal,,,
 71v,p450_l02_o01,"meo, ",p450_l02_o01_a,transeo,S22,F2,normal,,,
 71v,p450_l02_o03,nauseo ,p450_l02_o03_a,fastidio,S22,F2,normal,,,
 71v,p450_l02_o04,enucleo ,p450_l02_o04_a,manifesto,S22,F2,normal,,,
@@ -197,17 +197,17 @@ folio,lemma_id,lemma,gloss_id,gloss,gloss_type,gloss_form,nature,marginal_note_i
 71v,f71v_l24_o05,calceo ,,,,,,f71v_l24_o05_a,S54,F4
 71v,p450_l02_o07,Quartę ,p450_l02_o07_a,sb̶notant᷑ uerba,S53,F4,normal,,,
 71v,p450_l03_o04,his ,p450_l03_o04_a,ID EST eo & queo,S53,F3,normal,,,
-71v,p450_l03_o07,illis ,p450_l03_o07_a,sup̃dictis q̃ st̃ pͥmę c̃iug̃,S64,F4,shorthand,,,
+71v,p450_l03_o07,illis ,p450_l03_o07_a,sup̃dictis q̃ st̃ pͥmę c̃iug̃,S64,F4,normal,,,
 71v,p450_l05_o01,c̃iugatio ,p450_l05_o01_a,sola,S611,F2,normal,,,
 71v,p450_l05_o02,uendicat ,p450_l05_o02_a,HAB ͤ ͭ assumit,S22,F3,normal,,,
 71v,p450_l05_o03,imbuo ,p450_l05_o03_a,doleo inbibo/ATQUE immolo UT + ab +,S22,F3,normal,,,
-71v,p450_l05_o04,tribuo ,p450_l05_o04_a,dono,S22,F2,shorthand,,,
+71v,p450_l05_o04,tribuo ,p450_l05_o04_a,dono,S22,F2,normal,,,
 71v,p450_l05_o06,"induo, ",p450_l05_o06_a,circũdo,S22,F2,normal,,,
 71v,p450_l05_o07,"arguo, ",p450_l05_o07_a,increpo/ ostento,S22,F3,normal,,,
 71v,p450_l05_o08,"fluo, ",p450_l05_o08_a,mano,S22,F2,normal,,,
 71v,p450_l05_o09,"polluo, ",p450_l05_o09_a,c̃taminor,S22,F2,normal,,,
 71v,p450_l05_o11,"alluo, ",p450_l05_o11_a,inundo,S22,F2,normal,,,
-71v,p450_l06_o01,"innuo, ",p450_l06_o01_a,nũtũ facio,S23,F4,shorthand,,,
+71v,p450_l06_o01,"innuo, ",p450_l06_o01_a,nũtũ facio,S23,F4,normal,,,
 71v,p450_l06_o04,"ruo, ",p450_l06_o04_a,cado,S22,F2,normal,,,
 71v,p450_l06_o05,suo ,,,,,,p450_l06_o05_a,S54,F4
 71v,p450_l06_o06,"m&uo, ",p450_l06_o06_a,timeo,S22,F2,normal,,,
@@ -215,61 +215,61 @@ folio,lemma_id,lemma,gloss_id,gloss,gloss_type,gloss_form,nature,marginal_note_i
 71v,p450_l06_o09,"liquor, ",p450_l06_o09_a,-,S11,F1,normal,,,
 71v,p450_l06_o10,"fruor, ",p450_l06_o10_a,utor,S22,F2,normal,,,
 71v,p450_l08_o01,ratio ,p450_l08_o01_a,regula,S22,F2,normal,,,
-71v,p450_l08_o04,qua ,p450_l08_o04_a,SUBAUD ͥ ͭ ͧ ͬ RA ͭ ͥ ͦ ᷠ ͤ,S3232,F2,shorthand,,,
+71v,p450_l08_o04,qua ,p450_l08_o04_a,SUBAUD ͥ ͭ ͧ ͬ RA ͭ ͥ ͦ ᷠ ͤ,S3232,F2,normal,,,
 71v,p450_l08_o08,"uacuo, ",p450_l08_o08_a,exinanio,S22,F2,normal,,,
 71v,p450_l08_o09,"uiduo, ",p450_l08_o09_a,desero ł orbo,S22,F3,normal,,,
 71v,p450_l09_o02,"c̃tinuo, ",p450_l09_o02_a,ꝓtelo +? CONIUNC ͭ ͧ ͫ ? QUAE COEP ͥ ͭ ͧ ͬ FAC ͭ ͧ ͫ ?,S23,F4,normal,,,
 71v,p450_l09_o03,"fluctuo, ",p450_l09_o03_a,titubo,S22,F2,normal,,,
 71v,p450_l09_o04,"ęstuo, ",p450_l09_o04_a,ferueo,S22,F2,normal,,,
-71v,p450_l09_o06,"mutuor, ",p450_l09_o06_a,mutuũ ALTER ͥ? D ͦ?,S23,F4,shorthand,,,
+71v,p450_l09_o06,"mutuor, ",p450_l09_o06_a,mutuũ ALTER ͥ? D ͦ?,S23,F4,normal,,,
 71v,p450_l10_o09,C̃fusionis ,p450_l10_o09_a,cõmixtionis/ãbiguitatis,S22,F3,normal,,,
-71v,p450_l11_o02,discernenadę ,p450_l11_o02_a,distinguendę/discrepandę,S22,F3,shorthand,,,
+71v,p450_l11_o02,discernenadę ,p450_l11_o02_a,distinguendę/discrepandę,S22,F3,normal,,,
 72r,p450_l13_o01,illa ,p450_l13_o01_a,VERB ͣ,S3232,F2,shorthand,,,
 72r,p450_l13_o02,primę ,p450_l13_o02_a,CONIUGA ͭ ͥ ͦ ᷠ ͥ ᷤ,S53,F3,shorthand,p450_l13_o02_b,S53,F4
-72r,p450_l13_o05,adherentia ,p450_l13_o05_a,seruientia,S22,F2,shorthand,,,
-72r,p450_l13_o07-09,trissillabis ,p450_l13_o07-09_a,VERBIS,S53,F2,normal,,,
+72r,p450_l13_o05,adherentia ,p450_l13_o05_a,seruientia,S22,F2,normal,,,
+72r,p450_l13_o07-09,trissillabis ,p450_l13_o07-09_a,VERBIS,S53,F2,shorthand,,,
 72r,p450_l14_o01,pio ,p450_l14_o01_a,mundo,S22,F2,normal,,,
-72r,p450_l14_o04,hio ,p450_l14_o04_a,os aperio,S23,F3,shorthand,,,
+72r,p450_l14_o04,hio ,p450_l14_o04_a,os aperio,S23,F3,normal,,,
 72r,p450_l15_o09,sautius ,p450_l15_o09_a,uulneratꝰ,S22,F2,normal,,,
-72r,p450_l16_o06,curia ,p450_l16_o06_a,locꝰ ÷ ubi curã antiꝗ exercebant,S23,F4,shorthand,,,
+72r,p450_l16_o06,curia ,p450_l16_o06_a,locꝰ ÷ ubi curã antiꝗ exercebant,S23,F4,normal,,,
 72r,p450_l16_o07,"decurio, ",,,,,,p450_l16_o07_b,S23,F5
-72r,p450_l17_o01,fiducior ,p450_l17_o01_a,FIDUCI ͣ ͫ HAB ͤ ͦ,S25,F3,normal,,,
-72r,p450_l17_o03,repudiũ ,p450_l17_o03_a,repulsio ł reꝓbatio,S22,F3,shorthand,,,
+72r,p450_l17_o01,fiducior ,p450_l17_o01_a,FIDUCI ͣ ͫ HAB ͤ ͦ,S25,F3,shorthand,,,
+72r,p450_l17_o03,repudiũ ,p450_l17_o03_a,repulsio ł reꝓbatio,S22,F3,normal,,,
 72r,p450_l17_o06,tripudiũ ,p450_l17_o06_a,gaudiũ,S22,F2,normal,,,
 72r,p450_l17_o07,tripudio ,p450_l17_o07_a,triũpho,S22,F2,normal,,,
 72r,p450_l18_o02,radio ,p450_l18_o02_a,luceo,S22,F2,normal,,,
-72r,p450_l18_o08,c̃silio ,p450_l18_o08_a,c̃siliũ do,S23,F4,shorthand,,,
+72r,p450_l18_o08,c̃silio ,p450_l18_o08_a,c̃siliũ do,S23,F4,normal,,,
 72r,p450_l19_o03,"defolio, ",p450_l19_o03_a,folia carpo,S23,F4,normal,,,
 72r,p450_l20_o03,linia ,p450_l20_o03_a,blandim̃tũ,S22,F2,normal,p450_l20_o03_b,S53,F4
 72r,p450_l20_o04,"delinio, ",p450_l20_o04_a,blandior,S22,F2,normal,,,
 72r,p450_l20_o06,auxiliũ ,p450_l20_o06_a,adium̃tũ,S22,F2,normal,,,
 72r,p450_l20_o07,"auxilior, ",p450_l20_o07_a,faueo ADIUV ͦ,S22,F3,normal,,,
 72r,p450_l21_o02,"decorio, ",p450_l21_o02_a,corrũ TOLL ͦ,S23,F4,normal,,,
-72r,p450_l21_o07,uarius ,p450_l21_o07_a,diuersꝰ,S22,F2,shorthand,,,
+72r,p450_l21_o07,uarius ,p450_l21_o07_a,diuersꝰ,S22,F2,normal,,,
 72r,p450_l21_o10,bassiũ ,p450_l21_o10_a,osculũ,S22,F2,normal,,,
 72r,p450_l22_o01,"bassio, ",p450_l22_o01_a,osculor,S22,F2,normal,,,
 72r,p450_l22_o04,"spacior, ",p450_l22_o04_a,spaciũ do,S23,F4,normal,,,
 72r,p450_l23_o03,uitiũ ,p450_l23_o03_a,macula ł delictũ,S22,F3,normal,,,
-72r,p450_l23_o07,itaq ,p450_l23_o07_a,ergo,S22,F2,shorthand,,,
+72r,p450_l23_o07,itaq ,p450_l23_o07_a,ergo,S22,F2,normal,,,
 72r,p450_l24_o04,appositũ ,p450_l24_o04_a,adsociatũ,S22,F2,normal,,,
-72r,p450_l24_o09,penultima ,p450_l24_o09_a,nunti?,S53,F2,shorthand,,,
+72r,p450_l24_o09,penultima ,p450_l24_o09_a,nunti?,S53,F2,normal,,,
 72r,p450_l25_o07,excepto  ,,,,,,p450_l25_o07_a,S53,F4
 72r,p450_l25_o08,hio ,p450_l25_o08_a,spiro,S22,F2,normal,,,
 72r,p450_l26_o01,pio ,p450_l26_o01_a,mundo,S22,F2,normal,,,
-72r,p450_l26_o04,lic& ,p450_l26_o04_a,VERB ͧ ͫ QUOD EST  hio,S53,F4,shorthand,,,
-72r,p450_l27_o02,Amplio ,p450_l27_o02_a,amplifico,S22,F2,shorthand,p450_l27_o02_b,S54,F3
+72r,p450_l26_o04,lic& ,p450_l26_o04_a,VERB ͧ ͫ QUOD EST  hio,S53,F4,normal,,,
+72r,p450_l27_o02,Amplio ,p450_l27_o02_a,amplifico,S22,F2,normal,p450_l27_o02_b,S54,F3
 72r,p450_l28_o02,satio ,,,,,,p450_l28_o02_b,S54,F3
 72r,p451_l01_o03,Lanio ,p451_l01_o03_a,lacero,S22,F2,normal,p451_l01_o03_b,S54,F4
-72r,p451_l02_o02,eadem ,p451_l02_o02_a,coni[ugatio],S3232,F2,shorthand,,,
-72r,p451_l02_o05-06,ꝑ apocopã ,p451_l02_o05-06_a,ꝑ abscisione litterę,S22,F3,shorthand,,,
+72r,p451_l02_o02,eadem ,p451_l02_o02_a,coni[ugatio],S3232,F2,normal,,,
+72r,p451_l02_o05-06,ꝑ apocopã ,p451_l02_o05-06_a,ꝑ abscisione litterę,S22,F3,normal,,,
 72r,p451_l02_o08-10,Coci lani fartores ,,,,,,p451_l02_o08-10_a,S63,F3
 72r,p451_l03_o05,quicquid ,p451_l03_o05_a,igit᷑,S22,F2,normal,,,
-72r,p451_l04_o10,priuatũ ,p451_l04_o10_a,alienatũ ł fraudatũ,S22,F3,shorthand,,,
-72r,p451_l05_o07,hab& ,p451_l05_o07_a,SUBAUD ͥ ͭ ͧ ͬ SIC ++ HAB ͤ ͭ,S53,F3,shorthand,,,
+72r,p451_l04_o10,priuatũ ,p451_l04_o10_a,alienatũ ł fraudatũ,S22,F3,normal,,,
+72r,p451_l05_o07,hab& ,p451_l05_o07_a,SUBAUD ͥ ͭ ͧ ͬ SIC ++ HAB ͤ ͭ,S53,F3,normal,,,
 72r,p451_l05_o08,adherens ,,,,,,p451_l05_o08_b,S53,F4
 72r,p451_l07_o04-05,sine dubio ,p451_l07_o04-05_a,ꝓcul dubio,S22,F3,normal,,,
 72r,p451_l07_o06,cognoscit᷑. ,p451_l07_o06_a,agnoscit᷑,S22,F2,normal,,,
-72r,p451_l08_o04,Ambio ,p451_l08_o04_a,c̃cumeo,S22,F2,shorthand,,,
+72r,p451_l08_o04,Ambio ,p451_l08_o04_a,c̃cumeo,S22,F2,normal,,,
 72r,p451_l08_o08,"sancio, ",p451_l08_o08_a,iudico diffinio,S22,F3,normal,,,
 72r,p451_l08_o10,"sartio, ",p451_l08_o10_a,instauro,S22,F2,normal,,,
 72r,p451_l09_o02,"farcio, ",p451_l09_o02_a,repleo,S22,F2,normal,,,
@@ -279,14 +279,14 @@ folio,lemma_id,lemma,gloss_id,gloss,gloss_type,gloss_form,nature,marginal_note_i
 72r,p451_l09_o07,"custodio, ",p451_l09_o07_a,ꝓuideo,S22,F2,normal,,,
 72r,p451_l09_o08,"erudio, ",p451_l09_o08_a,doceo,S22,F2,normal,,,
 72r,p451_l09_o09,"oboedio, ",p451_l09_o09_a,pareo,S22,F2,normal,,,
-72r,p451_l10_o01,"uagio, ",p451_l10_o01_a,+++ ͤ? INFAN ͭ ͧ ͫ EST uagire,S23,F4,shorthand,,,
+72r,p451_l10_o01,"uagio, ",p451_l10_o01_a,+++ ͤ? INFAN ͭ ͧ ͫ EST uagire,S23,F4,normal,,,
 72r,p451_l10_o02,"pręsagio, ",p451_l10_o02_a,futura p̃dico,S23,F4,normal,,,
 72r,p451_l10_o05,"stabilio, ",p451_l10_o05_a,c̃firmo,S22,F2,normal,,,
 72r,p451_l10_o06,"mollio, ",p451_l10_o06_a,mollis efficio,S23,F4,normal,,,
 72r,p451_l10_o07,"bullio, ",p451_l10_o07_a,scateo?,S22,F2,normal,,,
 72r,p451_l10_o09,"redimio, ",p451_l10_o09_a,corono ł como,S22,F3,normal,,,
 72r,p451_l10_o10,"exinanio, ",p451_l10_o10_a,euacuo,S22,F2,normal,,,
-72r,p451_l11_o01,"insanio, ",p451_l11_o01_a,seuio,S22,F2,shorthand,,,
+72r,p451_l11_o01,"insanio, ",p451_l11_o01_a,seuio,S22,F2,normal,,,
 72r,p451_l11_o04,"insignio, ",p451_l11_o04_a,nobilito,S22,F2,normal,,,
 72r,p451_l11_o05,"finio, ",p451_l11_o05_a,t̃mino,S22,F2,normal,,,
 72r,p451_l11_o06,"hinnio, ",p451_l11_o06_a,EQU ͦ ͬ ͧ ͫ EST HINN ͥ ͬ ͥ,S23,F4,normal,,,
@@ -297,266 +297,266 @@ folio,lemma_id,lemma,gloss_id,gloss,gloss_type,gloss_form,nature,marginal_note_i
 72r,p451_l12_o01,"sępio, ",p451_l12_o01_a,circũdo,S22,F2,normal,,,
 72r,p451_l12_o02,"sopio, ",p451_l12_o02_a,dormio,S22,F2,normal,,,
 72r,p451_l12_o03,"ferio, ",p451_l12_o03_a,ꝑcutio,S22,F2,normal,,,
-72r,p451_l12_o04,"operio, ",p451_l12_o04_a,tego,S22,F2,shorthand,,,
+72r,p451_l12_o04,"operio, ",p451_l12_o04_a,tego,S22,F2,normal,,,
 72r,p451_l12_o05,"aperio, ",p451_l12_o05_a,resero,S22,F2,normal,,,
 72r,p451_l12_o06,"garrio, ",p451_l12_o06_a,garrire auiũ ÷ PROPRI ͤ,S23,F3,normal,,,
 72r,p451_l12_o07,"ligurrio, ",p451_l12_o07_a,lingo,S22,F2,normal,,,
 72r,p451_l12_o10,"micturio, ",p451_l12_o10_a,AB EO QUOD EST mingo DEDUC ͥ ͭ ͧ ͬ,S54,F4,normal,,,
 72r,p451_l13_o01,"prurio, ",p451_l13_o01_a,scabeo,S22,F2,normal,,,
-72r,p451_l13_o04,"irretio, ",p451_l13_o04_a,inlaqueo,S22,F2,shorthand,,,
+72r,p451_l13_o04,"irretio, ",p451_l13_o04_a,inlaqueo,S22,F2,normal,,,
 72r,p451_l13_o05,"sentio, ",p451_l13_o05_a,intelligo,S22,F2,normal,,,
 72r,p451_l14_o01,"sęuio, ",p451_l14_o01_a,bachor,S22,F2,normal,,,
 72r,p451_l14_o02,"blandior, ",p451_l14_o02_a,adulor,S22,F2,normal,,,
 72r,p451_l14_o04,"ordior, ",p451_l14_o04_a,incipio,S22,F2,normal,,,
 72r,p451_l14_o06,"largior, ",p451_l14_o06_a,tribuo,S22,F2,normal,,,
 72r,p451_l14_o08,"sortior, ",p451_l14_o08_a,accipio,S22,F2,normal,,,
-72r,p451_l15_o01,partior ,p451_l15_o01_a,diuido,S22,F2,shorthand,,,
+72r,p451_l15_o01,partior ,p451_l15_o01_a,diuido,S22,F2,normal,,,
 72r,p451_l16_o06-07,minꝰ trissillabis ,p451_l16_o06-07_a,.s. SED dyssillabis,S53,F3,normal,,,
-72r,p451_l17_o06,notant᷑ ,p451_l17_o06_a,excipiunt᷑,S22,F2,shorthand,,,
+72r,p451_l17_o06,notant᷑ ,p451_l17_o06_a,excipiunt᷑,S22,F2,normal,,,
 72r,p451_l21_o06,elicio ,p451_l21_o06_a,extorqueo ł exprimo,S22,F3,normal,,,
-72r,p451_l21_o07,inlicio ,p451_l21_o07_a,seduco,S22,F2,shorthand,,,
+72r,p451_l21_o07,inlicio ,p451_l21_o07_a,seduco,S22,F2,normal,,,
 72r,p451_l21_o08,pellicio ,p451_l21_o08_a,decipio,S22,F2,normal,p451_l21_o08_b,S24,F4
 72r,p451_l21_o09,int̃ficio ,p451_l21_o09_a,int̃imo occido,S22,F3,normal,p451_l21_o09_b,S22,F2
 72r,p451_l21_o10,officio ,p451_l21_o10_a,noceo,S22,F2,normal,,,
 72r,p451_l22_o03,cupio ,p451_l22_o03_a,desidero,S22,F2,normal,,,
 72r,f75r_l06_o23,quatio ,f75r_l06_o23_a,moueo,S22,F2,normal,,,
 72r,p451_l22_o10,concutio ,p451_l22_o10_a,cõmoueo,S22,F2,normal,,,
-72r,p451_l22_o11,morior ,p451_l22_o11_a,intereo,S22,F2,shorthand,,,
+72r,p451_l22_o11,morior ,p451_l22_o11_a,intereo,S22,F2,normal,,,
 72r,p451_l22_o04,orior ,p451_l22_o04_a,nascor,S22,F2,normal,,,
-72r,p451_l23_o05,potior ,p451_l23_o05_a,fruor,S22,F2,shorthand,,,
-72v,p451_l28_o11,desinens ,p451_l28_o11_a,VERB ͧ ͫ,S53,F2,normal,,,
+72r,p451_l23_o05,potior ,p451_l23_o05_a,fruor,S22,F2,normal,,,
+72v,p451_l28_o11,desinens ,p451_l28_o11_a,VERB ͧ ͫ,S53,F2,shorthand,,,
 72v,p451_l29_o02,scđę ,p451_l29_o02_a,CONIUGA ͭ ͥ ͦ ᷠ ͥ ᷤ SIMILIS? UT DOC  ͤ ͦ,S53,F4,normal,,,
-72v,p451_l29_o12,sine ,p451_l29_o12_a,IDEST aut a nominib ueni aut ut nuntio aut non sic̃ ÷ ambio,S53,F4,shorthand,,,
+72v,p451_l29_o12,sine ,p451_l29_o12_a,IDEST aut a nominib ueni aut ut nuntio aut non sic̃ ÷ ambio,S53,F4,normal,,,
 72v,p451_l31_o07,uerba ,p451_l31_o07_a,SUBAUD ͥ ͭ ͧ ͬ  DIRIVA? ͭ ͣ,S53,F2,shorthand,,,
 72v,p451_l33_o03,disserere ,p451_l33_o03_a,exponere,S22,F2,normal,,,
 72v,p451_l34_o05,ubertati ,p451_l34_o05_a,abundantię,S22,F2,normal,,,
 72v,p451_l34_o06,uocũ ,p451_l34_o06_a,uerborum?,S22,F2,normal,,,
-72v,p451_l34_o07,studens ,p451_l34_o07_a,siue gens opera dans,S23,F3,shorthand,,,
+72v,p451_l34_o07,studens ,p451_l34_o07_a,siue gens opera dans,S23,F3,normal,,,
 72v,p451_l35_o06,ꝓcreauit. ,p451_l35_o06_a,ꝓgenuit,S22,F2,normal,,,
-72v,p451_l35_o08,multa ,p451_l35_o08_,sb̶ uerba,S3232,F2,shorthand,,,
+72v,p451_l35_o08,multa ,p451_l35_o08_,sb̶ uerba,S3232,F2,normal,,,
 72v,p451_l36_o05,genuit ,p451_l36_o05_a,sb̶ natura,S415,F2,normal,,,
-72v,p452_l01_o01,dedit ,p452_l01_o01_a,asscripsit,S22,F2,shorthand,,,
+72v,p452_l01_o01,dedit ,p452_l01_o01_a,asscripsit,S22,F2,normal,,,
 72v,p452_l02_o04,motu ,p452_l02_o04_a,.i. modo,S22,F2,normal,,,
-72v,p452_l02_o07,eas ,p452_l02_o07_a,sb̶ t̃mina/tiones,S3232,F2,shorthand,,,
+72v,p452_l02_o07,eas ,p452_l02_o07_a,sb̶ t̃mina/tiones,S3232,F2,normal,,,
 72v,p452_l03_o05,transduxit ,p452_l03_o05_a,SUBAUD ͥ ͭ ͧ ͬ IPS ͣ natura,S415,F3,normal,,,
-72v,p452_l03_o06,quas ,p452_l03_o06_a,SUBAUD ͥ ͭ ͧ ͬ t̃minationes,S4224,F3,shorthand,,,
-72v,p452_l04_o03,adhęrentia ,p452_l04_o03_a,SERU ͣ ᷠ ͭ ͥ ͣ,S22,F2,normal,,,
-72v,p452_l04_o07,ipsa ,p452_l04_o07_a,sb̶ nomina,S3232,F2,shorthand,,,
+72v,p452_l03_o06,quas ,p452_l03_o06_a,SUBAUD ͥ ͭ ͧ ͬ t̃minationes,S4224,F3,normal,,,
+72v,p452_l04_o03,adhęrentia ,p452_l04_o03_a,SERU ͣ ᷠ ͭ ͥ ͣ,S22,F2,shorthand,,,
+72v,p452_l04_o07,ipsa ,p452_l04_o07_a,sb̶ nomina,S3232,F2,normal,,,
 72v,p452_l05_o01,origines ,p452_l05_o01_a,INITI ͣ EXORDI ͣ,S22,F3,shorthand,,,
-72v,p452_l05_o03,deducant᷑ ,p452_l05_o03_a,diriuant᷑,S22,F2,shorthand,,,
+72v,p452_l05_o03,deducant᷑ ,p452_l05_o03_a,diriuant᷑,S22,F2,normal,,,
 72v,p452_l05_o07,trib ,,,,,,p452_l05_o07_a,S53,F4
 72v,p452_l06_o05-07,ab indicatiuo-pręsenti ,,,,,,p452_l06_o05-07_a,S53,F4
 72v,p452_l08_o05,generales ,p452_l08_o05_a,COMMU ᷠ ͤ ᷤ,S22,F2,shorthand,,,
 72v,p452_l08_o07,speciales ,p452_l08_o07_a,PROPRI ͤ,S22,F2,shorthand,,,
-72v,p452_l08_o08,distinctę ,p452_l08_o08_a,discretę,S22,F2,shorthand,,,
-72v,p452_l13_o04,Illo ,p452_l13_o04_a,ud,S611,F2,shorthand,,,
+72v,p452_l08_o08,distinctę ,p452_l08_o08_a,discretę,S22,F2,normal,,,
+72v,p452_l13_o04,Illo ,p452_l13_o04_a,ud,S611,F2,normal,,,
 72v,p452_l13_o08,positionis ,p452_l13_o08_a,primę ꝑsonę indicatiui MOD ͥ,S53,F3,normal,,,
 72v,p452_l15_o08,litigo ,p452_l15_o08_a,altercor,S22,F2,normal,,,
-72v,p452_l15_o09,"litigium, ",p452_l15_o09_a,rixa,S22,F2,shorthand,,,
+72v,p452_l15_o09,"litigium, ",p452_l15_o09_a,rixa,S22,F2,normal,,,
 72v,p452_l15_o11,cõmertiũ ,p452_l15_o11_a,lucrũ,S22,F2,normal,,,
 72v,p452_l16_o01,obsono ,p452_l16_o01_a,c̃trasono,S22,F2,normal,,,
-72v,p452_l16_o02,obsoniũ ,p452_l16_o02_a,CONUIU ͦ uenale,S23,F3,shorthand,,,
+72v,p452_l16_o02,obsoniũ ,p452_l16_o02_a,CONUIU ͦ uenale,S23,F3,normal,,,
 72v,p452_l16_o05,ędifico ,p452_l16_o05_a,c̃struo,S22,F2,normal,p452_l16_o05_b,S63,F3
 72v,p452_l16_o07,sacrifico ,p452_l16_o07_a,offero c̃secro,S23,F4,normal,,,
 72v,p452_l17_o01,sacrificium ,p452_l17_o01_a,oblatio,S22,F2,normal,,,
 72v,p452_l17_o04,mancipo ,p452_l17_o04_a,subdo,S22,F2,normal,,,
-72v,p452_l17_o06,impero ,p452_l17_o06_a,regno,S22,F2,shorthand,,,
+72v,p452_l17_o06,impero ,p452_l17_o06_a,regno,S22,F2,normal,,,
 72v,p452_l17_o07,"imperiũ, ",p452_l17_o07_a,POTESTAS REGN ͧ ͫ,S23,F3,shorthand,p452_l17_o07_b,S63,F3
-72v,p452_l18_o01,c̃uiuor ,p452_l18_o01_a,CUM AL ͥ ͥ ᷤ AD CONUIUIUM SUM,S23,F4,normal,,,
+72v,p452_l18_o01,c̃uiuor ,p452_l18_o01_a,CUM AL ͥ ͥ ᷤ AD CONUIUIUM SUM,S23,F4,shorthand,,,
 72v,p452_l18_o05,gaudeo ,p452_l18_o05_a,gratulor,S22,F2,normal,,,
 72v,p452_l18_o07,pręsideo ,p452_l18_o07_a,p̃sum,S22,F2,normal,,,
-72v,p452_l19_o01,"p̃sidiũ, ",p452_l19_o01_a,adiutorium,S22,F2,shorthand,,,
+72v,p452_l19_o01,"p̃sidiũ, ",p452_l19_o01_a,adiutorium,S22,F2,normal,,,
 72v,p452_l19_o02,medeor ,p452_l19_o02_a,medicor,S22,F2,normal,,,
 72v,p452_l19_o03,"Remediũ, ",p452_l19_o03_a,Su ̶ ?  ͭ ͥ ͣ(sanitas?),S22,F2,shorthand,,,
 72v,p452_l19_o04,Nubo ,p452_l19_o04_a,UX ͦ ͬ ͤ ͫ DUC ͦ,S23,F4,shorthand,,,
 72v,p452_l19_o05,"conubiũ, ",p452_l19_o05_a,c̃iugiũ,S22,F2,normal,,,
 72v,p452_l20_o01,Fastidio ,p452_l20_o01_a,nauseo,S22,F2,normal,,,
 72v,p452_l20_o03,"Exulo, ",p452_l20_o03_a,peregrinor,S22,F2,normal,,,
-72v,p452_l20_o04,c̃sulo ,p452_l20_o04_a,c̃siliũ do ꝑcunctor,S23,F4,shorthand,,,
+72v,p452_l20_o04,c̃sulo ,p452_l20_o04_a,c̃siliũ do ꝑcunctor,S23,F4,normal,,,
 72v,p452_l20_o07,exiliũ ,p452_l20_o07_a,peregrinatio,S22,F2,normal,,,
 72v,p452_l21_o01,Obsequor ,p452_l21_o01_a,obtẽpero,S22,F2,normal,,,
 72v,p452_l21_o05,domunculo ,p452_l21_o05_a,paruã domũ facio,S23,F4,normal,,,
 72v,p452_l21_o06,domiciliũ ,p452_l21_o06_a,domus auiũ,S23,F3,normal,,,
 72v,p452_l22_o01,Solsto ,p452_l22_o01_a,solẽ stare facio,S23,F4,normal,p452_l22_o01_b,S63,F3
-72v,p452_l22_o02,solsticiũ ,p452_l22_o02_a,statio solis,S25,F3,shorthand,,,
+72v,p452_l22_o02,solsticiũ ,p452_l22_o02_a,statio solis,S25,F3,normal,,,
 72v,p452_l22_o04,"iusticiũ, ",p452_l22_o04_a,locꝰ UBI IUSTI ͭ ͥ ͣ FIT,S23,F4,shorthand,,,
 72v,p452_l22_o06,silicernũ ,p452_l22_o06_a,DIC ͥ ͭ ͧ ͬ HOMO QUI SENEC ͭ ͧ ͭ ͤ ͫ ? SU ͥ CERN ͥ ͭ,S23,F4,shorthand,,,
-72v,p452_l22_o07-09,Ante .iculũ. ,p452_l22_o07-09_a,SUBAUD ͥ ͭ ͧ ͬ SERU ͣ ᷠ ͭ CONSONAN ͭ ͤ ᷤ ?,S53,F4,normal,,,
+72v,p452_l22_o07-09,Ante .iculũ. ,p452_l22_o07-09_a,SUBAUD ͥ ͭ ͧ ͬ SERU ͣ ᷠ ͭ CONSONAN ͭ ͤ ᷤ ?,S53,F4,shorthand,,,
 72v,p452_l23_o02,ridiculũ ,p452_l23_o02_a,derisio,S22,F2,normal,,,
 72v,p452_l23_o03,Perpendo ,p452_l23_o03_a,m̃suro ł penso,S22,F3,normal,,,
-72v,p452_l23_o04,ꝑpendiculũ ,p452_l23_o04_a,genꝰ m̃sioꝵ ÷,S23,F4,shorthand,,,
-72v,p452_l23_o05,Euerso ,p452_l23_o05_a,destruo,S22,F2,shorthand,p452_l23_o05_b,S63,F2
+72v,p452_l23_o04,ꝑpendiculũ ,p452_l23_o04_a,genꝰ m̃sioꝵ ÷,S23,F4,normal,,,
+72v,p452_l23_o05,Euerso ,p452_l23_o05_a,destruo,S22,F2,normal,p452_l23_o05_b,S63,F2
 72v,p452_l23_o06,Euersiculũ ,p452_l23_o06_a,++? ͤ ᷠ ͭ ͥ ͣ(destructio?),S22,F2,shorthand,,,
-72v,p452_l24_o02,Ueho ,p452_l24_o02_a,++?,S22,F2,normal,,,
-72v,p452_l24_o03,uehiculũ ,p452_l24_o03_a,plaustrũ,S22,F2,shorthand,,,
+72v,p452_l24_o02,Ueho ,p452_l24_o02_a,++?,S22,F2,shorthand,,,
+72v,p452_l24_o03,uehiculũ ,p452_l24_o03_a,plaustrũ,S22,F2,normal,,,
 72v,p452_l24_o05,"periculũ, ",,,,,,p452_l24_o05_a,S21,F4
 72v,p452_l24_o07,ferculũ ,p452_l24_o07_a,discus,S22,F2,normal,,,
 72v,p452_l25_o02,uincio ,p452_l25_o02_a,ligo,S22,F2,normal,,,
 72v,p452_l25_o03,"uinculũ, ",p452_l25_o03_a,ligam̃tũ,S22,F2,normal,,,
-72v,p452_l25_o08,"iaculũ, ",p452_l25_o08_a,telum,S22,F2,shorthand,,,
+72v,p452_l25_o08,"iaculũ, ",p452_l25_o08_a,telum,S22,F2,normal,,,
 72v,p452_l26_o09,rego ,p452_l26_o09_a,guberno,S22,F2,normal,,,
 72v,p452_l26_o10,regimen ,p452_l26_o10_a,gub̶natio,S22,F2,normal,,,
 72v,p452_l27_o01,Tego ,p452_l27_o01_a,operio,S22,F2,normal,,,
-72v,p452_l27_o02,Tegim̃ ,p452_l27_o02_a,operim̃tũ,S22,F2,shorthand,,,
+72v,p452_l27_o02,Tegim̃ ,p452_l27_o02_a,operim̃tũ,S22,F2,normal,,,
 72v,p452_l27_o08,.e. ,p452_l27_o08_a,UOCAL ͥᵇ ͧ ᷤ,S53,F2,shorthand,,,
-72v,p452_l27_o09,pręeuntib; ,p452_l27_o09_a,ANTECED ͤ ᷠ ͭ ͥ ᵇ ͧ ᷤ,S22,F2,normal,,,
-72v,p452_l28_o02,Vereor ,p452_l28_o02_a,timeo,S22,F2,shorthand,,,
-72v,p452_l28_o09-11,Ante .or.quoq; ,p452_l28_o09-11_a,sb̶ seruant c̃sonantẽ UERB ͣ ITA? NOMINA ͫ ͧ ᷤ (uerba in nominibus?),S53,F4,normal,,,
+72v,p452_l27_o09,pręeuntib; ,p452_l27_o09_a,ANTECED ͤ ᷠ ͭ ͥ ᵇ ͧ ᷤ,S22,F2,shorthand,,,
+72v,p452_l28_o02,Vereor ,p452_l28_o02_a,timeo,S22,F2,normal,,,
+72v,p452_l28_o09-11,Ante .or.quoq; ,p452_l28_o09-11_a,sb̶ seruant c̃sonantẽ UERB ͣ ITA? NOMINA ͫ ͧ ᷤ (uerba in nominibus?),S53,F4,shorthand,,,
 72v,p452_l29_o01,pauca ,,,,,,,,
-72v,p452_l29_o03,aliis ,p452_l29_o03_a,sb̶ c̃iugationib;,S3232,F2,shorthand,,,
+72v,p452_l29_o03,aliis ,p452_l29_o03_a,sb̶ c̃iugationib;,S3232,F2,normal,,,
 73r,p452_l30_o01,& ,p452_l30_o01_a,sb̶ a,S611,F2,normal,,,
 73r,p452_l30_o07,posst̃ ,,,,,,,,
-73r,p452_l30_o10,transeuntia ,p452_l30_o10_a,migrantia,S22,F2,shorthand,,,
-73r,p452_l31_o10,pręsertim ,p452_l31_o10_a,(maxime?),S22,F2,normal,,,
-73r,p453_l01_o02,diriuatũ ,p453_l01_o02_a,deductũ,S22,F2,shorthand,,,
-73r,p453_l02_o01,uocabulũ ,p453_l02_o01_a,(nomen?),S22,F2,normal,,,
+73r,p452_l30_o10,transeuntia ,p452_l30_o10_a,migrantia,S22,F2,normal,,,
+73r,p452_l31_o10,pręsertim ,p452_l31_o10_a,(maxime?),S22,F2,shorthand,,,
+73r,p453_l01_o02,diriuatũ ,p453_l01_o02_a,deductũ,S22,F2,normal,,,
+73r,p453_l02_o01,uocabulũ ,p453_l02_o01_a,(nomen?),S22,F2,shorthand,,,
 73r,p453_l02_o03,seruata ,p453_l02_o03_a,custodita,S22,F2,normal,,,
-73r,p453_l02_o06,positionis ,p453_l02_o06_a,pͥmę ꝑsonę,S53,F3,shorthand,,,
-73r,p453_l03_o02,solę ,p453_l03_o02_a,sb̶ .s. & .t.,S53,F2,shorthand,,,
+73r,p453_l02_o06,positionis ,p453_l02_o06_a,pͥmę ꝑsonę,S53,F3,normal,,,
+73r,p453_l03_o02,solę ,p453_l03_o02_a,sb̶ .s. & .t.,S53,F2,normal,,,
 73r,p453_l03_o09,incorporalia ,,,,,,p453_l03_o09_a,S53,F4
 73r,p453_l04_o08,deducta ,p453_l04_o08_a,diriuata,S22,F2,normal,,,
 73r,p453_l05_o08,censor ,p453_l05_o08_a,iudex,S22,F2,normal,,,
 73r,p453_l04_o11,defensor ,p453_l04_o11_a,tutor,S22,F2,normal,,,
-73r,p453_l04_o12,c̃sultor ,p453_l04_o12_a,++ prudens,S22,F2,shorthand,,,
+73r,p453_l04_o12,c̃sultor ,p453_l04_o12_a,++ prudens,S22,F2,normal,,,
 73r,p453_l05_o07,Vnde ,p453_l05_o07_a,ex quo,S22,F3,normal,,,
 73r,p453_l06_o03,censeo ,p453_l06_o03_a,statuo ł diffinio ł iudico,S22,F3,normal,,,
 73r,p453_l06_o04,censor ,,,,,,p453_l06_o04_a,S63,F2
 73r,p453_l06_o05,traductũ ,,,,,,,,
-73r,p453_l08_o06,coꝓbamꝰ. ,p453_l08_o06_a,cognoscimꝰ ł eis cernimꝰ,S22,F3,shorthand,,,
+73r,p453_l08_o06,coꝓbamꝰ. ,p453_l08_o06_a,cognoscimꝰ ł eis cernimꝰ,S22,F3,normal,,,
 73r,p453_l09_o07,Sudo ,p453_l09_o07_a,sudorẽ effundo,S23,F4,normal,,,
 73r,p453_l09_o08,sudor ,,,,,,p453_l09_o08_a,S63,F2
-73r,p453_l10_o09,Rubeo ,p453_l10_o09_a,uerecundor,S22,F2,shorthand,,,
+73r,p453_l10_o09,Rubeo ,p453_l10_o09_a,uerecundor,S22,F2,normal,,,
 73r,p453_l10_o11,Marceo ,p453_l10_o11_a,areo,S22,F2,normal,,,
 73r,f76v_l22_o04,obsono ,f76v_l22_o04_a,c̃rtasono ++,S22,F3,normal,,,
 73r,p453_l11_o02,candeo ,p453_l11_o02_a,albesco,S22,F2,normal,,,
 73r,p453_l11_o04,algeo ,p453_l11_o04_a,frigeo,S22,F2,normal,,,
 73r,p453_l11_o05,"algor, ",p453_l11_o05_a,frigꝰ,S22,F2,normal,,,
-73r,f73r_l10_o10,Alo ,f73r_l10_o10_a,nutrio nutritor,S22,F2,shorthand,,,
+73r,f73r_l10_o10,Alo ,f73r_l10_o10_a,nutrio nutritor,S22,F2,normal,,,
 73r,p453_l11_o11,"tenor, ",p453_l11_o11_a,uis (uirtꝰ?),S22,F2,shorthand,,,
 73r,p453_l12_o01,tepeo ,p453_l12_o01_a,(trepidꝰ fio?),S23,F4,shorthand,,,
 73r,f73r_l11_o01,Stupeo ,f73r_l11_o01_a,admiror,S22,F2,normal,,,
 73r,f73r_l11_o02,"Stupor, ",f73r_l11_o02_a,admiratio,S22,F2,normal,,,
-73r,p453_l12_o03,horreo ,p453_l12_o03_a,abhominor,S22,F2,shorthand,,,
+73r,p453_l12_o03,horreo ,p453_l12_o03_a,abhominor,S22,F2,normal,,,
 73r,p453_l12_o04,"horror, ",p453_l12_o04_a,+,S22,F2,shorthand,,,
-73r,p453_l12_o05,ferueo ,p453_l12_o05_a,(ardeo?),S22,F2,normal,,,
-73r,p453_l12_o07,strideo ,p453_l12_o07_a,sono,S22,F2,shorthand,p453_l12_o07_b,S53,F4
+73r,p453_l12_o05,ferueo ,p453_l12_o05_a,(ardeo?),S22,F2,shorthand,,,
+73r,p453_l12_o07,strideo ,p453_l12_o07_a,sono,S22,F2,normal,p453_l12_o07_b,S53,F4
 73r,p453_l13_o01,Tremeo ,,,,,,p453_l13_o01_a,S23,F3
-73r,p453_l14_o02,furor ,p453_l14_o02_a,(ira?insania?),S22,F2,normal,p453_l14_o02_b,S63,F3
-73r,p453_l14_o03,Liquor ,p453_l14_o03_a,fluo,S22,F2,shorthand,p453_l14_o03_b,S23,F4
+73r,p453_l14_o02,furor ,p453_l14_o02_a,(ira?insania?),S22,F2,shorthand,p453_l14_o02_b,S63,F3
+73r,p453_l14_o03,Liquor ,p453_l14_o03_a,fluo,S22,F2,normal,p453_l14_o03_b,S23,F4
 73r,p453_l14_o06,Liquor ,p453_l14_o06_a,sicut oleũ,S22,F3,normal,,,
 73r,p453_l14_o09,sopio ,p453_l14_o09_a,dormio,S22,F2,normal,,,
 73r,p453_l14_o10,sõpor ,,,,,,p453_l14_o10_a,S63,F2
-73r,p453_l15_o01-02,quorũ duo ,p453_l15_o01-02_a,+ Liquor & sopor,S3232,F3,shorthand,,,
+73r,p453_l15_o01-02,quorũ duo ,p453_l15_o01-02_a,+ Liquor & sopor,S3232,F3,normal,,,
 73r,p453_l16_o06,.idus. ,,,,,,p453_l16_o06_a,S63,F2
-73r,p453_l16_o08,positionis ,p453_l16_o08_a,÷ pͥmę ꝑsonę,S53,F3,shorthand,,,
+73r,p453_l16_o08,positionis ,p453_l16_o08_a,÷ pͥmę ꝑsonę,S53,F3,normal,,,
 73r,p453_l17_o02,madeo ,p453_l17_o02_a,humidꝰ sũ,S32,F4,normal,,,
 73r,p453_l17_o04,Splendeo ,p453_l17_o04_a,luceo,S22,F2,normal,,,
-73r,p453_l17_o06,Sordeo  ,p453_l17_o06_a,cõmaculo,S22,F2,shorthand,,,
+73r,p453_l17_o06,Sordeo  ,p453_l17_o06_a,cõmaculo,S22,F2,normal,,,
 73r,p453_l17_o07,"sordidus, ",p453_l17_o07_a,ma(culatus)?,S22,F2,shorthand,,,
 73r,p453_l18_o02,Caleo ,,,,,,p453_l18_o02_a,S63,F3
 73r,p453_l18_o08,Stupeo ,p453_l18_o08_a,(admiror?),S22,F2,shorthand,,,
-73r,p453_l18_o09,"stupidus, ",p453_l18_o09_a,+,S22,F2,normal,,,
+73r,p453_l18_o09,"stupidus, ",p453_l18_o09_a,+,S22,F2,shorthand,,,
 73r,p453_l19_o01,Areo ,,,,,,p453_l19_o01_a,S63,F3
 73r,p453_l19_o03,Torreo ,p453_l19_o03_a,uro,S22,F2,normal,p453_l19_o03_b,S63,F2
-73r,p453_l19_o07,Rapio ,p453_l19_o07_a,aufero,S22,F2,shorthand,,,
+73r,p453_l19_o07,Rapio ,p453_l19_o07_a,aufero,S22,F2,normal,,,
 73r,p453_l19_o08,"rapidus, ",p453_l19_o08_a,uelox,S22,F2,normal,,,
-73r,p453_l20_o02,"uiuidus, ",p453_l20_o02_a,uitalis,S22,F2,shorthand,p453_l20_o02_b,S63,F3
+73r,p453_l20_o02,"uiuidus, ",p453_l20_o02_a,uitalis,S22,F2,normal,p453_l20_o02_b,S63,F3
 73r,p453_l20_o04,Fluo ,,,,,,p453_l20_o04_b,S53,F4
 73r,p453_l21_o04-05,inuidus ,,,,,,p453_l21_o04-05_a,S63,F3
 73r,p453_l21_o06,Trepidus ,,,,,,p453_l21_o06_b,S53,F4
 73r,p453_l26_o04,tego ,p453_l26_o04_a,operio,S22,F2,normal,,,
 73r,p453_l26_o06,Mergo ,,,,,,p453_l26_o06_a,S24,F3
-73r,p453_l26_o08,cędo ,p453_l26_o08_a,int̃ficio,S22,F2,shorthand,,,
-73r,p453_l26_o09,"cędes, ",p453_l26_o09_a,+,S22,F2,normal,,,
+73r,p453_l26_o08,cędo ,p453_l26_o08_a,int̃ficio,S22,F2,normal,,,
+73r,p453_l26_o09,"cędes, ",p453_l26_o09_a,+,S22,F2,shorthand,,,
 73r,p453_l26_o11,Luo ,p453_l26_o11_a,sustineo/ł soluo,S22,F3,normal,p453_l26_o11_b,S63,F3
 73r,p453_l27_o01,"Lues, ",p453_l27_o01_a,pestis,S22,F2,normal,,,
 73r,p453_l27_o02,struo ,p453_l27_o02_a,ędifico,S22,F2,normal,,,
-73r,p453_l27_o03,"strues, ",p453_l27_o03_a,c̃genies t̃rę aug? cumulus,S23,F3,shorthand,,,
+73r,p453_l27_o03,"strues, ",p453_l27_o03_a,c̃genies t̃rę aug? cumulus,S23,F3,normal,,,
 73r,p453_l27_o04,fido ,p453_l27_o04_a,fido,S22,F2,normal,,,
 73r,p453_l27_o05,"fides, ",p453_l27_o05_a,credulitas,S22,F2,normal,,,
 73r,p453_l28_o05,"torquis, ",p453_l28_o05_a,ornam̃tũ colli,S23,F3,normal,,,
-73r,p453_l28_o12,"docibilis, ",p453_l28_o12_a,facile discens,S23,F3,shorthand,,,
-73r,p453_l29_o02,"nubilis, ",p453_l29_o02_a,puella apta (ad nubendum?),S23,F3,normal,p453_l29_o02_b,S63,F2
+73r,p453_l28_o12,"docibilis, ",p453_l28_o12_a,facile discens,S23,F3,normal,,,
+73r,p453_l29_o02,"nubilis, ",p453_l29_o02_a,puella apta (ad nubendum?),S23,F3,shorthand,p453_l29_o02_b,S63,F2
 73r,p453_l29_o03,Facio ,p453_l29_o03_a,ago,S22,F2,normal,,,
 73r,p453_l29_o04,"facilis, ",p453_l29_o04_a,leuis,S22,F2,normal,,,
 73r,p453_l29_o06,"utilis, ",p453_l29_o06_a,ꝓficuus,S22,F2,normal,,,
 73r,p453_l29_o07,Effutio ,p453_l29_o07_a,effundo,S22,F2,normal,,,
 73r,p453_l29_o08,effutilis ,p453_l29_o08_a,uanus instab̶is,S22,F3,normal,p453_l29_o08_b,S63,F3
 73r,p453_l29_o12,Occido  ,,,,,,p453_l29_o12_a,S63,F3
-73r,p453_l30_o01,"occiduus, ",p453_l30_o01_a,transitiuus,S22,F2,shorthand,,,
+73r,p453_l30_o01,"occiduus, ",p453_l30_o01_a,transitiuus,S22,F2,normal,,,
 73r,p453_l30_o05,"ceduus, ",p453_l30_o05_a,incedens,S22,F2,normal,p453_l30_o05_b,S62,F3
-73r,p453_l31_o02,"diuiduus, ",p453_l31_o02_a,diuisis,S22,F2,shorthand,,,
+73r,p453_l31_o02,"diuiduus, ",p453_l31_o02_a,diuisis,S22,F2,normal,,,
 73r,p453_l31_o07,"bibulus, ",p453_l31_o07_a,nimis bibens,S23,F3,normal,,,
 73r,p453_l32_o01,Strido ,p453_l32_o01_a,sono,S22,F2,normal,,,
 73r,p453_l32_o02,"stridulus, ",p453_l32_o02_a,sonoris,S22,F2,normal,,,
-73r,p453_l32_o04,"gerulus, ",p453_l32_o04_a,portitor,S22,F2,shorthand,,,
+73r,p453_l32_o04,"gerulus, ",p453_l32_o04_a,portitor,S22,F2,normal,,,
 73r,p453_l32_o06,legulus ,p453_l32_o06_a,legens,S22,F2,normal,,,
 73r,p453_l32_o08,"murilegulus, ",p453_l32_o08_a,÷ cattꝰ siue pilax. ++ sic uocatꝰ eo qđ/mures legit id ÷ furatur,S23,F4,normal,p453_l32_o08_b,S63,F3
 73r,p453_l33_o04,cernulus ,,,,,,p453_l33_o04_a,S63,F2
-73r,p453_l33_o08,adoptulus ,p453_l33_o08_a,adoptiuus,S22,F2,shorthand,,,
+73r,p453_l33_o08,adoptulus ,p453_l33_o08_a,adoptiuus,S22,F2,normal,,,
 73r,p454_l01_o06,uoro ,,,,,,p454_l01_o06_a,S63,F3
 73r,p454_l01_o12,contumeo ,p454_l01_o12_a,inflo suꝑbio,S22,F3,normal,,,
 73r,p454_l02_o01,"c̃tumax, ",p454_l02_o01_a,suꝑbus,S22,F2,normal,,,
-73r,p454_l02_o03,"tenax, ",p454_l02_o03_a,auarus,S22,F2,shorthand,,,
-73r,f73r_l29_o02,"carax, ",f73r_l29_o02_a,ñ habens,S23,F3,shorthand,f73r_l29_o02_b,S63,F2
+73r,p454_l02_o03,"tenax, ",p454_l02_o03_a,auarus,S22,F2,normal,,,
+73r,f73r_l29_o02,"carax, ",f73r_l29_o02_a,ñ habens,S23,F3,normal,f73r_l29_o02_b,S63,F2
 73r,p454_l03_o01,"ꝑspicax, ",p454_l03_o01_a,ingeniosus astutꝰ,S22,F3,normal,,,
-73r,p454_l03_o03,"efficax, ",p454_l03_o03_a,efficiens ł potens,S22,F3,shorthand,,,
-73r,p454_l03_o04,fallo ,p454_l03_o04_a,(mentior?),S22,F2,normal,,,
-73v,p454_l03_o09,"uiuax, ",p454_l03_o09_a,uiuidus,S22,F2,shorthand,,,
-73v,p454_l03_o10,sagio ,p454_l03_o10_a,+,S22,F2,normal,,,
+73r,p454_l03_o03,"efficax, ",p454_l03_o03_a,efficiens ł potens,S22,F3,normal,,,
+73r,p454_l03_o04,fallo ,p454_l03_o04_a,(mentior?),S22,F2,shorthand,,,
+73v,p454_l03_o09,"uiuax, ",p454_l03_o09_a,uiuidus,S22,F2,normal,,,
+73v,p454_l03_o10,sagio ,p454_l03_o10_a,+,S22,F2,shorthand,,,
 73v,p454_l04_o02,"sagax, ",p454_l04_o02_a,sollicitꝰ,S22,F2,normal,,,
 73v,p454_l04_o01,pręsagio ,p454_l04_o01_a,futura p̃dico,S23,F4,normal,,,
-73v,p454_l04_o04,"salax, ",p454_l04_o04_a,uelox,S22,F2,shorthand,p454_l04_o04_b,S63,F2
+73v,p454_l04_o04,"salax, ",p454_l04_o04_a,uelox,S22,F2,normal,p454_l04_o04_b,S63,F2
 73v,p454_l05_o05,"mendax, ",,,,,,p454_l05_o05_b,S22,F3
 73v,p454_l05_o07,"latex, ",p454_l05_o07_a,fons a latendo (dicitur?),S54,F4,normal,p454_l05_o07_b,S63,F3
-73v,p454_l05_o09,"uertex, ",p454_l05_o09_a,su? ++++ capilli,S23,F5,shorthand,,,
-73v,p454_l06_o08,positionẽ ,p454_l06_o08_a,pͥma ꝑsonã,S53,F3,shorthand,,,
+73v,p454_l05_o09,"uertex, ",p454_l05_o09_a,su? ++++ capilli,S23,F5,normal,,,
+73v,p454_l06_o08,positionẽ ,p454_l06_o08_a,pͥma ꝑsonã,S53,F3,normal,,,
 73v,p454_l09_o03,"stabulũ, ",p454_l09_o03_a,+ stando +,S54,F2,normal,p454_l09_o03_b,S63,F3
 73v,p454_l09_o07,pateo ,p454_l09_o07_a,aperio,S22,F2,normal,p454_l09_o07_b,S63,F3
 73v,p454_l09_o09,"patibulũ, ",p454_l09_o09_a,torm̃tũ,S22,F2,normal,,,
-73v,p454_l09_o10,infundo ,p454_l09_o10_a,suꝑ/fundo,S22,F2,shorthand,,,
+73v,p454_l09_o11,infundo ,p454_l09_o11_a,suꝑ/fundo,S22,F2,normal,,,
 73v,p454_l10_o07,stabilis ,,,,,,p454_l10_o07_a,S63,F3
 73v,p454_l10_o09-10,in .bundus. ,,,,,,p454_l10_o09-10_a,S63,F3
-73v,p454_l11_o02,errabundꝰ ,p454_l11_o02_a,similis erranti,S22,F3,shorthand,,,
+73v,p454_l11_o02,errabundꝰ ,p454_l11_o02_a,similis erranti,S22,F3,normal,,,
 73v,p454_l11_o05,"ludibundus, ",p454_l11_o05_a,(similis) ludenti,S22,F2,normal,,,
 73v,p454_l11_o08,"moribundus, ",p454_l11_o08_a,(similis) morenti,S22,F2,normal,,,
 73v,p454_l12_o01,furio ,p454_l12_o01_a,insanio,S22,F2,normal,p454_l12_o01_b,S63,F2
 73v,p454_l12_o03,furibundus ,p454_l12_o03_a,(similis) furenti,S22,F2,normal,,,
-73v,p454_l13_o04,clausulę ,p454_l13_o04_a,t̃minatioñ,S22,F2,shorthand,p454_l13_o04_b,S53,F4
+73v,p454_l13_o04,clausulę ,p454_l13_o04_a,t̃minatioñ,S22,F2,normal,p454_l13_o04_b,S53,F4
 73v,p454_l14_o04,generales ,p454_l14_o04_a,cõmunes sb̶ clausulę (superiores?),S22,F3,shorthand,,,
 73v,p454_l15_o01-04,in .a. ł in .ella. ,,,,,,p454_l15_o01-04_a,S63,F3
 73v,p454_l17_o04,scribo  ,,,,,,p454_l17_o04_b,S22,F3
 73v,p454_l17_o05,"scriba, ",p454_l17_o05_a,doctus,S22,F2,normal,,,
 73v,p454_l17_o07,"ꝓnuba, ",p454_l17_o07_a,ꝗ nubentib p̃est,S23,F3,normal,p454_l17_o07_b,S63,F2
 73v,p454_l18_o01,"ꝓfuga, ",p454_l18_o01_a,porro fugiens,S25,F3,normal,,,
-73v,p454_l18_o03,"aduena, ",p454_l18_o03_a,peregrinꝰ,S22,F2,shorthand,,,
+73v,p454_l18_o03,"aduena, ",p454_l18_o03_a,peregrinꝰ,S22,F2,normal,,,
 73v,p454_l18_o05,c̃uena ,p454_l18_o05_a,simul/ueniens,S23,F3,shorthand,,,
 73v,p454_l18_o06,Lenio ,p454_l18_o06_a,sedo/placo,S22,F3,normal,,,
 73v,p454_l18_o07,"lena, ",p454_l18_o07_a,ꝑspectrix scupri,S23,F3,normal,,,
 73v,p454_l18_o09,assęcła ,p454_l18_o09_a,assecutor,S22,F2,normal,,,
 73v,p454_l19_o01,colo ,p454_l19_o01_a,habito,S22,F2,normal,,,
-73v,p454_l19_o02,"cęlicola, ",p454_l19_o02_a,cęlũ colens,S25,F3,shorthand,,,
+73v,p454_l19_o02,"cęlicola, ",p454_l19_o02_a,cęlũ colens,S25,F3,normal,,,
 73v,p454_l19_o03,Gigno ,p454_l19_o03_a,+,S22,F2,shorthand,p454_l19_o03_b,S63,F3
 73v,p454_l19_o07,terrigena ,p454_l19_o07_a,a t̃ra genitus s. gigas,S54,F3,normal,,,
 73v,p454_l19_o09,"c̃uiua, ",p454_l19_o09_a,simul uiuens ł uescens,S23,F3,normal,p454_l19_o09_b,S63,F3
-73v,p454_l20_o08,suadeo ,p454_l20_o08_a,adoror,S22,F2,shorthand,,,
+73v,p454_l20_o08,suadeo ,p454_l20_o08_a,adoror,S22,F2,normal,,,
 73v,p454_l20_o09,"suadela, ",p454_l20_o09_a,suasie,S22,F2,normal,,,
-73v,p454_l21_o05,"lucina, ",p454_l21_o05_a,++ a parien/tib ++,S23,F4,normal,,,
+73v,p454_l21_o05,"lucina, ",p454_l21_o05_a,++ a parien/tib ++,S23,F4,shorthand,,,
 73v,p454_l21_o06,Lateo ,p454_l21_o06_a,absc̃do,S22,F2,normal,,,
 73v,p454_l21_o07,"laterna, ",p454_l21_o07_a,a latendo ++,S54,F3,normal,,,
 73v,p454_l21_o08,Ruo ,p454_l21_o08_a,cado,S22,F2,normal,,,
 73v,p454_l21_o09,"ruina, ",p454_l21_o09_a,casus,S22,F2,normal,,,
 73v,p454_l21_o10,Rapio ,p454_l21_o10_a,aufero,S22,F2,normal,,,
-73v,p454_l22_o01,Cubo ,p454_l22_o01_a,iaceo,S22,F2,shorthand,p454_l22_o01_b,S54,F3
-73v,p454_l22_o07,sedile ,p454_l22_o07_a,sedes,S22,F2,shorthand,,,
+73v,p454_l22_o01,Cubo ,p454_l22_o01_a,iaceo,S22,F2,normal,p454_l22_o01_b,S54,F3
+73v,p454_l22_o07,sedile ,p454_l22_o07_a,sedes,S22,F2,normal,,,
 73v,p454_l22_o09-11,in .o. masculina ,,,,,,p454_l22_o09-11_a,S63,F3
-73v,p454_l23_o02,epulor ,p454_l23_o02_a,+,S22,F2,normal,,,
+73v,p454_l23_o02,epulor ,p454_l23_o02_a,+,S22,F2,shorthand,,,
 73v,p454_l23_o03,"epulo, ",p454_l23_o03_a,uorax,S22,F2,normal,,,
 73v,p454_l23_o05,"latro, ",p454_l23_o05_a,fur,S22,F2,normal,p454_l23_o05_b,S23,F4
-73v,p454_l23_o06,lenio ,p454_l23_o06_a,blandior,S22,F2,shorthand,,,
+73v,p454_l23_o06,lenio ,p454_l23_o06_a,blandior,S22,F2,normal,,,
 73v,p454_l23_o07,lęno ,p454_l23_o07_a,c̃ciliator scupri,S23,F3,normal,,,
 73v,p454_l23_o08,comedo ,,,,,,p454_l23_o08_a,S23,F4
-73v,p454_l23_o09,palpo ,p454_l23_o09_a,tango,S22,F2,shorthand,p454_l23_o09_b,S63,F2
+73v,p454_l23_o09,palpo ,p454_l23_o09_a,tango,S22,F2,normal,p454_l23_o09_b,S63,F2
 73v,p454_l23_o11,incubo ,p454_l23_o11_a,insisto,S22,F2,normal,,,
 73v,p454_l25_o01-04,in .edo. ł in .ido. ,,,,,,p454_l25_o01-04_a,S63,F3
 73v,p454_l25_o06,torpeo ,p454_l25_o06_a,augeo,S22,F2,normal,,,
@@ -564,72 +564,72 @@ folio,lemma_id,lemma,gloss_id,gloss,gloss_type,gloss_form,nature,marginal_note_i
 73v,p454_l25_o08,cupio ,p454_l25_o08_a,gestio,S22,F2,normal,,,
 73v,p454_l25_o09,"cupido, ",p454_l25_o09_a,cupiditas,S22,F2,normal,,,
 73v,p454_l25_o11,libido ,p454_l25_o11_a,luxuria,S22,F2,normal,,,
-73v,p454_l25_o12,formido ,p454_l25_o12_a,timeo,S22,F2,shorthand,p454_l25_o12_b,S63,F3
+73v,p454_l25_o12,formido ,p454_l25_o12_a,timeo,S22,F2,normal,p454_l25_o12_b,S63,F3
 73v,p454_l26_o03,caligo ,p454_l26_o03_a,obscuro,S22,F2,normal,,,
-73v,p454_l26_o04,ꝓpago ,p454_l26_o04_a,dilato,S22,F2,shorthand,,,
+73v,p454_l26_o04,ꝓpago ,p454_l26_o04_a,dilato,S22,F2,normal,,,
 73v,p454_l27_o05-06,in .io. ,,,,,,p454_l27_o05-06_a,S63,F3
 73v,p454_l27_o09,opinor ,p454_l27_o09_a,reor,S22,F2,normal,,,
 73v,p454_l27_o10,"opinio, ",p454_l27_o10_a,fama ++,S22,F2,normal,,,
 73v,p454_l27_o11,suspicior ,p454_l27_o11_a,arbitror,S22,F2,normal,,,
-73v,p454_l28_o01,suspicio ,p454_l28_o01_a,-nis,S3113,F2,shorthand,,,
+73v,p454_l28_o01,suspicio ,p454_l28_o01_a,-nis,S3113,F2,normal,,,
 73v,p454_l28_o02-03,in .us. ,,,,,,p454_l28_o02-03_a,S63,F3
 73v,p454_l28_o10,parco ,p454_l28_o10_a,indulgeo,S22,F2,normal,,,
 73v,p454_l29_o01,"parcus, ",p454_l29_o01_a,abstinens,S22,F2,normal,,,
-73v,p454_l29_o02,coqo ,p454_l29_o02_a,u,S611,F1,shorthand,,,
-73v,p454_l29_o04,Ludo ,p454_l29_o04_a,ioco,S22,F2,shorthand,,,
-73v,p454_l29_o08,pando ,p454_l29_o08_a,++ aperio,S23,F3,normal,,,
+73v,p454_l29_o02,coqo ,p454_l29_o02_a,u,S611,F1,normal,,,
+73v,p454_l29_o04,Ludo ,p454_l29_o04_a,ioco,S22,F2,normal,,,
+73v,p454_l29_o08,pando ,p454_l29_o08_a,++ aperio,S23,F3,shorthand,,,
 73v,p454_l29_o09,"pandus, ",p454_l29_o09_a,manifestꝰ/patulus,S22,F3,normal,,,
 73v,p454_l29_o11,"lucus, ",p454_l29_o11_a,silua densa,S23,F3,normal,p454_l29_o11_b,S63,F2
-73v,p454_l30_o01,Arceo ,p454_l30_o01_a,cohibeo,S22,F2,shorthand,,,
-73v,p454_l30_o02,arcus. ,p454_l30_o02_a,++,S54,F3,normal,,,
+73v,p454_l30_o01,Arceo ,p454_l30_o01_a,cohibeo,S22,F2,normal,,,
+73v,p454_l30_o02,arcus. ,p454_l30_o02_a,++,S54,F3,shorthand,,,
 73v,p454_l30_o03,Metuo ,p454_l30_o03_a,timeo,S22,F2,normal,p454_l30_o03_b,S63,F2
 73v,p454_l30_o04,"m&us, ",p454_l30_o04_a,timor,S22,F2,normal,,,
 73v,p454_l30_o08,"scius, ",p454_l30_o08_a,sapiens,S22,F2,normal,p454_l30_o08_b,S63,F2
 73v,p454_l30_o10,"inscius, ",p454_l30_o10_a,insciens,S22,F2,normal,,,
 73v,p454_l31_o01,prescius. ,p454_l31_o01_a,p̃sciens,S22,F2,normal,,,
 73v,p454_l31_o02,Fluo ,p454_l31_o02_a,mano,S22,F2,normal,,,
-73v,p454_l31_o03,refluus ,p454_l31_o03_a,redundans,S22,F2,shorthand,,,
-73v,p454_l31_o04,Septemfluus ,p454_l31_o04_a,septẽ partes fluens,S25,F3,shorthand,,,
-73v,p454_l31_o07,"inuidus, ",p454_l31_o07_a,inuidꝰ ÷ ꝗ inuid& : Inuidiosꝰ ꝗ (alterius inuidia paritur),S23,F4,normal,,,
+73v,p454_l31_o03,refluus ,p454_l31_o03_a,redundans,S22,F2,normal,,,
+73v,p454_l31_o04,Septemfluus ,p454_l31_o04_a,septẽ partes fluens,S25,F3,normal,,,
+73v,p454_l31_o07,"inuidus, ",p454_l31_o07_a,inuidꝰ ÷ ꝗ inuid& : Inuidiosꝰ ꝗ (alterius inuidia paritur),S23,F4,shorthand,,,
 73v,p454_l31_o09,ꝓfugus ,p454_l31_o09_a,porro fugiens,S25,F3,normal,,,
-73v,p454_l32_o03,"luctificus, ",p454_l32_o03_a,luctũ faciens,S23,F3,shorthand,,,
+73v,p454_l32_o03,"luctificus, ",p454_l32_o03_a,luctũ faciens,S23,F3,normal,,,
 73v,p454_l32_o04,"Terrificus, ",p454_l32_o04_a,+,S22,F2,shorthand,,,
 73v,p454_l32_o08,ueneficus ,p454_l32_o08_a,maliciosus,S22,F2,normal,,,
 73v,p454_l33_o03,"fatidicus, ",p454_l33_o03_a,fatũ dicens,S25,F3,normal,,,
-73v,p454_l33_o09,"beniuolus, ",p454_l33_o09_a,bene uolens,S25,F3,shorthand,,,
+73v,p454_l33_o09,"beniuolus, ",p454_l33_o09_a,bene uolens,S25,F3,normal,,,
 73v,p455_l01_o03,ueliuolus ,p455_l01_o03_a,uelũ uolans,S25,F3,normal,,,
 73v,p455_l01_o06,ueliuolũ ,p455_l01_o06_a,uelis uolans,S25,F3,normal,p455_l01_o06_b,S63,F3
-73v,p455_l02_o01,nauifragus ,p455_l02_o01_a,nauis fractio,S25,F3,shorthand,,,
+73v,p455_l02_o01,nauifragus ,p455_l02_o01_a,nauis fractio,S25,F3,normal,,,
 73v,p455_l02_o03-07,in .um. uero ł .rum. ,,,,,,,,
 73v,p455_l02_o09,uado ,p455_l02_o09_a,eo,S22,F2,normal,,,
 73v,p455_l02_o11,uadũ ,p455_l02_o11_a,mare,S22,F2,normal,p455_l02_o11_b,S63,F2
 73v,p455_l03_o01,uas. ,p455_l03_o01_a,pignꝰ,S22,F2,normal,,,
-73v,p455_l03_o04,Sculpo ,p455_l03_o04_a,incido,S22,F2,shorthand,,,
-73v,p455_l03_o05,"sculprum, ",p455_l03_o05_a,ferrem̃tũ +++,S22,F2,normal,,,
-73v,p455_l03_o06,Fulcio ,p455_l03_o06_a,sustento,S22,F2,shorthand,,,
-73v,p455_l03_o07,"fulcrũ, ",p455_l03_o07_a,ornam̃tũ lecti,S23,F3,shorthand,p455_l03_o07_b,S4181,F4
+73v,p455_l03_o04,Sculpo ,p455_l03_o04_a,incido,S22,F2,normal,,,
+73v,p455_l03_o05,"sculprum, ",p455_l03_o05_a,ferrem̃tũ +++,S22,F2,shorthand,,,
+73v,p455_l03_o06,Fulcio ,p455_l03_o06_a,sustento,S22,F2,normal,,,
+73v,p455_l03_o07,"fulcrũ, ",p455_l03_o07_a,ornam̃tũ lecti,S23,F3,normal,p455_l03_o07_b,S4181,F4
 73v,p455_l03_o10,Fiunt ,p455_l03_o10_a,VERB ͣ,S415,F2,shorthand,,,
 73v,p455_l04_o03,finali ,p455_l04_o03_a,+,S22,F2,shorthand,,,
 73v,p455_l05_o04,lucifer ,p455_l05_o04_a,lucũ ferens,S25,F3,normal,,,
-73v,p455_l05_o05,corniger ,p455_l05_o05_a,cornu gerens,S25,F3,shorthand,,,
+73v,p455_l05_o05,corniger ,p455_l05_o05_a,cornu gerens,S25,F3,normal,,,
 73v,p455_l08_o10,in .cen. & .pοs. & in .fex. & in .ceps. ,,,,,,p455_l08_o10_a,S63,F3
 73v,p455_l09_o13,cοrnicen ,p455_l09_o13_a,cornu canens,S25,F3,normal,,,
-73v,p455_l09_o14,Liticen ,p455_l09_o14_a,litũ canens,S25,F3,shorthand,,,
+73v,p455_l09_o14,Liticen ,p455_l09_o14_a,litũ canens,S25,F3,normal,,,
 73v,p455_l09_o15,tubicen ,p455_l09_o15_a,tuba canens,S25,F3,normal,,,
 73v,p455_l10_o01,Fidicen ,p455_l10_o01_a,fidib canens/fidib ÷ cordis,S23,F4,normal,,,
 73v,p455_l10_o02,"Tibicen, ",p455_l10_o02_a,tibiis canens,S25,F3,normal,,,
 73v,p455_l10_o05,compos ,p455_l10_o05_a,adeptor uoti,S23,F3,normal,,,
 73v,p455_l10_o08,"auspex, ",p455_l10_o08_a,augur,S22,F2,normal,p455_l10_o08_b,S63,F3
-73v,p455_l11_o01,opifex ,p455_l11_o01_a,opꝰ faciens,S25,F3,shorthand,,,
-74r,p455_l11_o04,municeps ,p455_l11_o04_a,munera capiens,S25,F3,shorthand,,,
+73v,p455_l11_o01,opifex ,p455_l11_o01_a,opꝰ faciens,S25,F3,normal,,,
+74r,p455_l11_o04,municeps ,p455_l11_o04_a,munera capiens,S25,F3,normal,,,
 74r,p455_l11_o09,"Obex, ",p455_l11_o09_a,repagulũ,S22,F2,normal,p455_l11_o09_b,S63,F3
-74r,p455_l11_o11,pręsideo ,p455_l11_o11_a,+,S22,F2,normal,,,
+74r,p455_l11_o11,pręsideo ,p455_l11_o11_a,+,S22,F2,shorthand,,,
 74r,p455_l12_o01,"pręses, ",p455_l12_o01_a,iudex,S22,F2,normal,,,
 74r,p455_l12_o03,"reses, ",p455_l12_o03_a,piger,S22,F2,normal,p455_l12_o03_b,S63,F3
 74r,p455_l12_o04,Desideo ,p455_l12_o04_a,discordor,S22,F2,normal,,,
-74r,p455_l12_o05,deses ,p455_l12_o05_a,pigris ł stultꝰ negligens,S22,F3,shorthand,,,
+74r,p455_l12_o05,deses ,p455_l12_o05_a,pigris ł stultꝰ negligens,S22,F3,normal,,,
 74r,p455_l12_o07,quies  ,,,,,,p455_l12_o07_a,S63,F2
-74r,p455_l13_o10, diriuant᷑  ,p455_l13_o10_a,sb̶ nomina,S415,F2,shorthand,p455_l13_o10_b,S631,F4
+74r,p455_l13_o10, diriuant᷑  ,p455_l13_o10_a,sb̶ nomina,S415,F2,normal,p455_l13_o10_b,S631,F4
 74r,p455_l15_o08-09,in .sio. ,,,,,,p455_l15_o08-09_a,S63,F3
 74r,p455_l15_o11-12,in .sor. ,,,,,,p455_l15_o11-12_a,S63,F3
 74r,f74r_l10_o19-20,in .ibilis. ,,,,,,f74r_l10_o19-20_a,S63,F3
@@ -638,223 +638,223 @@ folio,lemma_id,lemma,gloss_id,gloss,gloss_type,gloss_form,nature,marginal_note_i
 74r,p455_l17_o05-10,in .culũ. in .mentũ. in .men. ,,,,,,p455_l17_o05-10_a,S631,F3
 74r,p455_l17_o11-12,in .bilis. ,,,,,,p455_l17_o11-12_a,S63,F3
 74r,p455_l18_o07,eas. ,p455_l18_o07_a,(terminationes?),S3232,F2,shorthand,,,
-74r,p455_l18_o10,Oraculũ ,p455_l18_o10_a,(responsum diuinum),S23,F3,normal,,,
-74r,p455_l19_o02,Propugnaculũ ,p455_l19_o02_a,defensio,S22,F2,shorthand,p455_l19_o02_b,S63,F2
+74r,p455_l18_o10,Oraculũ ,p455_l18_o10_a,(responsum diuinum),S23,F3,shorthand,,,
+74r,p455_l19_o02,Propugnaculũ ,p455_l19_o02_a,defensio,S22,F2,normal,p455_l19_o02_b,S63,F2
 74r,p455_l19_o05,Sacram̃tũ  ,,,,,,p455_l19_o05_a,S63,F2
 74r,p455_l19_o06,Munim̃tũ ,p455_l19_o06_a,tutam̃ ÷ defensio,S22,F3,normal,,,
 74r,p455_l20_o01,alim̃tũ ,p455_l20_o01_a,nutrim̃tũ,S22,F2,normal,,,
 74r,p455_l20_o02,Increm̃tũ ,p455_l20_o02_a,augm̃tũ,S22,F2,normal,,,
 74r,p455_l20_o03,Solam̃ ,p455_l20_o03_a,c̃solatio,S22,F2,normal,,,
-74r,p455_l20_o06,flam̃ ,p455_l20_o06_a,spiritus,S554,F2,shorthand,,,
+74r,p455_l20_o06,flam̃ ,p455_l20_o06_a,spiritus,S554,F2,normal,,,
 74r,p455_l21_o01,ligam̃ ,p455_l21_o01_a,ligatio,S22,F2,normal,,,
 74r,p455_l21_o02,certam̃ ,p455_l21_o02_a,pugna,S22,F2,normal,,,
-74r,p455_l21_o04,fragmen ,p455_l21_o04_a,fractio,S22,F2,shorthand,,,
-74r,p455_l23_o01,notũ ,p455_l23_o01_a,cognitũ,S22,F2,shorthand,,,
+74r,p455_l21_o04,fragmen ,p455_l21_o04_a,fractio,S22,F2,normal,,,
+74r,p455_l23_o01,notũ ,p455_l23_o01_a,cognitũ,S22,F2,normal,,,
 74r,p455_l23_o02,nobilis ,,,,,,p455_l23_o02_a,S63,F2
-74r,p455_l27_o02,.um. ,p455_l27_o02_as,ut ꝓbatũ ire ire (dempta) .um. & ire ⁊ .tio. (fit ꝓbatio),S53,F4,shorthand,,,
+74r,p455_l27_o02,.um. ,p455_l27_o02_as,ut ꝓbatũ ire ire (dempta) .um. & ire ⁊ .tio. (fit ꝓbatio),S53,F4,normal,,,
 74r,p455_l28_o03,Obrigatio ,p455_l28_o03_a,adaquatio,S22,F2,normal,p455_l28_o03_b,S63,F2
 74r,p455_l28_o04,Eleuatio ,,,,,,p455_l28_o04_a,S63,F3
 74r,p455_l28_o05,Vsurpatio ,p455_l28_o05_a,ñ ꝓpria acceptio,S23,F3,normal,,,
 74r,p455_l28_o06,Aequatio ,p455_l28_o06_a,assimilatio,S22,F2,normal,,,
-74r,p455_l28_o07,Obseruatio ,p455_l28_o07_a,custodia,S22,F2,shorthand,,,
-74r,p455_l29_o01,Exhibitio ,p455_l29_o01_a,prebitio,S22,F2,shorthand,,,
+74r,p455_l28_o07,Obseruatio ,p455_l28_o07_a,custodia,S22,F2,normal,,,
+74r,p455_l29_o01,Exhibitio ,p455_l29_o01_a,prebitio,S22,F2,normal,,,
 74r,p455_l29_o02,Munitio ,p455_l29_o02_a,+,S22,F2,shorthand,,,
 74r,p455_l29_o07,Bellator ,,,,,,p455_l29_o07_a,S63,F2
-74r,p455_l30_o02,Fultor ,p455_l30_o02_a,sustentator,S22,F2,shorthand,p455_l30_o02_b,S63,F3
+74r,p455_l30_o02,Fultor ,p455_l30_o02_a,sustentator,S22,F2,normal,p455_l30_o02_b,S63,F3
 74r,p455_l30_o06,Petitor ,,,,,,p455_l30_o06_a,S63,F2
 74r,p456_l01_o05,Tonsor ,p456_l01_o05_a,ꝗ tond&,S23,F4,normal,,,
 74r,p456_l01_o06,Tonstrix ,p456_l01_o06_a,dr̃ mulier q̃ tond&,S23,F4,normal,p456_l01_o06_b,S4181,F4
 74r,p456_l01_o07,"Tonstrina, ",p456_l01_o07_a,opꝰ tonsoris,S23,F3,normal,,,
-74r,p456_l01_o10,Textrina ,p456_l01_o10_a,opus textricis,S23,F3,shorthand,p456_l01_o10_b,S63,F2
+74r,p456_l01_o10,Textrina ,p456_l01_o10_a,opus textricis,S23,F3,normal,p456_l01_o10_b,S63,F2
 74r,f74r_l17_o08-09,in .tiuus. ,,,,,,f74r_l17_o08-09_a,S63,F3
 74r,p456_l02_o04,Subditiuus ,p456_l02_o04_a,subiectiuus,S22,F2,normal,,,
-74r,p456_l02_o05-06,Nec-non ,p456_l02_o05-06_a,sb̶ inuenit,S53,F4,shorthand,,,
+74r,p456_l02_o05-06,Nec-non ,p456_l02_o05-06_a,sb̶ inuenit,S53,F4,normal,,,
 74r,p456_l04_o10,Mersio ,p456_l04_o10_a,intinctio,S22,F2,normal,p456_l04_o10_b,S63,F2
 74r,p456_l04_o11,Lesio ,p456_l04_o11_a,offensio,S22,F2,normal,,,
 74r,p456_l05_o02,Iussor ,p456_l05_o02_a,ꝗ iubet,S23,F4,normal,,,
-74r,p456_l05_o03,Suasor ,p456_l05_o03_a,adhortator,S23,F2,shorthand,,,
-74r,p456_l05_o04,Risor ,p456_l05_o04_a,(ꝗ ridet?),S23,F4,normal,,,
-74r,p456_l05_o05,pransor ,p456_l05_o05_a,ꝗ prand&,S23,F4,shorthand,,,
+74r,p456_l05_o03,Suasor ,p456_l05_o03_a,adhortator,S23,F2,normal,,,
+74r,p456_l05_o04,Risor ,p456_l05_o04_a,(ꝗ ridet?),S23,F4,shorthand,,,
+74r,p456_l05_o05,pransor ,p456_l05_o05_a,ꝗ prand&,S23,F4,normal,,,
 74r,p456_l05_10,Visibilis ,p456_l05_10_a,ꝗ facilis ( est uidere?),S23,F4,normal,p456_l05_10_b,S63,F2
 74r,p456_l06_01,Plausibilis ,p456_l06_01_a,"(qui facile) plausũ (facit, id est) sonũ",S23,F4,normal,,,
-74r,p456_l06_03,Missibilis ,p456_l06_03_a,ꝗ facile mittit᷑,S23,F4,shorthand,,,
-74r,p456_l06_05,Flatilis ,p456_l06_05_a,a (uerbum) flo (id est) +,S54,F4,normal,p456_l06_05_b,S63,F2
-74r,p456_l06_06,Fictilis ,p456_l06_06_a,(a uerbo?) fingo,S54,F3,shorthand,p456_l06_06_b,S63,F2
-74r,p456_l06_o08,Altilis ,p456_l06_o08_a,auis ꝗ sanginat᷑,S23,F4,shorthand,,,
+74r,p456_l06_03,Missibilis ,p456_l06_03_a,ꝗ facile mittit᷑,S23,F4,normal,,,
+74r,p456_l06_05,Flatilis ,p456_l06_05_a,a (uerbum) flo (id est) +,S54,F4,shorthand,p456_l06_05_b,S63,F2
+74r,p456_l06_06,Fictilis ,p456_l06_06_a,(a uerbo?) fingo,S54,F3,normal,p456_l06_06_b,S63,F2
+74r,p456_l06_o08,Altilis ,p456_l06_o08_a,auis ꝗ sanginat᷑,S23,F4,normal,,,
 74r,p456_l06_o10,Tortilis ,p456_l06_o10_a,(qui facile torquetur),S23,F4,shorthand,,,
-74r,p456_l07_o03,aduenticius ,p456_l07_o03_a,+,S23,F3,normal,,,
+74r,p456_l07_o03,aduenticius ,p456_l07_o03_a,+,S23,F3,shorthand,,,
 74r,p456_l07_o04,Aduectitius ,p456_l07_o04_a,apportatiuus,S22,F2,normal,,,
-74r,p456_l07_o05,cõmenticius ,p456_l07_o05_a,ab eo ꝗd ÷ cõminiscor inde cõm̃tum cõm̃cicius,S54,F4,shorthand,,,
+74r,p456_l07_o05,cõmenticius ,p456_l07_o05_a,ab eo ꝗd ÷ cõminiscor inde cõm̃tum cõm̃cicius,S54,F4,normal,,,
 74r,p456_l08_o10,caesar ,,,,,,p456_l08_o10_a,S63,F2
 74r,p456_l10_o02-03,rexi rex ,,,,,,p456_l10_o02-03_a,S53,F3
 74r,p456_l10_o05,"dux, ",,,,,,,,
 74r,p456_l10_o09,"rupes, ",p456_l10_o09_a,petrę,S22,F2,normal,,,
-74r,p456_l10_o10,ambigo ,p456_l10_o10_a,dubio,S22,F2,shorthand,p456_l10_o10_b,S63,F2
-74r,p456_l10_o11,Ambages ,p456_l10_o11_a,circutiones/ãfractus,S22,F3,shorthand,p456_l10_o11_b,S63,F2
-74r,p456_l12_o09,significationes ,p456_l12_o09_a,(id est) genera,S53,F3,shorthand,,,
+74r,p456_l10_o10,ambigo ,p456_l10_o10_a,dubio,S22,F2,normal,p456_l10_o10_b,S63,F2
+74r,p456_l10_o11,Ambages ,p456_l10_o11_a,circutiones/ãfractus,S22,F3,normal,p456_l10_o11_b,S63,F2
+74r,p456_l12_o09,significationes ,p456_l12_o09_a,(id est) genera,S53,F3,normal,,,
 74r,p456_l14_o03,Amandus ,,,,,,p456_l14_o03_a,S63,F3
 74r,p456_l15_o01,Furibundus ,p456_l15_o01_a,simił fureNT,S22,F3,shorthand,,,
 74r,p456_l15_o02,Vocatꝰ ,,,,,,p456_l15_o02_a,S63,F3
 74r,p456_l16_o06-07,accidentib; ,p456_l16_o06-07_a,adiectiuis,S22,F2,normal,,,
-74r,p456_l16_o08,nominibus ,p456_l16_o08_a,sb̶ inuenitur,S53,F4,shorthand,,,
+74r,p456_l16_o08,nominibus ,p456_l16_o08_a,sb̶ inuenitur,S53,F4,normal,,,
 74r,p456_l17_o04,uocabulis ,p456_l17_o04_a,+(nominis?),S22,F2,shorthand,,,
 74v,p456_l17_o09,femininis ,p456_l17_o09_a,sb̶ in,S53,F3,normal,,,
 74v,p456_l18_o05,Litura ,p456_l18_o05_a,deletio ł planatio,S22,F2,normal,p456_l18_o05_b,S63,F2
-74v,p456_l18_o07,Censura ,p456_l18_o07_a,iudiciũ,S22,F2,shorthand,p456_l18_o07_b,S63,F2
+74v,p456_l18_o07,Censura ,p456_l18_o07_a,iudiciũ,S22,F2,normal,p456_l18_o07_b,S63,F2
 74v,p456_l18_o06,Natura ,p456_l18_o06_a,(origo a nascendo dicta?),S54,F3,shorthand,,,
 74v,p456_l19_o05,inutilẽ ,p456_l19_o05_a,infructuosã,S22,F2,normal,,,
-74v,p456_l19_o06,tradere ,p456_l19_o06_a,+,S22,F2,shorthand,,,
-74v,p456_l20_o07,adminiculo ,p456_l20_o07_a,s̃ adium̃to,S22,F2,shorthand,,,
+74v,p456_l19_o06,tradere ,p456_l19_o06_a,+,S22,F2,normal,,,
+74v,p456_l20_o07,adminiculo ,p456_l20_o07_a,s̃ adium̃to,S22,F2,normal,,,
 74v,p456_l21_o07,gemino ,p456_l21_o07_a,+,S22,F2,shorthand,,,
-74v,p456_l21_o10,manantia ,p456_l21_o10_a,+,S22,F2,normal,,,
-74v,p456_l22_o04,separauit ,p456_l22_o04_a,sb̶ natura,S415,F2,shorthand,,,
-74v,p456_l23_o05,casualis ,p456_l23_o05_a,(quae declinatur per omnis casus?),S23,F4,normal,,,
-74v,p456_l24_o01,positionis ,p456_l24_o01_a,pͥmę ꝑsens,S53,F3,shorthand,,,
-74v,p456_l24_o05,duab; ,p456_l24_o05_a,s. natura,S53,F2,shorthand,,,
+74v,p456_l21_o10,manantia ,p456_l21_o10_a,+,S22,F2,shorthand,,,
+74v,p456_l22_o04,separauit ,p456_l22_o04_a,sb̶ natura,S415,F2,normal,,,
+74v,p456_l23_o05,casualis ,p456_l23_o05_a,(quae declinatur per omnis casus?),S23,F4,shorthand,,,
+74v,p456_l24_o01,positionis ,p456_l24_o01_a,pͥmę ꝑsens,S53,F3,normal,,,
+74v,p456_l24_o05,duab; ,p456_l24_o05_a,s. natura,S53,F2,normal,,,
 74v,p456_l24_o06,exceptis ,p456_l24_o06_a,+,S22,F2,shorthand,,,
 74v,p456_l24_o11,quib; ,,,,,,p456_l24_o11_a,S53,F4
 74v,p456_l27_o01,luceant ,p456_l27_o01_a,+,S22,F2,shorthand,,,
 74v,p456_l28_o03,declarant ,p456_l28_o03_a,+,S22,F2,shorthand,,,
 74v,p456_l28_o04-05,antelata ,p456_l28_o04-05_a,+,S22,F2,shorthand,,,
-74v,p456_l29_o03,traductionibus ,p456_l29_o03_a,diriuationib,S22,F2,shorthand,,,
+74v,p456_l29_o03,traductionibus ,p456_l29_o03_a,diriuationib,S22,F2,normal,,,
 74v,p456_l30_o01,om̃iũ ,p456_l30_o01_a,+,S53,F2,shorthand,,,
 74v,p456_l30_o03,p̃ceptor. ,,,,,,,,
-74v,p456_l31_o02,sublitate ,p456_l31_o02_a,ti,S611,F1,shorthand,,,
+74v,p456_l31_o02,sublitate ,p456_l31_o02_a,ti,S611,F1,normal,,,
 74v,p456_l31_o05,pręscianus ,,,,,,p456_l31_o05_a,S553,F3
 74v,p456_l32_o02,c̃tentus ,p456_l32_o02_a,+,S22,F2,shorthand,,,
 74v,p456_l32_o05,renouandã ,p456_l32_o05_a,+,S22,F2,shorthand,,,
-74v,p456_l33_o07,tẽtabo ,p456_l33_o07_a,conabor,S22,F2,shorthand,,,
-74v,p456_l34_o10,exceptis ,p456_l34_o10_a,segregatis,S22,F2,shorthand,,,
+74v,p456_l33_o07,tẽtabo ,p456_l33_o07_a,conabor,S22,F2,normal,,,
+74v,p456_l34_o10,exceptis ,p456_l34_o10_a,segregatis,S22,F2,normal,,,
 74v,p457_l01_o06-07,.o.finalẽ ,p457_l01_o06-07_a,s turbo,S53,F2,normal,,,
-74v,p457_l01_o09,c̃sonante ,p457_l01_o09_a,+ c̃sonans (id est) .b. .o. (finalem?),S53,F4,shorthand,,,
+74v,p457_l01_o09,c̃sonante ,p457_l01_o09_a,+ c̃sonans (id est) .b. .o. (finalem?),S53,F4,normal,,,
 74v,p457_l03_o08,attributas ,p457_l03_o08_a,conlatas,S22,F2,normal,,,
 74v,p457_l04_o06,merę ,p457_l04_o06_a,purae,S22,F2,normal,p457_l04_o06_b,S63,F2
-74v,p457_l04_o07,grecę ,p457_l04_o07_a,sb̶ t̃minationes,S53,F2,shorthand,,,
-74v,p457_l06_o05,ꝓpriis ,p457_l06_o05_a,( de ꝓprius nõib; ñ diriuant᷑ uerba)?,S53,F4,normal,,,
-74v,p457_l06_o06,romanis ,p457_l06_o06_a,latinis,S22,F2,shorthand,,,
+74v,p457_l04_o07,grecę ,p457_l04_o07_a,sb̶ t̃minationes,S53,F2,normal,,,
+74v,p457_l06_o05,ꝓpriis ,p457_l06_o05_a,( de ꝓprius nõib; ñ diriuant᷑ uerba)?,S53,F4,shorthand,,,
+74v,p457_l06_o06,romanis ,p457_l06_o06_a,latinis,S22,F2,normal,,,
 74v,p457_l06_o09-10,ab accidentib; ,p457_l06_o09-10_a,adiectiuis,S22,F2,normal,,,
-74v,p457_l06_o11,diriuatę ,p457_l06_o11_a,++ t̃minationes,S53,F2,shorthand,,,
+74v,p457_l06_o11,diriuatę ,p457_l06_o11_a,++ t̃minationes,S53,F2,normal,,,
 74v,p457_l08_o01,merito ,p457_l08_o01_a,iure,S22,F2,normal,,,
-74v,p457_l08_o02,suꝑuacua ,p457_l08_o02_a,suꝑflua,S22,F2,shorthand,,,
-74v,p457_l09_o03,ipsi ,p457_l09_o03_a,us,S611,F1,shorthand,,,
+74v,p457_l08_o02,suꝑuacua ,p457_l08_o02_a,suꝑflua,S22,F2,normal,,,
+74v,p457_l09_o03,ipsi ,p457_l09_o03_a,us,S611,F1,normal,,,
 74v,p457_l09_o08,iustitia ,p457_l09_o08_a,ęquitas,S22,F2,normal,,,
 74v,p457_l10_o01,Pigritia ,p457_l10_o01_a,inertia,S22,F2,normal,,,
 74v,p457_l10_o03,clem̃tia ,p457_l10_o03_a,misericordia,S22,F2,normal,,,
-74v,p457_l10_o04,sollertia ,p457_l10_o04_a,sagacitas,S22,F2,shorthand,p457_l10_o04_b,S63,F2
+74v,p457_l10_o04,sollertia ,p457_l10_o04_a,sagacitas,S22,F2,normal,p457_l10_o04_b,S63,F2
 74v,p457_l11_o02,dulcedo ,,,,,,p457_l11_o02_a,S611,F3
-74v,p457_l11_o06,Seueritas ,p457_l11_o06_a,asperitas rigor,S22,F2,shorthand,,,
+74v,p457_l11_o06,Seueritas ,p457_l11_o06_a,asperitas rigor,S22,F2,normal,,,
 74v,p457_l12_o06-07,haud facile ,,,,,,p457_l12_o06-07_a,S631,F4
-74v,p457_l14_o01,fixorũ ,p457_l14_o01_a,sb̶ nominũ,S53,F2,shorthand,,,
+74v,p457_l14_o01,fixorũ ,p457_l14_o01_a,sb̶ nominũ,S53,F2,normal,,,
 74v,p457_l14_o04-06,ad pͥmã c̃iugationẽ  ,,,,,,p457_l14_o04-06_a,S631,F4
 74v,p457_l15_o06,turbo ,p457_l15_o06_a,c̃turbo,S22,F2,normal,,,
 74v,p457_l15_o08,Spica ,,,,,,p457_l15_o08_a,S63,F2
 74v,p457_l16_o02,inspico ,p457_l16_o02_a,fundo,S22,F2,normal,,,
 74v,p457_l16_o05,p̃dor ,,,,,,p457_l16_o05_a,S63,F2
-74v,p457_l16_o10,fugo ,p457_l16_o10_a,+,S22,F2,shorthand,,,
+74v,p457_l16_o10,fugo ,p457_l16_o10_a,+,S22,F2,normal,,,
 74v,p457_l17_o02,Stilla ,p457_l17_o02_a,gutta,S22,F2,normal,,,
 74v,p457_l17_o05,Stipula ,p457_l17_o05_a,fistuca,S22,F2,normal,p457_l17_o05_b,S63,F2
 74v,p457_l17_o06,stipulor ,p457_l17_o06_a,int̃rogo ++,S22,F2,normal,,,
 74v,p457_l18_o02,Trutina ,p457_l18_o02_a,lanx,S22,F2,normal,,,
-74v,p457_l18_o03,trutino ,p457_l18_o03_a,pondero,S22,F2,shorthand,,,
+74v,p457_l18_o03,trutino ,p457_l18_o03_a,pondero,S22,F2,normal,,,
 74v,p457_l18_o05,Machina ,p457_l18_o05_a,ędificiũ,S222,F2,normal,p457_l18_o05_b,S63,F3
 74v,p457_l18_o06,"machinor, ",p457_l18_o06_a,molior,S22,F2,normal,,,
 74v,p457_l18_o08,Pugna ,p457_l18_o08_a,bellũ,S22,F2,normal,,,
 74v,p457_l19_o02,Nundinę ,p457_l19_o02_a,mercatũ,S22,F2,normal,,,
 74v,p457_l19_o03,nundinor ,p457_l19_o03_a,merchor,S22,F2,normal,,,
 74v,p457_l19_o06,culpa ,p457_l19_o06_a,ignauia,S22,F2,normal,,,
-74v,p457_l19_o07,culpo ,p457_l19_o07_a,rep̃hendo,S22,F2,shorthand,p457_l19_o07_b,S63,F2
+74v,p457_l19_o07,culpo ,p457_l19_o07_a,rep̃hendo,S22,F2,normal,p457_l19_o07_b,S63,F2
 75r,p457_l19_o10,Aqua ,p457_l19_o10_a,dr̃ ab ęqualitate,S54,F3,normal,,,
 75r,p457_l20_o01,"Aquor, ",p457_l20_o01_a,rigo,S22,F2,normal,,,
 75r,p457_l20_o04,Mora ,p457_l20_o04_a,tarditas,S22,F2,normal,,,
 75r,p457_l20_o07,Quadra ,p457_l20_o07_a,dr̃ pars quadrata ł in q +++,S23,F4,normal,p457_l20_o07_b,S63,F2
-75r,p457_l21_o03,Causa ,p457_l21_o03_a,res,S22,F2,shorthand,,,
+75r,p457_l21_o03,Causa ,p457_l21_o03_a,res,S22,F2,normal,,,
 75r,p457_l21_o08,roto ,p457_l21_o08_a,uoluo,S22,F2,normal,,,
 75r,p457_l21_o10,Multa ,p457_l21_o10_a,census ł̃ tributũ,S22,F3,normal,,,
 75r,p457_l21_o11,multo ,p457_l21_o11_a,c̃d̃ẽno,S22,F2,normal,p457_l21_o11_b,S63,F2
 75r,p457_l22_o02,Rixa ,,,,,,p457_l22_o02_a,S63,F2
-75r,p457_l22_o03,rixo ,p457_l22_o03_a,contendo,S22,F2,shorthand,,,
+75r,p457_l22_o03,rixo ,p457_l22_o03_a,contendo,S22,F2,normal,,,
 75r,p457_l22_o05,Lixa ,p457_l22_o05_a,seruus militũ s. mercenarius,S23,F3,normal,,,
-75r,p457_l23_o02,bachor ,p457_l23_o02_a,sęuio,S22,F2,shorthand,,,
+75r,p457_l23_o02,bachor ,p457_l23_o02_a,sęuio,S22,F2,normal,,,
 75r,p457_l23_o04-07,Ex scđa similit̃ declinatione ,,,,,,p457_l23_o04-07_a,S631,F2
-75r,p457_l25_o03,accidentib; ,p457_l25_o03_a,adiectiuis,S22,F2,shorthand,,,
+75r,p457_l25_o03,accidentib; ,p457_l25_o03_a,adiectiuis,S22,F2,normal,,,
 75r,p457_l26_o07,probus ,p457_l26_o07_a,bonus +,S22,F3,normal,p457_l26_o07_b,S63,F2
 75r,p457_l27_o04,amico ,p457_l27_o04_a,++,S23,F3,shorthand,,,
-75r,f80r_l13_o01,Mundo ,f80r_l13_o01_a,+,S22,F2,normal,,,
-75r,p457_l26_o11,Opacus ,p457_l26_o11_a,densus,S22,F2,shorthand,p457_l26_o11_b,S63,F2
+75r,f80r_l13_o01,Mundo ,f80r_l13_o01_a,+,S22,F2,shorthand,,,
+75r,p457_l26_o11,Opacus ,p457_l26_o11_a,densus,S22,F2,normal,p457_l26_o11_b,S63,F2
 75r,p457_l27_o10,Foedus ,p457_l27_o10_a,turpis,S22,F2,normal,p457_l27_o10_b,S63,F2
-75r,p457_l28_o01,Foedo ,p457_l28_o01_a,turpo,S22,F2,shorthand,,,
-75r,p457_l28_o04,Vagus ,p457_l28_o04_a,+,S22,F2,normal,p457_l28_o04_b,S63,F2
+75r,p457_l28_o01,Foedo ,p457_l28_o01_a,turpo,S22,F2,normal,,,
+75r,p457_l28_o04,Vagus ,p457_l28_o04_a,+,S22,F2,shorthand,p457_l28_o04_b,S63,F2
 75r,p457_l28_o05,uagor ,p457_l28_o05_a,+++,S23,F4,normal,,,
 75r,p457_l28_o08,Pius ,p457_l28_o08_a,demens,S22,F2,normal,,,
 75r,p457_l28_o09,pio ,p457_l28_o09_a,mundo,S22,F2,normal,p457_l28_o09_b,S63,F3
 75r,p457_l28_o13,desolo ,p457_l28_o13_a,deuasto,S22,F2,normal,,,
-75r,p457_l30_o06,Serenꝰ ,p457_l30_o06_a,tranquillus ł mitis,S22,F3,shorthand,,,
+75r,p457_l30_o06,Serenꝰ ,p457_l30_o06_a,tranquillus ł mitis,S22,F3,normal,,,
 75r,p457_l30_o07,Sereno ,,,,,,p457_l30_o07_a,S63,F2
 75r,p457_l30_o02,Alienꝰ ,p457_l30_o02_a,+,S22,F2,shorthand,,,
-75r,p457_l30_o10,aduno ,p457_l30_o10_a,c̃iungo,S22,F2,shorthand,,,
+75r,p457_l30_o10,aduno ,p457_l30_o10_a,c̃iungo,S22,F2,normal,,,
 75r,p457_l31_o02,Hibernꝰ ,p457_l31_o02_a,+++,S53,F4,shorthand,p457_l31_o02_b,S63,F2
-75r,p457_l31_o03,Hiberno ,p457_l31_o03_a,+++hib̶nus,S23,F4,normal,,,
+75r,p457_l31_o03,Hiberno ,p457_l31_o03_a,+++hib̶nus,S23,F4,shorthand,,,
 75r,p457_l31_o09,Aequus ,p457_l31_o09_a,iustus,S22,F2,normal,,,
-75r,p457_l32_o01,ęquo ,p457_l32_o01_a,assimilo,S22,F2,shorthand,p457_l32_o01_b,S63,F2
-75r,p457_l32_o03,Obliquus ,p457_l32_o03_a,curuus ł inclinatꝰ ++/inęqualis,S23,F4,normal,p457_l32_o03_b,S63,F2
+75r,p457_l32_o01,ęquo ,p457_l32_o01_a,assimilo,S22,F2,normal,p457_l32_o01_b,S63,F2
+75r,p457_l32_o03,Obliquus ,p457_l32_o03_a,curuus ł inclinatꝰ ++/inęqualis,S23,F4,shorthand,p457_l32_o03_b,S63,F2
 75r,p457_l33_o02,ignarꝰ ,p457_l33_o02_a,inscius,S22,F2,normal,,,
-75r,p457_l33_o11,delato ,p457_l33_o11_a,ãplifico,S22,F2,shorthand,p457_l33_o11_b,S22,F3
+75r,p457_l33_o11,delato ,p457_l33_o11_a,ãplifico,S22,F2,normal,p457_l33_o11_b,S22,F3
 75r,p457_l34_o05,Apto ,p457_l34_o05_a,accõmodo,S22,F2,normal,,,
 75r,p457_l34_o08,Solllicito ,p457_l34_o08_a,curo,S22,F2,normal,,,
 75r,p457_l35_o01,Cruentꝰ ,p457_l35_o01_a,sangui nolentus,S23,F3,normal,,,
 75r,p457_l35_o05,Laxus ,p457_l35_o05_a,dimissus,S22,F2,normal,,,
 75r,p457_l35_o06,Laxo ,p457_l35_o06_a,dimitto,S22,F2,normal,p457_l35_o06_b,S63,F2
-75r,p457_l35_o09,Viduus ,p457_l35_o09_a,desertus,S22,F2,shorthand,p457_l35_o09_b,S63,F2
+75r,p457_l35_o09,Viduus ,p457_l35_o09_a,desertus,S22,F2,normal,p457_l35_o09_b,S63,F2
 75r,p457_l35_o10,uiduo ,p457_l35_o10_a,+,S22,F2,shorthand,,,
 75r,p458_l01_o02, Mutuor ,,,,,,p458_l01_o02_a,S63,F2
-75r,p458_l01_o05,fixis ,p458_l01_o05_a,sb̶ nominib (fiunt uerba?),S53,F4,normal,p458_l01_o05_b,S63,F2
+75r,p458_l01_o05,fixis ,p458_l01_o05_a,sb̶ nominib (fiunt uerba?),S53,F4,shorthand,p458_l01_o05_b,S63,F2
 75r,p458_l01_o08,Loco ,,,,,,,,
 75r,p458_l01_o11,Suffoco ,p458_l01_o11_a,strangulo,S22,F2,normal,p458_l01_o11_b,S54,F4
 75r,p458_l02_o02,gręcor ,p458_l02_o02_a,grece loquor,S23,F4,normal,,,
-75r,p458_l02_o05,Vulgus ,p458_l02_o05_a,populus insipiens,S23,F3,shorthand,,,
+75r,p458_l02_o05,Vulgus ,p458_l02_o05_a,populus insipiens,S23,F3,normal,,,
 75r,p458_l02_o06,Vulgo ,,,,,,p458_l02_o06_a,S63,F3
 75r,p458_l02_o10,Stimulo ,p458_l02_o10_a,incito,S22,F2,normal,,,
 75r,p458_l03_o06,T̃minꝰ ,p458_l03_o06_a,finis,S22,F2,normal,,,
-75r,p458_l03_o10,ꝑenno ,p458_l03_o10_a,ꝓtelo,S22,F2,shorthand,p458_l03_o10_b,S63,F2
+75r,p458_l03_o10,ꝑenno ,p458_l03_o10_a,ꝓtelo,S22,F2,normal,p458_l03_o10_b,S63,F2
 75r,p458_l05_o01,Diriuo ,p458_l05_o01_a,deduco,S22,F2,normal,p458_l05_o01_b,S63,F2
 75r,p458_l05_o06,Stomacus ,p458_l05_o06_a,os uentris,S23,F3,normal,,,
-75r,p458_l05_o07,Stomachor ,p458_l05_o07_a,irascor,S22,F2,shorthand,p458_l05_o07_b,S63,F2
+75r,p458_l05_o07,Stomachor ,p458_l05_o07_a,irascor,S22,F2,normal,p458_l05_o07_b,S63,F2
 75r,p458_l06_o02,neutris ,p458_l06_o02_a,+,S53,F2,shorthand,p458_l06_o02_b,S63,F2
 75r,p458_l06_o06,Libũ ,p458_l06_o06_a,libam̃/p̃gustatio,S22,F3,normal,p458_l06_o06_b,S4181,F4
 75r,p458_l06_o07,libo ,p458_l06_o07_a,sacrifico/p̃gusto,S22,F3,normal,,,
 75r,p458_l06_o11,uelo ,p458_l06_o11_a,operio,S22,F2,normal,,,
-75r,p458_l06_o13,Colũ ,p458_l06_o13_a,anus,S22,F2,shorthand,p458_l06_o13_b,S63,F3
-75r,p458_l07_o06,Peculiũ ,p458_l07_o06_a,possessio ++,S22,F3,normal,p458_l07_o06_b,S63,F2
-75r,p458_l07_o07,depeculor ,p458_l07_o07_a,deuasto,S22,F2,shorthand,,,
+75r,p458_l06_o13,Colũ ,p458_l06_o13_a,anus,S22,F2,normal,p458_l06_o13_b,S63,F3
+75r,p458_l07_o06,Peculiũ ,p458_l07_o06_a,possessio ++,S22,F3,shorthand,p458_l07_o06_b,S63,F2
+75r,p458_l07_o07,depeculor ,p458_l07_o07_a,deuasto,S22,F2,normal,,,
 75r,p458_l08_o09,armo ,,,,,,,,
 75r,p458_l08_o12,Stagnũ ,p458_l08_o12_a,genꝰ m&alli & dr̃ lacꝰ +++,S23,F4,normal,p458_l08_o12_b,S63,F2
 75r,p458_l09_o03,regno ,p458_l09_o03_a,gub̶no,S22,F2,normal,,,
-75r,p458_l09_o06,signo ,p458_l09_o06_a,noto,S22,F2,shorthand,,,
+75r,p458_l09_o06,signo ,p458_l09_o06_a,noto,S22,F2,normal,,,
 75r,p458_l10_o01-02,IN .er. ,,,,,,p458_l10_o01-02_a,S63,F2
 75r,p458_l10_o06,scđę ,p458_l10_o06_a,sb̶ decłins,S53,F2,normal,,,
 75r,p458_l11_o03,liber ,p458_l11_o03_a,ingenuus / filius,S22,F3,normal,,,
-75r,p458_l11_o04,libero ,p458_l11_o04_a,liberũ facio/eripio,S23,F4,shorthand,,,
+75r,p458_l11_o04,libero ,p458_l11_o04_a,liberũ facio/eripio,S23,F4,normal,,,
 75r,p458_l11_o06,Sacer ,p458_l11_o06_a,sc̃s,S22,F2,normal,,,
 75r,p458_l11_o07,sacro ,,,,,,p458_l11_o07_a,S63,F2
-75r,p458_l11_o11,"ꝑagro, ",p458_l11_o11_a,ꝑlustro,S22,F2,shorthand,,,
+75r,p458_l11_o11,"ꝑagro, ",p458_l11_o11_a,ꝑlustro,S22,F2,normal,,,
 75r,p458_l12_o01,integer ,,,,,,p458_l12_o01_a,S63,F2
-75r,p458_l12_o05,miseror ,p458_l12_o05_a,++++,S333,F4,normal,p458_l12_o05_b,S63,F2
-75r,p458_l12_o08,Misereor ,p458_l12_o08_a,+++,S23,F4,shorthand,,,
+75r,p458_l12_o05,miseror ,p458_l12_o05_a,++++,S333,F4,shorthand,p458_l12_o05_b,S63,F2
+75r,p458_l12_o08,Misereor ,p458_l12_o08_a,+++,S23,F4,normal,,,
 75r,p458_l13_o09,Satur ,p458_l13_o09_a,acutꝰ,S22,F2,normal,,,
-75r,p458_l14_o01,Saturo ,p458_l14_o01_a,satio,S22,F2,shorthand,,,
+75r,p458_l14_o01,Saturo ,p458_l14_o01_a,satio,S22,F2,normal,,,
 75r,p458_l15_o01-02,A t̃tię ,,,,,,p458_l15_o01-02_a,S63,F3
-75r,p458_l15_o08,exceptionib; ,p458_l15_o08_a,+++,S53,F4,shorthand,,,
+75r,p458_l15_o08,exceptionib; ,p458_l15_o08_a,+++,S53,F4,normal,,,
 75r,p458_l17_o05,contio ,p458_l17_o05_a,multitudo ++,S23,F3,normal,p458_l17_o05_b,S63,F2
-75r,p458_l17_o07,Ctionor ,p458_l17_o07_a,c̃tionẽ alloquor,S23,F4,shorthand,p458_l17_o07_b,S63,F2
-75r,p458_l17_o09,Ordo ,p458_l17_o09_a,series,S22,F2,shorthand,,,
-75r,p458_l18_o01,Ordino ,p458_l18_o01_a,+,S22,F2,normal,,,
-75r,p458_l18_o03,Virgo ,p458_l18_o03_a,castus ł casta,S22,F3,shorthand,,,
-75r,p458_l18_o05,deuirgino ,p458_l18_o05_a,+,S22,F2,normal,p458_l18_o05_b,S63,F2
-75r,p458_l19_o03,lacto ,p458_l19_o03_a,decipio (alo nutrio siue lac?) do,S23,F4,shorthand,p458_l19_o03_b,S63,F2
+75r,p458_l17_o07,Ctionor ,p458_l17_o07_a,c̃tionẽ alloquor,S23,F4,normal,p458_l17_o07_b,S63,F2
+75r,p458_l17_o09,Ordo ,p458_l17_o09_a,series,S22,F2,normal,,,
+75r,p458_l18_o01,Ordino ,p458_l18_o01_a,+,S22,F2,shorthand,,,
+75r,p458_l18_o03,Virgo ,p458_l18_o03_a,castus ł casta,S22,F3,normal,,,
+75r,p458_l18_o05,deuirgino ,p458_l18_o05_a,+,S22,F2,shorthand,p458_l18_o05_b,S63,F2
+75r,p458_l19_o03,lacto ,p458_l19_o03_a,decipio (alo nutrio siue lac?) do,S23,F4,normal,p458_l19_o03_b,S63,F2
 75r,p458_l19_o05-06,In .l. ,,,,,,p458_l19_o05-06_a,S63,F2
 75r,p458_l19_o08,uigil ,p458_l19_o08_a,custos,S22,F2,normal,,,
 75r,p458_l19_o12,Exsul ,p458_l19_o12_a,peregrinꝰ,S22,F2,normal,,,
-75r,p458_l19_o13,exulo ,p458_l19_o13_a,peregrinor,S22,F2,shorthand,,,
+75r,p458_l19_o13,exulo ,p458_l19_o13_a,peregrinor,S22,F2,normal,,,
 75r,p458_l20_o11-12,In.er. ,,,,,,p458_l20_o11-12_a,S63,F2
 75r,p458_l21_o02,uerber ,p458_l21_o02_a,flagellũ,S22,F2,normal,p458_l21_o02_b,S63,F2
 75r,p458_l21_o03,"uerbero, ",p458_l21_o03_a,flagello,S22,F2,normal,,,
@@ -863,39 +863,39 @@ folio,lemma_id,lemma,gloss_id,gloss,gloss_type,gloss_form,nature,marginal_note_i
 75r,p458_l21_o08,Agger ,p458_l21_o08_a,cumulus t̃rę,S23,F3,normal,,,
 75r,p458_l21_o09,aggero ,p458_l21_o09_a,accumulo,S22,F2,normal,,,
 75r,p458_l22_o03,"itero, ",p458_l22_o03_a,rep&o,S22,F2,normal,p458_l22_o03_b,S63,F2
-75r,p458_l22_o07,labor ,p458_l22_o07_a,poena,S22,F2,shorthand,,,
+75r,p458_l22_o07,labor ,p458_l22_o07_a,poena,S22,F2,normal,,,
 75r,p458_l22_o10,Vapor ,p458_l22_o10_a,fumus,S22,F2,normal,p458_l22_o10_b,S63,F2
 75r,p458_l22_o11,"uaporo, ",p458_l22_o11_a,uaporẽ (facio)?,S23,F4,normal,,,
 75r,p458_l23_o02,"memoro, ",p458_l23_o02_a,recordor,S22,F2,normal,,,
 75r,p458_l23_o09,Robur ,p458_l23_o09_a,uirtus,S22,F2,normal,p458_l23_o09_b,S63,F2
-75r,p458_l23_o10,"roboro, ",p458_l23_o10_a,firmo,S22,F2,shorthand,,,
+75r,p458_l23_o10,"roboro, ",p458_l23_o10_a,firmo,S22,F2,normal,,,
 75r,p458_l24_o05,Murmur ,,,,,,p458_l24_o05_a,S63,F2
 75r,p458_l24_o09,auguro ,p458_l24_o09_a,auguriis (facio)?,S23,F4,normal,,,
-75r,p458_l25_o06,nugas ,p458_l25_o06_a,turpis,S22,F2,shorthand,p458_l25_o06_b,S63,F2
+75r,p458_l25_o06,nugas ,p458_l25_o06_a,turpis,S22,F2,normal,p458_l25_o06_b,S63,F2
 75r,p458_l25_o08,nugor ,,,,,,p458_l25_o08_a,S63,F2
-75r,p458_l26_o01,Vas ,p458_l26_o01_a,(qđ rustice dr̃) uuatges,S21,F4,shorthand,,,
+75r,p458_l26_o01,Vas ,p458_l26_o01_a,(qđ rustice dr̃) uuatges,S21,F4,normal,,,
 75r,p458_l26_o03,Vador ,p458_l26_o03_a,+++ transeo,S22,F3,shorthand,p458_l26_o03_b,S63,F2
-75r,p458_l26_o07,aries ,p458_l26_o07_a,+,S23,F4,normal,,,
+75r,p458_l26_o07,aries ,p458_l26_o07_a,+,S23,F4,shorthand,,,
 75r,p458_l26_o10,Miles ,p458_l26_o10_a,tiro,S554,F2,normal,p458_l26_o10_b,S63,F2
 75r,p458_l26_o11,"milito, ",p458_l26_o11_a,pugno,S22,F2,normal,,,
-75r,p458_l27_o02,comitor ,p458_l27_o02_a,subsequor,S22,F2,shorthand,,,
+75r,p458_l27_o02,comitor ,p458_l27_o02_a,subsequor,S22,F2,normal,,,
 75r,p458_l27_o05,sedo ,p458_l27_o05_a,mitigo/placo,S22,F3,normal,p458_l27_o05_b,S63,F2
 75r,p458_l27_o07,Locuples ,p458_l27_o07_a,diues,S22,F2,normal,p458_l27_o07_b,S63,F2
-75r,p458_l27_o08,Locup&to ,p458_l27_o08_a,diues efficio dito,S23,F3,shorthand,,,
+75r,p458_l27_o08,Locup&to ,p458_l27_o08_a,diues efficio dito,S23,F3,normal,,,
 75r,p458_l28_o04,Exheredo ,p458_l28_o04_a,++++,S23,F4,shorthand,,,
 75r,p458_l28_o06-07,in .is. ,,,,,,p458_l28_o06-07_a,S63,F2
 75r,p458_l28_o09,turpis ,p458_l28_o09_a,fedus,S22,F2,normal,,,
 75r,p458_l28_o10,turpo ,p458_l28_o10_a,fedo,S22,F2,normal,,,
 75r,p458_l29_o03,tenuo ,,,,,,p458_l29_o03_a,S63,F2
 75r,p458_l29_o05,Tristis ,p458_l29_o05_a,merens,S22,F2,normal,,,
-75r,p458_l29_o09,detestor ,p458_l29_o09_a,abominor,S22,F2,shorthand,,,
+75r,p458_l29_o09,detestor ,p458_l29_o09_a,abominor,S22,F2,normal,,,
 75r,p458_l30_o01-02,in .os. ,,,,,,p458_l30_o01-02_a,S63,F2
-75r,p458_l30_o03,oro ,p458_l30_o03_a,p̃cor,S22,F2,shorthand,,,
+75r,p458_l30_o03,oro ,p458_l30_o03_a,p̃cor,S22,F2,normal,,,
 75r,p458_l30_o07,Ros ,,,,,,p458_l30_o07_a,S63,F2
-75r,p458_l30_o08,roro ,p458_l30_o08_a,rorẽ (facio)?,S23,F2,normal,,,
+75r,p458_l30_o08,roro ,p458_l30_o08_a,rorẽ (facio)?,S23,F2,shorthand,,,
 75r,p458_l31_o01,In .us.  ,,,,,,p458_l31_o01_a,S63,F3
 75r,p458_l31_o02,Decus ,p458_l31_o02_a,honor,S22,F2,normal,,,
-75r,p458_l31_o03,decoro ,p458_l31_o03_a,orno,S22,F2,shorthand,,,
+75r,p458_l31_o03,decoro ,p458_l31_o03_a,orno,S22,F2,normal,,,
 75r,p458_l31_o05,Vlcus ,,,,,,p458_l31_o05_a,S23,F4
 75r,p458_l31_o08,Pondus ,p458_l31_o08_a,onus,S22,F2,normal,,,
 75r,p458_l31_o09,"pondero, ",p458_l31_o09_a,onero,S22,F2,normal,,,
@@ -903,59 +903,59 @@ folio,lemma_id,lemma,gloss_id,gloss,gloss_type,gloss_form,nature,marginal_note_i
 75r,p458_l32_o03,"olero, ",p458_l32_o03_a,olera plaNTo,S23,F4,normal,,,
 75r,p458_l32_o05,Munus ,p458_l32_o05_a,donũ,S22,F2,normal,,,
 75r,p458_l32_o08,Aes ,p458_l32_o08_a,genus m&alli,S222,F3,normal,,,
-75r,p458_l32_o10,"ęro, ",p458_l32_o10_a,ęs facio +,S23,F4,shorthand,p458_l32_o10_b,S63,F2
+75r,p458_l32_o10,"ęro, ",p458_l32_o10_a,ęs facio +,S23,F4,normal,p458_l32_o10_b,S63,F2
 75v,p459_l01_o06,Fraus ,p459_l01_o06_a,deceptio,S22,F2,normal,,,
 75v,p459_l01_o10,paco ,p459_l01_o10_a,pacifico,S22,F2,normal,,,
 75v,p459_l02_o01,Nex ,p459_l02_o01_a,mors,S22,F2,normal,p459_l02_o01_b,S63,F3
 75v,p459_l02_o03,neco ,p459_l02_o03_a,int̃ficio,S22,F2,normal,,,
 75v,p459_l02_o05,Vindex ,p459_l02_o05_a,ultor,S22,F2,normal,,,
-75v,p459_l02_o07,uindico ,p459_l02_o07_a,ulciscor,S22,F2,shorthand,,,
+75v,p459_l02_o07,uindico ,p459_l02_o07_a,ulciscor,S22,F2,normal,,,
 75v,p459_l02_o09,iudex ,p459_l02_o09_a,arbiter,S22,F2,normal,,,
 75v,p459_l03_o01,Remex ,p459_l03_o01_a,gub̶nator nauiũ,S23,F3,normal,,,
-75v,p459_l03_o04,Lex ,p459_l03_o04_a,ius,S22,F2,shorthand,,,
-75v,p459_l03_o05,lego ,p459_l03_o05_a,legẽ facio +++,S23,F4,normal,p459_l03_o05_b,S63,F2
+75v,p459_l03_o04,Lex ,p459_l03_o04_a,ius,S22,F2,normal,,,
+75v,p459_l03_o05,lego ,p459_l03_o05_a,legẽ facio +++,S23,F4,shorthand,p459_l03_o05_b,S63,F2
 75v,p459_l03_o08,radico ,p459_l03_o08_a,fundo,S22,F2,normal,p459_l03_o08_b,S63,F2
 75v,p459_l04_o01,Cornix ,p459_l04_o01_a,genꝰ auis,S222,F3,normal,,,
-75v,p459_l04_o02,cornicor ,p459_l04_o02_a,inanit̃ loquor,S23,F4,shorthand,,,
+75v,p459_l04_o02,cornicor ,p459_l04_o02_a,inanit̃ loquor,S23,F4,normal,,,
 75v,p459_l04_o05,"uoco, ",p459_l04_o05_a,appello,S22,F2,normal,,,
 75v,p459_l04_o07,Pernox ,p459_l04_o07_a,ꝑuigil,S22,F2,normal,,,
 75v,p459_l04_o09,"ꝑnocto, ",p459_l04_o09_a,ꝑuigilo,S22,F2,normal,p459_l04_o09_b,S63,F2
 75v,p459_l05_o01,Merx ,p459_l05_o01_a,mercimoniũ,S22,F2,normal,p459_l05_o01_b,S63,F2
 75v,p459_l05_o03,Mercor ,p459_l05_o03_a,cõparo,S22,F2,normal,,,
 75v,p459_l05_o05,Hiemps ,p459_l05_o05_a,unũ ex IIII tẽporib,S222,F3,normal,,,
-75v,p459_l05_o09,Pręceps ,p459_l05_o09_a,p̃cipiciũ,S22,F2,shorthand,p459_l05_o09_b,S63,F2
+75v,p459_l05_o09,Pręceps ,p459_l05_o09_a,p̃cipiciũ,S22,F2,normal,p459_l05_o09_b,S63,F2
 75v,p459_l05_o10,pręcipito ,p459_l05_o10_a,+++,S23,F4,normal,,,
 75v,p459_l07_o06,ęstus ,p459_l07_o06_a,calor,S22,F2,normal,,,
 75v,p459_l07_o07,"ęstuo, ",p459_l07_o07_a,caleo,S22,F2,normal,,,
-75v,p459_l07_o11,"fluctuo, ",p459_l07_o11_a,titubo,S22,F2,shorthand,,,
-75v,p459_l08_o01,Tumultꝰ ,p459_l08_o01_a,(quasi timor)? multꝰ,S22,F3,normal,p459_l08_o01_b,S63,F2
-75v,p459_l08_o02,tumultuor ,p459_l08_o02_a,tumultũ facio,S25,F4,shorthand,,,
+75v,p459_l07_o11,"fluctuo, ",p459_l07_o11_a,titubo,S22,F2,normal,,,
+75v,p459_l08_o01,Tumultꝰ ,p459_l08_o01_a,(quasi timor)? multꝰ,S22,F3,shorthand,p459_l08_o01_b,S63,F2
+75v,p459_l08_o02,tumultuor ,p459_l08_o02_a,tumultũ facio,S25,F4,normal,,,
 75v,p459_l08_o05-06,gelo -las. ,,,,,,p459_l08_o05-06_a,S63,F2
 75v,p459_l08_o07-08,In .es.  ,,,,,,p459_l08_o07-08_a,S63,F2
 75v,p459_l08_o10,Rabies ,p459_l08_o10_a,am̃tia insania,S22,F3,normal,p459_l08_o10_b,S63,F2
 75v,p459_l09_o03,Macies ,p459_l09_o03_a,macredo,S22,F2,normal,,,
-75v,p459_l09_o07,macero ,p459_l09_o07_a,affligo crucio,S22,F3,shorthand,,,
+75v,p459_l09_o07,macero ,p459_l09_o07_a,affligo crucio,S22,F3,normal,,,
 75v,p459_l13_o03,nisus ,p459_l13_o03_a,conam̃,S22,F2,normal,p459_l13_o03_b,S63,F3
 75v,p459_l13_o02,uisus ,p459_l13_o02_a,uisio,S22,F2,normal,,,
 75v,p459_l13_o04,Motus ,p459_l13_o04_a,motio,S22,F2,normal,p459_l13_o04_b,S63,F3
-75v,p459_l13_o05,Notus ,p459_l13_o05_a,notam̃,S22,F2,shorthand,,,
+75v,p459_l13_o05,Notus ,p459_l13_o05_a,notam̃,S22,F2,normal,,,
 75v,p459_l14_o03,acies ,p459_l14_o03_a,exercitꝰ / a acuo,S54,F3,normal,p459_l14_o03_b,S63,F2
 75v,p459_l14_o04,Facies ,p459_l14_o04_a,credulitas/a fido,S54,F3,normal,,,
 75v,p459_l14_o05,Fides ,p459_l14_o05_a,̃a facio,S54,F3,normal,,,
-75v,p459_l14_o06,Res ,p459_l14_o06_a,a VERB ͧ ͫ  reor,S54,F3,shorthand,,,
+75v,p459_l14_o06,Res ,p459_l14_o06_a,a VERB ͧ ͫ  reor,S54,F3,normal,,,
 75v,p459_l17_o04,obseruari ,p459_l17_o04_a,attendi,S22,F2,normal,,,
-75v,p459_l17_o06,siquid ,p459_l17_o06_a,simile,S22,F2,shorthand,p459_l17_o06_b,S53,F4
+75v,p459_l17_o06,siquid ,p459_l17_o06_a,simile,S22,F2,normal,p459_l17_o06_b,S53,F4
 75v,p459_l19_o09,"scriba, ",p459_l19_o09_a,lege peritꝰ,S23,F3,normal,p459_l19_o09_b,S63,F2
 75v,p459_l20_o03,"aduena, ",p459_l20_o03_a,peregrinꝰ,S22,F2,normal,,,
-75v,p459_l20_o06,"ꝓfuga, ",p459_l20_o06_a,porro fugiens,S25,F3,shorthand,p459_l20_o06_b,S63,F2
+75v,p459_l20_o06,"ꝓfuga, ",p459_l20_o06_a,porro fugiens,S25,F3,normal,p459_l20_o06_b,S63,F2
 75v,p459_l20_o09,mola ,,,,,,p459_l20_o09_a,S63,F2
 75v,p459_l21_o01,Consulo ,p459_l21_o01_a,int̃rogo,S22,F2,normal,,,
 75v,p459_l21_o03,c̃sul; ,p459_l21_o03_a,nom̃ dignitatis,S222,F3,normal,,,
 75v,p459_l21_o09,"uas, ",p459_l21_o09_a,pignus,S22,F2,normal,,,
-75v,p459_l22_o01,merges ,p459_l22_o01_a,manipulus/s. garba,S22,F3,shorthand,p459_l22_o01_b,S63,F2
-75v,p459_l22_o03,Quiesco ,p459_l22_o03_a,reꝗesco ++++,S22,F3,normal,,,
+75v,p459_l22_o01,merges ,p459_l22_o01_a,manipulus/s. garba,S22,F3,normal,p459_l22_o01_b,S63,F2
+75v,p459_l22_o03,Quiesco ,p459_l22_o03_a,reꝗesco ++++,S22,F3,shorthand,,,
 75v,p459_l22_o10,cędes ,p459_l22_o10_a,strages ł occisio,S22,F3,normal,p459_l22_o10_b,S63,F2
-75v,p459_l23_o01,Luo ,p459_l23_o01_a,soluo ł dãpno /sustineo,S22,F3,shorthand,,,
+75v,p459_l23_o01,Luo ,p459_l23_o01_a,soluo ł dãpno /sustineo,S22,F3,normal,,,
 75v,p459_l23_o04,"lues, ",p459_l23_o04_a,pestis,S22,F2,normal,,,
 75v,p459_l23_o05,Struo ,p459_l23_o05_a,edifico,S22,F2,normal,,,
 75v,p459_l23_o08,strues ,p459_l23_o08_a,c̃geries,S22,F2,normal,,,
@@ -964,76 +964,76 @@ folio,lemma_id,lemma,gloss_id,gloss,gloss_type,gloss_form,nature,marginal_note_i
 75v,p459_l24_o02,"tribus, ",p459_l24_o02_a,triginta centuriae,S23,F3,normal,,,
 75v,p459_l24_o03,Parco ,p459_l24_o03_a,indulgeo,S22,F2,normal,,,
 75v,p459_l24_o05,"parcus, ",p459_l24_o05_a,abstinens,S22,F2,normal,,,
-75v,p459_l24_o06,Gradior ,p459_l24_o06_a,ambulo,S22,F2,shorthand,,,
+75v,p459_l24_o06,Gradior ,p459_l24_o06_a,ambulo,S22,F2,normal,,,
 75v,p459_l24_o09,Fido ,p459_l24_o09_a,c̃fido,S22,F2,normal,,,
 75v,p459_l25_o01,"fidus, ",p459_l25_o01_a,fidelis,S22,F2,normal,,,
 75v,p459_l25_o02,Pando ,p459_l25_o02_a,aperio,S22,F2,normal,,,
 75v,p459_l25_o04,"pandus, ",p459_l25_o04_a,aꝑtus patulus,S22,F3,normal,p459_l25_o04_b,S63,F2
 75v,p459_l25_o08,Ludo ,p459_l25_o08_a,ioco,S22,F2,normal,,,
-75v,p459_l25_o10,"ludus, ",p459_l25_o10_a,iocus,S22,F2,shorthand,,,
-75v,p459_l27_o01-02,cõmonstrabuntur ,p459_l27_o01-02_a,simul,S34,F2,shorthand,,,
+75v,p459_l25_o10,"ludus, ",p459_l25_o10_a,iocus,S22,F2,normal,,,
+75v,p459_l27_o01-02,cõmonstrabuntur ,p459_l27_o01-02_a,simul,S34,F2,normal,,,
 75v,p459_l28_o09,adeo ,p459_l28_o09_a,intantũ,S22,F2,normal,,,
-75v,p459_l29_o03,ꝓbant ,p459_l29_o03_a,experiuntur/cognoscantur,S22,F3,shorthand,,,
+75v,p459_l29_o03,ꝓbant ,p459_l29_o03_a,experiuntur/cognoscantur,S22,F3,normal,,,
 75v,p459_l30_o03,adhęreant ,p459_l30_o03_a,adiungant seruient,S22,F3,normal,,,
 75v,p459_l30_o07,illis ,p459_l30_o07_a,sb̶ nominib,S3232,F2,normal,,,
-75v,p459_l30_o08,duci ,p459_l30_o08_a,diriuari,S22,F2,shorthand,,,
+75v,p459_l30_o08,duci ,p459_l30_o08_a,diriuari,S22,F2,normal,,,
 75v,p459_l31_o06,primordia. ,p459_l31_o06_a,initia,S22,F2,normal,,,
 75v,p459_l31_o07,Formido ,p459_l31_o07_a,paueo,S22,F2,normal,,,
 75v,p459_l32_o02,caligo ,p459_l32_o02_a,cęcitatẽ patior,S23,F4,normal,,,
 75v,p459_l32_o05,ꝓpago ,p459_l32_o05_a,dilato ł ãplifico/ꝓtelo,S22,F3,normal,,,
 75v,p459_l32_o08,palpo ,p459_l32_o08_a,tango,S22,F2,normal,,,
-75v,p459_l32_o11,indagor ,p459_l32_o11_a,inuestigo ł exploro,S22,F3,shorthand,,,
+75v,p459_l32_o11,indagor ,p459_l32_o11_a,inuestigo ł exploro,S22,F3,normal,,,
 75v,p459_l34_o01,formido ,p459_l34_o01_a,m&us,S22,F2,normal,p459_l34_o01_b,S63,F2
 75v,p459_l34_o02,caligo ,p459_l34_o02_a,albugo oculorũ,S22,F3,normal,,,
-75v,p459_l34_o03,ꝓpago ,p459_l34_o03_a,ꝓsapia,S22,F2,shorthand,p459_l34_o03_b,S63,F2
+75v,p459_l34_o03,ꝓpago ,p459_l34_o03_a,ꝓsapia,S22,F2,normal,p459_l34_o03_b,S63,F2
 75v,p459_l34_o05,indago ,,,,,,p459_l34_o05_b,S63,F2
-75v,p459_l34_o09,respondent ,p459_l34_o09_a,sb̶ uerba,S415,F2,shorthand,,,
+75v,p459_l34_o09,respondent ,p459_l34_o09_a,sb̶ uerba,S415,F2,normal,,,
 75v,p459_l36_o05,traducta ,p459_l36_o05_a,sb̶ uerba,S53,F2,normal,,,
-75v,p459_l36_o11,perspicacius ,p459_l36_o11_a,acutius/diligeNTius,S22,F3,shorthand,,,
-75v,p460_l01_o04,q̃ ,p460_l01_o04_a,s. subtilitas,S3232,F2,shorthand,,,
+75v,p459_l36_o11,perspicacius ,p459_l36_o11_a,acutius/diligeNTius,S22,F3,normal,,,
+75v,p460_l01_o04,q̃ ,p460_l01_o04_a,s. subtilitas,S3232,F2,normal,,,
 75v,p460_l01_o07,c̃fusionẽ ,p460_l01_o07_a,(commixtione?),S22,F2,shorthand,,,
 75v,p460_l03_o11,prima ,p460_l03_o11_a,coniugatio,S53,F2,shorthand,,,
-75v,p460_l04_o10,ꝓgenuit ,p460_l04_o10_a,ꝓcreauit,S22,F2,shorthand,,,
+75v,p460_l04_o10,ꝓgenuit ,p460_l04_o10_a,ꝓcreauit,S22,F2,normal,,,
 75v,p460_l05_o06-07,pręsens indicatiuus ,p460_l05_o06-07_a,÷ ꝓferre +++,S53,F4,shorthand,,,
-76r,p460_l07_o07-08,ꝓhibuit ,p460_l07_o07-08_a,ID EST c̃cessit,S23,F3,shorthand,,,
+76r,p460_l07_o07-08,ꝓhibuit ,p460_l07_o07-08_a,ID EST c̃cessit,S23,F3,normal,,,
 76r,p460_l08_o02,positio ,p460_l08_o02_a,+,S53,F2,shorthand,,,
 76r,p460_l10_o05,Scđa ,p460_l10_o05_a,coniugatio,S53,F2,shorthand,,,
 76r,p460_l10_o08,quartã ,p460_l10_o08_a,coniugationem,S53,F2,shorthand,,,
-76r,p460_l14_o09,suꝑuacuo ,p460_l14_o09_a,suꝑfluo,S22,F2,shorthand,,,
-76r,p460_l19_o05,ut ,p460_l19_o05_a,sicut,S35,F2,shorthand,,,
-76r,p460_l22_o08,speciales. ,p460_l22_o08_a,ẽẽ,S611,F2,shorthand,,,
+76r,p460_l14_o09,suꝑuacuo ,p460_l14_o09_a,suꝑfluo,S22,F2,normal,,,
+76r,p460_l19_o05,ut ,p460_l19_o05_a,sicut,S35,F2,normal,,,
+76r,p460_l22_o08,speciales. ,p460_l22_o08_a,ẽẽ,S611,F2,normal,,,
 76r,p460_l23_o06,diuisas ,,,,,,p460_l23_o06_a,S22,F3
 76r,p460_l26_o06,eoq; ,,,,,,,,
-76r,p460_l26_o08,uniformiter ,p460_l26_o08_a,sb̶ uidemus scđm unã formã,S23,F4,shorthand,,,
+76r,p460_l26_o08,uniformiter ,p460_l26_o08_a,sb̶ uidemus scđm unã formã,S23,F4,normal,,,
 76r,p460_l29_o03,rationẽ ,p460_l29_o03_a,sacer sacri sacro sacras tot syllabas ++ ignt̃o ⁊+++,S53,F4,normal,p460_l29_o03_b,S53,F4
-76r,p460_l29_o08,manifestissime ,p460_l29_o08_a,aꝑtissime,S22,F2,shorthand,,,
+76r,p460_l29_o08,manifestissime ,p460_l29_o08_a,aꝑtissime,S22,F2,normal,,,
 76r,p460_l31_o01,adhęrentia ,p460_l31_o01_a,seruentia,S22,F2,normal,,,
-76r,p460_l31_o05,gigni ,p460_l31_o05_a,generari,S22,F2,shorthand,,,
-76r,p460_l32_o01,cogunt᷑. ,p460_l32_o01_a,cõpellunt᷑,S22,F2,shorthand,,,
-76r,p460_l32_o03,Ater ,p460_l32_o03_a,niger (inde dicitur) atrim̃tũ,S24,F4,shorthand,p460_l32_o03_b,S63,F2
-76r,p460_l32_o08,"tenera, ",p460_l32_o08_a,"(mollis? inde dicitur) tenellus, la",S54,F4,normal,,,
+76r,p460_l31_o05,gigni ,p460_l31_o05_a,generari,S22,F2,normal,,,
+76r,p460_l32_o01,cogunt᷑. ,p460_l32_o01_a,cõpellunt᷑,S22,F2,normal,,,
+76r,p460_l32_o03,Ater ,p460_l32_o03_a,niger (inde dicitur) atrim̃tũ,S24,F4,normal,p460_l32_o03_b,S63,F2
+76r,p460_l32_o08,"tenera, ",p460_l32_o08_a,"(mollis? inde dicitur) tenellus, la",S54,F4,shorthand,,,
 76r,p460_l23_o10,Longus ,,,,,,p460_l23_o10_a,S63,F2
-76r,p460_l33_o01,Arduus ,p460_l33_o01_a,excel/sus,S22,F2,shorthand,,,
+76r,p460_l33_o01,Arduus ,p460_l33_o01_a,excel/sus,S22,F2,normal,,,
 76r,p460_l34_o07,sacer ,p460_l34_o07_a,sc̃s,S22,F2,normal,p460_l34_o07_b,S63,F2
 76r,p460_l34_o09,sacro ,p460_l34_o09_a,libo,S22,F2,normal,,,
-76r,p460_l35_o05,Vigil ,p460_l35_o05_a,custos,S22,F2,shorthand,,,
+76r,p460_l35_o05,Vigil ,p460_l35_o05_a,custos,S22,F2,normal,,,
 76r,p460_l35_o07,Vigilo ,p460_l35_o07_a,excubo,S22,F2,normal,,,
 76r,p460_l35_o09,Semen ,,,,,,p460_l35_o09_a,S63,F2
-76r,p460_l36_o04,Memoro ,p460_l36_o04_a,recordor,S22,F2,shorthand,p460_l36_o04_b,S63,F2
+76r,p460_l36_o04,Memoro ,p460_l36_o04_a,recordor,S22,F2,normal,p460_l36_o04_b,S63,F2
 76r,p460_l36_o06,Miles ,p460_l36_o06_a,pugnator,S22,F2,normal,,,
 76r,p460_l36_o08,Milito ,p460_l36_o08_a,pugno,S22,F2,normal,p460_l36_o08_b,S63,F2
 76r,f82v_l06_o13,indico ,f82v_l06_o13_a,intimo,S22,F2,normal,,,
-76r,p461_l01_o05,Manceps ,p461_l01_o05_a,manceps -cipis & mancpitis (id est) manu capiens : Mances uͦ mancis/ dr̃ amens,S31,F4,shorthand,p461_l01_o05_b,S63,F2
-76r,p461_l01_o07,mancipo ,p461_l01_o07_a,subdo,S22,F2,shorthand,,,
+76r,p461_l01_o05,Manceps ,p461_l01_o05_a,manceps -cipis & mancpitis (id est) manu capiens : Mances uͦ mancis/ dr̃ amens,S31,F4,normal,p461_l01_o05_b,S63,F2
+76r,p461_l01_o07,mancipo ,p461_l01_o07_a,subdo,S22,F2,normal,,,
 76r,p461_l02_o08,regulant᷑ ,p461_l02_o08_a,ꝑ regulã (cognoscuNT᷑/ł ordinant᷑),S53,F4,normal,p461_l02_o08_b,S53,F2
-76r,p461_l02_o10,ambigua ,p461_l02_o10_a,dubia,S22,F2,shorthand,,,
-76r,p461_l03_o11,quib; ,p461_l03_o11_a,(uerbis),S3232,F2,normal,,,
-76r,p461_l04_o05,qui ,p461_l04_o05_a,sb̶ actus,S322,F2,shorthand,,,
+76r,p461_l02_o10,ambigua ,p461_l02_o10_a,dubia,S22,F2,normal,,,
+76r,p461_l03_o11,quib; ,p461_l03_o11_a,(uerbis),S3232,F2,shorthand,,,
+76r,p461_l04_o05,qui ,p461_l04_o05_a,sb̶ actus,S322,F2,normal,,,
 76r,p461_l05_o09,ęsca ,p461_l05_o09_a,cibus,S22,F2,normal,,,
 76r,p461_l05_o10,inęsco. ,p461_l05_o10_a,pasco,S22,F2,normal,p461_l05_o10_b,S63,F2
 76r,p461_l06_o02,inundo ,,,,,,p461_l06_o02_a,S63,F3
 76r,p461_l06_o06,paco ,p461_l06_o06_a,pacifico,S22,F2,normal,,,
-76v,p461_l06_o09,"Eradico, ",p461_l06_o09_a,a radicib euerso,S23,F4,shorthand,,,
+76v,p461_l06_o09,"Eradico, ",p461_l06_o09_a,a radicib euerso,S23,F4,normal,,,
 76v,p461_l07_o02,piscor ,,,,,,p461_l07_o02_a,S63,F2
 76v,p461_l07_o04,concordo ,,,,,,p461_l07_o04_a,S63,F2
 76v,p461_l07_o06,discordo ,,,,,,p461_l07_o06_a,S63,F2
@@ -1041,48 +1041,48 @@ folio,lemma_id,lemma,gloss_id,gloss,gloss_type,gloss_form,nature,marginal_note_i
 76v,p461_l10_o02,radio ,p461_l10_o02_a,splendeo,S22,F2,normal,,,
 76v,p461_l10_o04,Humus ,p461_l10_o04_a,tellus,S22,F2,normal,,,
 76v,p461_l10_o05,humo ,p461_l10_o05_a,sepelio,S22,F2,normal,,,
-76v,p461_l10_o10,Concio ,p461_l10_o10_a,multitudo,S22,F2,shorthand,,,
+76v,p461_l10_o10,Concio ,p461_l10_o10_a,multitudo,S22,F2,normal,,,
 76v,p461_l11_o02,"Elimino, ",p461_l11_o02_a,extra lim̃ iacio,S23,F4,normal,p461_l11_o02_b,S63,F2
 76v,p461_l11_o03,Cacumen ,p461_l11_o03_a,sũmitas,S22,F2,normal,p461_l11_o03_b,S63,F2
 76v,p461_l11_o04,"cacumino, ",p461_l11_o04_a,erigo,S22,F2,normal,,,
 76v,p461_l11_o06,cacũminat ,p461_l11_o06_a,erigio,S22,F2,normal,,,
-76v,p461_l12_o03,m&amorphoseon ,p461_l12_o03_a,transanimatione,S22,F2,shorthand,,,
+76v,p461_l12_o03,m&amorphoseon ,p461_l12_o03_a,transanimatione,S22,F2,normal,,,
 76v,p461_l12_o06,Rum̃ ,p461_l12_o06_a,interior pars gulę,S23,F3,normal,,,
 76v,p461_l12_o08,rumino ,,,,,,p461_l12_o08_a,S63,F2
-76v,p461_l13_o04,pallantes ,p461_l13_o04_a,e,S611,F1,shorthand,,,
+76v,p461_l13_o04,pallantes ,p461_l13_o04_a,e,S611,F1,normal,,,
 76v,p461_l14_o05,inauro ,,,,,,p461_l14_o05_a,S63,F2
 76v,p461_l17_o01,Scortum ,p461_l17_o01_a,stuprũ,S22,F2,normal,p461_l17_o01_b,S63,F2
-76v,p461_l17_o04,Gurges ,p461_l17_o04_a,ꝓfunditas,S22,F2,shorthand,,,
+76v,p461_l17_o04,Gurges ,p461_l17_o04_a,ꝓfunditas,S22,F2,normal,,,
 76v,p461_l17_o06,ingurgito ,,,,,,p461_l17_o06_a,S63,F2
 76v,p461_l18_o06,ingurgitasses ,p461_l18_o06_a,immersisses,S22,F2,normal,,,
 76v,p461_l18_o07,Cras ,,,,,,p461_l18_o07_a,S63,F2
-76v,p461_l19_o07,ꝓcrastino ,p461_l19_o07_a,ꝓtelo ꝓlongo,S22,F3,shorthand,p461_l19_o07_b,S63,F2
+76v,p461_l19_o07,ꝓcrastino ,p461_l19_o07_a,ꝓtelo ꝓlongo,S22,F3,normal,p461_l19_o07_b,S63,F2
 76v,p461_l19_o08,Dies ,,,,,,p461_l19_o08_a,S63,F2
 76v,p461_l19_o10,ꝑendie ,p461_l19_o10_a,post cras,S22,F3,normal,,,
-76v,p461_l20_o02,Comꝑendino ,p461_l20_o02_a,s. ꝓlongo,S22,F2,shorthand,p461_l20_o02_b,S63,F2
-76v,p461_l23_o08,ante ,p461_l23_o08_a,dictã,S53,F2,shorthand,,,
-76v,p461_l24_o09,quartę ,p461_l24_o09_a,ẽẽ,S611,F2,shorthand,,,
+76v,p461_l20_o02,Comꝑendino ,p461_l20_o02_a,s. ꝓlongo,S22,F2,normal,p461_l20_o02_b,S63,F2
+76v,p461_l23_o08,ante ,p461_l23_o08_a,dictã,S53,F2,normal,,,
+76v,p461_l24_o09,quartę ,p461_l24_o09_a,ẽẽ,S611,F2,normal,,,
 76v,p461_l25_o07,tertiae ,p461_l25_o07_a,(coniugatio),S53,F2,shorthand,,,
-76v,p461_l26_o09-10, in positionẽ ,p461_l26_o09-10_a,(id est) in formã ł pͥmã ꝑsonã indicatiui,S53,F4,shorthand,,,
-76v,p461_l27_o03,concessert̃ ,p461_l27_o03_a,decernert̃,S22,F2,shorthand,,,
+76v,p461_l26_o09-10, in positionẽ ,p461_l26_o09-10_a,(id est) in formã ł pͥmã ꝑsonã indicatiui,S53,F4,normal,,,
+76v,p461_l27_o03,concessert̃ ,p461_l27_o03_a,decernert̃,S22,F2,normal,,,
 76v,p461_l27_o04-05,singulisq ,,,,,,p461_l27_o04-05_a,S53,F4
 76v,p461_l28_o02,accipere ,p461_l28_o02_a,+,S22,F2,shorthand,,,
 76v,p461_l28_o03,coactis ,p461_l28_o03_a,+,S22,F2,shorthand,,,
-76v,p461_l28_o09,meditatiua ,p461_l28_o09_a,(uerba),S53,F2,normal,,,
-76v,p461_l29_o02,quartã ,p461_l29_o02_a,sb̶ c̃iugationẽ,S53,F2,shorthand,,,
-76v,p461_l31_o06,carentes ,p461_l31_o06_a,ñ habentes,S23,F3,shorthand,,,
-76v,p461_l32_o05,necessario ,p461_l32_o05_a,++,S34,F3,normal,,,
-76v,p461_l32_o06,sortiunt᷑ ,p461_l32_o06_a,accipiunt᷑,S22,F2,shorthand,,,
+76v,p461_l28_o09,meditatiua ,p461_l28_o09_a,(uerba),S53,F2,shorthand,,,
+76v,p461_l29_o02,quartã ,p461_l29_o02_a,sb̶ c̃iugationẽ,S53,F2,normal,,,
+76v,p461_l31_o06,carentes ,p461_l31_o06_a,ñ habentes,S23,F3,normal,,,
+76v,p461_l32_o05,necessario ,p461_l32_o05_a,++,S34,F3,shorthand,,,
+76v,p461_l32_o06,sortiunt᷑ ,p461_l32_o06_a,accipiunt᷑,S22,F2,normal,,,
 76v,p462_l01_o01,primitiua ,p462_l01_o01_a,(uerba),S53,F2,shorthand,,,
-76v,p462_l02_o07,uindicat ,p462_l02_o07_a,accipit,S22,F2,shorthand,,,
+76v,p462_l02_o07,uindicat ,p462_l02_o07_a,accipit,S22,F2,normal,,,
 76v,p462_l05_o06,obseruandũ ,p462_l05_o06_a,++,S22,F3,shorthand,,,
-76v,p462_l06_o07,uello ,p462_l06_o07_a,carpo,S22,F2,shorthand,,,
+76v,p462_l06_o07,uello ,p462_l06_o07_a,carpo,S22,F2,normal,,,
 76v,p462_l06_o09,uellico ,p462_l06_o09_a,+++,S54,F4,shorthand,p462_l06_o09_b,S63,F2
 76v,p462_l07_o01,Fodio ,,,,,,p462_l07_o01_a,S63,F2
-76v,p462_l07_o08,albico ,p462_l07_o08_a,albesco,S22,F2,shorthand,p462_l07_o08_b,S63,F2
+76v,p462_l07_o08,albico ,p462_l07_o08_a,albesco,S22,F2,normal,p462_l07_o08_b,S63,F2
 76v,p462_l07_o10,claudico ,,,,,,p462_l07_o10_a,S63,F2
 76v,p462_l08_o02,"fabrico, ",p462_l08_o02_a,edifico,S22,F2,normal,,,
-76v,p462_l08_o04,"alterco, ",p462_l08_o04_a,litigo,S22,F2,shorthand,,,
+76v,p462_l08_o04,"alterco, ",p462_l08_o04_a,litigo,S22,F2,normal,,,
 76v,p462_l08_o06,Frondis ,p462_l08_o06_a,(gñs ẽ ne fier& dubitatio ab eo qđ ÷) frons -tis,S24,F4,shorthand,,,
 76v,p462_l08_o07,frondico ,,,,,,p462_l08_o07_a,S63,F2
 76v,p462_l08_o08,"Nobilito, ",,,,,,,,
@@ -1090,73 +1090,73 @@ folio,lemma_id,lemma,gloss_id,gloss,gloss_type,gloss_form,nature,marginal_note_i
 76v,f83r_l06_o13,"debilito, ",f83r_l06_o13_a,+,S22,F2,shorthand,,,
 76v,f83r_l06_o09,Oscis ,,,,,,,,
 76v,p462_l08_o10,"Oscito, ",,,,,,p462_l08_o10_b,S63,F2
-76v,p462_l09_o01,"periclitor, ",p462_l09_o01_a,+,S22,F3,normal,,,
-76v,p462_l09_o02,Venlitor ,p462_l09_o02_a,+,S22,F2,normal,p462_l09_o02_b,S63,F2
-76v,p462_l09_o03,pullulo ,p462_l09_o03_a,cresco,S22,F2,shorthand,,,
-76v,p462_l09_o04,Gratulor ,p462_l09_o04_a,gratias ago ł gaudeo,S22,F3,shorthand,,,
+76v,p462_l09_o01,"periclitor, ",p462_l09_o01_a,+,S22,F3,shorthand,,,
+76v,p462_l09_o02,Venlitor ,p462_l09_o02_a,+,S22,F2,shorthand,p462_l09_o02_b,S63,F2
+76v,p462_l09_o03,pullulo ,p462_l09_o03_a,cresco,S22,F2,normal,,,
+76v,p462_l09_o04,Gratulor ,p462_l09_o04_a,gratias ago ł gaudeo,S22,F3,normal,,,
 76v,p462_l09_o05,Latrocinor ,,,,,,p462_l09_o05_a,S63,F2
 76v,p462_l10_o01,cõmissor  ,,,,,,p462_l10_o01_a,S63,F2
 76v,p462_l10_o02,sarcino ,p462_l10_o02_a,pondero,S22,F2,normal,,,
 76v,p462_l10_o03-04,Opẽ tuli ,p462_l10_o03-04_a,auxiliũ dedi,S22,F4,normal,p462_l10_o03-04_b,S63,F2
 76v,p462_l10_o05,opitulor ,p462_l10_o05_a,adiuuo,S22,F2,normal,,,
 76v,p462_l10_o06,Pręsto ,p462_l10_o06_a,dono,S22,F2,normal,,,
-76v,p462_l10_o07,p̃stolor ,p462_l10_o07_a,expecto,S22,F2,shorthand,,,
+76v,p462_l10_o07,p̃stolor ,p462_l10_o07_a,expecto,S22,F2,normal,,,
 76v,p462_l10_o08-09,in .go. ,,,,,,p462_l10_o08-09_a,S53,F3
 76v,p462_l11_o07,Remigo ,p462_l11_o07_a,nauẽ gub̶no,S23,F4,normal,p462_l11_o07_b,S63,F2
 76v,p462_l11_o08,Litigo ,p462_l11_o08_a,c̃tendo,S22,F2,normal,,,
-76v,p462_l11_o09,Mitigo ,p462_l11_o09_a,placo,S22,F2,shorthand,,,
+76v,p462_l11_o09,Mitigo ,p462_l11_o09_a,placo,S22,F2,normal,,,
 76v,p462_l12_o04,figurant᷑ ,p462_l12_o04_a,+++,S22,F4,shorthand,,,
 77r,p462_l13_o09,iure ,p462_l13_o09_a,merito,S22,F2,normal,,,
-77r,p462_l14_o01,uenit ,p462_l14_o01_a,un,S611,F1,shorthand,,,
+77r,p462_l14_o01,uenit ,p462_l14_o01_a,un,S611,F1,normal,,,
 77r,p462_l14_o08-10,intus ł intro ,,,,,,p462_l14_o08-10_a,S63,F2
-77r,p462_l15_o07,penitus. ,p462_l15_o07_a,funditꝰ,S22,F2,shorthand,p462_l15_o07_b,S63,F2
-77r,p462_l15_o09,penetro ,p462_l15_o09_a,subintro +++,S22,F3,normal,,,
+77r,p462_l15_o07,penitus. ,p462_l15_o07_a,funditꝰ,S22,F2,normal,p462_l15_o07_b,S63,F2
+77r,p462_l15_o09,penetro ,p462_l15_o09_a,subintro +++,S22,F3,shorthand,,,
 77r,p462_l16_o01,temere ,p462_l16_o01_a,p̃sumptiose,S22,F2,normal,p462_l16_o01_b,S63,F2
-77r,p462_l16_o02,Temero ,p462_l16_o02_a,p̃sumo .s. molo ł maculo,S22,F3,shorthand,,,
+77r,p462_l16_o02,Temero ,p462_l16_o02_a,p̃sumo .s. molo ł maculo,S22,F3,normal,,,
 77r,p462_l17_o03,diutius ,p462_l17_o03_a,longius,S22,F2,normal,,,
 77r,p462_l17_o06,immorer ,p462_l17_o06_a,demorer,S22,F2,normal,,,
-77r,p462_l17_o11,quã ,p462_l17_o11_a,+ defici&,S53,F3,shorthand,,,
+77r,p462_l17_o11,quã ,p462_l17_o11_a,+ defici&,S53,F3,normal,,,
 77r,p462_l20_o04,quib; ,p462_l20_o04_a,(uerba),S3232,F2,shorthand,,,
 77r,p462_l22_o01,recolere ,p462_l22_o01_a,+,S22,F2,shorthand,p462_l22_o01_b,S62,F2
 77r,p462_l26_o01,canus ,p462_l26_o01_a,+,S22,F2,shorthand,,,
-77r,p462_l26_o04,Calles ,p462_l26_o04_a,uia,S22,F2,shorthand,p462_l26_o04_b,S63,F2
+77r,p462_l26_o04,Calles ,p462_l26_o04_a,uia,S22,F2,normal,p462_l26_o04_b,S63,F2
 77r,p462_l26_o09,floreo ,,,,,,p462_l26_o09_a,S63,F2
-77r,p462_l27_o04,Census ,p462_l27_o04_a,facultas,S22,F2,shorthand,,,
+77r,p462_l27_o04,Census ,p462_l27_o04_a,facultas,S22,F2,normal,,,
 77r,p462_l27_o05,Censeo ,,,,,,p462_l27_o05_a,S63,F2
 77r,p462_l27_o06-07,In .uo. ,,,,,,p462_l27_o06-07_a,S53,F3
 77r,p462_l28_o09,Arguo ,p462_l28_o09_a,increpo +++,S33,F3,shorthand,,,
 77r,p462_l29_o09,insinuo ,p462_l29_o09_a,+,S22,F2,shorthand,,,
-77r,p462_l29_o10,Tenuo ,p462_l29_o10_a,++,S22,F4,normal,,,
-77r,p462_l29_o11,Fluctuo ,p462_l29_o11_a,titubo,S22,F2,shorthand,,,
-77r,p462_l30_o01,Mutuor ,p462_l30_o01_a,+++,S22,F4,normal,,,
-77r,p462_l29_o12,Estuo ,p462_l29_o12_a,caleo,S22,F2,shorthand,,,
-77r,p462_l30_o02,Tumultuor ,p462_l30_o02_a,++,S22,F3,normal,p462_l30_o02_b,S63,F2
-77r,p462_l30_o03,Infatuo ,p462_l30_o03_a,scubũ facio,S23,F4,shorthand,,,
-77r,p462_l32_o04,tribus ,p462_l32_o04_a,triginta centurię,S23,F3,shorthand,,,
-77r,p462_l32_o06,m&us ,p462_l32_o06_a,+,S22,F2,normal,,,
+77r,p462_l29_o10,Tenuo ,p462_l29_o10_a,++,S22,F4,shorthand,,,
+77r,p462_l29_o11,Fluctuo ,p462_l29_o11_a,titubo,S22,F2,normal,,,
+77r,p462_l30_o01,Mutuor ,p462_l30_o01_a,+++,S22,F4,shorthand,,,
+77r,p462_l29_o12,Estuo ,p462_l29_o12_a,caleo,S22,F2,normal,,,
+77r,p462_l30_o02,Tumultuor ,p462_l30_o02_a,++,S22,F3,shorthand,p462_l30_o02_b,S63,F2
+77r,p462_l30_o03,Infatuo ,p462_l30_o03_a,scubũ facio,S23,F4,normal,,,
+77r,p462_l32_o04,tribus ,p462_l32_o04_a,triginta centurię,S23,F3,normal,,,
+77r,p462_l32_o06,m&us ,p462_l32_o06_a,+,S22,F2,shorthand,,,
 77r,p462_l32_o08,lues ,p462_l32_o08_a,pestis,S22,F2,normal,,,
-77r,p462_l32_o10,serues ,p462_l32_o10_a,c̃geries,S22,F2,shorthand,,,
-77r,p462_l33_o08,faciunt  ,p462_l33_o08_a,+ ex se,S53,F3,shorthand,,,
+77r,p462_l32_o10,serues ,p462_l32_o10_a,c̃geries,S22,F2,normal,,,
+77r,p462_l33_o08,faciunt  ,p462_l33_o08_a,+ ex se,S53,F3,normal,,,
 77r,p462_l33_o10,Sin ,p462_l33_o10_a,+,S35,F3,shorthand,,,
 77r,p463_l01_o03,desinat ,p463_l01_o03_a,+,S22,F2,shorthand,,,
 77r,p463_l01_o05,c̃siderabimꝰ ,p463_l01_o05_a,+,S22,F2,shorthand,,,
-77r,p463_l04_o01,Hoc ,p463_l04_o01_a,abłts ÷,S3116,F3,shorthand,,,
-77r,p463_l06_o03,t̃tiã ,p463_l06_o03_a,(coniugationem),S53,F2,normal,,,
-77r,p463_l06_o04,ꝑtinentia ,p463_l06_o04_a,facio ⁊c,S53,F3,shorthand,,,
+77r,p463_l04_o01,Hoc ,p463_l04_o01_a,abłts ÷,S3116,F3,normal,,,
+77r,p463_l06_o03,t̃tiã ,p463_l06_o03_a,(coniugationem),S53,F2,shorthand,,,
+77r,p463_l06_o04,ꝑtinentia ,p463_l06_o04_a,facio ⁊c,S53,F3,normal,,,
 77r,p463_l06_o08-09,sine dubio ,p463_l06_o08-09_a,ꝓcul dubio,S22,F3,normal,,,
-77r,p463_l07_o01,Cuuis ,p463_l07_o01_a,+,S3232,F2,shorthand,,,
+77r,p463_l07_o01,Cuuis ,p463_l07_o01_a,+,S3232,F2,normal,,,
 77r,p463_l08_o06,Bulla ,p463_l08_o06_a,uesiculę camelorũ,S23,F3,normal,p463_l08_o06_b,S63,F2
-77r,p463_l08_o07,"Ebullo, ",p463_l08_o07_a,scaturio,S22,F2,shorthand,,,
+77r,p463_l08_o07,"Ebullo, ",p463_l08_o07_a,scaturio,S22,F2,normal,,,
 77r,p463_l08_o08,Poena ,,,,,,p463_l08_o08_a,S63,F2
 77r,p463_l08_o09,punio ,,,,,,p463_l08_o09_a,S63,F2
 77r,p463_l08_o10-11,A scd̶a ,,,,,,p463_l08_o10-11_a,S63,F2
-77r,p463_l09_o03,Suꝑb; ,p463_l09_o03_a,+,S22,F2,normal,p463_l09_o03_b,S211,F4
+77r,p463_l09_o03,Suꝑb; ,p463_l09_o03_a,+,S22,F2,shorthand,p463_l09_o03_b,S211,F4
 77r,p463_l09_o04,suꝑbio ,,,,,,p463_l09_o04_a,S63,F2
-77r,p463_l09_o06,"blandior, ",p463_l09_o06_a,adulor decipio,S22,F2,shorthand,,,
-77r,p463_l09_o07,Largus ,p463_l09_o07_a,+,S22,F2,normal,,,
+77r,p463_l09_o06,"blandior, ",p463_l09_o06_a,adulor decipio,S22,F2,normal,,,
+77r,p463_l09_o07,Largus ,p463_l09_o07_a,+,S22,F2,shorthand,,,
 77r,p463_l09_o08,"largior, ",p463_l09_o08_a,tribuo,S22,F2,normal,,,
 77r,p463_l09_o09,insanꝰ ,p463_l09_o09_a,amens,S22,F2,normal,,,
-77r,p463_l10_o01,"insanio, ",p463_l10_o01_a,am̃tor,S22,F2,shorthand,p463_l10_o01_b,S63,F2
+77r,p463_l10_o01,"insanio, ",p463_l10_o01_a,am̃tor,S22,F2,normal,p463_l10_o01_b,S63,F2
 77r,p463_l10_o02,Murꝰ  ,,,,,,p463_l10_o02_a,S63,F2
 77r,p463_l10_o03,"murio, ",p463_l10_o03_a,+,S23,F3,shorthand,,,
 77r,p463_l10_o05,munio ,p463_l10_o05_a,+,S22,F3,shorthand,p463_l10_o05_b,S63,F2
@@ -1164,93 +1164,93 @@ folio,lemma_id,lemma,gloss_id,gloss,gloss_type,gloss_form,nature,marginal_note_i
 77r,p463_l11_o03,Sęuus ,p463_l11_o03_a,durus,S22,F2,normal,,,
 77r,p463_l11_o04,"sęuio, ",p463_l11_o04_a,grassor,S22,F2,normal,,,
 77r,p463_l11_o06,seruio ,,,,,,,,
-77r,p463_l11_o07,Lasciuus ,p463_l11_o07_a,petulcus petulans ++,S22,F3,shorthand,p463_l11_o07_b,S63,F2
+77r,p463_l11_o07,Lasciuus ,p463_l11_o07_a,petulcus petulans ++,S22,F3,normal,p463_l11_o07_b,S63,F2
 77r,p463_l13_o06,Rete ,,,,,,p463_l13_o06_a,S63,F2
 77r,p463_l13_o08,"inr&ior, ",p463_l13_o08_a,illaqueor,S22,F2,normal,,,
-77r,p463_l14_o01,"impedior, ",p463_l14_o01_a,(illa que .o. inuenit᷑ et?) irr&io/++ & impedio,S53,F4,normal,,,
+77r,p463_l14_o01,"impedior, ",p463_l14_o01_a,(illa que .o. inuenit᷑ et?) irr&io/++ & impedio,S53,F4,shorthand,,,
 77r,p463_l14_o05,Moles ,p463_l14_o05_a,magritudo,S22,F2,normal,p463_l14_o05_b,S63,F3
-77r,p463_l14_o06,Molior; ,p463_l14_o06_a,machinor,S22,F2,shorthand,,,
+77r,p463_l14_o06,Molior; ,p463_l14_o06_a,machinor,S22,F2,normal,,,
 77r,p463_l14_o08,"Stabilio, ",p463_l14_o08_a,firmo,S22,F2,normal,p463_l14_o08_b,S63,F2
 77r,p463_l14_o09,Finis ,p463_l14_o09_a,t̃minꝰ,S22,F2,normal,,,
 77r,p463_l15_o01,Inanis ,p463_l15_o01_a,uacuus,S22,F2,normal,,,
 77r,p463_l15_o02,"Exinanio, ",p463_l15_o02_a,euacuo,S22,F2,normal,p463_l15_o02_b,S63,F2
 77r,p463_l15_o03,insignis ,p463_l15_o03_a,nobilis,S22,F2,normal,,,
 77r,p463_l15_o04,"insignio, ",p463_l15_o04_a,noblito,S22,F2,normal,,,
-77r,p463_l15_o06,"sepio, ",p463_l15_o06_a,circũdo,S22,F2,shorthand,,,
+77r,p463_l15_o06,"sepio, ",p463_l15_o06_a,circũdo,S22,F2,normal,,,
 77r,p463_l16_o05,Pars ,p463_l16_o05_a,diuisio,S22,F2,normal,,,
 77r,p463_l16_o06,"partior, ",p463_l16_o06_a,diuido,S22,F2,normal,,,
 77r,p463_l16_o07,Sors ,p463_l16_o07_a,pars,S22,F2,normal,,,
 77r,p463_l16_o08,sortior ,p463_l16_o08_a,accipio,S22,F2,normal,,,
 77r,p463_l17_o01,Gestus ,p463_l17_o01_a,motus corporis,S23,F3,normal,p463_l17_o01_b,S63,F3
 77r,p463_l17_o02,"gestio, ",p463_l17_o02_a,desidero,S22,F2,normal,,,
-77r,p463_l17_o03,Notat᷑ ,p463_l17_o03_a,excipitur,S22,F2,shorthand,,,
+77r,p463_l17_o03,Notat᷑ ,p463_l17_o03_a,excipitur,S22,F2,normal,,,
 77r,p463_l17_o05,crucio ,p463_l17_o05_a,+,S22,F2,shorthand,p463_l17_o05_b,S63,F2
 77r,p463_l18_o06,Calcio  ,,,,,,p463_l18_o06_a,S63,F4
 77r,p463_l18_o10,calx ,p463_l18_o10_a,extrema (pars pedis),S23,F3,normal,,,
 77r,p463_l19_o04,calceus ,p463_l19_o04_a,calcianti,S22,F2,normal,,,
-77r,p463_l19_o09,infert᷑ ,p463_l19_o09_a,ingerit᷑ immictatur,S22,F3,shorthand,,,
-77v,p463_l22_o02,adeoq ,p463_l22_o02_a,intantũ,S22,F2,shorthand,,,
+77r,p463_l19_o09,infert᷑ ,p463_l19_o09_a,ingerit᷑ immictatur,S22,F3,normal,,,
+77v,p463_l22_o02,adeoq ,p463_l22_o02_a,intantũ,S22,F2,normal,,,
 77v,p463_l25_o02,m&a ,p463_l25_o02_a,finis,S22,F2,normal,p463_l25_o02_b,S63,F3
 77v,p463_l25_o03,M&or ,p463_l25_o03_a,figo,S22,F2,normal,,,
-77v,p463_l25_o09,M&ior ,p463_l25_o09_a,m̃suro,S22,F2,shorthand,,,
+77v,p463_l25_o09,M&ior ,p463_l25_o09_a,m̃suro,S22,F2,normal,,,
 77v,p463_l26_o03,seruo ,,,,,,p463_l26_o03_a,S63,F2
-77v,p463_l27_o10,insanio ,p463_l27_o10_a,amentor,S22,F2,shorthand,,,
+77v,p463_l27_o10,insanio ,p463_l27_o10_a,amentor,S22,F2,normal,,,
 77v,p463_l28_o09,aptus ,p463_l28_o09_a,c̃ueniens,S22,F2,normal,,,
 77v,p463_l29_o06,eo ,p463_l29_o06_a,q̃ ÷ aptus,S3232,F4,normal,,,
-77v,p463_l29_o08,ineptus ,p463_l29_o08_a,inc̃uieniens,S22,F2,shorthand,p463_l29_o08_b,S63,F2
-77v,p463_l29_o09,ineptio ,p463_l29_o09_a,inc̃uenient̃ aliꝗd facio,S23,F4,shorthand,p463_l29_o09_b,S63,F2
+77v,p463_l29_o08,ineptus ,p463_l29_o08_a,inc̃uieniens,S22,F2,normal,p463_l29_o08_b,S63,F2
+77v,p463_l29_o09,ineptio ,p463_l29_o09_a,inc̃uenient̃ aliꝗd facio,S23,F4,normal,p463_l29_o09_b,S63,F2
 77v,p463_l30_o04-05,in .io. ,,,,,,p463_l30_o04-05_a,S53,F3
-77v,p463_l32_o05,quartã ,p463_l32_o05_a,sb̶ c̃iugationẽ,S53,F2,shorthand,,,
+77v,p463_l32_o05,quartã ,p463_l32_o05_a,sb̶ c̃iugationẽ,S53,F2,normal,,,
 77v,p463_l32_o06,ꝑueniunt ,,,,,,p463_l32_o06_a,S53,F4
-77v,p463_l33_o03,uindicat ,p463_l33_o03_a,asciscit,S22,F2,shorthand,,,
+77v,p463_l33_o03,uindicat ,p463_l33_o03_a,asciscit,S22,F2,normal,,,
 77v,p463_l33_o02,tertia ,p463_l33_o02_a,(coniugatio),S53,F2,shorthand,,,
-77v,p463_l34_o04,seruant ,p463_l34_o04_a,sb̶ uerba,S415,F2,shorthand,,,
-77v,p464_l01_o10,respuunt᷑ ,p464_l01_o10_a,sb̶ uerba,S415,F2,shorthand,,,
+77v,p463_l34_o04,seruant ,p463_l34_o04_a,sb̶ uerba,S415,F2,normal,,,
+77v,p464_l01_o10,respuunt᷑ ,p464_l01_o10_a,sb̶ uerba,S415,F2,normal,,,
 77v,p464_l03_o06,Punio ,p464_l03_o06_a,a poena dãno,S54,F3,normal,,,
 77v,p464_l03_o09,Gestio ,p464_l03_o09_a,app&o,S22,F2,normal,,,
-77v,f83v_l21_o02,impedio ,f83v_l21_o02_a,noceo,S22,F2,shorthand,,,
-77v,p464_l05_o02,positio ,p464_l05_o02_a,s. id ÷ pͥma ꝑsona,S53,F3,shorthand,,,
+77v,f83v_l21_o02,impedio ,f83v_l21_o02_a,noceo,S22,F2,normal,,,
+77v,p464_l05_o02,positio ,p464_l05_o02_a,s. id ÷ pͥma ꝑsona,S53,F3,normal,,,
 77v,p464_l07_o05,Turbo ,,,,,,p464_l07_o05_a,S63,F2
 77v,p464_l07_o09,Nuntio ,,,,,,p464_l07_o09_a,S63,F2
 77v,p464_l08_o03,Vlcero ,p464_l08_o03_a,uulnero,S22,F2,normal,p464_l08_o03_b,S63,F2
 77v,p464_l09_o06,habentia ,p464_l09_o06_a,sb̶ nomina,S53,F2,normal,,,
 77v,p464_l11_o02,fluctus ,,,,,,p464_l11_o02_a,S63,F2
-77v,p464_l11_o03,fluctuo ,p464_l11_o03_a,titubo,S22,F2,shorthand,,,
+77v,p464_l11_o03,fluctuo ,p464_l11_o03_a,titubo,S22,F2,normal,,,
 77v,p464_l11_o04,Aestus ,p464_l11_o04_a,calor,S22,F2,normal,,,
 77v,p464_l11_o05,"Aestuo, ",p464_l11_o05_a,caleo,S22,F2,normal,,,
-77v,p464_l11_o06,Tumultus ,p464_l11_o06_a,c̃fusa uox populi,S23,F3,shorthand,,,
-77v,p464_l11_o08,"Tumultuor, ",p464_l11_o08_a,uociferor,S22,F2,shorthand,,,
+77v,p464_l11_o06,Tumultus ,p464_l11_o06_a,c̃fusa uox populi,S23,F3,normal,,,
+77v,p464_l11_o08,"Tumultuor, ",p464_l11_o08_a,uociferor,S22,F2,normal,,,
 77v,p464_l11_o09,Sinuo ,,,,,,p464_l11_o09_a,S63,F2
 77v,p464_l12_o01,insinuo ,p464_l12_o01_a,+(inserum mitto?),S23,F3,shorthand,,,
 77v,p464_l13_o09,Eger ,,,,,,p464_l13_o09_a,S63,F2
-77v,p464_l14_o02,"egreo, ",p464_l14_o02_a,infirmor,S22,F2,shorthand,,,
+77v,p464_l14_o02,"egreo, ",p464_l14_o02_a,infirmor,S22,F2,normal,,,
 77v,p464_l14_o06,censeo ,p464_l14_o06_a,"++ (indico, statuo?)",S22,F3,shorthand,p464_l14_o06_b,S63,F2
-77v,p464_l18_o04,scđam ,p464_l18_o04_a,+(coniugationem),S53,F2,normal,,,
+77v,p464_l18_o04,scđam ,p464_l18_o04_a,+(coniugationem),S53,F2,shorthand,,,
 77v,p464_l18_o07,albo ,,,,,,p464_l18_o07_a,S63,F2
-77v,p464_l19_o09,albent. ,p464_l19_o09_a,candeNT,S22,F2,shorthand,,,
+77v,p464_l19_o09,albent. ,p464_l19_o09_a,candeNT,S22,F2,normal,,,
 77v,p464_l20_o01,Durus ,,,,,,p464_l20_o01_a,S63,F3
 77v,p464_l20_o10,Denso ,,,,,,p464_l20_o10_a,S63,F2
 77v,p464_l21_o05,Miseror ,,,,,,p464_l21_o05_a,S62,F2
 77v,p464_l22_o08,idem ,p464_l22_o08_a,++,S53,F3,shorthand,,,
-77v,p464_l23_o04,c̃iugatonis ,p464_l23_o04_a,s̃ sunt,S53,F2,shorthand,,,
+77v,p464_l23_o04,c̃iugatonis ,p464_l23_o04_a,s̃ sunt,S53,F2,normal,,,
 77v,p464_l24_o06,feruo ,,,,,,p464_l24_o06_a,S63,F2
 77v,p464_l26_o04,Strideo ,,,,,,p464_l26_o04_a,S63,F3
-78r,p464_l27_o03,ferali ,p464_l27_o03_a,feroci,S22,F2,shorthand,,,
+78r,p464_l27_o03,ferali ,p464_l27_o03_a,feroci,S22,F2,normal,,,
 78r,p464_l28_o01,tueor ,p464_l28_o01_a,ꝓtego +,S22,F3,shorthand,p464_l28_o01_b,S63,F2
-78r,p465_l01_o01,intuor. ,p465_l01_o01_a,̃uideo,S22,F2,shorthand,p465_l01_o01_b,S63,F2
+78r,p465_l01_o01,intuor. ,p465_l01_o01_a,̃uideo,S22,F2,normal,p465_l01_o01_b,S63,F2
 78r,p465_l02_o11,extulit ,p465_l02_o11_a,+,S22,F2,shorthand,,,
 78r,p465_l04_o06,contuor. ,p465_l04_o06_a,+,S22,F2,shorthand,p465_l04_o06_b,S63,F2
 78r,p465_l04_o03,infensos ,,,,,,p465_l04_o03_a,S62,F3
-78r,p465_l06_o05,notatis ,p465_l06_o05_a,exceptis,S22,F2,shorthand,,,
-78r,p465_l08_o08,siquę ,p465_l08_o08_a,si aliquę,S22,F2,shorthand,,,
-78r,p465_l09_o03,morẽ ,p465_l09_o03_a,ritiũ,S22,F2,shorthand,,,
+78r,p465_l06_o05,notatis ,p465_l06_o05_a,exceptis,S22,F2,normal,,,
+78r,p465_l08_o08,siquę ,p465_l08_o08_a,si aliquę,S22,F2,normal,,,
+78r,p465_l09_o03,morẽ ,p465_l09_o03_a,ritiũ,S22,F2,normal,,,
 78r,p465_l09_o04,crescentes ,,,,,,p465_l09_o04_a,S62,F3
-78r,p465_l10_o03,ambiguitas ,p465_l10_o03_a,anxi&as,S22,F2,shorthand,,,
-78r,p465_l11_o04,positione ,p465_l11_o04_a,in prima ꝑsona,S53,F3,shorthand,,,
+78r,p465_l10_o03,ambiguitas ,p465_l10_o03_a,anxi&as,S22,F2,normal,,,
+78r,p465_l11_o04,positione ,p465_l11_o04_a,in prima ꝑsona,S53,F3,normal,,,
 78r,p465_l11_o12,dicatiuo ,p465_l11_o12_a,in,S611,F1,normal,,,
-78r,p465_l12_o04,corruptis ,p465_l12_o04_a,sb̶ uerbis,S53,F2,shorthand,,,
-78r,p465_l12_o05,quę ,p465_l12_o05_a,uerba,S3232,F2,normal,,,
-78r,p465_l12_o07,analogię ,p465_l12_o07_a,c̃ rationalitatis,S23,F3,shorthand,,,
+78r,p465_l12_o04,corruptis ,p465_l12_o04_a,sb̶ uerbis,S53,F2,normal,,,
+78r,p465_l12_o05,quę ,p465_l12_o05_a,uerba,S3232,F2,shorthand,,,
+78r,p465_l12_o07,analogię ,p465_l12_o07_a,c̃ rationalitatis,S23,F3,normal,,,
 78r,p465_l12_o10,sum ,,,,,,p465_l12_o10_a,S63,F2
 78r,p465_l16_o08,Curo ,,,,,,p465_l16_o08_a,S63,F2
 78r,p465_l17_o02,Scribo ,,,,,,p465_l17_o02_a,S63,F2
@@ -1260,164 +1260,164 @@ folio,lemma_id,lemma,gloss_id,gloss,gloss_type,gloss_form,nature,marginal_note_i
 78r,p465_l21_o02, C̃spicor ,,,,,,p465_l21_o02_a,S63,F2
 78r,p465_l21_o05,Sterno ,p465_l21_o05_a,deicio ł orno,S22,F3,normal,p465_l21_o05_b,S63,F2
 78r,p465_l21_o07,sternor ,p465_l21_o07_a,+++,S23,F4,normal,p465_l21_o07_b,S63,F2
-78r,p465_l22_o02,Consternor ,p465_l22_o02_a,stupefacio,S22,F2,shorthand,,,
+78r,p465_l22_o02,Consternor ,p465_l22_o02_a,stupefacio,S22,F2,normal,,,
 78r,p465_l22_o08,gratificor ,p465_l22_o08_a,++,S22,F3,shorthand,,,
-78r,p465_l23_o02,ludificor ,p465_l23_o02_a,+,S22,F2,normal,,,
+78r,p465_l23_o02,ludificor ,p465_l23_o02_a,+,S22,F2,shorthand,,,
 78r,p465_l23_o03,Sentio ,,,,,,p465_l23_o03_a,S63,F2
-78r,p465_l23_o07,assentor ,p465_l23_o07_a,adulor,S22,F2,shorthand,,,
+78r,p465_l23_o07,assentor ,p465_l23_o07_a,adulor,S22,F2,normal,,,
 78r,p465_l24_o02,Gero ,p465_l24_o02_a,fero,S22,F2,normal,,,
-78r,p465_l24_o04,Morigeror ,p465_l24_o04_a,mores gero,S25,F4,shorthand,p465_l24_o04_b,S63,F2
+78r,p465_l24_o04,Morigeror ,p465_l24_o04_a,mores gero,S25,F4,normal,p465_l24_o04_b,S63,F2
 78r,p465_l25_o10,Liceor ,p465_l25_o10_a,(lique) facio,S25,F4,normal,p465_l25_o10_b,S63,F2
 78r,p465_l25_o11,polliceor ,p465_l25_o11_a,spondeo,S22,F2,normal,,,
 78r,p465_l26_o01,Medeor ,p465_l26_o01_a,medico,S22,F2,normal,p465_l26_o01_b,S63,F3
 78r,p465_l26_o02,reor ,p465_l26_o02_a,autumo,S22,F2,normal,,,
 78r,p465_l26_o03,Męreor ,p465_l26_o03_a,c̃striscor,S22,F2,normal,,,
 78r,p465_l26_o05,Vereor ,p465_l26_o05_a,timeo,S22,F2,normal,p465_l26_o05_b,S63,F2
-78r,p465_l26_o06,fateor ,p465_l26_o06_a,c̃fiteor,S22,F2,shorthand,,,
+78r,p465_l26_o06,fateor ,p465_l26_o06_a,c̃fiteor,S22,F2,normal,,,
 78r,p465_l27_o08,pͥmę ,p465_l27_o08_a,sb̶ c̃iugationis,S53,F2,normal,,,
 78r,p465_l28_o01,cogunt᷑ ,p465_l28_o01_a,cõpellunt᷑  sb̶ uerba,S415,F3,normal,,,
 78r,p465_l28_o07,Amicior ,p465_l28_o07_a,circũdo,S22,F2,normal,p465_l28_o07_b,S63,F2
-78r,p465_l28_o08,blandior ,p465_l28_o08_a,adulor,S22,F2,shorthand,,,
-78r,p465_l28_o09,Ordior ,p465_l28_o09_a,texo (incipio loqui)?,S23,F3,normal,p465_l28_o09_b,S63,F2
+78r,p465_l28_o08,blandior ,p465_l28_o08_a,adulor,S22,F2,normal,,,
+78r,p465_l28_o09,Ordior ,p465_l28_o09_a,texo (incipio loqui)?,S23,F3,shorthand,p465_l28_o09_b,S63,F2
 78r,p465_l29_o01,largior ,p465_l29_o01_a,imꝑtior,S22,F2,normal,,,
-78r,p465_l29_o02,Molior ,p465_l29_o02_a,machinor,S22,F2,shorthand,,,
+78r,p465_l29_o02,Molior ,p465_l29_o02_a,machinor,S22,F2,normal,,,
 78r,p465_l29_o03,opperior ,p465_l29_o03_a,p̃stolor,S22,F2,normal,p465_l29_o03_b,S63,F2
 78r,p465_l29_o04,m&ior ,p465_l29_o04_a,m̃suro,S22,F2,normal,,,
-78r,p465_l29_o05,sortior ,p465_l29_o05_a,accipio,S22,F2,shorthand,,,
-78r,p465_l29_o07,assentior ,p465_l29_o07_a,assensꝰ+,S25,F4,normal,p465_l29_o07_b,S63,F2
+78r,p465_l29_o05,sortior ,p465_l29_o05_a,accipio,S22,F2,normal,,,
+78r,p465_l29_o07,assentior ,p465_l29_o07_a,assensꝰ+,S25,F4,shorthand,p465_l29_o07_b,S63,F2
 78r,p465_l29_o06,partior ,p465_l29_o06_a,diuido,S22,F2,normal,,,
 78r,p465_l29_o09,gradior ,p465_l29_o09_a,uado,S22,F2,normal,,,
-78r,p465_l30_o02,morior ,p465_l30_o02_a,intereo,S22,F2,shorthand,,,
+78r,p465_l30_o02,morior ,p465_l30_o02_a,intereo,S22,F2,normal,,,
 78r,p465_l30_o04,patior ,,,,,,p465_l30_o04_a,S63,F2
 78r,p465_l30_o06,tertię ,p465_l30_o06_a,sb̶ c̃iug̃,S53,F2,normal,,,
 78r,p465_l30_o10,Orior ,p465_l30_o10_a,nascor,S22,F2,normal,p465_l30_o10_b,S63,F2
 78r,p465_l31_o01,potior ,p465_l31_o01_a,fruor,S22,F2,normal,,,
-78r,p465_l31_o07,motꝰ ,p465_l31_o07_a,modos,S22,F2,shorthand,,,
+78r,p465_l31_o07,motꝰ ,p465_l31_o07_a,modos,S22,F2,normal,,,
 78r,p465_l31_o09-10,in .uor. ,,,,,,p465_l31_o09-10_a,S63,F2
 78r,p465_l32_o06,fruor ,,,,,,p465_l32_o06_a,S4181,F4
 78r,p465_l32_o08,liquor ,,,,,,p465_l32_o08_a,S63,F2
-78r,p465_l33_o05,posteriora ,p465_l33_o05_a,is est loquor assequor,S53,F3,shorthand,,,
+78r,p465_l33_o05,posteriora ,p465_l33_o05_a,is est loquor assequor,S53,F3,normal,,,
 78r,p466_l01_o02,desinentia ,p466_l01_o02_a,++  sb̶ uerba,S53,F3,shorthand,,,
 78v,p466_l02_o08,uniformis ,p466_l02_o08_a,s. unã formã habens,S25,F4,normal,,,
-78v,p466_l03_o02,regula ,p466_l03_o02_a,norma,S22,F2,shorthand,,,
-78v,p466_l03_o08,sint ,p466_l03_o08_a,+,S415,F2,normal,,,
+78v,p466_l03_o02,regula ,p466_l03_o02_a,norma,S22,F2,normal,,,
+78v,p466_l03_o08,sint ,p466_l03_o08_a,+,S415,F2,shorthand,,,
 78v,p466_l03_o09,ipsa ,p466_l03_o09_a,sb̶ uerba,S3232,F2,normal,,,
-78v,p466_l04_o02,secuta ,p466_l04_o02_a,sb̶ uerba,S53,F2,shorthand,,,
+78v,p466_l04_o02,secuta ,p466_l04_o02_a,sb̶ uerba,S53,F2,normal,,,
 78v,p466_l05_o03,precor ,p466_l05_o03_a,a preco,S54,F3,normal,,,
 78v,p466_l05_o04,Vador ,p466_l05_o04_a,a uado,S54,F3,normal,p466_l05_o04_b,S63,F2
-78v,p466_l05_o05,Vagor ,p466_l05_o05_a,a uago,S54,F3,shorthand,,,
+78v,p466_l05_o05,Vagor ,p466_l05_o05_a,a uago,S54,F3,normal,,,
 78v,p466_l05_o06,suffragor ,p466_l05_o06_a,auxilior,S22,F2,normal,,,
 78v,p466_l05_o07,gratior ,p466_l05_o07_a,gratias refero,S23,F4,normal,,,
 78v,p466_l05_o09,auxilior ,p466_l05_o09_a,faueo,S22,F2,normal,,,
 78v,p466_l05_o10,Opitulor ,p466_l05_o10_a,adiuuo,S22,F2,normal,,,
 78v,p466_l06_o03,Rimor ,p466_l06_o03_a,inuestigo,S22,F2,normal,p466_l06_o03_b,S63,F2
-78v,p466_l06_o04,Peregrinor ,p466_l06_o04_a,exsulo,S22,F2,shorthand,,,
-78v,p466_l06_o08,Moror ,p466_l06_o08_a,+,S22,F2,normal,,,
-78v,p466_l06_o09,aduersor ,p466_l06_o09_a,c̃trouersor,S22,F2,shorthand,,,
+78v,p466_l06_o04,Peregrinor ,p466_l06_o04_a,exsulo,S22,F2,normal,,,
+78v,p466_l06_o08,Moror ,p466_l06_o08_a,+,S22,F2,shorthand,,,
+78v,p466_l06_o09,aduersor ,p466_l06_o09_a,c̃trouersor,S22,F2,normal,,,
 78v,p466_l08_o03,Labor ,p466_l08_o03_a,cado,S22,F2,normal,p466_l08_o03_b,S63,F2
 78v,p466_l08_o04,fungor ,p466_l08_o04_a,utor,S22,F2,normal,p466_l08_o04_b,S63,F2
-78v,p466_l08_o08,queror ,p466_l08_o08_a,querelẽ depono,S23,F4,shorthand,,,
-78v,p466_l10_o07,originis ,p466_l10_o07_a,initii,S22,F2,shorthand,,,
+78v,p466_l08_o08,queror ,p466_l08_o08_a,querelẽ depono,S23,F4,normal,,,
+78v,p466_l10_o07,originis ,p466_l10_o07_a,initii,S22,F2,normal,,,
 78v,p466_l13_o06-07,carent ,p466_l13_o06-07_a,id est ñ diriuant᷑ a nominibus,S53,F4,normal,,,
-78v,p466_l14_o04,patior ,p466_l14_o04_a,sustineo,S22,F2,shorthand,,,
+78v,p466_l14_o04,patior ,p466_l14_o04_a,sustineo,S22,F2,normal,,,
 78v,p466_l14_o05,orior ,,,,,,p466_l14_o05_a,S63,F2
 78v,p466_l14_o10,exequor ,p466_l14_o10_a,ꝑficio,S22,F2,normal,p466_l14_o10_b,S63,F2
-78v,p466_l15_o02,nominib; ,p466_l15_o02_a,aut,S611,F2,shorthand,,,
+78v,p466_l15_o02,nominib; ,p466_l15_o02_a,aut,S611,F2,normal,,,
 78v,p466_l15_o03,dir̃iuata ,p466_l15_o03_a,+,S53,F2,shorthand,,,
 78v,p466_l16_o03,aut̃ ,p466_l16_o03_a,+,S22,F2,shorthand,,,
 78v,p466_l16_o04,primitiua ,p466_l16_o04_a,+,S53,F2,shorthand,,,
-78v,p466_l16_o05,quartę ,p466_l16_o05_a,+,S53,F2,normal,,,
-78v,p466_l16_o08,deputant᷑. ,p466_l16_o08_a,ad numeraNTur,S22,F2,shorthand,,,
+78v,p466_l16_o05,quartę ,p466_l16_o05_a,+,S53,F2,shorthand,,,
+78v,p466_l16_o08,deputant᷑. ,p466_l16_o08_a,ad numeraNTur,S22,F2,normal,,,
 78v,p466_l21_o05,Irascor ,p466_l21_o05_a,ab ira,S54,F3,normal,,,
 78v,p466_l21_o06,Vescor ,p466_l21_o06_a,comedo,S22,F2,normal,p466_l21_o06_b,S63,F2
 78v,p466_l21_o07,Vlcisaor ,p466_l21_o07_a,uindico,S22,F2,normal,,,
 78v,p466_l21_o08,Nanciscor ,p466_l21_o08_a,assequor,S22,F2,normal,,,
 78v,p466_l22_o02,adipiscor ,p466_l22_o02_a,consequor,S22,F2,normal,,,
-78v,p466_l21_o09,Paciscor ,p466_l21_o09_a,pacẽ facio,S23,F4,shorthand,,,
+78v,p466_l21_o09,Paciscor ,p466_l21_o09_a,pacẽ facio,S23,F4,normal,,,
 78v,p466_l21_o10,exgꝑiscor ,p466_l21_o10_a,euigilo,S22,F2,normal,,,
 78v,p466_l22_o01,cõminiscor ,p466_l22_o01_a,excogito,S22,F2,normal,p466_l22_o01_b,S63,F2
-78v,p466_l22_o05,apiscor ,p466_l22_o05_a,adipiscor,S22,F2,shorthand,,,
-78v,p466_l24_o05,Quę ,p466_l24_o05_a,sb̶ t̃tia c̃iugatio,S3232,F3,shorthand,,,
+78v,p466_l22_o05,apiscor ,p466_l22_o05_a,adipiscor,S22,F2,normal,,,
+78v,p466_l24_o05,Quę ,p466_l24_o05_a,sb̶ t̃tia c̃iugatio,S3232,F3,normal,,,
 78v,p466_l25_o02,diriuatis ,p466_l25_o02_a,uerbis,S53,F2,shorthand,,,
 78v,p466_l25_o03,qđ ,p466_l25_o03_a,sb̶ ÷?,S53,F2,shorthand,,,
-78v,p466_l30_o06,quãuis ,p466_l30_o06_a,sb̶ hab& illa pͥma c̃iugatio,S53,F4,shorthand,,,
+78v,p466_l30_o06,quãuis ,p466_l30_o06_a,sb̶ hab& illa pͥma c̃iugatio,S53,F4,normal,,,
 78v,p466_l30_o08,diriuata ,p466_l30_o08_a,uerba,S53,F2,shorthand,,,
-78v,p466_l33_o02,quib; ,p466_l33_o02_a,id ÷ in .sco. & in .scor.,S53,F4,shorthand,,,
+78v,p466_l33_o02,quib; ,p466_l33_o02_a,id ÷ in .sco. & in .scor.,S53,F4,normal,,,
 78v,p467_l02_o09,originatio ,p467_l02_o09_a,initiũ,S22,F2,normal,p467_l02_o09_b,S63,F2
-78v,p467_l03_o02,ãbigui ,p467_l03_o02_a,ãbiguitatis,S22,F2,shorthand,,,
+78v,p467_l03_o02,ãbigui ,p467_l03_o02_a,ãbiguitatis,S22,F2,normal,,,
 78v,p467_l05_o15,opinor ,p467_l05_o15_a,ęstimo,S22,F2,normal,,,
-78v,p467_l06_o07,scđa ,p467_l06_o07_a,sb̶ c̃iugatio,S53,F2,shorthand,p467_l06_o07_b,S631,F4
+78v,p467_l06_o07,scđa ,p467_l06_o07_a,sb̶ c̃iugatio,S53,F2,normal,p467_l06_o07_b,S631,F4
 79r,p467_l08_o09,beo ,p467_l08_o09_a,beatifico?,S22,F2,normal,,,
 79r,p467_l08_o10,creo ,,,,,,p467_l08_o10_a,S63,F2
-79r,p467_l08_o12,meo ,p467_l08_o12_a,transeo,S22,F2,shorthand,,,
+79r,p467_l08_o12,meo ,p467_l08_o12_a,transeo,S22,F2,normal,,,
 79r,p467_l11_o09,hio ,p467_l11_o09_a,+,S22,F2,shorthand,,,
 79r,p467_l12_o03,pio ,p467_l12_o03_a,++,S23,F3,shorthand,,,
 79r,p467_l12_o13,cio ,p467_l12_o13_a,uoco,S22,F2,normal,p467_l12_o13_b,S63,F2
-79r,p467_l13_o02,excio ,p467_l13_o02_a,euoco,S22,F2,shorthand,,,
+79r,p467_l13_o02,excio ,p467_l13_o02_a,euoco,S22,F2,normal,,,
 79r,p467_l28_o02-06,in .bo. & in .bor. ,,,,,,p467_l28_o02-06_a,S63,F2
 79r,p467_l19_o06,libo ,p467_l19_o06_a,sacrifico,S22,F2,normal,,,
 79r,p467_l19_o08,probo ,p467_l19_o08_a,experio,S22,F2,normal,,,
 79r,p467_l20_o01,Orbo ,p467_l20_o01_a,uiduo ł desero,S22,F3,normal,,,
-79r,p467_l20_o03,Titubo- ,p467_l20_o03_a,nuto uacillo,S22,F3,shorthand,p467_l20_o03_b,S63,F2
+79r,p467_l20_o03,Titubo- ,p467_l20_o03_a,nuto uacillo,S22,F3,normal,p467_l20_o03_b,S63,F2
 79r,p467_l20_o05,Cubo ,p467_l20_o05_a,dormio iaceo,S22,F3,normal,,,
 79r,p467_l20_o07,excubo ,p467_l20_o07_a,uigilo ł obseruo,S22,F3,normal,,,
-79r,p467_l20_o09,Subo ,p467_l20_o09_a,luxurio,S22,F2,shorthand,p467_l20_o09_b,S63,F2
-79r,p467_l21_o05,subando ,p467_l21_o05_a,luxuriando,S22,F2,shorthand,,,
-79r,p467_l23_o04,labor ,p467_l23_o04_a,cado,S22,F2,shorthand,,,
-79r,p467_l25_o01,lapsus ,p467_l25_o01_a,casus,S22,F2,shorthand,,,
-79r,p467_l26_o09,labo ,p467_l26_o09_a,cado,S22,F2,shorthand,,,
+79r,p467_l20_o09,Subo ,p467_l20_o09_a,luxurio,S22,F2,normal,p467_l20_o09_b,S63,F2
+79r,p467_l21_o05,subando ,p467_l21_o05_a,luxuriando,S22,F2,normal,,,
+79r,p467_l23_o04,labor ,p467_l23_o04_a,cado,S22,F2,normal,,,
+79r,p467_l25_o01,lapsus ,p467_l25_o01_a,casus,S22,F2,normal,,,
+79r,p467_l26_o09,labo ,p467_l26_o09_a,cado,S22,F2,normal,,,
 79r,p467_l28_o01,scaber& ,,,,,,p467_l28_o01_a,S63,F2
-79r,p467_l29_o03,speciẽ ,p467_l29_o03_a,+,S63,F2,shorthand,,,
+79r,p467_l29_o03,speciẽ ,p467_l29_o03_a,+,S63,F2,normal,,,
 79r,p467_l31_o07,unges ,p467_l31_o07_a,u,S611,F1,normal,,,
 79r,p467_l32_o01,Notauimꝰ ,p467_l32_o01_a,excipimꝰ,S22,F2,normal,,,
-79r,p467_l32_o03,lic& ,p467_l32_o03_a,sb̶ sci,S53,F1,shorthand,,,
+79r,p467_l32_o03,lic& ,p467_l32_o03_a,sb̶ sci,S53,F1,normal,,,
 79r,p467_l32_o07,eiꝰ ,p467_l32_o07_a,+,S3232,F2,shorthand,,,
 79r,p467_l32_o09,motũ ,p467_l32_o09_a,+,S22,F2,shorthand,,,
 79r,p468_l02_o07,positione ,p468_l02_o07_a,+,S53,F2,shorthand,,,
 79r,p468_l02_o011-12,scabio ł scabo  ,,,,,,p468_l02_o011-12_a,S63,F2
 79r,p468_l03_o03,scabies ,,,,,,p468_l03_o03_a,S63,F2
 79r,p468_l05_o02,bibo ,,,,,,p468_l05_o02_a,S63,F2
-79r,p468_l06_o03,unũ  ,p468_l06_o03_a,uerbum,S53,F2,normal,,,
-79r,p468_l06_o06,nubo ,p468_l06_o06_a,uxorẽ duco,S23,F4,shorthand,,,
-79r,p468_l07_o02,.ii. ,p468_l07_o02_a,duo sb̶ uerba,S53,F4,shorthand,,,
+79r,p468_l06_o03,unũ  ,p468_l06_o03_a,uerbum,S53,F2,shorthand,,,
+79r,p468_l06_o06,nubo ,p468_l06_o06_a,uxorẽ duco,S23,F4,normal,,,
+79r,p468_l07_o02,.ii. ,p468_l07_o02_a,duo sb̶ uerba,S53,F4,normal,,,
 79r,p468_l08_o08,cumbo ,p468_l08_o08_a,iaceo,S22,F2,normal,p468_l08_o08_b,S63,F2
 79r,p468_l09_o04,cõposita. ,p468_l09_o04_a,sb̶ uerba st̃,S53,F4,normal,,,
 79r,p468_l09_o05,incũbo ,p468_l09_o05_a,insisto,S22,F2,normal,,,
 79r,p468_l09_o07,ꝓcũbo ,p468_l09_o07_a,ꝓcido,S22,F2,normal,,,
-79r,p468_l10_o03,succũbo ,p468_l10_o03_a,sub cũbo,S25,F3,shorthand,,,
+79r,p468_l10_o03,succũbo ,p468_l10_o03_a,sub cũbo,S25,F3,normal,,,
 79r,p468_l14_o01-02,In .co. ,,,,,,p468_l14_o01-02_a,S63,F2
-79r,p468_l15_o06,Placo ,p468_l15_o06_a,÷ mitigo,S22,F2,shorthand,,,
-79r,p468_l15_o08,uaco ,p468_l15_o08_a,+,S22,F2,normal,,,
+79r,p468_l15_o06,Placo ,p468_l15_o06_a,÷ mitigo,S22,F2,normal,,,
+79r,p468_l15_o08,uaco ,p468_l15_o08_a,+,S22,F2,shorthand,,,
 79r,p468_l15_o10,neco ,p468_l15_o10_a,int̃ficio,S22,F2,normal,,,
-79r,p468_l16_o03,plico ,p468_l16_o03_a,uoluo,S22,F2,shorthand,,,
+79r,p468_l16_o03,plico ,p468_l16_o03_a,uoluo,S22,F2,normal,,,
 79r,p468_l16_o04,mico ,p468_l16_o04_a,rutilo,S22,F2,normal,,,
 79r,p468_l16_o05,dimico ,p468_l16_o05_a,pugno,S22,F2,normal,,,
 79r,p468_l16_o06,emico ,p468_l16_o06_a,splendo,S22,F2,normal,,,
 79r,p468_l16_o07,frico ,,,,,,p468_l16_o07_a,S63,F2
-79r,p468_l16_o08,dico ,p468_l16_o08_a,sacro,S22,F2,shorthand,,,
+79r,p468_l16_o08,dico ,p468_l16_o08_a,sacro,S22,F2,normal,,,
 79r,p468_l19_o02,dedico ,p468_l19_o02_a,÷ c̃secro,S22,F2,normal,p468_l19_o02_b,S63,F2
 79r,p468_l19_o03,indico ,p468_l19_o03_a,intimo,S22,F2,normal,,,
 79r,p468_l19_o04,abdico ,,,,,,,,
-79r,p468_l19_o06,Albico ,p468_l19_o06_a,albesco,S22,F2,shorthand,,,
-79r,p468_l22_o01,Vellico ,p468_l22_o01_a,frequent̃ carpo,S23,F4,shorthand,,,
+79r,p468_l19_o06,Albico ,p468_l19_o06_a,albesco,S22,F2,normal,,,
+79r,p468_l22_o01,Vellico ,p468_l22_o01_a,frequent̃ carpo,S23,F4,normal,,,
 79r,p468_l23_o01,Claudico ,,,,,,p468_l23_o01_a,S63,F2
 79v,p468_l23_o07,Eradico ,,,,,,p468_l23_o07_a,S63,F2
 79v,p468_l26_o03,suffoco ,p468_l26_o03_a,strangulo,S22,F2,normal,p468_l26_o03_b,S63,F3
-79v,p468_l26_o05,loco ,p468_l26_o05_a,colloco,S22,F2,shorthand,,,
+79v,p468_l26_o05,loco ,p468_l26_o05_a,colloco,S22,F2,normal,,,
 79v,p468_l28_o01,Coquo ,,,,,,p468_l28_o01_a,S63,F4
 79v,p468_l29_o05,cocus ,,,,,,p468_l29_o05_a,S63,F2
-79v,p468_l29_o06,eo ,p468_l28_o06_a,sb̶ nõe,S3232,F2,shorthand,,,
+79v,p468_l29_o06,eo ,p468_l28_o06_a,sb̶ nõe,S3232,F2,normal,,,
 79v,p468_l32_o04,Dico ,,,,,,p468_l32_o04_a,S63,F2
-79v,p468_l34_o05,utroq ,p468_l34_o05_a,"id est a dico -as, edico -cis",S53,F3,shorthand,,,
+79v,p468_l34_o05,utroq ,p468_l34_o05_a,"id est a dico -as, edico -cis",S53,F3,normal,,,
 79v,p468_l34_o06,cõposita ,p468_l34_o06_a,+,S53,F2,shorthand,,,
 79v,p468_l34_o08,Edico ,,,,,,p468_l34_o08_a,S53,F2
-79v,p469_l02_o02,pręlego ,p469_l02_o02_a,s. p̃dico,S22,F2,shorthand,,,
-79v,p469_l04_o06,ceresso ,p469_l04_o06_a,÷ saluto,S211,F2,shorthand,p469_l04_o06_b,S211,F4
+79v,p469_l02_o02,pręlego ,p469_l02_o02_a,s. p̃dico,S22,F2,normal,,,
+79v,p469_l04_o06,ceresso ,p469_l04_o06_a,÷ saluto,S211,F2,normal,p469_l04_o06_b,S211,F4
 79v,p469_l04_o09,indico ,,,,,,,,
 79v,p469_l18_o06,Duco ,,,,,,p469_l18_o06_a,S63,F2
 79v,p469_l20_o01,abdico ,p469_l20_o01_a,longius duco,S23,F4,normal,,,
 79v,p469_l20_o07,induco ,p469_l20_o07_a,introduco,S22,F2,normal,,,
-79v,p469_l20_o09,Educo ,p469_l20_o09_a,extraho,S22,F2,shorthand,p469_l20_o09_b,S63,F2
+79v,p469_l20_o09,Educo ,p469_l20_o09_a,extraho,S22,F2,normal,p469_l20_o09_b,S63,F2
 79v,p469_l25_o03,educo ,,,,,,p469_l25_o03_a,S63,F2
 79v,p469_l26_o03-04,dux ducis ,,,,,,p469_l26_o03-04_a,S63,F2
 79v,p469_l26_o05,iure ,,,,,,,,
@@ -1425,91 +1425,91 @@ folio,lemma_id,lemma,gloss_id,gloss,gloss_type,gloss_form,nature,marginal_note_i
 79v,p469_l29_o06,pecco ,,,,,,,,
 79v,f79v_l23_o01,seco ,,,,,,,,
 79v,p469_l29_o10,Sulco ,p469_l29_o10_a,admitto,S22,F2,normal,p469_l29_o10_b,S63,F3
-79v,p469_l30_o02,mulco ,p469_l30_o02_a,findo,S22,F2,shorthand,,,
-79v,p469_l32_o04,inesco ,p469_l32_o04_a,afligo,S22,F2,shorthand,,,
-79v,p469_l33_o04,sannio. ,p469_l33_o04_a,÷ fictũ,S22,F2,shorthand,,,
+79v,p469_l30_o02,mulco ,p469_l30_o02_a,findo,S22,F2,normal,,,
+79v,p469_l32_o04,inesco ,p469_l32_o04_a,afligo,S22,F2,normal,,,
+79v,p469_l33_o04,sannio. ,p469_l33_o04_a,÷ fictũ,S22,F2,normal,,,
 79v,p470_l01_o08,ęsca ,,,,,,p470_l01_o08_a,S63,F3
-79v,p470_l03_o01,Notant᷑ ,p470_l03_o01_a,exceptos,S22,F2,shorthand,,,
+79v,p470_l03_o01,Notant᷑ ,p470_l03_o01_a,exceptos,S22,F2,normal,,,
 79v,p470_l03_o03,uinco ,p470_l03_o03_a,supero,S22,F2,normal,p470_l03_o03_b,S63,F3
-79v,p470_l04_o02,parco ,p470_l04_o02_a,indulgeo,S22,F2,shorthand,,,
+79v,p470_l04_o02,parco ,p470_l04_o02_a,indulgeo,S22,F2,normal,,,
 79v,p470_l06_o08,horresco ,,,,,,p470_l06_o08_a,S63,F3
 80r,p470_l08_o01-02,labo -as ,,,,,,p470_l08_o01-02_a,S63,F3
 80r,p470_l09_o05,uesperasco ,,,,,,p470_l09_o05_a,S63,F2
 80r,p470_l09_o06,Iuuenisco  ,,,,,,p470_l09_o06_a,S63,F2
-80r,p470_l09_o07,Glisco ,p470_l09_o07_a,cresco,S22,F2,shorthand,p470_l09_o07_b,S63,F2
+80r,p470_l09_o07,Glisco ,p470_l09_o07_a,cresco,S22,F2,normal,p470_l09_o07_b,S63,F2
 80r,p470_l11_o06,pasco ,,,,,,p470_l11_o06_a,S63,F2
 80r,p470_l12_o02,Cõpesco ,p470_l12_o02_a,ꝓhibeo,S22,F2,normal,p470_l12_o02_b,S63,F2
 80r,p470_l12_o05,Disco ,p470_l12_o05_a,paro,S22,F2,normal,,,
-80r,p470_l12_o08,Assuesco ,p470_l12_o08_a,soleo,S22,F2,shorthand,p470_l12_o08_b,S63,F2
+80r,p470_l12_o08,Assuesco ,p470_l12_o08_a,soleo,S22,F2,normal,p470_l12_o08_b,S63,F2
 80r,p470_l13_o01,posco ,p470_l13_o01_a,flagito,S22,F2,normal,,,
-80r,p470_l13_o03,Quiesco ,p470_l13_o03_a,reꝗesco,S22,F2,shorthand,p470_l13_o03_b,S24,F2
+80r,p470_l13_o03,Quiesco ,p470_l13_o03_a,reꝗesco,S22,F2,normal,p470_l13_o03_b,S24,F2
 80r,p470_l15_o03,respondens ,p470_l15_o03_a,c̃ueniens,S22,F2,normal,,,
-80r,p470_l15_o04,Prędic̃ta ,p470_l15_o04_a,id est pasco cresco,S53,F3,shorthand,,,
-80r,p470_l16_o01-02,p̃tm-ꝑfectũ ,p470_l16_o01-02_a, ꝗ̃ inchoant᷑ ++,S53,F4,normal,,,
-80r,p470_l16_o08,ut ,p470_l16_o08_a,sicut,S35,F2,shorthand,,,
+80r,p470_l15_o04,Prędic̃ta ,p470_l15_o04_a,id est pasco cresco,S53,F3,normal,,,
+80r,p470_l16_o01-02,p̃tm-ꝑfectũ ,p470_l16_o01-02_a, ꝗ̃ inchoant᷑ ++,S53,F4,shorthand,,,
+80r,p470_l16_o08,ut ,p470_l16_o08_a,sicut,S35,F2,normal,,,
 80r,p470_l18_o03-04,in .cor. ,,,,,,p470_l18_o03-04_a,S63,F2
-80r,p470_l20_o07,p̃cor ,p470_l20_o07_a,posco,S22,F2,shorthand,,,
+80r,p470_l20_o07,p̃cor ,p470_l20_o07_a,posco,S22,F2,normal,,,
 80r,p470_l21_o01,Suspicor ,p470_l21_o01_a,ęstimo,S22,F2,normal,,,
 80r,p470_l21_o03,Ludificor ,p470_l21_o03_a,deludo,S22,F2,normal,p470_l21_o03_b,S63,F2
 80r,p470_l21_o05,iocor ,p470_l21_o05_a,ludo,S22,F2,normal,,,
 80r,p470_l21_o07,mercor ,p470_l21_o07_a,emo ł cõparo,S22,F3,normal,,,
-80r,p470_l22_o01,gręcor ,p470_l22_o01_a,grece loquor,S23,F3,shorthand,p470_l22_o01_b                  ,S63,F2
+80r,p470_l22_o01,gręcor ,p470_l22_o01_a,grece loquor,S23,F3,normal,p470_l22_o01_b                  ,S63,F2
 80r,p470_l23_o04,grecari ,p470_l23_o04_a,gręce loꝗ,S23,F3,normal,,,
-80r,p470_l23_o05,Bacchor ,p470_l23_o05_a,insanio,S22,F2,shorthand,p470_l23_o05_b,S63,F2
-80r,p470_l27_o02,Stomachor ,p470_l27_o02_a,insignor ł irascor,S22,F2,shorthand,p470_l27_o02_b,S63,F2
-80r,p470_l29_o03,.cor. ,p470_l29_o03_a,h,S622,F1,shorthand,,,
+80r,p470_l23_o05,Bacchor ,p470_l23_o05_a,insanio,S22,F2,normal,p470_l23_o05_b,S63,F2
+80r,p470_l27_o02,Stomachor ,p470_l27_o02_a,insignor ł irascor,S22,F2,normal,p470_l27_o02_b,S63,F2
+80r,p470_l29_o03,.cor. ,p470_l29_o03_a,h,S622,F1,normal,,,
 80r,p470_l29_o09,baccha ,p470_l29_o09_a,fructus lauri ł ederę,S23,F3,normal,p470_l29_o09_b,S63,F2
 80r,p470_l29_o10,stomachus ,p470_l29_o10_a,os uentis,S23,F3,normal,p470_l29_o10_b,S25,F2
-80r,p470_l30_o05,inputanda ,p470_l30_o05_a,asscribenda inmittenda,S22,F2,shorthand,,,
-80r,p470_l33_o07,paciscor ,p470_l33_o07_a,ꝓmitto ł ++,S22,F3,normal,,,
+80r,p470_l30_o05,inputanda ,p470_l30_o05_a,asscribenda inmittenda,S22,F2,normal,,,
+80r,p470_l33_o07,paciscor ,p470_l33_o07_a,ꝓmitto ł ++,S22,F3,shorthand,,,
 80r,p470_l33_o08,cõminiscor ,p470_l33_o08_a,excogito,S22,F2,normal,p470_l33_o08_b,S63,F2
 80r,p470_l34_o01,adipiscor ,p470_l34_o01_a,c̃sequor,S22,F2,normal,,,
 80r,p470_l34_o02,Exꝑgiscor ,p470_l34_o02_a,euigilo,S22,F2,normal,,,
-80r,p470_l33_o06,nanciscor ,p470_l33_o06_a,c̃sequor,S22,F2,shorthand,,,
+80r,p470_l33_o06,nanciscor ,p470_l33_o06_a,c̃sequor,S22,F2,normal,,,
 80r,p471_l01_o01-02,in .do. ,,,,,,p471_l01_o01-02_a,S63,F2
 80r,p471_l02_o05,subiacebunt ,p471_l02_o05_a,manꝰ cipabuntur,S23,F4,normal,,,
 80r,p471_l03_o03,sedo ,p471_l03_o03_a,placo ł mitigo,S22,F3,normal,p471_l03_o03_b,S63,F2
 80r,p471_l03_o08,Fedus ,p471_l03_o08_a,turpis,S22,F2,normal,,,
-80r,p471_l03_o09,fedo ,p471_l03_o09_a,turpo,S22,F2,shorthand,,,
-80r,p471_l04_o04,exheredo ,p471_l04_o04_a,hereditatẽ tollo,S23,F4,shorthand,p471_l04_o04_b,S63,F2
+80r,p471_l03_o09,fedo ,p471_l03_o09_a,turpo,S22,F2,normal,,,
+80r,p471_l04_o04,exheredo ,p471_l04_o04_a,hereditatẽ tollo,S23,F4,normal,p471_l04_o04_b,S63,F2
 80r,p471_l04_o06,Cicero ,p471_l04_o06_a,++++,S554,F4,shorthand,,,
-80r,p471_l06_o01,delapido ,p471_l06_o01_a,defraudo,S22,F2,shorthand,p471_l06_o01_b,S63,F2
+80r,p471_l06_o01,delapido ,p471_l06_o01_a,defraudo,S22,F2,normal,p471_l06_o01_b,S63,F2
 80r,p471_l08_o01,Fraus ,p471_l08_o01_a,deceptio,S22,F2,normal,p471_l08_o01_b,S63,F2
 80r,p471_l08_o02,fraudo ,p471_l08_o02_a,priuo ł decipio,S22,F3,normal,,,
-80r,p471_l08_o04,Laus ,p471_l08_o04_a,rumor,S22,F2,shorthand,,,
+80r,p471_l08_o04,Laus ,p471_l08_o04_a,rumor,S22,F2,normal,,,
 80r,p471_l08_o07,Cor ,,,,,,p471_l08_o07_a,S63,F2
 80r,p471_l09_o01,udo ,,,,,,p471_l09_o01_a,S63,F2
 80r,p471_l09_o11,sudo ,,,,,,p471_l09_o11_a,S63,F2
-80r,p471_l12_o02,uado ,p471_l12_o02_a,ꝑgo,S22,F2,normal,,,
-80r,p471_l12_o04,inuado ,p471_l12_o04_a,deuasto,S22,F2,shorthand,,,
+80r,p471_l12_o02,uado ,p471_l12_o02_a,ꝑgo,S22,F2,shorthand,,,
+80r,p471_l12_o04,inuado ,p471_l12_o04_a,deuasto,S22,F2,normal,,,
 80r,p471_l12_o08,cędo ,,,,,,p471_l12_o08_a,S63,F2
 80r,p471_l13_o02,pedo ,,,,,,p471_l13_o02_a,S63,F2
-80r,p471_l14_o02,displosa ,p471_l14_o02_a,disrupta,S22,F2,shorthand,,,
+80r,p471_l14_o02,displosa ,p471_l14_o02_a,disrupta,S22,F2,normal,,,
 80r,p471_l15_o01,Fido ,,,,,,p471_l15_o01_a,S63,F2
 80r,p471_l15_o03,Strido ,p471_l15_o03_a,strepo,S22,F2,normal,,,
 80r,p471_l15_o05,Lędo ,p471_l15_o05_a,offendo,S22,F2,normal,,,
-80r,p471_l15_o09,illido ,p471_l15_o09_a,intꝰ lędo,S23,F4,shorthand,p471_l15_o09_b,S12,F2
+80r,p471_l15_o09,illido ,p471_l15_o09_a,intꝰ lędo,S23,F4,normal,p471_l15_o09_b,S12,F2
 80r,p471_l17_o02,Rodo ,p471_l17_o02_a,deuoro,S22,F2,normal,,,
 80r,p471_l17_o04,ꝓdo ,p471_l17_o04_a,manifesto ł trado,S22,F3,normal,,,
 80r,p471_l17_o06,ludo ,p471_l17_o06_a,iocor,S22,F2,normal,,,
-80r,p471_l17_o08,Cudo ,p471_l17_o08_a,fabrico ł cõpono,S22,F3,shorthand,,,
+80r,p471_l17_o08,Cudo ,p471_l17_o08_a,fabrico ł cõpono,S22,F3,normal,,,
 80r,p471_l18_o06,Excudo ,,,,,,p471_l18_o06_a,S63,F2
-80r,p471_l18_o08,ꝓcudo ,p471_l18_o08_a,ĩ ꝓturbo,S22,F2,shorthand,,,
+80r,p471_l18_o08,ꝓcudo ,p471_l18_o08_a,ĩ ꝓturbo,S22,F2,normal,,,
 80r,p471_l24_o02,ꝓcudit ,,,,,,p471_l24_o02_a,S63,F2
 80r,p471_l25_o06,lintres ,p471_l25_o06_a,parua nauis,S23,F3,normal,,,
 80r,p471_l26_o01,Trudo ,p471_l26_o01_a,indudo,S22,F2,normal,,,
-80r,p471_l26_o03,detrudo ,p471_l26_o03_a,repello,S22,F2,shorthand,p471_l26_o03_b,S63,F2
-80r,p471_l28_o04,pecuaria ,p471_l28_o04_a,pecunia,S22,F2,shorthand,,,
+80r,p471_l26_o03,detrudo ,p471_l26_o03_a,repello,S22,F2,normal,p471_l26_o03_b,S63,F2
+80r,p471_l28_o04,pecuaria ,p471_l28_o04_a,pecunia,S22,F2,normal,,,
 80r,p471_l29_o07,rudo ,,,,,,p471_l29_o07_a,S63,F2
 80v,p472_l01_o03,suspicari ,p472_l01_o03_a,iudicari,S22,F2,normal,,,
-80v,p472_l03_o04,palinurꝰ ,p472_l03_o04_a,+++ gub̶natoris nauis,S23,F3,shorthand,,,
-80v,p472_l09_o01,cedt̃ ,p472_l09_o01_a,uerberare,S22,F2,shorthand,,,
-80v,p472_l13_o01,Plaudo ,p472_l13_o01_a,plaudere +++,S23,F3,shorthand,,,
+80v,p472_l03_o04,palinurꝰ ,p472_l03_o04_a,+++ gub̶natoris nauis,S23,F3,normal,,,
+80v,p472_l09_o01,cedt̃ ,p472_l09_o01_a,uerberare,S22,F2,normal,,,
+80v,p472_l13_o01,Plaudo ,p472_l13_o01_a,plaudere +++,S23,F3,normal,,,
 80v,p472_l13_o03,cludo ,,,,,,p472_l13_o03_a,S63,F3
 80v,p472_l15_o07,cado ,,,,,,p472_l15_o07_a,S63,F2
 80v,p472_l16_o04,Edo ,,,,,,p472_l16_o04_a,S63,F2
 80v,p472_l17_o09,discrepant ,p472_l17_o09_a,distant,S22,F2,normal,,,
-80v,p472_l18_o09,Trucido ,p472_l18_o09_a,int̃ficio,S22,F2,shorthand,p472_l18_o09_b,S63,F3
+80v,p472_l18_o09,Trucido ,p472_l18_o09_a,int̃ficio,S22,F2,normal,p472_l18_o09_b,S63,F3
 80v,p472_l19_o04,qđ ,p472_l19_o04_a,++,S53,F3,shorthand,,,
 80v,p472_l19_o11,nom̃ ,p472_l19_o11_a,++ formido ++ + formidinis amor & formido t̾imeo,S53,F4,shorthand,,,
 80v,p472_l23_o01,pando ,p472_l23_o01_a,aperio,S22,F2,normal,,,
@@ -1517,149 +1517,149 @@ folio,lemma_id,lemma,gloss_id,gloss,gloss_type,gloss_form,nature,marginal_note_i
 80v,p472_l23_o05,incendo ,p472_l23_o05_a,uro,S22,F2,normal,,,
 80v,p472_l23_o06,offendo ,p472_l23_o06_a,ledo,S22,F2,normal,,,
 80v,p472_l23_o08,scindo ,p472_l23_o08_a,diuido,S22,F2,normal,,,
-80v,p472_l23_o10,tundo ,p472_l23_o10_a,ꝑcutio,S22,F2,shorthand,,,
+80v,p472_l23_o10,tundo ,p472_l23_o10_a,ꝑcutio,S22,F2,normal,,,
 80v,p472_l24_o01,Mando ,p472_l24_o01_a,mando,S22,F2,normal,,,
 80v,p472_l25_o09,Vndo ,p472_l25_o09_a,uacillo,S22,F2,normal,p472_l25_o09_b,S63,F2
-80v,p472_l25_o11,inundo ,p472_l25_o11_a,offluo,S22,F2,shorthand,,,
-80v,p472_l26_o02,abundo ,p472_l26_o02_a,exubero,S22,F2,shorthand,,,
-80v,p472_l32_o01,fecundus ,p472_l32_o01_a,fertilis,S22,F2,shorthand,p472_l32_o01_b,S63,F2
-80v,p473_l01_o01,Secundus ,p473_l01_o01_a,prosꝑ,S22,F2,shorthand,,,
+80v,p472_l25_o11,inundo ,p472_l25_o11_a,offluo,S22,F2,normal,,,
+80v,p472_l26_o02,abundo ,p472_l26_o02_a,exubero,S22,F2,normal,,,
+80v,p472_l32_o01,fecundus ,p472_l32_o01_a,fertilis,S22,F2,normal,p472_l32_o01_b,S63,F2
+80v,p473_l01_o01,Secundus ,p473_l01_o01_a,prosꝑ,S22,F2,normal,,,
 80v,p473_l01_o03,secundo ,p473_l01_o03_a,+,S22,F2,shorthand,,,
 80v,p473_l03_o06,menda ,,,,,,p473_l03_o06_a,S63,F2
 80v,p473_l03_o08,mendũ ,p473_l03_o08_a,+,S22,F2,shorthand,,,
 80v,p473_l04_o05,p̃tura ,p473_l04_o05_a,+,S22,F2,shorthand,,,
 80v,p473_l08_o01, Exim& ,,,,,,p473_l08_o01_a,S63,F2
 80v,p473_l09_o01,uerbũ ,p473_l09_o01_a,+,S53,F2,shorthand,,,
-80v,p473_l09_o03,em̃do ,p473_l09_o03_a,corrũpo,S22,F2,shorthand,,,
-80v,p473_l16_o09,t̃tię  ,p473_l16_o09_a,+,S53,F2,normal,,,
-80v,p473_l16_o10,quędã ,p473_l16_o10_a,sb̶ uerba,S3232,F2,shorthand,,,
+80v,p473_l09_o03,em̃do ,p473_l09_o03_a,corrũpo,S22,F2,normal,,,
+80v,p473_l16_o09,t̃tię  ,p473_l16_o09_a,+,S53,F2,shorthand,,,
+80v,p473_l16_o10,quędã ,p473_l16_o10_a,sb̶ uerba,S3232,F2,normal,,,
 80v,p473_l18_o02, Mando ,,,,,,p473_l18_o02_a,S63,F2
-80v,p473_l20_o08,effusionẽ ,p473_l20_o08_a,asꝑsionẽ,S22,F2,shorthand,,,
+80v,p473_l20_o08,effusionẽ ,p473_l20_o08_a,asꝑsionẽ,S22,F2,normal,,,
 80v,p473_l21_o01,fundo ,,,,,,p473_l21_o01_a,S54,F2
 80v,p473_l22_o05,fructus ,,,,,,,,
-80v,p473_l22_o11,altitudine ,p473_l22_o11_a,ꝓfunditatẽ,S22,F2,shorthand,,,
+80v,p473_l22_o11,altitudine ,p473_l22_o11_a,ꝓfunditatẽ,S22,F2,normal,,,
 80v,p473_l23_o09,fundo ,,,,,,,,
 80v,p473_l24_o09,BACΩYCH ,,,,,,p473_l24_o09_a,S221,F3
 80v,p473_l24_o12,ꝓfundus ,,,,,,p473_l24_o12_a,S63,F2
-80v,p473_l28_o05,pessumdo ,p473_l28_o05_a,disꝑdo / pessũ ++ p̃cipitium,S24,F3,shorthand,p473_l28_o05_b,S63,F2
-81r,p473_l29_o09,cõpositũ ,p473_l29_o09_a,+++,S53,F4,normal,,,
-81r,f81r_01_18,dedo ,f81r_01_18_a,trado,S22,F2,shorthand,,,
+80v,p473_l28_o05,pessumdo ,p473_l28_o05_a,disꝑdo / pessũ ++ p̃cipitium,S24,F3,normal,p473_l28_o05_b,S63,F2
+81r,p473_l29_o09,cõpositũ ,p473_l29_o09_a,+++,S53,F4,shorthand,,,
+81r,f81r_01_18,dedo ,f81r_01_18_a,trado,S22,F2,normal,,,
 81r,p473_l30_o10,ꝓdo ,p473_l30_o10_a,manifesto,S22,F2,normal,p473_l30_o10_b,S63,F2
 81r,p474_l01_o03,credo ,p474_l01_o03_a,a cr&u do,S54,F3,normal,,,
-81r,p474_l01_o04,uendo ,p474_l01_o04_a,a uenũdo,S54,F3,shorthand,,,
-81r,p474_l05_o03,ΟΡΚΩ ,p474_l05_o03_a,iuro +,S22,F2,normal,,,
-81r,p474_l05_o04,ΟΡΚΩΥC ,p474_l05_o04_a,iuras,S22,F2,shorthand,,,
+81r,p474_l01_o04,uendo ,p474_l01_o04_a,a uenũdo,S54,F3,normal,,,
+81r,p474_l05_o03,ΟΡΚΩ ,p474_l05_o03_a,iuro +,S22,F2,shorthand,,,
+81r,p474_l05_o04,ΟΡΚΩΥC ,p474_l05_o04_a,iuras,S22,F2,normal,,,
 81r,p474_l05_o08,ΕΙΟΡΚΩ ,p474_l05_o08_a,deiero,S22,F2,normal,,,
 81r,p474_l06_o01,ΕΙΟΡΚΕΥC ,p474_l06_o01_a,deieras,S22,F2,normal,,,
 81r,p474_l06_o02,ΕΠΙΟΡΚΩ ,p474_l06_o02_a,adiuro,S22,F2,normal,,,
-81r,p474_l06_o03,ΕΠΥΟΡΚΕΥC ,p474_l06_o03_a,adiuras,S22,F2,shorthand,,,
+81r,p474_l06_o03,ΕΠΥΟΡΚΕΥC ,p474_l06_o03_a,adiuras,S22,F2,normal,,,
 81r,p474_l06_o08,CΙΓΩ ,p474_l06_o08_a,sileo ł taceo,S22,F3,normal,p474_l06_o08_b,S221,F4
 81r,p474_l06_o09,CΙΓΑC ,p474_l06_o09_a,siles,S22,F2,normal,,,
 81r,p474_l07_o04,ΙΕPΩCΥΓΩ ,p474_l07_o04_a,r&iceo,S22,F2,normal,,,
-81r,p474_l07_o05,IEΡΟCΥΓΕΥC ,p474_l07_o05_a,r&ices,S22,F2,shorthand,,,
+81r,p474_l07_o05,IEΡΟCΥΓΕΥC ,p474_l07_o05_a,r&ices,S22,F2,normal,,,
 81r,p474_l08_o04,ꝑspicatiores ,p474_l08_o04_a,acutiores,S22,F2,normal,,,
 81r,p474_l08_o06,refutantes ,p474_l08_o06_a,respuentes,S22,F2,normal,,,
-81r,p474_l08_o07,affirmant ,p474_l08_o07_a,aseruunt,S22,F2,shorthand,,,
+81r,p474_l08_o07,affirmant ,p474_l08_o07_a,aseruunt,S22,F2,normal,,,
 81r,p474_l10_o05,ΕΙΟΡΚΩC ,p474_l10_o05_a,deierator,S22,F2,normal,,,
-81r,p474_l10_o06,EΠYOΡKΩC ,p474_l10_o06_a,adiurator ł adiurans,S22,F3,shorthand,,,
+81r,p474_l10_o06,EΠYOΡKΩC ,p474_l10_o06_a,adiurator ł adiurans,S22,F3,normal,,,
 81r,p474_l10_o07,ΙΕΡΩCΥΓΩΥC ,,,,,,,,
-81r,p474_l11_o07,respondere ,p474_l11_o07_a,comere?,S22,F2,shorthand,,,
+81r,p474_l11_o07,respondere ,p474_l11_o07_a,comere?,S22,F2,normal,,,
 81r,p474_l12_o05,.do. ,,,,,,p474_l12_o05_a,S53,F4
-81r,p474_l17_o02,igit᷑ ,p474_l17_o02_a,ĩdo,S22,F2,shorthand,,,
+81r,p474_l17_o02,igit᷑ ,p474_l17_o02_a,ĩdo,S22,F2,normal,,,
 81r,p474_l18_o08,no ,p474_l18_o08_a,nato,S22,F2,normal,,,
 81r,p474_l19_o01,flo ,,,,,,p474_l19_o01_a,S63,F3
-81r,p474_l19_o04,for ,p474_l19_o04_a,loquor,S22,F2,shorthand,,,
-81r,p474_l21_o03,pessũdo ,p474_l21_o03_a,disꝑdo,S22,F2,shorthand,,,
+81r,p474_l19_o04,for ,p474_l19_o04_a,loquor,S22,F2,normal,,,
+81r,p474_l21_o03,pessũdo ,p474_l21_o03_a,disꝑdo,S22,F2,normal,,,
 81r,p474_l22_o08,coher&; ,p474_l22_o08_a,c̃iungitur,S22,F2,normal,,,
 81r,p474_l22_o09-10,in .dor. ,,,,,,p474_l22_o09-10_a,S63,F2
-81r,p474_l23_o05,uador ,p474_l23_o05_a,uadum,S24,F2,shorthand,,,
+81r,p474_l23_o05,uador ,p474_l23_o05_a,uadum,S24,F2,normal,,,
 81r,p474_l24_o01-05,in .go. ł in .gor. ,,,,,,p474_l24_o01-05_a,S63,F2
-81r,p474_l24_o11,dinoscunt᷑ ,p474_l24_o11_a,agnoscuntur,S22,F2,shorthand,,,
+81r,p474_l24_o11,dinoscunt᷑ ,p474_l24_o11_a,agnoscuntur,S22,F2,normal,,,
 81r,p474_l26_o02,ꝓpago ,p474_l26_o02_a,dilato,S22,F2,normal,p474_l26_o02_b,S63,F2
-81r,p474_l26_o08,refragor ,p474_l26_o08_a,c̃tradico resisto,S22,F3,shorthand,p474_l26_o08_b,S63,F2
-81r,p474_l28_o08,circũago. ,p474_l28_o08_a,circũduco,S22,F2,shorthand,,,
+81r,p474_l26_o08,refragor ,p474_l26_o08_a,c̃tradico resisto,S22,F3,normal,p474_l26_o08_b,S63,F2
+81r,p474_l28_o08,circũago. ,p474_l28_o08_a,circũduco,S22,F2,normal,,,
 81r,p474_l29_o02,exigo ,p474_l29_o02_a,reꝗro,S22,F2,normal,p474_l29_o02_b,S63,F2
 81r,p474_l29_o03,subigo ,p474_l29_o03_a,subicio/subdo ł mancipo,S22,F3,normal,,,
 81r,p474_l29_o06,excludant ,p474_l29_o06_a,abiciunt,S22,F2,normal,,,
 81r,p474_l29_o08,dego ,p474_l29_o08_a,habitio,S22,F2,normal,,,
-81r,p474_l30_o04,lego ,p474_l30_o04_a,aliꝗd ꝑ legẽ statuo,S23,F4,shorthand,p474_l30_o04_b,S23,F3
+81r,p474_l30_o04,lego ,p474_l30_o04_a,aliꝗd ꝑ legẽ statuo,S23,F4,normal,p474_l30_o04_b,S23,F3
 81r,p474_l30_o06,Dego ,,,,,,p474_l30_o06_a,S63,F2
 81r,p474_l31_o04-05,lego -gas ,,,,,,p474_l31_o04-05_b,S23,F3
-81r,p475_l01_o12,legitime ,p475_l01_o12_a,lege ł merito,S22,F3,shorthand,,,
+81r,p475_l01_o12,legitime ,p475_l01_o12_a,lege ł merito,S22,F3,normal,,,
 81r,p475_l02_o02,iure ,p475_l02_o02_a,rationabilit̃,S22,F2,normal,,,
 81r,p475_l02_o10,Allego ,p475_l02_o10_a,affirmo asseuero,S22,F3,normal,p475_l02_o10_b,S63,F2
 81r,p475_l03_o02,ablego ,p475_l03_o02_a,abrogo ł legẽ tollo,S23,F3,normal,p475_l03_o02_b,S63,F2
-81r,p475_l03_o04,relego ,p475_l03_o04_a,segrego,S22,F2,shorthand,,,
-81r,p475_l14_o06,thetis ,p475_l14_o06_a,+++,S554,F3,shorthand,,,
+81r,p475_l03_o04,relego ,p475_l03_o04_a,segrego,S22,F2,normal,,,
+81r,p475_l14_o06,thetis ,p475_l14_o06_a,+++,S554,F3,normal,,,
 81r,p475_l16_o03,ibide ,,,,,,,,
 81r,p475_l18_o04,delituisse ,p475_l18_o04_a,+++ lateo deliteo,S22,F3,shorthand,,,
-81v,p475_l20_o10,exigo ,p475_l20_o10_a,+,S22,F2,normal,,,
+81v,p475_l20_o10,exigo ,p475_l20_o10_a,+,S22,F2,shorthand,,,
 81v,p475_l21_o01,subigo ,p475_l21_o01_a,subdo,S22,F2,normal,,,
 81v,p475_l21_o03,abigo ,p475_l21_o03_a,repello,S22,F2,normal,,,
-81v,p475_l21_o04,ꝓdigo ,p475_l21_o04_a,inutilẽ mea dispenso,S23,F4,shorthand,p475_l21_o04_b,S63,F2
+81v,p475_l21_o04,ꝓdigo ,p475_l21_o04_a,inutilẽ mea dispenso,S23,F4,normal,p475_l21_o04_b,S63,F2
 81v,p475_l21_o08,ꝑago ,p475_l21_o08_a,ꝑficio,S22,F2,normal,,,
-81v,p475_l21_o09,circũago ,p475_l21_o09_a,circũduco,S22,F2,shorthand,,,
+81v,p475_l21_o09,circũago ,p475_l21_o09_a,circũduco,S22,F2,normal,,,
 81v,p475_l23_o02,ligo ,p475_l23_o02_a,uincio,S22,F2,normal,,,
 81v,p475_l23_o04,rigo ,p475_l23_o04_a,aquor,S22,F2,normal,p475_l23_o04_b,S63,F2
 81v,p475_l23_o06,Litigo ,p475_l23_o06_a,rixor,S22,F2,normal,,,
-81v,p475_l23_o09,remigo ,p475_l23_o09_a,nauẽ gub̶no,S23,F4,shorthand,p475_l23_o09_b,S63,F2
+81v,p475_l23_o09,remigo ,p475_l23_o09_a,nauẽ gub̶no,S23,F4,normal,p475_l23_o09_b,S63,F2
 81v,p475_l27_o03,"instigo, ",p475_l27_o03_a,incito,S22,F2,normal,p475_l27_o03_b,S63,F2
 81v,p475_l27_o11,figo ,p475_l27_o11_a,stabilio,S22,F2,normal,p475_l27_o11_b,S63,F2
 81v,p475_l28_o02,fligo ,,,,,,p475_l28_o02_a,S63,F2
-81v,p475_l28_o05,affligo ,p475_l28_o05_a,afficio,S22,F2,shorthand,,,
+81v,p475_l28_o05,affligo ,p475_l28_o05_a,afficio,S22,F2,normal,,,
 81v,p475_l28_o06,c̃fligo ,p475_l28_o06_a,c̃certo,S22,F2,normal,,,
-81v,p476_l01_o04,rogo ,p476_l01_o04_a,p̃cor ł int̃rogo,S22,F3,shorthand,p476_l01_o04_b,S63,F2
+81v,p476_l01_o04,rogo ,p476_l01_o04_a,p̃cor ł int̃rogo,S22,F3,normal,p476_l01_o04_b,S63,F2
 81v,p476_l01_o08, Cogo ,,,,,,p476_l01_o08_a,S63,F2
-81v,p476_l03_o08,c̃fugo ,p476_l03_o08_a,expello ł ꝓc̃bo,S22,F3,shorthand,p476_l03_o08_b,S63,F2
+81v,p476_l03_o08,c̃fugo ,p476_l03_o08_a,expello ł ꝓc̃bo,S22,F3,normal,p476_l03_o08_b,S63,F2
 81v,p476_l03_o04,"iugo, ",p476_l03_o04_a,c̃iungo,S22,F2,normal,,,
 81v,p476_l04_o01,"conrugo, ",p476_l04_o01_a,exaspero,S22,F2,normal,,,
 81v,p476_l04_o02,nugor ,p476_l04_o02_a,inutilis efficio,S23,F4,normal,p476_l04_o02_b,S63,F2
-81v,p476_l04_o09,ruga ,p476_l04_o09_a,pellis plicata,S23,F3,shorthand,p476_l04_o09_b,S63,F2
-81v,p476_l04_o10,nugas ,p476_l04_o10_a,uilis ł uiles,S22,F3,shorthand,,,
-81v,p476_l07_o09,pango ,p476_l07_o09_a,cõpono,S22,F2,shorthand,p476_l07_o09_b,S63,F2
+81v,p476_l04_o09,ruga ,p476_l04_o09_a,pellis plicata,S23,F3,normal,p476_l04_o09_b,S63,F2
+81v,p476_l04_o10,nugas ,p476_l04_o10_a,uilis ł uiles,S22,F3,normal,,,
+81v,p476_l07_o09,pango ,p476_l07_o09_a,cõpono,S22,F2,normal,p476_l07_o09_b,S63,F2
 81v,p476_l10_o01,Plango ,p476_l10_o01_a,defleo,S22,F2,normal,,,
 81v,p476_l10_o02,"fingo, ",p476_l10_o02_a,cõpono,S22,F2,normal,,,
 81v,p476_l10_o03,"mingo, ",p476_l10_o03_a,meto,S22,F2,normal,,,
 81v,p476_l10_o04,"ningo, ",p476_l10_o04_a,niuẽ pluo,S23,F3,normal,p476_l10_o04_b,S63,F3
-81v,p476_l10_o09,"cingo, ",p476_l10_o09_a,circũdo,S22,F2,shorthand,,,
-81v,p476_l11_o05,"emungo, ",p476_l11_o05_a,emundo,S22,F2,shorthand,p476_l11_o05_b,S63,F2
+81v,p476_l10_o09,"cingo, ",p476_l10_o09_a,circũdo,S22,F2,normal,,,
+81v,p476_l11_o05,"emungo, ",p476_l11_o05_a,emundo,S22,F2,normal,p476_l11_o05_b,S63,F2
 81v,p476_l12_o01,"uergo, ",p476_l12_o01_a,inclino,S22,F2,normal,p476_l12_o01_b,S63,F2
 81v,p476_l11_o07,"fungor, ",p476_l11_o07_a,utor,S22,F2,normal,,,
 81v,p476_l12_o04,"purgo, ",p476_l12_o04_a,mundo,S22,F2,normal,,,
 81v,p476_l12_o08,purgus ,p476_l12_o08_a,mundus,S22,F2,normal,,,
-81v,p476_l13_o01,iurgo ,p476_l13_o01_a,litigo,S22,F2,shorthand,,,
-81v,p476_l14_o01,uulgo ,p476_l14_o01_a,manifesto ł in uulgũ +,S22,F3,normal,,,
-81v,p476_l14_o05,ꝓuulgo ,p476_l14_o05_a,publico,S22,F2,shorthand,,,
+81v,p476_l13_o01,iurgo ,p476_l13_o01_a,litigo,S22,F2,normal,,,
+81v,p476_l14_o01,uulgo ,p476_l14_o01_a,manifesto ł in uulgũ +,S22,F3,shorthand,,,
+81v,p476_l14_o05,ꝓuulgo ,p476_l14_o05_a,publico,S22,F2,normal,,,
 81v,p476_l17_o08,Traho ,,,,,,p476_l17_o08_a,S63,F2
-81v,p476_l17_o09,ueho ,p476_l17_o09_a,porto,S22,F2,shorthand,p476_l17_o09_b,S63,F2
+81v,p476_l17_o09,ueho ,p476_l17_o09_a,porto,S22,F2,normal,p476_l17_o09_b,S63,F2
 81v,p476_l18_o09,"ꝓueho, ",p476_l18_o09_a,ꝓmoueo ł sublimo,S22,F3,normal,,,
 81v,p476_l18_o10,subueho ,p476_l18_o10_a,subporto,S22,F2,normal,,,
 81v,p476_l19_o02,"triumpho, ",p476_l19_o02_a,a triũphus ++ uinco,S54,F3,normal,p476_l19_o02_b,S63,F2
 81v,p476_l19_o03,"bachor, ",p476_l19_o03_a,a bachus / sęuio,S54,F3,normal,p476_l19_o03_b,S63,F2
-81v,p476_l19_o04,stomachor ,p476_l19_o04_a,irascor/ a stomachus,S54,F2,shorthand,,,
+81v,p476_l19_o04,stomachor ,p476_l19_o04_a,irascor/ a stomachus,S54,F2,normal,,,
 81v,p476_l21_o01,Aio ,,,,,,p476_l21_o01_a,S63,F2
 81v,p476_l21_o03,meio ,,,,,,p476_l21_o03_b,S63,F2
 81v,p476_l23_o02,signa ,p476_l23_o02_a,indicia,S22,F2,shorthand,,,
 81v,p476_l24_o01,meiere ,,,,,,p476_l24_o01_a,S63,F2
-81v,p476_l26_o06,fio ,p476_l26_o06_a,efficior,S22,F2,shorthand,,,
-81v,p477_l01_o14,abunde ,p477_l01_o14_a,abundant̃,S22,F2,shorthand,,,
+81v,p476_l26_o06,fio ,p476_l26_o06_a,efficior,S22,F2,normal,,,
+81v,p477_l01_o14,abunde ,p477_l01_o14_a,abundant̃,S22,F2,normal,,,
 81v,p477_l04_o03,halo ,p477_l04_o03_a,spiro,S22,F2,normal,p477_l04_o03_b,S63,F2
 81v,p477_l04_o07,"Anhelo, ",p477_l04_o07_a,suspiro,S22,F2,normal,,,
 81v,p477_l04_o089,"ꝓtelo, ",p477_l04_o089_a,ãplifico,S22,F2,normal,,,
-81v,p477_l05_o01,"sibilo, ",p477_l05_o01_a,strepo,S22,F2,shorthand,,,
-81v,p477_l05_o02,"uentilo, ",p477_l05_o02_a,cõmoueo discutio,S22,F3,shorthand,p477_l05_o02_b,S63,F2
+81v,p477_l05_o01,"sibilo, ",p477_l05_o01_a,strepo,S22,F2,normal,,,
+81v,p477_l05_o02,"uentilo, ",p477_l05_o02_a,cõmoueo discutio,S22,F3,normal,p477_l05_o02_b,S63,F2
 81v,p477_l09_o04,uolo ,,,,,,p477_l09_o04_a,S63,F2
 81v,p477_l09_o06,dolo ,p477_l09_o06_a,extenuo,S22,F2,normal,,,
 81v,p477_l10_o02,"maculo, ",p477_l10_o02_a,polluo,S22,F2,normal,,,
 81v,p477_l09_o10,"ululo, ",p477_l09_o10_a,plango,S22,F2,normal,,,
 81v,p477_l10_o04,"pullulo, ",p477_l10_o04_a,cresco,S22,F2,normal,,,
 81v,p477_l10_o08,"cumulo, ",p477_l10_o08_a,augeo,S22,F2,normal,,,
-81v,p477_l10_o09,"exulo, ",p477_l10_o09_a,peregrinor,S22,F2,shorthand,,,
+81v,p477_l10_o09,"exulo, ",p477_l10_o09_a,peregrinor,S22,F2,normal,,,
 81v,p477_l11_o03,colo ,p477_l11_o03_a,+++,S23,F4,shorthand,p477_l11_o03_b,S63,F2
 81v,p477_l11_o11-12,ad culturã ,p477_l11_o11-12_a,quod ++,S53,F4,shorthand,,,
 82r,p477_l15_o05,georgicon ,p477_l15_o05_a,++++,S554,F4,shorthand,,,
 82r,p477_l15_o09,occulo ,p477_l15_o09_a,abscondo,S22,F2,normal,p477_l15_o09_b,S63,F3
-82r,p477_l16_o02,C̃sulo ,p477_l16_o02_a,ꝑcunctor ++,S22,F3,shorthand,,,
+82r,p477_l16_o02,C̃sulo ,p477_l16_o02_a,ꝑcunctor ++,S22,F3,normal,,,
 82r,p477_l16_o05,quo ,p477_l16_o05_a,+,S3232,F2,shorthand,,,
 82r,p477_l17_o08-09,uolo -las ,,,,,,p477_l17_o08-09_a,S63,F2
 82r,p477_l18_o08, malo ,,,,,,p477_l18_o08_a,S63,F2
@@ -1670,57 +1670,57 @@ folio,lemma_id,lemma,gloss_id,gloss,gloss_type,gloss_form,nature,marginal_note_i
 82r,p477_l20_o04,immolo ,,,,,,p477_l20_o04_a,S63,F2
 82r,p477_l21_o10,ꝑmolo  ,,,,,,p477_l21_o10_a,S63,F3
 82r,p477_l28_o01,"fallo, ",p477_l28_o01_a,decipio,S22,F2,normal,,,
-82r,p477_l28_o03,"uello, ",p477_l28_o03_a,carpo,S22,F2,shorthand,,,
+82r,p477_l28_o03,"uello, ",p477_l28_o03_a,carpo,S22,F2,normal,,,
 82r,p477_l28_o07,p̃cello ,,,,,,p477_l28_o07_a,S63,F3
-82r,p477_l29_o06,psallo ,p477_l29_o06_a,canto,S22,F2,shorthand,p477_l29_o06_b,S63,F3
+82r,p477_l29_o06,psallo ,p477_l29_o06_a,canto,S22,F2,normal,p477_l29_o06_b,S63,F3
 82r,p477_l30_o06,elegantius ,p477_l30_o06_a,+,S22,F2,shorthand,,,
-82r,p478_l02_o08,appello ,p478_l02_o08_a,reuoco,S22,F2,shorthand,p478_l02_o08_b,S63,F3
-82r,p478_l04_o09,appello ,p478_l04_o09_a,uoco,S22,F2,shorthand,p478_l04_o09_b,S63,F2
+82r,p478_l02_o08,appello ,p478_l02_o08_a,reuoco,S22,F2,normal,p478_l02_o08_b,S63,F3
+82r,p478_l04_o09,appello ,p478_l04_o09_a,uoco,S22,F2,normal,p478_l04_o09_b,S63,F2
 82r,p478_l05_o02,Bello ,,,,,,p478_l05_o02_a,S63,F2
 82r,p478_l05_o07,Vacillo ,,,,,,p478_l05_o07_a,S63,F2
-82r,p478_l06_o02,"uallũ, ",p478_l06_o02_a,fustes ł pali,S22,F3,shorthand,,,
+82r,p478_l06_o02,"uallũ, ",p478_l06_o02_a,fustes ł pali,S22,F3,normal,,,
 82r,p478_l07_o04-05, in .lor. ,,,,,,p478_l07_o04-05_a,S63,F2
-82r,p478_l07_o12,palor ,p478_l07_o12_a,fugio palã,S23,F3,shorthand,p478_l07_o12_b,S63,F2
-82r,p478_l08_o10,"pręstolor, ",p478_l08_o10_a,opperiq +,S22,F3,normal,,,
+82r,p478_l07_o12,palor ,p478_l07_o12_a,fugio palã,S23,F3,normal,p478_l07_o12_b,S63,F2
+82r,p478_l08_o10,"pręstolor, ",p478_l08_o10_a,opperiq +,S22,F3,shorthand,,,
 82r,p478_l09_o01,"fabulor, ",p478_l09_o01_a,sermocinor,S22,F2,normal,,,
 82r,p478_l09_o03,"adulor, ",p478_l09_o03_a,blandio,S22,F2,normal,,,
 82r,p478_l09_o04,"emulor, ",p478_l09_o04_a,imitor,S22,F2,normal,,,
 82r,p478_l09_o05,"epulor, ",p478_l09_o05_a,comedo,S22,F2,normal,,,
 82r,p478_l09_o06,"gratulor, ",p478_l09_o06_a,gaudeo,S22,F2,normal,,,
-82r,p478_l09_o017,iaculor ,p478_l09_o017_a,iaculũ iacio,S25,F3,shorthand,p478_l09_o017_b,S63,F2
+82r,p478_l09_o017,iaculor ,p478_l09_o017_a,iaculũ iacio,S25,F3,normal,p478_l09_o017_b,S63,F2
 82r,p478_l10_o01-02,in .mo. ,,,,,,p478_l10_o01-02_a,S63,F2
-82r,p478_l11_o08,clamo ,p478_l11_o08_a,uoco,S22,F2,shorthand,,,
+82r,p478_l11_o08,clamo ,p478_l11_o08_a,uoco,S22,F2,normal,,,
 82r,p478_l11_o09,"estimo, ",p478_l11_o09_a,abitror,S22,F2,normal,,,
 82r,p478_l12_o01,"Domo, ",p478_l12_o01_a,subdo,S22,F2,normal,p478_l12_o01_b,S63,F3
 82r,p478_l12_o02,"humo, ",p478_l12_o02_a,sepelio,S22,F2,normal,,,
-82r,p478_l12_o03,"autumo, ",p478_l12_o03_a,reor,S22,F2,shorthand,,,
+82r,p478_l12_o03,"autumo, ",p478_l12_o03_a,reor,S22,F2,normal,,,
 82r,p478_l12_o05,fumo ,,,,,,p478_l12_o05_a,S63,F2
 82r,p478_l14_o02,emo ,p478_l14_o02_a,cõparo,S22,F2,normal,p478_l14_o02_b,S63,F3
-82r,p478_l14_o04,gemo ,p478_l14_o04_a,doleo,S22,F2,shorthand,,,
+82r,p478_l14_o04,gemo ,p478_l14_o04_a,doleo,S22,F2,normal,,,
 82r,p478_l14_o10,cremo ,p478_l14_o10_a,ardeo,S22,F2,normal,,,
 82r,p478_l15_o10,ęstimo ,p478_l15_o10_a,reor,S22,F2,normal,,,
-82r,p478_l15_o12,exanimo ,p478_l15_o12_a,occido,S22,F2,shorthand,p478_l15_o12_b,S63,F2
+82r,p478_l15_o12,exanimo ,p478_l15_o12_a,occido,S22,F2,normal,p478_l15_o12_b,S63,F2
 82r,p478_l18_o04,"exprimo, ",p478_l18_o04_a,manifesto,S22,F2,normal,,,
 82r,p478_l18_o05,"interimo, ",p478_l18_o05_a,int̃ficio,S22,F2,normal,p478_l18_o05_b,S63,F3
 82r,p478_l18_o06,"Adimo, ",p478_l18_o06_a,aufero,S22,F2,normal,,,
 82r,p478_l18_o07,dirimo ,p478_l18_o07_a,sequestro ł separo,S22,F3,normal,,,
-82r,p478_l19_o02,demo ,p478_l19_o02_a,abstraho,S22,F2,shorthand,,,
-82r,p478_l19_o04,ꝓmo ,p478_l19_o04_a,ostendo,S22,F2,shorthand,,,
-82r,p478_l21_o01,perimo ,p478_l21_o01_a,int̃neco,S22,F2,shorthand,,,
+82r,p478_l19_o02,demo ,p478_l19_o02_a,abstraho,S22,F2,normal,,,
+82r,p478_l19_o04,ꝓmo ,p478_l19_o04_a,ostendo,S22,F2,normal,,,
+82r,p478_l21_o01,perimo ,p478_l21_o01_a,int̃neco,S22,F2,normal,,,
 82r,p478_l23_o01,uomo ,p478_l23_o01_a,digero,S22,F2,normal,p478_l23_o01_b,S63,F2
 82r,p478_l23_o08,como ,p478_l23_o08_a,orno,S22,F2,normal,p478_l23_o08_b,S63,F2
-82r,p478_l24_o01,c̃cisũ ,p478_l24_o01_a,ꝓductũ,S22,F2,shorthand,,,
-82r,p478_l30_o02,rimor ,p478_l30_o02_a,inuestigo,S22,F2,shorthand,p478_l30_o02_b,S63,F3
+82r,p478_l24_o01,c̃cisũ ,p478_l24_o01_a,ꝓductũ,S22,F2,normal,,,
+82r,p478_l30_o02,rimor ,p478_l30_o02_a,inuestigo,S22,F2,normal,p478_l30_o02_b,S63,F3
 82r,p478_l30_o05,rima ,p478_l30_o05_a,fissura,S22,F2,normal,,,
-82r,p478_l30_o06,racemor ,p478_l30_o06_a,racemos colligo,S23,F4,shorthand,p478_l30_o06_b,S63,F2
+82r,p478_l30_o06,racemor ,p478_l30_o06_a,racemos colligo,S23,F4,normal,p478_l30_o06_b,S63,F2
 82r,p478_l31_o01-02,in .no. ,,,,,,p478_l31_o01-02_a,S63,F2
 82r,p478_l31_o02,no ,p478_l31_o02_a,nauigo,S22,F2,normal,p478_l31_o02_b,S4181,F2
-82r,p479_l02_o03,m&amorphoseon ,p479_l02_o03_a,tansformationis,S22,F2,shorthand,,,
+82r,p479_l02_o03,m&amorphoseon ,p479_l02_o03_a,tansformationis,S22,F2,normal,,,
 82v,p479_l03_o06,declino ,p479_l03_o06_a,uito,S22,F2,normal,,,
 82v,p479_l02_o10,mano ,p479_l02_o10_a,fluo ł curro,S22,F3,normal,,,
 82v,p479_l03_o01,Ceno ,p479_l03_o01_a,prandeo,S22,F2,normal,p479_l03_o01_b,S63,F2
 82v,p479_l03_o02,Alieno ,p479_l03_o02_a,priuo,S22,F2,normal,,,
-82v,p479_l03_o03,sereno ,p479_l03_o03_a,mitigo ł placo,S22,F3,shorthand,,,
+82v,p479_l03_o03,sereno ,p479_l03_o03_a,mitigo ł placo,S22,F3,normal,,,
 82v,p479_l05_o07,"Gemino, ",p479_l05_o07_a,duplico,S22,F2,normal,,,
 82v,p479_l05_o08,"T̃mino, ",p479_l05_o08_a,finio,S22,F2,normal,,,
 82v,p479_l05_o09,"attamino, ",p479_l05_o09_a,corrũpo,S22,F2,normal,,,
@@ -1730,35 +1730,35 @@ folio,lemma_id,lemma,gloss_id,gloss,gloss_type,gloss_form,nature,marginal_note_i
 82v,p479_l06_o01,"Destino, ",p479_l06_o01_a,dispono,S22,F2,normal,,,
 82v,p479_l05_o06,"nomino, ",p479_l05_o06_a,nuncupo,S22,F2,normal,,,
 82v,p479_l06_o02,"ꝓcrastino, ",p479_l06_o02_a,differo,S22,F2,normal,,,
-82v,p479_l06_o03,c̃glutino ,p479_l06_o03_a,glomero,S22,F2,shorthand,p479_l06_o03_b,S63,F2
+82v,p479_l06_o03,c̃glutino ,p479_l06_o03_a,glomero,S22,F2,normal,p479_l06_o03_b,S63,F2
 82v,p479_l03_o09,Prop̃ino ,p479_l03_o09_a,misceo,S22,F2,normal,p479_l03_o09_b,S63,F2
-82v,p479_l04_o07,Sopino ,p479_l04_o07_a,uenor ł aucupo,S22,F3,shorthand,,,
+82v,p479_l04_o07,Sopino ,p479_l04_o07_a,uenor ł aucupo,S22,F3,normal,,,
 82v,p479_l04_o08,Festino ,p479_l04_o08_a,accelero,S22,F2,normal,,,
-82v,p479_l06_o07,Obsono ,p479_l06_o07_a,mercor,S22,F2,shorthand,p479_l06_o07_b,S24,F4
+82v,p479_l06_o07,Obsono ,p479_l06_o07_a,mercor,S22,F2,normal,p479_l06_o07_b,S24,F4
 82v,p479_l11_o06-07,cano -nis ,,,,,,p479_l11_o06-07_a,S63,F3
 82v,p479_l12_o02,"occino, ",p479_l12_o02_a,c̃tra cano,S23,F4,normal,p479_l12_o02_b,S63,F2
 82v,p479_l12_o03,"concino, ",p479_l12_o03_a,simul cano,S23,F4,normal,,,
-82v,p479_l12_o04,succino ,p479_l12_o04_a,ñ clare cano,S23,F4,shorthand,,,
+82v,p479_l12_o04,succino ,p479_l12_o04_a,ñ clare cano,S23,F4,normal,,,
 82v,p479_l13_o08-09,lino -is ,,,,,,p479_l13_o08-09_a,S331,F4
-82v,p479_l13_o10,Sino ,p479_l13_o10_a,ꝑmitto,S22,F2,shorthand,,,
+82v,p479_l13_o10,Sino ,p479_l13_o10_a,ꝑmitto,S22,F2,normal,,,
 82v,p479_l16_o05,quippe ,p479_l16_o05_a,nimirũ,S22,F2,normal,,,
 82v,p479_l17_o02,Dãpno ,p479_l17_o02_a,multo,S22,F2,normal,,,
 82v,p479_l17_o06,"signo, ",p479_l17_o06_a,noto,S22,F2,normal,,,
 82v,p479_l17_o08,regno ,p479_l17_o08_a,impero,S22,F2,normal,,,
-82v,p479_l18_o01,Verno ,p479_l18_o01_a,splendor,S22,F2,shorthand,p479_l18_o01_b,S63,F2
-82v,p479_l19_o07,Tẽpno ,p479_l19_o07_a,despicio,S22,F2,shorthand,,,
+82v,p479_l18_o01,Verno ,p479_l18_o01_a,splendor,S22,F2,normal,p479_l18_o01_b,S63,F2
+82v,p479_l19_o07,Tẽpno ,p479_l19_o07_a,despicio,S22,F2,normal,,,
 82v,p479_l20_o03,cerno  ,p479_l20_o03_a,dis/tingo,S22,F2,normal,,,
-82v,p479_l20_o05,decerno ,p479_l20_o05_a,statuo ł censeo,S22,F3,shorthand,p479_l20_o05_b,S63,F3
+82v,p479_l20_o05,decerno ,p479_l20_o05_a,statuo ł censeo,S22,F3,normal,p479_l20_o05_b,S63,F3
 82v,p479_l22_o06,opinor ,p479_l22_o06_a,reor,S22,F2,normal,,,
-82v,p479_l22_o08,"conor, ",p479_l22_o08_a,nitor,S22,F2,shorthand,,,
+82v,p479_l22_o08,"conor, ",p479_l22_o08_a,nitor,S22,F2,normal,,,
 82v,p479_l23_o02,"peregrinor, ",p479_l23_o02_a,exulo,S22,F2,normal,,,
 82v,p479_l23_o03,participor ,p479_l23_o03_a,partẽ capio +++,S25,F4,normal,,,
 82v,p479_l23_o05,"Vaticinor, ",p479_l23_o05_a,ꝓ/ph&o,S22,F2,normal,,,
 82v,p479_l23_o04,"miror, ",p479_l23_o04_a,stupeo,S22,F2,normal,p479_l23_o04_b,S63,F2
 82v,p479_l23_o07,c̃sternor ,p479_l23_o07_a,c̃turbo,S22,F2,normal,,,
-82v,p479_l24_o02,asꝑnor ,p479_l24_o02_a,dedignor,S22,F2,shorthand,,,
-82v,p479_l24_o09,sperno ,p479_l24_o09_a,+,S22,F2,normal,,,
-82v,p479_l25_o01,sterno ,p479_l25_o01_a,deicio ++,S22,F3,shorthand,p479_l25_o01_b,S63,F2
+82v,p479_l24_o02,asꝑnor ,p479_l24_o02_a,dedignor,S22,F2,normal,,,
+82v,p479_l24_o09,sperno ,p479_l24_o09_a,+,S22,F2,shorthand,,,
+82v,p479_l25_o01,sterno ,p479_l25_o01_a,deicio ++,S22,F3,normal,p479_l25_o01_b,S63,F2
 82v,p479_l25_o02,actiua ,p479_l25_o02_a,++,S53,F3,shorthand,,,
 82v,p479_l25_o10,t̃tię ,p479_l25_o10_a,(coniugatio),S53,F2,shorthand,,,
 82v,p480_l01_o10,fastorũ ,p480_l01_o10_a,fastꝰ ÷ lib̶ +++,S23,F4,shorthand,,,
@@ -1768,33 +1768,33 @@ folio,lemma_id,lemma,gloss_id,gloss,gloss_type,gloss_form,nature,marginal_note_i
 82v,p480_l06_o03,Discrepo ,p480_l06_o03_a,disto,S22,F2,normal,,,
 82v,p480_l06_o04,dissipo ,p480_l06_o04_a,deuasto,S22,F2,normal,,,
 82v,p480_l06_o09,Occupo ,p480_l06_o09_a,impedio,S22,F2,normal,,,
-82v,p480_l06_o06,Vsurpo ,p480_l06_o06_a,abutor,S22,F2,shorthand,,,
+82v,p480_l06_o06,Vsurpo ,p480_l06_o06_a,abutor,S22,F2,normal,,,
 82v,p480_l06_o07,Turpo ,p480_l06_o07_a,sedo,S22,F2,normal,,,
 82v,p480_l09_o03,"Anticipo, ",p480_l09_o03_a,p̃occupo,S22,F2,normal,,,
-82v,p480_l06_o10,Mancipo ,p480_l06_o10_a,subdo,S22,F2,shorthand,,,
-82v,p480_l12_o01,Palpo ,p480_l12_o01_a,tango,S22,F2,shorthand,,,
+82v,p480_l06_o10,Mancipo ,p480_l06_o10_a,subdo,S22,F2,normal,,,
+82v,p480_l12_o01,Palpo ,p480_l12_o01_a,tango,S22,F2,normal,,,
 82v,p480_l13_o10,"sculpo, ",p480_l13_o10_a,cęlo,S22,F2,normal,,,
-82v,p480_l14_o02,"carpo, ",p480_l14_o02_a,uello,S22,F2,shorthand,,,
+82v,p480_l14_o02,"carpo, ",p480_l14_o02_a,uello,S22,F2,normal,,,
 82v,p480_l14_o03,"repo, ",p480_l14_o03_a,traho,S22,F2,normal,,,
 82v,p480_l14_o04,"serpo, ",p480_l14_o04_a,latentẽ uenio,S23,F4,normal,,,
-82v,p480_l14_o05,"screpo, ",p480_l14_o05_a,sono,S22,F2,shorthand,,,
-82v,p480_l15_o11,aucupor ,p480_l15_o11_a,uenare ł aues capio,S23,F4,shorthand,p480_l15_o11_b,S63,F3
+82v,p480_l14_o05,"screpo, ",p480_l14_o05_a,sono,S22,F2,normal,,,
+82v,p480_l15_o11,aucupor ,p480_l15_o11_a,uenare ł aues capio,S23,F4,normal,p480_l15_o11_b,S63,F3
 82v,p480_l18_o03,linquo ,p480_l18_o03_a,desero,S22,F2,normal,,,
 82v,p480_l18_o07,delinquo ,p480_l18_o07_a,pecco,S22,F2,normal,,,
-82v,p480_l18_o09,inquã ,p480_l18_o09_a,dico,S22,F2,shorthand,p480_l18_o09_b,S63,F3
-82v,p480_l20_o06,inꝗmꝰ ,p480_l20_o06_a,dicimꝰ,S22,F2,shorthand,,,
-82v,p480_l21_o03,formione ,p480_l21_o03_a,+,S53,F2,normal,,,
+82v,p480_l18_o09,inquã ,p480_l18_o09_a,dico,S22,F2,normal,p480_l18_o09_b,S63,F3
+82v,p480_l20_o06,inꝗmꝰ ,p480_l20_o06_a,dicimꝰ,S22,F2,normal,,,
+82v,p480_l21_o03,formione ,p480_l21_o03_a,+,S53,F2,shorthand,,,
 82v,p480_l22_o03,inque ,p480_l22_o03_a,dic,S22,F2,normal,,,
-82v,p480_l22_o08,Liquor ,p480_l22_o08_a,fluo,S22,F2,shorthand,p480_l22_o08_b,S63,F2
+82v,p480_l22_o08,Liquor ,p480_l22_o08_a,fluo,S22,F2,normal,p480_l22_o08_b,S63,F2
 82v,p480_l24_o01,uere ,p480_l24_o01_a,+,S22,F2,shorthand,,,
 83r,p480_l27_o04,liquo ,,,,,,p480_l27_o04_a,S63,F2
-83r,p480_l27_o06,Eliquo ,p480_l27_o06_a,effluo expͥmo,S22,F3,shorthand,,,
-83r,p480_l32_o01,liquat ,p480_l32_o01_a,effluet,S22,F2,shorthand,,,
+83r,p480_l27_o06,Eliquo ,p480_l27_o06_a,effluo expͥmo,S22,F3,normal,,,
+83r,p480_l32_o01,liquat ,p480_l32_o01_a,effluet,S22,F2,normal,,,
 83r,p481_l04_o01,aequus ,p481_l04_o01_a,iustꝰ ł ęquał,S22,F3,normal,,,
-83r,p481_l04_o02,ęquo ,p481_l04_o02_a,assimilo,S22,F2,shorthand,,,
+83r,p481_l04_o02,ęquo ,p481_l04_o02_a,assimilo,S22,F2,normal,,,
 83r,p481_l04_o04,ꝓpinquus ,p481_l04_o04_a,affinis,S22,F2,normal,,,
 83r,p481_l04_o07,Obliquus ,p481_l04_o07_a,inclinatꝰ,S22,F2,normal,,,
-83r,p481_l05_o02,antiquus ,p481_l05_o02_a,priscus,S22,F2,shorthand,,,
+83r,p481_l05_o02,antiquus ,p481_l05_o02_a,priscus,S22,F2,normal,,,
 83r,p481_l05_o03,antiquo ,p481_l05_o03_a,+,S22,F2,shorthand,,,
 83r,p481_l06_o01,georgicon ,,,,,,p481_l06_o01_a,S554,F4
 83r,p481_l08_o01-02,in .ro. ,,,,,,p481_l08_o01-02_a,S63,F3
@@ -1805,50 +1805,50 @@ folio,lemma_id,lemma,gloss_id,gloss,gloss_type,gloss_form,nature,marginal_note_i
 83r,f83r_l08_o10,"(add), ",,,,,,f83r_l08_o10_a,S611,F2
 83r,p481_l09_o08,Genero ,p481_l09_o08_a,gigno,S22,F2,normal,,,
 83r,p481_l09_o09,"Impero, ",p481_l09_o09_a,iubeo,S22,F2,normal,,,
-83r,p481_l09_o10,Blatero ,p481_l09_o10_a,stulte loquor,S23,F3,shorthand,p481_l09_o10_b,S63,F2
-83r,p481_l11_o01,itero ,p481_l11_o01_a,rep&o,S22,F2,shorthand,,,
+83r,p481_l09_o10,Blatero ,p481_l09_o10_a,stulte loquor,S23,F3,normal,p481_l09_o10_b,S63,F2
+83r,p481_l11_o01,itero ,p481_l11_o01_a,rep&o,S22,F2,normal,,,
 83r,p481_l16_o03,"Gero, ",p481_l16_o03_a,porto,S22,F2,normal,p481_l16_o03_b,S63,F2
-83r,p481_l16_o05,"Digero, ",p481_l16_o05_a,scribo ł euacuo,S22,F3,shorthand,,,
-83r,p481_l18_o01,agger ,p481_l18_o01_a,strata publica,S23,F3,shorthand,,,
+83r,p481_l16_o05,"Digero, ",p481_l16_o05_a,scribo ł euacuo,S22,F3,normal,,,
+83r,p481_l18_o01,agger ,p481_l18_o01_a,strata publica,S23,F3,normal,,,
 83r,p481_l18_o04,eo ,p481_l18_o04_a,+,S3232,F2,shorthand,,,
 83r,p481_l21_o01,Tero ,p481_l21_o01_a,usito,S22,F2,normal,p481_l21_o01_b,S63,F2
 83r,p481_l21_o04,"Detero, ",p481_l21_o04_a,peroro,S22,F2,normal,,,
 83r,p481_l21_o05,ꝓtero ,p481_l21_o05_a,scalpor,S22,F2,normal,,,
-83r,p481_l21_o06,Sero ,p481_l21_o06_a,semino,S22,F2,shorthand,p481_l21_o06_b,S63,F2
+83r,p481_l21_o06,Sero ,p481_l21_o06_a,semino,S22,F2,normal,p481_l21_o06_b,S63,F2
 83r,p481_l21_o12,insero ,p481_l21_o12_a,immitto,S22,F2,normal,,,
 83r,p481_l22_o01,Dissero ,p481_l22_o01_a,expono,S22,F2,normal,,,
 83r,p481_l22_o03,desero ,p481_l22_o03_a,relinquo,S22,F2,normal,,,
-83r,p481_l22_o05,obsero ,p481_l22_o05_a,claudo,S22,F2,shorthand,p481_l22_o05_b,S63,F2
-83r,p481_l24_o02,resero ,p481_l24_o02_a,aperio,S22,F2,shorthand,,,
+83r,p481_l22_o05,obsero ,p481_l22_o05_a,claudo,S22,F2,normal,p481_l22_o05_b,S63,F2
+83r,p481_l24_o02,resero ,p481_l24_o02_a,aperio,S22,F2,normal,,,
 83r,p481_l24_o04,Queror ,,,,,,p481_l24_o04_a,S63,F2
 83r,p481_l25_o01,Fero ,,,,,,p481_l25_o01_a,S63,F3
-83r,p481_l26_o04,motib; ,p481_l26_o04_a,modis,S22,F2,shorthand,,,
+83r,p481_l26_o04,motib; ,p481_l26_o04_a,modis,S22,F2,normal,,,
 83r,p481_l26_o08,eo ,p481_l26_o08_a,fero,S22,F2,shorthand,,,
 83r,p481_l27_o04,uociferor ,p481_l27_o04_a,clamo,S22,F2,normal,,,
-83r,p481_l27_o11,morigeror ,p481_l27_o11_a,bonos mores gero,S23,F4,shorthand,,,
-83r,p481_l29_o05,Obseruandũ ,p481_l29_o05_a,accendendũ,S22,F2,shorthand,,,
-83r,p481_l30_o06,notauimꝰ ,p481_l30_o06_a,excepimꝰ,S22,F2,shorthand,,,
+83r,p481_l27_o11,morigeror ,p481_l27_o11_a,bonos mores gero,S23,F4,normal,,,
+83r,p481_l29_o05,Obseruandũ ,p481_l29_o05_a,accendendũ,S22,F2,normal,,,
+83r,p481_l30_o06,notauimꝰ ,p481_l30_o06_a,excepimꝰ,S22,F2,normal,,,
 83r,p481_l33_o02,aro ,,,,,,p481_l33_o02_a,S63,F2
 83r,p481_l33_o04,paro ,p481_l33_o04_a,p̃paro ł disco,S22,F3,normal,,,
 83r,p481_l33_o05,"spiro, ",p481_l33_o05_a,aerẽ traho,S23,F4,normal,,,
-83r,p481_l33_o06,Deliro ,p481_l33_o06_a,frustra loquor,S23,F4,shorthand,p481_l33_o06_b,S63,F2
+83r,p481_l33_o06,Deliro ,p481_l33_o06_a,frustra loquor,S23,F4,normal,p481_l33_o06_b,S63,F2
 83r,p481_l33_o09,"roboro, ",p481_l33_o09_a,c̃firmo,S22,F2,normal,,,
-83r,p481_l36_o03,instauro ,p481_l36_o03_a,edifi/co,S22,F2,shorthand,,,
-83r,p481_l36_o05,figuro ,p481_l36_o05_a,assimilo ꝑformo,S22,F3,shorthand,,,
+83r,p481_l36_o03,instauro ,p481_l36_o03_a,edifi/co,S22,F2,normal,,,
+83r,p481_l36_o05,figuro ,p481_l36_o05_a,assimilo ꝑformo,S22,F3,normal,,,
 83r,p482_l06_o04,celebro ,p482_l06_o04_a,frequento,S22,F2,normal,,,
 83r,p482_l06_o06,"Tenebro, ",p482_l06_o06_a,obscuro,S22,F2,normal,,,
 83r,p482_l06_o07,"c̃secro, ",p482_l06_o07_a,dico,S22,F2,normal,,,
 83r,p482_l06_o09,"quadro, ",p482_l06_o09_a,ęquo ł quadrũ facio,S22,F4,normal,,,
 83r,p482_l06_o10,"migro, ",p482_l06_o10_a,ꝓficiscor,S22,F2,normal,p482_l06_o10_b,S63,F2
-83r,p482_l07_o01,"latro, ",p482_l07_o01_a,latratꝰ,S54,F2,shorthand,,,
+83r,p482_l07_o01,"latro, ",p482_l07_o01_a,latratꝰ,S54,F2,normal,,,
 83r,p482_l07_o02,"lustro, ",p482_l07_o02_a,circũ eo ł sacrifico,S23,F4,normal,,,
 83r,p482_l07_o03,"Narro, ",p482_l07_o03_a,dico,S22,F2,normal,,,
-83r,p482_l07_o10,uerro ,p482_l07_o10_a,traho,S22,F2,shorthand,p482_l07_o10_b,S63,F2
-83r,p482_l10_o05,aduerrere ,p482_l10_o05_a,attrahere,S22,F2,shorthand,,,
+83r,p482_l07_o10,uerro ,p482_l07_o10_a,traho,S22,F2,normal,p482_l07_o10_b,S63,F2
+83r,p482_l10_o05,aduerrere ,p482_l10_o05_a,attrahere,S22,F2,normal,,,
 83r,p482_l11_o01-02,in .ror. ,,,,,,p482_l11_o01-02_a,S63,F3
-83r,p482_l10_o10,"execror, ",p482_l10_o10_a,abominor,S22,F2,shorthand,,,
-83r,p482_l11_o01,"morigeror, ",p482_l11_o01_a,++ mores gero,S23,F4,normal,,,
-83r,p482_l11_o02,"feneror, ",p482_l11_o02_a,mutuo aliꝗd accipio,S23,F4,shorthand,p482_l11_o02_b,S23,F3
+83r,p482_l10_o10,"execror, ",p482_l10_o10_a,abominor,S22,F2,normal,,,
+83r,p482_l11_o01,"morigeror, ",p482_l11_o01_a,++ mores gero,S23,F4,shorthand,,,
+83r,p482_l11_o02,"feneror, ",p482_l11_o02_a,mutuo aliꝗd accipio,S23,F4,normal,p482_l11_o02_b,S23,F3
 83r,p482_l12_o05,Odoror ,,,,,,p482_l12_o05_a,S63,F2
 83r,p482_l14_o01-02,in .so. ,,,,,,p482_l14_o01-02_a,S63,F3
 83v,p482_l15_o04,pleraq; ,p482_l15_o04_a,+,S53,F2,shorthand,,,
@@ -1856,186 +1856,186 @@ folio,lemma_id,lemma,gloss_id,gloss,gloss_type,gloss_form,nature,marginal_note_i
 83v,p482_l23_o03,augere ,p482_l23_o03_a,-,S11,F1,normal,,,
 83v,p482_l23_o05,densere ,,,,,,,,
 83v,p482_l23_o07,Conuasso ,p482_l23_o07_a,furor,S22,F2,normal,p482_l23_o07_b,S63,F2
-83v,p482_l25_o05,accerso ,p482_l25_o05_a,aduoco ł inurio,S22,F3,shorthand,,,
-83v,p482_l25_o07,"lacesso, ",p482_l25_o07_a,irrito ł ꝓuoco,S22,F3,shorthand,,,
-83v,p482_l25_o08,"facesso, ",p482_l25_o08_a,facio,S22,F2,normal,p482_l25_o08_b,S23,F2
+83v,p482_l25_o05,accerso ,p482_l25_o05_a,aduoco ł inurio,S22,F3,normal,,,
+83v,p482_l25_o07,"lacesso, ",p482_l25_o07_a,irrito ł ꝓuoco,S22,F3,normal,,,
+83v,p482_l25_o08,"facesso, ",p482_l25_o08_a,facio,S22,F2,shorthand,p482_l25_o08_b,S23,F2
 83v,p482_l26_o01,incesso ,,,,,,p482_l26_o01_b,S611,F2
 83v,p483_l05_o02,Viso ,p483_l05_o02_a,uidere desidero,S23,F3,normal,p483_l05_o02_b,S63,F3
-83v,p483_l05_o06,pinso ,p483_l05_o06_a,tero,S22,F2,shorthand,,,
+83v,p483_l05_o06,pinso ,p483_l05_o06_a,tero,S22,F2,normal,,,
 83v,p483_l10_o05,"causor, ",p483_l10_o05_a,queror ł lingo,S22,F3,normal,p483_l10_o05_b,S63,F3
 83v,p483_l10_o07,"grassor, ",p483_l10_o07_a,seuio,S22,F2,normal,,,
 83v,p483_l10_o09,"conuersor, ",p483_l10_o09_a,habito,S22,F2,normal,,,
-83v,p483_l11_o11,diuersor ,p483_l11_o11_a,diuerto,S22,F2,shorthand,,,
+83v,p483_l11_o11,diuersor ,p483_l11_o11_a,diuerto,S22,F2,normal,,,
 83v,p484_l11_o01-02,in .to. ,,,,,,p484_l11_o01-02_a,S63,F3
 83v,p483_l16_o04,p̃sto ,p483_l16_o04_a,tribuo do,S22,F3,normal,p483_l16_o04_b,S22,F2
 83v,p483_l16_o05,resto ,p483_l16_o05_a,disto,S22,F2,normal,,,
 83v,p483_l16_o06,obsto ,p483_l16_o06_a,impedio,S22,F2,normal,,,
-83v,p483_l16_o07,Nato ,p483_l16_o07_a,no,S22,F2,shorthand,,,
+83v,p483_l16_o07,Nato ,p483_l16_o07_a,no,S22,F2,normal,,,
 83v,p483_l17_o04,"V&o, ",p483_l17_o04_a,cõpesco,S22,F2,normal,p483_l17_o04_b,S54,F4
 83v,p483_l17_o06,"uito, ",p483_l17_o06_a,declino,S22,F2,normal,,,
 83v,p483_l17_o09,"noto, ",,,,,,,,
 83v,p483_l17_o10,"porto, ",p483_l17_o10_a,fero,S22,F2,normal,,,
-83v,p483_l18_o01,"puto, ",p483_l18_o01_a,reor,S22,F2,shorthand,,,
+83v,p483_l18_o01,"puto, ",p483_l18_o01_a,reor,S22,F2,normal,,,
 83v,p483_l18_o03,refuto ,p483_l18_o03_a,respuo,S22,F2,normal,,,
 83v,p483_l19_o01,C̃futo ,p483_l19_o01_a,c̃fundo,S22,F2,normal,p483_l19_o01_b,S63,F2
-83v,p483_l19_o06,c̃futauit ,p483_l19_o06_a,c̃fudit,S22,F2,shorthand,,,
+83v,p483_l19_o06,c̃futauit ,p483_l19_o06_a,c̃fudit,S22,F2,normal,,,
 83v,p483_l20_o04,"Exulto, ",p483_l20_o04_a,l&or,S22,F2,normal,,,
 83v,p483_l20_o05,"ausculto, ",p483_l20_o05_a,audio,S22,F2,normal,,,
 83v,p483_l20_o06,"uasto, ",p483_l20_o06_a,populor,S22,F2,normal,,,
 83v,p483_l20_o07,"gesto, ",p483_l20_o07_a,porto,S22,F2,normal,,,
-83v,p483_l20_o08,manifesto ,p483_l20_o08_a,enucleo,S22,F2,shorthand,,,
-83v,f83v_l20_o05,(add) ,f83v_l20_o05_a,: oliue,S611,F2,shorthand,,,
+83v,p483_l20_o08,manifesto ,p483_l20_o08_a,enucleo,S22,F2,normal,,,
+83v,f83v_l20_o05,(add) ,f83v_l20_o05_a,: oliue,S611,F2,normal,,,
 83v,p483_l24_o01,Fructo ,p483_l24_o01_a,emitto,S22,F2,normal,p483_l24_o01_b,S63,F3
-83v,f83v_l21_o05,lacto ,f83v_l21_o05_a,blandior ł lac sugo,S22,F3,shorthand,,,
+83v,f83v_l21_o05,lacto ,f83v_l21_o05_a,blandior ł lac sugo,S22,F3,normal,,,
 83v,p483_l24_o03,Rapto ,p483_l24_o03_a,+,S22,F2,shorthand,,,
 83v,p483_l24_o04,capto ,p483_l24_o04_a,+,S22,F2,shorthand,,,
-83v,p483_l24_o05,salto ,p483_l24_o05_a,+,S22,F2,normal,,,
-83v,p483_l24_o06,canto ,p483_l24_o06_a,stringo,S22,F2,shorthand,,,
-83v,p483_l24_o07,arto ,p483_l24_o07_a,+,S22,F2,normal,,,
+83v,p483_l24_o05,salto ,p483_l24_o05_a,+,S22,F2,shorthand,,,
+83v,p483_l24_o06,canto ,p483_l24_o06_a,stringo,S22,F2,normal,,,
+83v,p483_l24_o07,arto ,p483_l24_o07_a,+,S22,F2,shorthand,,,
 83v,p483_l27_o01,Lacto ,p483_l27_o01_a,adolationib decipio,S23,F4,normal,,,
-83v,p483_l27_o07,lactas ,p483_l27_o07_a,decipis,S22,F2,shorthand,,,
+83v,p483_l27_o07,lactas ,p483_l27_o07_a,decipis,S22,F2,normal,,,
 83v,p483_l28_o05,Marito ,p483_l28_o05_a,subdo ł subiugo,S22,F3,normal,p483_l28_o05_b,S63,F2
-83v,p483_l28_o09,.ii. ,p483_l28_o09_a,lib̶,S53,F2,shorthand,,,
-83v,p483_l28_o10,achilleidos: ,p483_l28_o10_a,+,S53,F2,normal,,,
-83v,p484_l02_o01,Lo&o ,p484_l02_o01_a,mortifico,S22,F2,shorthand,p484_l02_o01_b,S63,F2
-83v,p484_l03_o03,l&auit ,p484_l03_o03_a,mortif̃icauit,S22,F2,shorthand,,,
-83v,p484_l06_o02,scato ,p484_l06_o02_a,ebullio,S22,F2,shorthand,p484_l06_o02_b,S63,F2
+83v,p483_l28_o09,.ii. ,p483_l28_o09_a,lib̶,S53,F2,normal,,,
+83v,p483_l28_o10,achilleidos: ,p483_l28_o10_a,+,S53,F2,shorthand,,,
+83v,p484_l02_o01,Lo&o ,p484_l02_o01_a,mortifico,S22,F2,normal,p484_l02_o01_b,S63,F2
+83v,p484_l03_o03,l&auit ,p484_l03_o03_a,mortif̃icauit,S22,F2,normal,,,
+83v,p484_l06_o02,scato ,p484_l06_o02_a,ebullio,S22,F2,normal,p484_l06_o02_b,S63,F2
 84r,p484_l15_o10,flecto ,p484_l15_o10_a,curuo,S22,F2,normal,,,
-84r,p484_l15_o09,necto ,p484_l15_o09_a,iungo,S22,F2,shorthand,p484_l15_o09_b,S63,F2
+84r,p484_l15_o09,necto ,p484_l15_o09_a,iungo,S22,F2,normal,p484_l15_o09_b,S63,F2
 84r,p484_l17_o04,sterto ,p484_l17_o04_a,++ scertit ++++++++,S54,F4,shorthand,p484_l17_o04_b,S63,F2
-84r,p484_l18_o03,"sisto, ",p484_l18_o03_a,stare facio +++++,S23,F4,shorthand,p484_l18_o03_b,S63,F2
+84r,p484_l18_o03,"sisto, ",p484_l18_o03_a,stare facio +++++,S23,F4,normal,p484_l18_o03_b,S63,F2
 84r,p484_l19_o03,"Scrutor, ",p484_l19_o03_a,inuestigo,S22,F2,normal,,,
 84r,p484_l19_o04,"testor, ",,,,,,,,
 84r,p484_l19_o05,"antestor, ",p484_l19_o05_a,ꝓcestor,S22,F2,normal,p484_l19_o05_b,S63,F2
 84r,p484_l20_o05,"plector, ",p484_l20_o05_a,uindico ł c̃tẽno,S22,F3,normal,p484_l20_o05_b,S63,F2
 84r,p484_l20_o06,"amplector, ",p484_l20_o06_a,astringo,S22,F2,normal,,,
 84r,p484_l20_o07,"complector, ",p484_l20_o07_a,cõp̃hendo,S22,F2,normal,,,
-84r,p484_l21_o01,"Nitor, ",p484_l21_o01_a,conor,S22,F2,shorthand,,,
+84r,p484_l21_o01,"Nitor, ",p484_l21_o01_a,conor,S22,F2,normal,,,
 84r,p484_l21_o02,Vtor ,p484_l21_o02_a,fruor,S22,F2,normal,,,
-84r,p484_l21_o07,uertor ,p484_l21_o07_a,abutor renitor,S22,F3,shorthand,,,
-84r,p484_l21_o10,reuertor ,p484_l21_o10_a,+,S22,F2,normal,,,
-84r,f84r_l04_o15,(add) ,f84r_l04_o15_a,ante,S611,F2,shorthand,,,
+84r,p484_l21_o07,uertor ,p484_l21_o07_a,abutor renitor,S22,F3,normal,,,
+84r,p484_l21_o10,reuertor ,p484_l21_o10_a,+,S22,F2,shorthand,,,
+84r,f84r_l04_o15,(add) ,f84r_l04_o15_a,ante,S611,F2,normal,,,
 84r,p484_l23_o09,"seruo, ",p484_l23_o09_a,custodio,S22,F2,normal,,,
-84r,p484_l23_o10,curuo ,p484_l23_o10_a,inclino,S22,F2,shorthand,,,
+84r,p484_l23_o10,curuo ,p484_l23_o10_a,inclino,S22,F2,normal,,,
 84r,p484_l25_o01,lauo ,,,,,,p484_l25_o01_a,S22,F2
-84r,p484_l29_o06,lympha ,p484_l29_o06_a,aqua,S22,F2,shorthand,,,
+84r,p484_l29_o06,lympha ,p484_l29_o06_a,aqua,S22,F2,normal,,,
 84r,p485_l01_o08,lauadũ ,,,,,,p485_l01_o08_a,S334,F2
 84r,p485_l06_o05,caluo ,,,,,,p485_l06_o05_a,S63,F2
 84r,p485_l07_o07,calui ,p485_l07_o07_a,decipi,S22,F2,normal,,,
-84r,p485_l07_o08,ratus ,p485_l07_o08_a,existimaũ,S22,F2,shorthand,,,
-84r,p485_l09_o04,conuiuor ,p485_l09_o04_a,prandeo,S22,F2,shorthand,p485_l09_o04_b,S63,F3
-84r,p485_l12_o10,laxo ,p485_l12_o10_a,dimitto,S22,F2,shorthand,p485_l12_o10_b,S63,F3
-84r,p485_l13_o02,luxo ,p485_l13_o02_a,+ luxurio,S22,F2,normal,,,
-84r,p485_l13_o03,uexo ,p485_l13_o03_a,fatigo,S22,F2,shorthand,,,
+84r,p485_l07_o08,ratus ,p485_l07_o08_a,existimaũ,S22,F2,normal,,,
+84r,p485_l09_o04,conuiuor ,p485_l09_o04_a,prandeo,S22,F2,normal,p485_l09_o04_b,S63,F3
+84r,p485_l12_o10,laxo ,p485_l12_o10_a,dimitto,S22,F2,normal,p485_l12_o10_b,S63,F3
+84r,p485_l13_o02,luxo ,p485_l13_o02_a,+ luxurio,S22,F2,shorthand,,,
+84r,p485_l13_o03,uexo ,p485_l13_o03_a,fatigo,S22,F2,normal,,,
 84r,p485_l13_o04,taxo ,p485_l13_o04_a,iudico ++,S22,F3,shorthand,,,
 84r,p485_l13_o10,pexo ,p485_l13_o10_a,pecto,S22,F2,shorthand,,,
 84r,p485_l14_o02,nexo ,p485_l14_o02_a,ligo,S22,F2,normal,p485_l14_o02_b,S63,F2
-84r,p485_l14_o04,faxo ,p485_l14_o04_a,illumino,S22,F2,shorthand,,,
+84r,p485_l14_o04,faxo ,p485_l14_o04_a,illumino,S22,F2,normal,,,
 84r,p485_l16_o003-04,in dephano ,,,,,,p485_l16_o003-04_a,S62,F2
 84r,p485_l18_o02,neximus ,p485_l18_o02_a,+,S22,F2,shorthand,,,
 84r,p485_l19_o12,pecto ,,,,,,p485_l19_o12_a,S332,F2
 84r,p485_l20_o04-05,in .xor. ,,,,,,p485_l20_o04-05_a,S63,F2
 84r,p485_l21_o02,rixor ,,,,,,p485_l21_o02_a,S63,F2
 84r,p485_l28_o09,"inficio, ",p485_l28_o09_a,corrũpo,S22,F2,normal,p485_l28_o09_b,S63,F2
-84r,p485_l28_o10,"afficio, ",p485_l28_o10_a,affligo,S22,F2,shorthand,,,
-84r,p485_l29_o04,"ꝑfero, ",p485_l29_o04_a,+++,S23,F3,normal,,,
+84r,p485_l28_o10,"afficio, ",p485_l28_o10_a,affligo,S22,F2,normal,,,
+84r,p485_l29_o04,"ꝑfero, ",p485_l29_o04_a,+++,S23,F3,shorthand,,,
 84r,p485_l29_o05,"infero, ",p485_l29_o05_a,ingero,S22,F2,normal,,,
-84r,p485_l29_o07,suffero ,p485_l29_o07_a,sustineo,S22,F2,shorthand,p485_l29_o07_b,S63,F2
-84r,p485_l29_o10,"ꝓturbo, ",p485_l29_o10_a,expello,S22,F2,shorthand,,,
+84r,p485_l29_o07,suffero ,p485_l29_o07_a,sustineo,S22,F2,normal,p485_l29_o07_b,S63,F2
+84r,p485_l29_o10,"ꝓturbo, ",p485_l29_o10_a,expello,S22,F2,normal,,,
 84r,p485_l30_o05,Neco ,p485_l30_o05_a,occido,S22,F2,normal,,,
 84r,p485_l31_o02,fundo ,,,,,,p485_l31_o02_a,S63,F2
-84r,p485_l32_o02,subigo ,p485_l32_o02_a,subdo,S22,F2,shorthand,,,
-84r,p485_l32_o03,"exigo, ",p485_l32_o03_a,++,S23,F3,normal,,,
-84r,p485_l32_o01,circuago ,p485_l32_o01_a,circũ duco,S23,F2,shorthand,,,
-84r,p485_l32_o07,"halo, ",p485_l32_o07_a,spiro,S22,F2,shorthand,,,
-84r,p485_l32_o08,"exhalo, ",p485_l32_o08_a,+,S22,F2,normal,,,
-84r,p485_l32_o10,"refello, ",p485_l32_o10_a,reuinco,S22,F2,shorthand,,,
-84r,p485_l33_o04,"coemo, ",p485_l33_o04_a,+++,S23,F3,normal,,,
-84r,p485_l33_o06,adimo ,p485_l33_o06_a,aufero,S22,F2,shorthand,p485_l33_o06_b,S63,F2
-84r,p485_l33_o069,repono ,p485_l33_o069_a,+,S22,F2,normal,,,
+84r,p485_l32_o02,subigo ,p485_l32_o02_a,subdo,S22,F2,normal,,,
+84r,p485_l32_o03,"exigo, ",p485_l32_o03_a,++,S23,F3,shorthand,,,
+84r,p485_l32_o01,circuago ,p485_l32_o01_a,circũ duco,S23,F2,normal,,,
+84r,p485_l32_o07,"halo, ",p485_l32_o07_a,spiro,S22,F2,normal,,,
+84r,p485_l32_o08,"exhalo, ",p485_l32_o08_a,+,S22,F2,shorthand,,,
+84r,p485_l32_o10,"refello, ",p485_l32_o10_a,reuinco,S22,F2,normal,,,
+84r,p485_l33_o04,"coemo, ",p485_l33_o04_a,+++,S23,F3,shorthand,,,
+84r,p485_l33_o06,adimo ,p485_l33_o06_a,aufero,S22,F2,normal,p485_l33_o06_b,S63,F2
+84r,p485_l33_o069,repono ,p485_l33_o069_a,+,S22,F2,shorthand,,,
 84r,p486_l01_o01,crepo ,p486_l01_o01_a,sono strepo,S22,F3,normal,p486_l01_o01_b,S63,F2
-84r,p486_l01_o02,"discrepo, ",p486_l01_o02_a,disto,S22,F2,shorthand,,,
-84r,p486_l01_o03,repo ,p486_l01_o03_a,traho +++,S23,F3,normal,,,
-84r,p486_l01_o10,"discurro, ",p486_l01_o10_a,uagor,S22,F2,shorthand,,,
-84r,p486_l02_o04,"dispenso, ",p486_l02_o04_a,distribuo,S22,F2,shorthand,,,
-84v,p486_l03_o10,educo ,p486_l03_o10_a,extraho,S22,F2,shorthand,,,
-84v,f84v_l02_o06,(add) ,f84v_l02_o06_a,pͥmę c̃iug̃ Vt,S611,F3,shorthand,,,
-84v,p486_l06_o04,Vt ,p486_l06_o04_a,sicut,S34,F2,shorthand,,,
+84r,p486_l01_o02,"discrepo, ",p486_l01_o02_a,disto,S22,F2,normal,,,
+84r,p486_l01_o03,repo ,p486_l01_o03_a,traho +++,S23,F3,shorthand,,,
+84r,p486_l01_o10,"discurro, ",p486_l01_o10_a,uagor,S22,F2,normal,,,
+84r,p486_l02_o04,"dispenso, ",p486_l02_o04_a,distribuo,S22,F2,normal,,,
+84v,p486_l03_o10,educo ,p486_l03_o10_a,extraho,S22,F2,normal,,,
+84v,f84v_l02_o06,(add) ,f84v_l02_o06_a,pͥmę c̃iug̃ Vt,S611,F3,normal,,,
+84v,p486_l06_o04,Vt ,p486_l06_o04_a,sicut,S34,F2,normal,,,
 84v,p486_l12_o03,dico ,p486_l12_o03_a,narro,S22,F2,normal,,,
 84v,p486_l12_o06,dico ,p486_l12_o06_a,c̃secro,S22,F2,normal,,,
 84v,p486_l12_o08,mando ,p486_l12_o08_a,manduco,S22,F2,normal,,,
 84v,p486_l12_o11,mando ,p486_l12_o11_a,c̃mendo,S22,F2,normal,,,
 84v,p486_l13_o02,fundo ,p486_l13_o02_a,spargo,S22,F2,normal,,,
 84v,p486_l13_o05,fundo ,p486_l13_o05_a,fundam̃tũ iaceo,S23,F4,normal,,,
-84v,p486_l13_o08,sero ,p486_l13_o08_a,munio,S22,F2,shorthand,,,
-84v,p486_l14_o09,lego ,p486_l14_o09_a,statuo,S22,F2,shorthand,,,
+84v,p486_l13_o08,sero ,p486_l13_o08_a,munio,S22,F2,normal,,,
+84v,p486_l14_o09,lego ,p486_l14_o09_a,statuo,S22,F2,normal,,,
 84v,p486_l16_o07,"dissero, ",p486_l16_o07_a,expono,S22,F2,normal,,,
 84v,p486_l16_o08,"ꝓsero, ",p486_l16_o08_a,ꝓuideo,S22,F2,normal,,,
 84v,p486_l16_o09,insero ,p486_l16_o09_a,immitto,S22,F2,normal,,,
-84v,p486_l17_o07,sublego ,p486_l17_o07_a,furor,S22,F2,shorthand,,,
+84v,p486_l17_o07,sublego ,p486_l17_o07_a,furor,S22,F2,normal,,,
 84v,p486_l19_o03,Appello ,p486_l19_o03_a,uoco,S22,F2,normal,,,
 84v,f84v_l11_o06,cõpello ,f84v_l11_o06_a,alloquor,S22,F2,normal,,,
-84v,p486_l19_o07,Pello ,p486_l19_o07_a,ꝓicio,S22,F2,shorthand,,,
+84v,p486_l19_o07,Pello ,p486_l19_o07_a,ꝓicio,S22,F2,normal,,,
 84v,p486_l19_o10,expello ,p486_l19_o10_a,eicio,S22,F2,normal,,,
 84v,p486_l17_o12,impello ,p486_l17_o12_a,impingo,S22,F2,normal,,,
-84v,p486_l20_o02,depello ,p486_l20_o02_a,repello,S22,F2,shorthand,,,
-84v,p486_l22_o04,Crepo ,p486_l22_o04_a,strepo,S22,F2,shorthand,,,
-84v,p486_l26_o05,Maturo ,p486_l26_o05_a,accelero ++++,S22,F3,normal,,,
-84v,p486_l27_o04,ꝑfecta ,p486_l27_o04_a,p̃terita,S53,F2,shorthand,,,
+84v,p486_l20_o02,depello ,p486_l20_o02_a,repello,S22,F2,normal,,,
+84v,p486_l22_o04,Crepo ,p486_l22_o04_a,strepo,S22,F2,normal,,,
+84v,p486_l26_o05,Maturo ,p486_l26_o05_a,accelero ++++,S22,F3,shorthand,,,
+84v,p486_l27_o04,ꝑfecta ,p486_l27_o04_a,p̃terita,S53,F2,normal,,,
 84v,p486_l28_o02,tradidit ,p486_l28_o02_a,instituit,S22,F2,normal,,,
-84v,p486_l28_o07,motus ,p486_l28_o07_a,+,S22,F2,shorthand,,,
+84v,p486_l28_o07,motus ,p486_l28_o07_a,+,S22,F2,normal,,,
 84v,p486_l30_o07,plerũque ,p486_l30_o07_a,+,S22,F2,shorthand,,,
 84v,p486_l31_o05,subiecta ,p486_l31_o05_a,+,S22,F2,shorthand,,,
 84v,p486_l32_o09,litigo ,p486_l32_o09_a,c̃tendo,S22,F2,normal,,,
 84v,p486_l33_o01,"remigo, ",p486_l33_o01_a,nauigo,S22,F2,normal,,,
-84v,p486_l33_o05,Morigeror ,p486_l33_o05_aa,bonos mores gero,S23,F4,shorthand,,,
-84v,p486_l35_o07,aedifico ,p486_l35_o07_a,c̃struo,S22,F2,shorthand,,,
+84v,p486_l33_o05,Morigeror ,p486_l33_o05_aa,bonos mores gero,S23,F4,normal,,,
+84v,p486_l35_o07,aedifico ,p486_l35_o07_a,c̃struo,S22,F2,normal,,,
 84v,p487_l02_o02,terrifico ,p487_l02_o02_a,t̃rorẽ facio,S25,F4,normal,,,
 84v,p487_l02_o04,Mancipo ,p487_l02_o04_a,manu captũ trado,S25,F3,normal,,,
-84v,p487_l02_o06,"aucupo, ",vp487_l02_o06_a,aues capio,S25,F4,shorthand,,,
+84v,p487_l02_o06,"aucupo, ",vp487_l02_o06_a,aues capio,S25,F4,normal,,,
 84v,p487_l03_o06,Manceps ,p487_l03_o06_a,+,S25,F3,shorthand,,,
 84v,p487_l03_o08,aueceps ,p487_l03_o08_a,aues ++,S25,F3,shorthand,,,
 84v,p487_l03_o10,particeps ,p487_l03_o10_a,++ diriuari,S54,F4,shorthand,,,
 84v,p487_l05_o05,auspex ,p487_l05_o05_a,+,S22,F2,shorthand,,,
-84v,p487_l05_o07,iure ,p487_l05_o07_a,+,S22,F2,normal,,,
-84v,f84v_l26_o6,(add) ,f84v_l26_o6_a,uident᷑,S611,F2,shorthand,,,
+84v,p487_l05_o07,iure ,p487_l05_o07_a,+,S22,F2,shorthand,,,
+84v,f84v_l26_o6,(add) ,f84v_l26_o6_a,uident᷑,S611,F2,normal,,,
 84v,p487_l08_o03,excurrisse ,p487_l08_o03_a,uenisse,S22,F2,normal,,,
-85r,p487_l09_o02,appositis ,p487_l09_o02_a,adiunctis,S22,F2,shorthand,,,
+85r,p487_l09_o02,appositis ,p487_l09_o02_a,adiunctis,S22,F2,normal,,,
 85r,p487_l17_o08,arcꝰ ,p487_l17_o08_a,ab arcendis ++,S54,F3,shorthand,,,
 85r,p487_l18_o01,"ꝑfuga, ",p487_l18_o01_a,infidelis ł ++,S22,F3,shorthand,p487_l18_o01_b,S63,F2
 85r,p487_l18_o03,aduena ,,,,,,p487_l18_o03_a,S63,F2
-85r,p487_l22_o10,noncupas ,p487_l22_o10_a,facito?,S333,F2,shorthand,,,
+85r,p487_l22_o10,noncupas ,p487_l22_o10_a,facito?,S333,F2,normal,,,
 85r,p487_l24_o03,fugo ,p487_l24_o03_a,expello +++,S22,F2,shorthand,,,
 85r,p487_l24_o12,iugũ ,,,,,,p487_l24_o12_a,S63,F3
-85r,p487_l25_o06,iugas. ,p487_l25_o06_a,sb̶ uerbũ,S53,F2,shorthand,,,
+85r,p487_l25_o06,iugas. ,p487_l25_o06_a,sb̶ uerbũ,S53,F2,normal,,,
 85r,p487_l25_o08,molo ,,,,,,p487_l25_o08_a,S63,F3
 85r,p487_l26_o02,eo ,p487_l26_o02_a,sb̃ nomine,S3232,F2,normal,,,
 85r,p487_l26_o04,immolo ,p487_l26_o04_a,macto,S22,F2,normal,,,
 85r,p487_l26_o05,immolas ,,,,,,,,
-85r,p487_l26_o09,scđę ,p487_l26_o09_a,sb̶ c̃iug̃,S53,F2,normal,,,
-85r,p487_l27_o07,insideo ,p487_l27_o07_a,fraudor,S22,F2,shorthand,p487_l27_o07_b,S63,F3
-85r,p487_l28_o01,insidię ,p487_l28_o01_a,fraudes,S22,F2,shorthand,,,
+85r,p487_l26_o09,scđę ,p487_l26_o09_a,sb̶ c̃iug̃,S53,F2,shorthand,,,
+85r,p487_l27_o07,insideo ,p487_l27_o07_a,fraudor,S22,F2,normal,p487_l27_o07_b,S63,F3
+85r,p487_l28_o01,insidię ,p487_l28_o01_a,fraudes,S22,F2,normal,,,
 85r,p487_l29_o07, sedeo ,,,,,,p487_l29_o07_a,S63,F3
 85r,p487_l31_o01-02,sedo sedas ,,,,,,p487_l31_o01-02_a,S63,F3
 85r,p487_l31_o09,CΥΡΑΚΥCΑΝΩ ,p487_l31_o09_a,÷ more +++ siracusis ++,S211,F3,shorthand,,,
 85r,f85r_l17_o06,(add): ,,,,,,f85r_l17_o06_a,S611,F4
 85r,p488_l03_o03,rumpo ,,,,,,p488_l03_o03_a,S63,F3
 85r,p488_l03_o05,"rupes, ",p488_l03_o05_a,occisio,S22,F2,normal,,,
-85r,p488_l03_o08,strages ,p488_l03_o08_a,saxũ,S22,F2,shorthand,,,
+85r,p488_l03_o08,strages ,p488_l03_o08_a,saxũ,S22,F2,normal,,,
 85r,p488_l04_o02,uerborũ ,p488_l04_o02_a,+,S53,F2,shorthand,,,
 85r,p488_l04_o10,sordes ,,,,,,p488_l04_o10_a,S64,F3
 85r,p488_l10_o05,cõpositionib; ,p488_l10_o05_a,+,S22,F2,shorthand,,,
-85r,p488_l14_o03,"aduersor, ",p488_l14_o03_a,resisto,S22,F2,shorthand,,,
+85r,p488_l14_o03,"aduersor, ",p488_l14_o03_a,resisto,S22,F2,normal,,,
 85r,p488_l14_o05,uagor ,,,,,,p488_l14_o05_a,S63,F2
-85r,p488_l15_o08,"queror, ",p488_l15_o08_a,quęrellã depono,S23,F4,shorthand,,,
+85r,p488_l15_o08,"queror, ",p488_l15_o08_a,quęrellã depono,S23,F4,normal,,,
 85r,p488_l15_o09,"euertor, ",p488_l15_o09_a,subuerto,S22,F2,normal,p488_l15_o09_b,S63,F2
 85r,p488_l15_o03,"labor, ",p488_l15_o03_a,cado,S22,F2,normal,,,
 85r,p488_l17_o04,"pacificor, ",p488_l17_o04_a,ꝓmitto ł pacẽ facio,S25,F4,normal,,,
-85r,p488_l17_o05,Nanciscor ,p488_l17_o05_a,c̃sequor,S22,F2,shorthand,p488_l17_o05_b,S63,F2
+85r,p488_l17_o05,Nanciscor ,p488_l17_o05_a,c̃sequor,S22,F2,normal,p488_l17_o05_b,S63,F2
 85r,p488_l18_o06,hęc ,p488_l18_o06_a,+,S53,F2,shorthand,,,
-85r,p488_l19_o02,uindicat ,p488_l19_o02_a,assumit,S22,F2,shorthand,,,
+85r,p488_l19_o02,uindicat ,p488_l19_o02_a,assumit,S22,F2,normal,,,
 85v,f85v_l01_o04,ingeniosus ,f85v_l01_o04_a,bonꝰ textor +++,S23,F4,shorthand,,,
-85v,f85v_l07_o16,ΕΚΡΥΨΑ ,f85v_l07_o16_a,nu psi,S221,F1,shorthand,,,
+85v,f85v_l07_o16,ΕΚΡΥΨΑ ,f85v_l07_o16_a,nu psi,S221,F1,normal,,,
 85v,f85v_l08_o02,ΕΛΥΦΟ ,f85v_l08_o02_a,iungo,S221,F2,normal,,,
-85v,f85v_l08_o03,ΕΛΥΦΑ ,f85v_l08_o03_a,iunxi,S221,F2,shorthand,,,
-85v,f85v_l13_o06,patrisso ,f85v_l13_o06_a,s̃ patri similis sũ,S23,F4,shorthand,,,
+85v,f85v_l08_o03,ΕΛΥΦΑ ,f85v_l08_o03_a,iunxi,S221,F2,normal,,,
+85v,f85v_l13_o06,patrisso ,f85v_l13_o06_a,s̃ patri similis sũ,S23,F4,normal,,,
