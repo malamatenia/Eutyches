@@ -17,16 +17,16 @@
 15,p448_l14_o04,S22,S22,F2,F2,incerta,&ãbigua,incerta ,dubia
 16,p448_l16_o05,S22,S22,F2,F2,conabor,ĩtẽptabor.,Conabor ,tẽptabo
 17,p448_l19_o01,S22,S22,F2,F2,anomalis ,inęqualib;,anomalis ,inęqualib; / s. uerbis
-18,p448_l20_o08,S22,S22,F2,F2,aue,salue,"Aue, ",salue
-19,p448_l20_o09,S22,S22,F2,F2,ferit,qͣsi ꝑcutit,"Ferit, ",ꝑcutit
+18,p448_l20_o08,S22,S22,F2,F2,aue,salue,Aue ,salue
+19,p448_l20_o09,S22,S22,F2,F2,ferit,qͣsi ꝑcutit,Ferit ,ꝑcutit
 20,p448_l20_o10,S22,S22,F2,F2,insit,dicit,Infit ,inꝗd
-21,p449_l01_o01,S23,S23,F3,F3,patesco,aperire incip{io},"Patesco, ",inc̃ patere : inc̃ pateri
-22,p449_l01_o02,S23,S23,F3,F3,notesco,notꝰ fieri iñpio,"Notesco, ",inc̃ notescere
+21,p449_l01_o01,S23,S23,F3,F3,patesco,aperire incip{io},Patesco ,inc̃ patere : inc̃ pateri
+22,p449_l01_o02,S23,S23,F3,F3,notesco,notꝰ fieri iñpio,Notesco ,inc̃ notescere
 23,p449_l05_o08,S22,S22,F2,F2,p̃cedente ,antecedente,p̃cedente ,ante
 24,p449_l07_o01,S23,S23,F3,F3,lectito,frequent̃ lego,lectito ,ł lecto freq̃t̃ lego
-25,p449_l07_o03,S23,S23,F3,F3,cantito,frequent̃ cano,"Cantito, ",frequent̃ cano
-26,p449_l07_o04,S23,S23,F3,F3,cursito,frequent̃curso,"Cursito, ",freq̃t̃ curro
-27,p449_l07_o05,S23,S23,F3,F3,uisito,frequent̃ uideo,"Visito, ",freq̃t uideo
+25,p449_l07_o03,S23,S23,F3,F3,cantito,frequent̃ cano,Cantito ,frequent̃ cano
+26,p449_l07_o04,S23,S23,F3,F3,cursito,frequent̃curso,Cursito ,freq̃t̃ curro
+27,p449_l07_o05,S23,S23,F3,F3,uisito,frequent̃ uideo,Visito ,freq̃t uideo
 28,p449_l09_o04,S3232,S3232,F2,F2,eodẽ ,s libro,eodem ,s. libro
 29,p449_l15_o08,S22,S22,F2,F2,anomala,inequalia,anomala ,illegalia scilic&
 30,p449_l17_o03,S22,S22,F2,F2,arbitror,estimor,arbitror ,iudico
@@ -40,25 +40,25 @@
 38,p449_l22_o10,S554,S554,F3,F3,olimpus,nom̃ montis ẽ,olympus ,mons excelsus
 39,p449_l22_o10,S554,S554,F3,F3,fateor,loquor /ꝓfiteor,olympus ,mons excelsus
 40,p449_l29_o01,S22,S22,F2,F2,spetialẽ,ꝓpͥã,specialẽ. ,ꝓpriã
-41,p449_l30_o04,S22,S22,F2,F2,taceo,sileo,"Taceo, ",sileo
-42,p449_l30_o10,S22,S22,F2,F2,stupeo,ãmiror,"Stupeo, ",admiror
-43,p449_l30_o11,S22,S22,F2,F2,areo ,sicor,"Areo, ",sicco
-44,p449_l31_o01,S22,S22,F2,F2,censeo,iudico,"Censeo, ",iudico
-45,p449_l31_o02,S22,S22,F2,F2,pateo,aperio,"Pateo, ",aperio
-46,p450_l01_o03,S22,S22,F3,F3,intueor,inspicio/uideo  c̃sidero,"Intueor, ",inspitio cerno
+41,p449_l30_o04,S22,S22,F2,F2,taceo,sileo,Taceo ,sileo
+42,p449_l30_o10,S22,S22,F2,F2,stupeo,ãmiror,Stupeo ,admiror
+43,p449_l30_o11,S22,S22,F2,F2,areo ,sicor,Areo ,sicco
+44,p449_l31_o01,S22,S22,F2,F2,censeo,iudico,Censeo ,iudico
+45,p449_l31_o02,S22,S22,F2,F2,pateo,aperio,Pateo ,aperio
+46,p450_l01_o03,S22,S22,F3,F3,intueor,inspicio/uideo  c̃sidero,Intueor ,inspitio cerno
 47,p450_l01_o04,S22,S22,F2,F2,notandũ,excipiunt᷑,Notant᷑ ,excipiunt᷑
 48,p450_l01_o09,S22,S22,F2,F2,creo,facio,Creo ,condo
-49,p450_l02_o03,S22,S22,F2,F2,nauseo,fastidio,"Nauseo, ",fastidio
-50,p450_l02_o05,S22,S22,F2,F2,laqueo,ligo,"Laqueo, ",irretio
-51,p450_l02_o06,S22,S22,F2,F2,screo,spuo,"Screo, ",spuo
-52,p450_l05_o06,S22,S22,F2,F2,induo ,uestio,"Induo, ",cirũdo
-53,p450_l05_o09,S22,S22,F3,F3,polluo,sordo ł sordeo,"Polluo, ",contamino : coinqͥno
-54,p450_l05_o11,S22,S22,F2,F2,alluo,perfu(ndo),"Alluo, ",mundo
-55,p450_l06_o01,S23,S23,F3,F3,innuo ,Signũ facio,"Innuo, ",ł nutũ facio/signo
-56,p450_l06_o02,S22,S22,F2,F2,minuo ,subtruo,"Minuo, ",subtraho
-57,p450_l06_o03,S22,S22,F2,F2,spuo ,sereo,"spuo, ",reicio
-58,p450_l06_o04,S22,S22,F2,F2,ruo,cado,"Ruo, ",cado
-59,p450_l06_o06,S22,S22,F2,F2,metuo ,timeo,"Metuo, ",ma?
+49,p450_l02_o03,S22,S22,F2,F2,nauseo,fastidio,Nauseo ,fastidio
+50,p450_l02_o05,S22,S22,F2,F2,laqueo,ligo,Laqueo ,irretio
+51,p450_l02_o06,S22,S22,F2,F2,screo,spuo,Screo ,spuo
+52,p450_l05_o06,S22,S22,F2,F2,induo ,uestio,Induo ,cirũdo
+53,p450_l05_o09,S22,S22,F3,F3,polluo,sordo ł sordeo,Polluo ,contamino : coinqͥno
+54,p450_l05_o11,S22,S22,F2,F2,alluo,perfu(ndo),Alluo ,mundo
+55,p450_l06_o01,S23,S23,F3,F3,innuo ,Signũ facio,Innuo ,ł nutũ facio/signo
+56,p450_l06_o02,S22,S22,F2,F2,minuo ,subtruo,Minuo ,subtraho
+57,p450_l06_o03,S22,S22,F2,F2,spuo ,sereo,spuo ,reicio
+58,p450_l06_o04,S22,S22,F2,F2,ruo,cado,Ruo ,cado
+59,p450_l06_o06,S22,S22,F2,F2,metuo ,timeo,Metuo ,ma?
 60,p450_l15_o07,S22,S22,F2,F2,nuntius,legatꝰ,ñtio ,narro
 61,p450_l16_o03,S22,S22,F3,F3,sotius,comes uicinꝰ,Sotius ,cõpar/sodalis/cliens
 62,p450_l18_o07,S22,S22,F2,F2,conciliũ,iudiciũ,Conciliũ ,c̃gregatio
@@ -71,11 +71,11 @@
 69,p451_l11_o02,S22,S22,F2,F2,insanio,furio,Lenio ,Blandior
 70,p451_l12_o01,S22,S22,F2,F2,Sepio,circũdo,Sepio ,cirũdo
 71,p451_l12_o03,S22,S22,F2,F2,Ferio,ꝑcucio,Ferio ,ꝑcutio
-72,p451_l12_o07,S22,S22,F3,F3,Ligurrio,lango ł gusto.,"Ligurio, ",lingue gusto/lingo
+72,p451_l12_o07,S22,S22,F3,F3,Ligurrio,lango ł gusto.,Ligurio ,lingue gusto/lingo
 73,p451_l13_o04,S22,S22,F2,F2,Inretio,inligo,Irretio ,illaq̃o/retineo
 74,p451_l13_o09,S22,S22,F2,F2,seruio,oboedio,"Seruio -uis,  ",oboedio
-75,p451_l21_o06,S22,S22,F3,F3,elitio,expͥmo /seduco,"Elicio, ",extorq̃o ł expͥmo/ꝓuoco illicib;
-76,p451_l22_o02,S22,S22,F2,F2,sapio,scio,"Sapio, ",suo
+75,p451_l21_o06,S22,S22,F3,F3,elitio,expͥmo /seduco,Elicio ,extorq̃o ł expͥmo/ꝓuoco illicib;
+76,p451_l22_o02,S22,S22,F2,F2,sapio,scio,Sapio ,suo
 77,p451_l23_o05,S22,S22,F2,F2,potior,utor,potior ,possideo
 78,p451_l33_o03,S22,S22,F2,F2,disserere,manifestare,disserere ,exponere
 79,p451_l34_o05,S22,S22,F2,F2,ubertati,copie,ubertati ,abundantię
@@ -85,77 +85,77 @@
 83,p452_l05_o01,S22,S22,F3,F3,origines,principia exordia,origines ,initia ł pͥmor/dia
 84,p452_l08_o08,S22,S22,F3,F3,distinctę;,diuise separate,destinatę. ,disciretę/ordinatę
 85,p452_l13_o05,S22,S22,F2,F2,obseruando,custodiendo,scilicet ,.s. iure
-86,p452_l15_o08,S22,S22,F2,F2,litigo,rexo,"Litigo, ",altercor
-87,p452_l15_o09,S22,S22,F2,F2,litigium,iurgium,"Litigiũ, ",Rixa
-88,p452_l15_o10,S22,S22,F2,F2,mercor,emtores,"Mercor, ",cõmuto
+86,p452_l15_o08,S22,S22,F2,F2,litigo,rexo,Litigo ,altercor
+87,p452_l15_o09,S22,S22,F2,F2,litigium,iurgium,Litigiũ ,Rixa
+88,p452_l15_o10,S22,S22,F2,F2,mercor,emtores,Mercor ,cõmuto
 89,p452_l18_o05,S22,S22,F2,F2,gaudeo,letor,Gaudeo ,congratulor
 90,p452_l21_o01,S22,S22,F3,F3,obsequor,obedio pareo,Obsequor ,oboedio/obtẽmpero
-91,p452_l21_o06,S23,S23,F3,F3,domicilium,parua casida,"Domicilium, ",domꝰ auiũ
+91,p452_l21_o06,S23,S23,F3,F3,domicilium,parua casida,Domicilium ,domꝰ auiũ
 92,p452_l22_o05,S22,S22,F2,F2,cerno ,sedes,Cerno ,uideo
-93,p452_l22_o06,S23,S23,F3,F3,silicernium,senes incuru /Infirmitas senũ,"Silicernium, ",ipsa res
-94,p452_l23_o02,S22,S22,F3,F3,ridiculum,Fraus siue irrisio,"Ridiculum, ",paruus risus/ł derisio/chachinnus
+93,p452_l22_o06,S23,S23,F3,F3,silicernium,senes incuru /Infirmitas senũ,Silicernium ,ipsa res
+94,p452_l23_o02,S22,S22,F3,F3,ridiculum,Fraus siue irrisio,Ridiculum ,paruus risus/ł derisio/chachinnus
 95,p452_l23_o03,S22,S22,F3,F3,perpendo ,Libro / coequo ,Perpendo ,coęquo ꝑpendo/mensuro
 96,p452_l23_o05,S22,S22,F2,F2,euerso,destruo,Euerso ,destruo
 97,p452_l27_o01,S22,S22,F2,F2,tego,cooperio ,Tego ,operio
-98,p452_l27_o02,S22,S22,F2,F2,tegimen,cooperimentũ,"Tegimen, ",operimentũ
+98,p452_l27_o02,S22,S22,F2,F2,tegimen,cooperimentũ,Tegimen ,operimentũ
 99,p452_l29_o01,S3232,S3232,F2,F2,quorum,s̃ nominũ,quoꝵ ,.s. nõinũ
 100,p452_l31_o10,S22,S22,F2,F2,presertim,ĩ maxime ł ominino,p̃sertim ,maxime
 101,p453_l02_o06,S53,S53,F3,F3,positionis ,s̃ pͥme persone,positionis ,pͥmę ꝑsonę
 102,p453_l03_o02,S53,S53,F3,F3,sole,s littere due.,solę ,.s. .s. & .t.
 103,p453_l05_o08,S22,S22,F2,F2,censor,iudex,censor ,iudex
-104,p453_l04_o12,S22,S22,F3,F3,conusltor,inꝗsitor consiliarius,"consultor, ",consiliator/interrogator/ꝓuidens
+104,p453_l04_o12,S22,S22,F3,F3,conusltor,inꝗsitor consiliarius,consultor ,consiliator/interrogator/ꝓuidens
 105,p453_l12_o03,S22,S22,F2,F2,horreo.,timeo,Horreo ,abominor
 106,p453_l14_o02,S22,S22,F3,F3,furor,ipsa iracundia,furor ,ira insanio
-107,p453_l14_o03,S22,S22,F2,F2,liquor,defluo,"Liquor, ",fluo
+107,p453_l14_o03,S22,S22,F2,F2,liquor,defluo,Liquor ,fluo
 108,p453_l15_o01,S53,S53,F3,F3,quorũ,nominũ p̃ dictoꝝ,quorũ-duo ,÷ liquor ⁊ sopor
-109,p453_l17_o07,S22,S22,F2,F2,sordidus , tͫpisseđ ,"sordidus, ",maculatꝰ
+109,p453_l17_o07,S22,S22,F2,F2,sordidus , tͫpisseđ ,sordidus ,maculatꝰ
 110,p453_l17_o08,S22,S22,F2,F2,frigeo,algeo,Frigeo ,algeo
 111,p453_l19_o03,S22,S22,F2,F2,torreo ,arefio uro,Torreo ,uro
 112,p453_l19_o09,S22,S22,F2,F2,cupio ,desidero ,cupio ,opto
-113,p453_l20_o02,S22,S22,F3,F3,uiuidus,sagax & agilis,"uiuidus, ",uitalis uelox agilis acutus
-114,p453_l26_o05,S22,S22,F3,F3,teges,ipsũ cooperimentũ,"teges, ",ł ꝓtectio/obumbratio
-115,p453_l26_o09,S22,S22,F3,F3,cedes,clades ꝑcutio,"cędes, ",pescis/occidio/homicidiũ
+113,p453_l20_o02,S22,S22,F3,F3,uiuidus,sagax & agilis,uiuidus ,uitalis uelox agilis acutus
+114,p453_l26_o05,S22,S22,F3,F3,teges,ipsũ cooperimentũ,teges ,ł ꝓtectio/obumbratio
+115,p453_l26_o09,S22,S22,F3,F3,cedes,clades ꝑcutio,cędes ,pescis/occidio/homicidiũ
 116,p453_l27_o02,S22,S22,F2,F2,struo,congero,Struo ,edifico
-117,p453_l29_o06,S22,S22,F3,F3,utilis ,uibilis/uelox,"utilis, ",habilis/aptus/ꝓficuus/idoneus
+117,p453_l29_o06,S22,S22,F3,F3,utilis ,uibilis/uelox,utilis ,habilis/aptus/ꝓficuus/idoneus
 118,p453_l29_o07,S22,S22,F2,F2,efutio ,inanesco,Effutio ,effundo
-119,p453_l29_o08,S22,S22,F3,F3,efutilis,uacuus instabilis,"effutił, ",uanus/ instabilis
-120,p453_l30_o01,S22,S22,F2,F2,occiduus,occidentalis,"occiduus, ",transitiuus
+119,p453_l29_o08,S22,S22,F3,F3,efutilis,uacuus instabilis,effutił ,uanus/ instabilis
+120,p453_l30_o01,S22,S22,F2,F2,occiduus,occidentalis,occiduus ,transitiuus
 121,p453_l30_o04,S22,S22,F3,F3,cedo,paucior ãbulo / in,Pręcido ,ambulo/cedo
 122,p453_l32_o01,S22,S22,F2,F2,strido,sono,Strido ,sono
-123,p453_l32_o04,S22,S22,F2,F2,gerulus,portator,"geruł, ",portitor
+123,p453_l32_o04,S22,S22,F2,F2,gerulus,portator,geruł ,portitor
 124,p453_l33_o01,S22,S22,F2,F2,tremo ,mobo ł,Tremo ,febricito
 125,p453_l33_o07,S22,S22,F2,F2,adopto,associo,Adopto ,desidero
 126,p453_l33_o08,S22,S22,F2,F2,adoptulus,quasi adoptiuus,adoptuł. ,adoptans /ualde desiderat᷑ Idem est & adoptiuus
-127,p454_l02_o01,S22,S22,F3,F3,contumax,arrogans c̃tem̃tor ,"contumax, ",suꝑbus/uibrans crispans/febricitans
-128,p454_l03_o01,S22,S22,F3,F3,perspicax,diluciđ manifestꝰ,"ꝑspicax, ",ingeniosus astutus/clarus uigilans
-129,p454_l03_o03,S22,S22,F3,F3,efficax,acius uelox,"efficax, ",effitiens/ł potens
-130,p454_l03_o05,S22,S22,F2,F2,fallax,decptor,"fallax, ",m̃dax
+127,p454_l02_o01,S22,S22,F3,F3,contumax,arrogans c̃tem̃tor ,contumax ,suꝑbus/uibrans crispans/febricitans
+128,p454_l03_o01,S22,S22,F3,F3,perspicax,diluciđ manifestꝰ,ꝑspicax ,ingeniosus astutus/clarus uigilans
+129,p454_l03_o03,S22,S22,F3,F3,efficax,acius uelox,efficax ,effitiens/ł potens
+130,p454_l03_o05,S22,S22,F2,F2,fallax,decptor,fallax ,m̃dax
 131,p454_l03_o07,S22,S22,F2,F2,emax,negotiator,emax ,ẽptor
 132,p454_l03_o10,S22,S22,F3,F3,sagio,p̃sagio / diuino,Sagio ,diuino/ꝓpheto
-133,p454_l04_o04,S23,S23,F4,F4,salax,ꝗ frequent̃ sallit,"salax, ",uelox / qͥ bene potest dire
+133,p454_l04_o04,S23,S23,F4,F4,salax,ꝗ frequent̃ sallit,salax ,uelox / qͥ bene potest dire
 134,p454_l12_o03,S22,S22,F2,F2,furibundus,insanꝰ,Furibundus. ,simił furenti
-135,p454_l17_o07,S23,S23,F4,F4,pronuba,mulier ꝗ disponit nuptias,"ꝓnuba, ",ꝗ nubentib p̃est
+135,p454_l17_o07,S23,S23,F4,F4,pronuba,mulier ꝗ disponit nuptias,ꝓnuba ,ꝗ nubentib p̃est
 136,p454_l20_o08,S22,S22,F2,F2,suadeo,ortor,Suadeo ,adortor
-137,p454_l20_o09,S22,S22,F2,F2,suadela,oratio,"Suadela, ",adoracio
+137,p454_l20_o09,S22,S22,F2,F2,suadela,oratio,Suadela ,adoracio
 138,p454_l21_o08,S22,S22,F2,F2,ruo,cado,Ruo ,cado
 139,p454_l21_o10,S22,S22,F2,F2,rapio,tollo,Rapio ,aufero
-140,p454_l30_o02,S54,S54,F3,F3,arcus,ab arcendo,"archus, ",ab arcendis
-141,p455_l12_o05,S22,S22,F3,F3,deses,stultꝰ inconstans desidios,"deses, ",piger stultus/ł neglegens
-142,p455_l19_o02,S23,S23,F3,F3,ꝓpugnanculũ,torris ubi pugnatiũ,"Propugnaculũ, ",summa pars muri
-143,p455_l19_o06,S22,S22,F3,F3,munimentũ,ꝓtectio ł tutela / scutũ,"Munimentũ, ",tutamen ÷ defensio
-144,p455_l20_o03,S22,S22,F3,F3,solamen,Solatiũ / auxiliũ,"Solamen, ",consolatio/adiutoriũ
-145,p455_l22_o02,S23,S23,F3,F3,amabilis,dignꝰ amore,"amabilis, ",amando habilis
+140,p454_l30_o02,S54,S54,F3,F3,arcus,ab arcendo,archus ,ab arcendis
+141,p455_l12_o05,S22,S22,F3,F3,deses,stultꝰ inconstans desidios,deses ,piger stultus/ł neglegens
+142,p455_l19_o02,S23,S23,F3,F3,ꝓpugnanculũ,torris ubi pugnatiũ,Propugnaculũ ,summa pars muri
+143,p455_l19_o06,S22,S22,F3,F3,munimentũ,ꝓtectio ł tutela / scutũ,Munimentũ ,tutamen ÷ defensio
+144,p455_l20_o03,S22,S22,F3,F3,solamen,Solatiũ / auxiliũ,Solamen ,consolatio/adiutoriũ
+145,p455_l22_o02,S23,S23,F3,F3,amabilis,dignꝰ amore,amabilis ,amando habilis
 146,p455_l22_o04,S23,S23,F3,F3,laudabilis,dignꝰ laude,Laudabilis ,habilis ad laudandũ
-147,p455_l28_o06,S22,S22,F2,F2,equatio,p̃portio,"Aequatio, ",assimilatio
-148,p455_l28_o07,S22,S22,F2,F2,obseruatio,custodia,"Obseruatio, ",custodia
+147,p455_l28_o06,S22,S22,F2,F2,equatio,p̃portio,Aequatio ,assimilatio
+148,p455_l28_o07,S22,S22,F2,F2,obseruatio,custodia,Obseruatio ,custodia
 149,p456_l01_o07,S23,S23,F3,F3,tonstrina,ipsa res ł domus,Tonstrina ,opꝰ tonsoris
-150,p456_l05_o03,S22,S22,F2,F2,suasor,adortator,"Suasor, ",adhortator
-151,p456_l07_o04,S22,S22,F2,F2,aduectitius,deportatitius,"Aduectitius, ",apportatitius
+150,p456_l05_o03,S22,S22,F2,F2,suasor,adortator,Suasor ,adhortator
+151,p456_l07_o04,S22,S22,F2,F2,aduectitius,deportatitius,Aduectitius ,apportatitius
 152,p456_l16_o06-07,S22,S22,F3,F3,in accidentib; ,in adiectiuis,in accidentib; ,÷ in adiectiuis
 153,p457_l04_o06,S22,S22,F2,F2,mere,iđ pure,merę ,purę
 154,p457_l08_o02,S22,S22,F2,F2,superuacua,suꝑflua,suꝑuacua ,suꝑflua
-155,p457_l10_o03,S22,S22,F2,F2,clementia,misericordia,"clementia, ",Benignitas
-156,p457_l10_o05,S22,S22,F3,F3,inertia,pigritia ł stultitia,"Inertia, ",stultitia/sine arte
+155,p457_l10_o03,S22,S22,F2,F2,clementia,misericordia,clementia ,Benignitas
+156,p457_l10_o05,S22,S22,F3,F3,inertia,pigritia ł stultitia,Inertia ,stultitia/sine arte
 157,p457_l15_o05,S22,S22,F2,F2,turba,cont᷑bacio,Turba ,multiudo
 158,p457_l16_o10,S22,S22,F2,F2,fugo,repẽllo ac,Fugo ,expello
 159,p457_l17_o02,S22,S22,F2,F2,stillo,defluo,Stilla ,gutta
@@ -188,7 +188,7 @@
 186,p458_l16_o01,S22,S22,F2,F2,obseruatis,consideratis,obseruatis. ,notatis
 187,p458_l18_o01,S22,S22,F2,F2,ordino,dispono,Ordino ,orno
 188,p458_l21_o05,S22,S22,F2,F2,uber,habundans,Vber ,copiosꝰ
-189,p458_l21_o06,S22,S22,F2,F2,ubero, abundo,"Exubero, ",habundo
+189,p458_l21_o06,S22,S22,F2,F2,ubero, abundo,Exubero ,habundo
 190,p458_l25_o08,S22,S22,F3,F3,nugor,efecero desitio de(cur)so,Nur̶gor ,uilesco det᷑por
 191,p458_l26_o08,S23,S23,F4,F4,arieto,more arietis ago,Arieto ,ꝯiuros destruo/ł gub̶no
 192,p458_l28_o10,S22,S22,F3,F3,turpo,fodo deformo,Turpo ,fedo de/formo
@@ -216,7 +216,7 @@
 214,p462_l13_o03,S22,S22,F2,F2,quia,qđ,quę ,
 215,p462_l16_o01,S22,S22,F2,F2,temere,p̃sũtiose,temere ,p̃sũptiose
 216,p462_l17_o03,S22,S22,F2,F2,diutius,longius,diutius ,longius
-217,p462_l26_o03,S22,S22,F2,F2,caneo,senesco,"caneo, ",albeo
+217,p462_l26_o03,S22,S22,F2,F2,caneo,senesco,caneo ,albeo
 218,p462_l26_o04,S22,S22,F2,F2,calles,semita,calles ,uia
 219,p462_l28_o06,S22,S22,F3,F3,imbuo,instruo doceo,imbuo ,ostendo ł rep̃hendo
 220,p462_l28_o07,S22,S22,F2,F2,acuo,acumino,acuo ,increpo
@@ -230,4 +230,4 @@
 228,p464_l13_o09,S22,S22,F2,F2,eger,infirmus,ager ,infirmꝰ
 229,p466_l06_o03,S22,S22,F2,F2,rimor,ꝑscrutor,Rimor ,inqͥro
 230,p466_l21_o09,S23,S23,F4,F4,paciscor,pactũ facio,pacisor ,pacẽ fatio
-231,p470_l09_o07,S22,S22,F2,F2,glisco,cresco,"Glisco, ",cresco
+231,p470_l09_o07,S22,S22,F2,F2,glisco,cresco,Glisco ,cresco
