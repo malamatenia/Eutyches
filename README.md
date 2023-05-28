@@ -1,6 +1,27 @@
 # *Eutyches Grammaticus, but glossed*
 
-## link to the YALTAi model weights : https://drive.google.com/drive/folders/16K4tPTaZvcc-rYqEFlUAoHX9vtaYLfnF?usp=share_link 
+
+<img width="620" alt="Screenshot 2023-05-28 at 23 33 53" src="https://github.com/malamatenia/Eutyches/assets/92155767/adbacf6f-2072-4e9d-84ac-86f8ef360b00">
+
+
+# **Navigating though the repository**
+
+## Folder names
+
+| Folder Name | Description |
+| ----------- |  ---- |
+| .github/workflows | Contains implementation of chocomufin and htrvx yml files for our dataset|
+| BambergMsc30 | Contains all the files data-GT-notebooks-graphs pertaining to the Bamberg Msc 30 witness |
+| Lat14087 | Contains all the files data-GT-notebooks-graphs pertaining to the Lat14087 witness |
+| Lat7499 | Contains all the files data-GT-notebooks-graphs pertaining to the Lat7499 witness |
+| VLO41 | Contains all the files data-GT-notebooks-graphs pertaining to the VLO41 witness |
+| comparative_mss_analysis | contains the graphs and notebook for the comparative analysis of the witnesses|
+| kraken-YALTAi |  contains the results and the test-set for the YALTAi and kraken models. The models themselves can be dowloaded here :  https://drive.google.com/drive/folders/16K4tPTaZvcc-rYqEFlUAoHX9vtaYLfnF?usp=share_link  |
+| pipeline_diagrams |  General diagrams concerning the pipeline and methodology |
+| rendu |  The pdf and .tex file of the Master2 dissertation |
+ 
+The rest of the repository contains the ```table.csv``` for the chocomufin character control.
+
 
 # **Introduction**
 
@@ -28,32 +49,18 @@ The following graph concisely describes the pipeline ( that clearly has optimiza
 
 
 
-# **Navigating though the repository**
-
-## Folder names
-
-| Folder Name | Description |
-| ----------- |  ---- |
-| .github/workflows | Contains implementation of chocomufin and htrvx yml files |
-|  ODD | Contains the ODD file and its outputs on XHTML and pdf as well as the RNG schema that validates our edition |
-| XSL | Contains xsl transformation scenarios to concatenate ALTO files and turn them into minimal TEI |
-| data | Itself containing 3 folders, one for the alto files of the dataset, one for the HTR model and one for the .txt transcriptions |
-| diagrams | Contains pipeline modelisation diagrams |
-| python-tools | contains a .csv file with information on the manuscript glosses and notebooks for the visualisation of the data and the graphics/visualisation of the aforementionned .csv file|
-| rendu |  The pdf and .tex file of the Master1 mini-dissertation |
- 
-The rest of the repository contains also the documentary edition of the work under ``` VLO41_TEI_edition.xml ``` , a small guide to the hand attribution under ``` hand_attribution_guide ``` and the ```table.csv``` for the chocomufin character control.
-
 # **Quality control**
 
-We decided, following HTR-United workflows, to proceed with the implementation of chocomufin for the control of the special characters and and HTRVX for the proper implementation of SegmOnto. Chocomufin is a software-workflow developped by Clérice Thubault and Pinche Ariane that creates a table of the characters (```table.csv```) that exist in the ground truth for both documents, and checks, with every push and pull request that the .xml documents found in the folders are conforming to this particular table. HTRVX, developped -surprise!- also by Thibault Clérice, is an excellent tool that reports back on SegmOnto non-compliant ALTO files,containing blank/non attributed lines/unbound lines in zones/non detectable extra expty zones created on eScriptorium and particularly helped with the some 1000 InterlinearLines that we had to manually tag :)
+We decided, following HTR-United workflows, to proceed with the implementation of chocomufin for the control of the special characters and and HTRVX for the proper implementation of SegmOnto. Chocomufin is a software-workflow developped by Clérice Thubault and Pinche Ariane that creates a table of the characters (```table.csv```) that exist in the ground truth for both documents, and checks, with every push and pull request that the .xml documents found in the folders are conforming to this particular table. HTRVX, developped -surprise!- also by Thibault Clérice, is an excellent tool that reports back on SegmOnto non-compliant ALTO files,containing blank/non attributed lines/unbound lines in zones/non detectable extra expty zones created on eScriptorium and particularly helped with the some gazillion lines that we had to manually annotate :)
 
-## **To-do fot the M2** 
 
-- [ ] Augment the dataset with at least 1-2 glossed witnessed
-- [ ] Train a Segmentation model and hope for the best
-- [ ] Think through a less time-consuming and more accurate method for lemma taging, already during the transcription (Annotations option on eScriptorium?)
-- [ ] Find a way to provide basic XML-TEI tags for identified lemmas and glosses
-- [ ] Extract the csv content directly from the XML files.
+
+## **To-do for the M2 (done!)** 
+
+- [x] Augment the dataset with at least 1-2 glossed witnessed
+- [x] Train a Segmentation model and hope for the best
+- [x] Think through a less time-consuming and more accurate method for lemma taging, already during the transcription (Annotations option on eScriptorium?)
+- [x] Find a way to provide basic XML-TEI tags for identified lemmas and glosses
+- [x] Extract the csv content directly from the XML files.
 - [ ] Do not panic over the amount of work that needs to be done
 
