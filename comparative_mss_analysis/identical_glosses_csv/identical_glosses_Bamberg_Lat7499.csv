@@ -20,6 +20,7 @@ p448_l02_o08,S211,S211,F4,F4,ꝑispomene ,peri DIC ͥ ͭ ͧ ͬ circũ UNDE peri
 p448_l04_o10,S53,S53,F4,F4,t̃minatione ,instu?cia que nobis uult,desinentẽ ,finientem; ista t̃tia speties uocat᷑ .ω. desinens
 p448_l07_o01,S22,S22,F2,F2,indicia ,signa,inditia ,signa
 p448_l07_o03,S53,S53,F2,F2,iterũ ,SUBAUD ͥ ͭ ͧ ͬ VID ͤ ᷠ ͭ ͧ ͬ,iterum ,.s. uident᷑
+p448_l07_o06,S53,S53,F2,F2,omĩb; ,sb̶ indiciis,om̃ib; ,inditiis
 p448_l08_o05,S22,S22,F2,F2,t̃minalẽ ,finalẽ,terminalem ,finalem
 p448_l10_o04,S22,S22,F2,F2,tenore ,accentu,tenore ,accentu
 p448_l13_o01,S22,S22,F2,F2,t̃minalis ,FIN ͣ ᷝ ͥ ᷤ,terminalis ,finalis
@@ -59,6 +60,7 @@ p449_l17_o05,S22,S22,F2,F2,discerni ,distingui,discernũ ,distinguo
 p449_l18_o01,S22,S22,F3,F3,facilior ,planior leuior,facilior ,planior leuior.
 p449_l19_o05,S22,S22,F2,F2,finalis ,+,finales ,t̃minales
 p449_l20_o06,S22,S22,F2,F2,reboo ,resono,reboo ,resono
+p449_l22_o06,S22,S22,F2,F2,reboant ,+,Reboant ,resonant
 p449_l23_o09,S22,S22,F3,F3,traductũ ,deductũ diriuatũ,traductu ,diriuatũ deductũ
 p449_l24_o02,S22,S22,F2,F2,igit᷑ ,+,.gͥ. ,ap
 p449_l27_o08,S53,S53,F2,F2,t̃tia ,CONIUGA ͭ ͥ ͦ,t̃tia ,coniugatio
@@ -122,6 +124,7 @@ p451_l21_o09,S22,S22,F3,F3,int̃ficio ,int̃imo occido,Int̃fitio ,occido/int̃i
 p451_l22_o03,S22,S22,F2,F2,cupio ,desidero,cupio ,desidero
 p451_l22_o10,S22,S22,F2,F2,concutio ,cõmoueo,Concutio ,cõmoueo
 p451_l22_o11,S22,S22,F2,F2,morior ,intereo,Morior ,intereo
+p451_l22_o04,S22,S22,F2,F2,orior ,nascor,Orior ,nascor
 p451_l23_o05,S22,S22,F2,F2,potior ,fruor,potior ,possideo
 p451_l33_o03,S22,S22,F2,F2,disserere ,exponere,disserere ,exponere
 p451_l34_o05,S22,S22,F2,F2,ubertati ,abundantię,ubertati ,abundantię
@@ -167,6 +170,7 @@ p452_l27_o01,S22,S22,F2,F2,Tego ,operio,Tego ,operio
 p452_l27_o02,S22,S22,F2,F2,Tegim̃ ,operim̃tũ,Tegimen ,operimentũ
 p452_l28_o02,S22,S22,F2,F2,Vereor ,timeo,Vereor ,timeo
 p452_l28_o09-11,S53,S53,F4,F4,Ante .or.quoq; ,sb̶ seruant c̃sonantẽ UERB ͣ ITA? NOMINA ͫ ͧ ᷤ (uerba in nominibus?),Ante .or. quoq; ,.s. seruant consonantẽ uerba in nõib
+p452_l30_o07,S53,S53,F3,F3,posst̃ ,+,possunt ,illa neutra
 p452_l30_o10,S22,S22,F2,F2,transeuntia ,migrantia,transeuntia ,migrantia
 p452_l31_o10,S22,S22,F2,F2,pręsertim ,(maxime?),p̃sertim ,maxime
 p453_l01_o02,S22,S22,F2,F2,diriuatũ ,deductũ,diriuatũ ,deductũ
@@ -177,8 +181,10 @@ p453_l04_o08,S22,S22,F2,F2,deducta ,diriuata,deducta ,diriuata
 p453_l05_o08,S22,S22,F2,F2,censor ,iudex,censor ,iudex
 p453_l05_o07,S22,S22,F3,F3,Vnde ,ex quo,Vnde ,exquo
 p453_l06_o03,S22,S22,F3,F3,censeo ,statuo ł diffinio ł iudico,Censeo ,iudico/statuo/definio
+p453_l06_o05,S22,S22,F2,F2,traductũ ,diriuatũ,traductũ ,diriuatũ
 p453_l10_o09,S22,S22,F2,F2,Rubeo ,uerecundor,Rubeo ,uerecundor
 p453_l10_o11,S22,S22,F2,F2,Marceo ,areo,Marceo ,areo
+p453_l11_o04,S22,S22,F2,F2,algeo ,frigeo,Algeo ,rigreo -gor
 p453_l12_o03,S22,S22,F2,F2,horreo ,abhominor,Horreo ,abominor
 p453_l14_o03,S22,S22,F2,F2,Liquor ,fluo,Liquor ,fluo
 p453_l16_o08,S53,S53,F3,F3,positionis ,÷ pͥmę ꝑsonę,positionis ,÷ pͥmę ꝑsonę
@@ -386,6 +392,7 @@ p460_l05_o06-07,S53,S53,F4,F4,pręsens indicatiuus ,÷ ꝓferre +++,p̃sens INdi
 p460_l10_o05,S53,S53,F2,F2,Scđa ,coniugatio,Scđa ,c̃iugatio
 p460_l10_o08,S53,S53,F2,F2,quartã ,coniugationem,quarta ,.s. coniugatio
 p460_l14_o09,S22,S22,F2,F2,suꝑuacuo ,suꝑfluo,suꝑuacuo ,suꝑfluo
+p460_l26_o08,S23,S23,F3,F3,uniformiter ,scđm unã formã,unformiter ,scđm unã formã
 p460_l29_o03,S53,S53,F4,F4,rationẽ ,sacer sacri sacro sacras tot syllabas ++ ignt̃o ⁊+++,ratione ,genetiui precipue hic notatur ut sacer -cri sacro -as/tot sillabas hab& in gntõ q ? ⁊ in uerbo :
 p460_l29_o08,S22,S22,F2,F2,manifestissime ,aꝑtissime,manifestissime ,aꝑtissime
 p460_l31_o01,S22,S22,F2,F2,adhęrentia ,seruentia,adhęrentia ,seruientia

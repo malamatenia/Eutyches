@@ -76,158 +76,160 @@
 74,p451_l13_o09,S22,S22,F2,F2,seruio,oboedio,"Seruio -uis,  ",oboedio
 75,p451_l21_o06,S22,S22,F3,F3,elitio,expͥmo /seduco,Elicio ,extorq̃o ł expͥmo/ꝓuoco illicib;
 76,p451_l22_o02,S22,S22,F2,F2,sapio,scio,Sapio ,suo
-77,p451_l23_o05,S22,S22,F2,F2,potior,utor,potior ,possideo
-78,p451_l33_o03,S22,S22,F2,F2,disserere,manifestare,disserere ,exponere
-79,p451_l34_o05,S22,S22,F2,F2,ubertati,copie,ubertati ,abundantię
-80,p452_l02_o04,S22,S22,F2,F2,motu ,ĩ modo,motu ,modo
-81,p452_l02_o07,S3232,S3232,F2,F2,eas,terminationes,eas ,.s. terminationes
-82,p452_l04_o03,S22,S22,F2,F2,adherentia ,ĩ coherentia,adhęrentia ,seruientia
-83,p452_l05_o01,S22,S22,F3,F3,origines,principia exordia,origines ,initia ł pͥmor/dia
-84,p452_l08_o08,S22,S22,F3,F3,distinctę;,diuise separate,destinatę. ,disciretę/ordinatę
-85,p452_l13_o05,S22,S22,F2,F2,obseruando,custodiendo,scilicet ,.s. iure
-86,p452_l15_o08,S22,S22,F2,F2,litigo,rexo,Litigo ,altercor
-87,p452_l15_o09,S22,S22,F2,F2,litigium,iurgium,Litigiũ ,Rixa
-88,p452_l15_o10,S22,S22,F2,F2,mercor,emtores,Mercor ,cõmuto
-89,p452_l18_o05,S22,S22,F2,F2,gaudeo,letor,Gaudeo ,congratulor
-90,p452_l21_o01,S22,S22,F3,F3,obsequor,obedio pareo,Obsequor ,oboedio/obtẽmpero
-91,p452_l21_o06,S23,S23,F3,F3,domicilium,parua casida,Domicilium ,domꝰ auiũ
-92,p452_l22_o05,S22,S22,F2,F2,cerno ,sedes,Cerno ,uideo
-93,p452_l22_o06,S23,S23,F3,F3,silicernium,senes incuru /Infirmitas senũ,Silicernium ,ipsa res
-94,p452_l23_o02,S22,S22,F3,F3,ridiculum,Fraus siue irrisio,Ridiculum ,paruus risus/ł derisio/chachinnus
-95,p452_l23_o03,S22,S22,F3,F3,perpendo ,Libro / coequo ,Perpendo ,coęquo ꝑpendo/mensuro
-96,p452_l23_o05,S22,S22,F2,F2,euerso,destruo,Euerso ,destruo
-97,p452_l27_o01,S22,S22,F2,F2,tego,cooperio ,Tego ,operio
-98,p452_l27_o02,S22,S22,F2,F2,tegimen,cooperimentũ,Tegimen ,operimentũ
-99,p452_l29_o01,S3232,S3232,F2,F2,quorum,s̃ nominũ,quoꝵ ,.s. nõinũ
-100,p452_l31_o10,S22,S22,F2,F2,presertim,ĩ maxime ł ominino,p̃sertim ,maxime
-101,p453_l02_o06,S53,S53,F3,F3,positionis ,s̃ pͥme persone,positionis ,pͥmę ꝑsonę
-102,p453_l03_o02,S53,S53,F3,F3,sole,s littere due.,solę ,.s. .s. & .t.
-103,p453_l05_o08,S22,S22,F2,F2,censor,iudex,censor ,iudex
-104,p453_l04_o12,S22,S22,F3,F3,conusltor,inꝗsitor consiliarius,consultor ,consiliator/interrogator/ꝓuidens
-105,p453_l12_o03,S22,S22,F2,F2,horreo.,timeo,Horreo ,abominor
-106,p453_l14_o02,S22,S22,F3,F3,furor,ipsa iracundia,furor ,ira insanio
-107,p453_l14_o03,S22,S22,F2,F2,liquor,defluo,Liquor ,fluo
-108,p453_l15_o01,S53,S53,F3,F3,quorũ,nominũ p̃ dictoꝝ,quorũ-duo ,÷ liquor ⁊ sopor
-109,p453_l17_o07,S22,S22,F2,F2,sordidus , tͫpisseđ ,sordidus ,maculatꝰ
-110,p453_l17_o08,S22,S22,F2,F2,frigeo,algeo,Frigeo ,algeo
-111,p453_l19_o03,S22,S22,F2,F2,torreo ,arefio uro,Torreo ,uro
-112,p453_l19_o09,S22,S22,F2,F2,cupio ,desidero ,cupio ,opto
-113,p453_l20_o02,S22,S22,F3,F3,uiuidus,sagax & agilis,uiuidus ,uitalis uelox agilis acutus
-114,p453_l26_o05,S22,S22,F3,F3,teges,ipsũ cooperimentũ,teges ,ł ꝓtectio/obumbratio
-115,p453_l26_o09,S22,S22,F3,F3,cedes,clades ꝑcutio,cędes ,pescis/occidio/homicidiũ
-116,p453_l27_o02,S22,S22,F2,F2,struo,congero,Struo ,edifico
-117,p453_l29_o06,S22,S22,F3,F3,utilis ,uibilis/uelox,utilis ,habilis/aptus/ꝓficuus/idoneus
-118,p453_l29_o07,S22,S22,F2,F2,efutio ,inanesco,Effutio ,effundo
-119,p453_l29_o08,S22,S22,F3,F3,efutilis,uacuus instabilis,effutił ,uanus/ instabilis
-120,p453_l30_o01,S22,S22,F2,F2,occiduus,occidentalis,occiduus ,transitiuus
-121,p453_l30_o04,S22,S22,F3,F3,cedo,paucior ãbulo / in,Pręcido ,ambulo/cedo
-122,p453_l32_o01,S22,S22,F2,F2,strido,sono,Strido ,sono
-123,p453_l32_o04,S22,S22,F2,F2,gerulus,portator,geruł ,portitor
-124,p453_l33_o01,S22,S22,F2,F2,tremo ,mobo ł,Tremo ,febricito
-125,p453_l33_o07,S22,S22,F2,F2,adopto,associo,Adopto ,desidero
-126,p453_l33_o08,S22,S22,F2,F2,adoptulus,quasi adoptiuus,adoptuł. ,adoptans /ualde desiderat᷑ Idem est & adoptiuus
-127,p454_l02_o01,S22,S22,F3,F3,contumax,arrogans c̃tem̃tor ,contumax ,suꝑbus/uibrans crispans/febricitans
-128,p454_l03_o01,S22,S22,F3,F3,perspicax,diluciđ manifestꝰ,ꝑspicax ,ingeniosus astutus/clarus uigilans
-129,p454_l03_o03,S22,S22,F3,F3,efficax,acius uelox,efficax ,effitiens/ł potens
-130,p454_l03_o05,S22,S22,F2,F2,fallax,decptor,fallax ,m̃dax
-131,p454_l03_o07,S22,S22,F2,F2,emax,negotiator,emax ,ẽptor
-132,p454_l03_o10,S22,S22,F3,F3,sagio,p̃sagio / diuino,Sagio ,diuino/ꝓpheto
-133,p454_l04_o04,S23,S23,F4,F4,salax,ꝗ frequent̃ sallit,salax ,uelox / qͥ bene potest dire
-134,p454_l12_o03,S22,S22,F2,F2,furibundus,insanꝰ,Furibundus. ,simił furenti
-135,p454_l17_o07,S23,S23,F4,F4,pronuba,mulier ꝗ disponit nuptias,ꝓnuba ,ꝗ nubentib p̃est
-136,p454_l20_o08,S22,S22,F2,F2,suadeo,ortor,Suadeo ,adortor
-137,p454_l20_o09,S22,S22,F2,F2,suadela,oratio,Suadela ,adoracio
-138,p454_l21_o08,S22,S22,F2,F2,ruo,cado,Ruo ,cado
-139,p454_l21_o10,S22,S22,F2,F2,rapio,tollo,Rapio ,aufero
-140,p454_l30_o02,S54,S54,F3,F3,arcus,ab arcendo,archus ,ab arcendis
-141,p455_l12_o05,S22,S22,F3,F3,deses,stultꝰ inconstans desidios,deses ,piger stultus/ł neglegens
-142,p455_l19_o02,S23,S23,F3,F3,ꝓpugnanculũ,torris ubi pugnatiũ,Propugnaculũ ,summa pars muri
-143,p455_l19_o06,S22,S22,F3,F3,munimentũ,ꝓtectio ł tutela / scutũ,Munimentũ ,tutamen ÷ defensio
-144,p455_l20_o03,S22,S22,F3,F3,solamen,Solatiũ / auxiliũ,Solamen ,consolatio/adiutoriũ
-145,p455_l22_o02,S23,S23,F3,F3,amabilis,dignꝰ amore,amabilis ,amando habilis
-146,p455_l22_o04,S23,S23,F3,F3,laudabilis,dignꝰ laude,Laudabilis ,habilis ad laudandũ
-147,p455_l28_o06,S22,S22,F2,F2,equatio,p̃portio,Aequatio ,assimilatio
-148,p455_l28_o07,S22,S22,F2,F2,obseruatio,custodia,Obseruatio ,custodia
-149,p456_l01_o07,S23,S23,F3,F3,tonstrina,ipsa res ł domus,Tonstrina ,opꝰ tonsoris
-150,p456_l05_o03,S22,S22,F2,F2,suasor,adortator,Suasor ,adhortator
-151,p456_l07_o04,S22,S22,F2,F2,aduectitius,deportatitius,Aduectitius ,apportatitius
-152,p456_l16_o06-07,S22,S22,F3,F3,in accidentib; ,in adiectiuis,in accidentib; ,÷ in adiectiuis
-153,p457_l04_o06,S22,S22,F2,F2,mere,iđ pure,merę ,purę
-154,p457_l08_o02,S22,S22,F2,F2,superuacua,suꝑflua,suꝑuacua ,suꝑflua
-155,p457_l10_o03,S22,S22,F2,F2,clementia,misericordia,clementia ,Benignitas
-156,p457_l10_o05,S22,S22,F3,F3,inertia,pigritia ł stultitia,Inertia ,stultitia/sine arte
-157,p457_l15_o05,S22,S22,F2,F2,turba,cont᷑bacio,Turba ,multiudo
-158,p457_l16_o10,S22,S22,F2,F2,fugo,repẽllo ac,Fugo ,expello
-159,p457_l17_o02,S22,S22,F2,F2,stillo,defluo,Stilla ,gutta
-160,p457_l19_o03,S22,S22,F2,F2,nundinor,mercator,Nundinor ,mercor
-161,p457_l20_o05,S22,S22,F2,F2,moror,tardo,moror ,tardo
-162,p457_l20_o07,S22,S22,F2,F2,quadra,qͣsi diuido,Quadra ,quadrangulũ
-163,p457_l21_o11,S22,S22,F3,F3,multo,uindico punio,Multo ,dãpno occido/condẽpno
-164,p457_l22_o03,S22,S22,F2,F2,rixo,obiurgo,Rixo ,contendo
-165,p457_l22_o05,S22,S22,F3,F3,lixa,ł aqua/mercenarius,Lixa ,seruus militũ/siue mercenarius
-166,p457_l26_o07,S22,S22,F3,F3,prob;,idoneus strenuus sagax,ꝓbus ,bonus ęquus/ꝑfectus
-167,p457_l26_o11,S22,S22,F3,F3,opacus,spissus ũbrosus ,Opacus ,spissus/densus
-168,p457_l27_o07,S22,S22,F2,F2,nudus,discooꝑtꝰ,Nudus ,aꝑtꝰ
-169,p457_l27_o10,S22,S22,F2,F2,fedus,turpis ,Fedus ,turpis
-170,p457_l28_o04,S22,S22,F2,F2,uagus,instans,Vagus ,instabilis
-171,p457_l28_o09,S22,S22,F2,F2,pio,purgo,Pio ,purgo
-172,p457_l31_o05,S22,S22,F2,F2,crispus,c̃cussus,Crispus ,terratꝰ
-173,p457_l33_o02,S22,S22,F2,F2,ignarus,inscius,Ignarus ,inscius
-174,p457_l33_o06,S22,S22,F2,F2,lassus,fatigatus,Lassus ,fessus
-175,p457_l33_o11,S22,S22,F2,F2,dilato,ãplifico,dilato ,ãplifico
-176,p457_l34_o05,S22,S22,F3,F3,apto,c̃iungo assotio,Apto ,Accõmođ ł dignor
-177,p458_l03_o06,S22,S22,F3,F3,terminus,finis meta,Terminꝰ ,finis meta
-178,p458_l02_o02,S23,S23,F4,F4,grecor,more grecorũ ago,Grecor ,more greco loquor
-179,p458_l02_o06,S22,S22,F2,F2,uulgo,manifesto,Vulgo ,diffamo
-180,p458_l03_o10,S23,S23,F4,F4,perenno,toto anno inopere persisto,ꝑenno ,ꝑmaneo p unũ annũ ł moror/ꝑ annos/ꝓtelo
-181,p458_l06_o13,S23,S23,F4,F4,colum,ubi lac mundatur,Colũ ,instrum̃tũ unde/colat᷑ lac ł uinũ
-182,p458_l07_o07,S23,S23,F4,F4,peculior,peculiã aufero,depeculior ,aufero diuitias tuas a te/deuasto
-183,p458_l08_o12,S23,S23,F4,F4,stagnũ,aqua q; ñ decurritur,Stagnũ ,Genus metalli ł lacus qͥ ñ currit a stando dictꝰ
-184,p458_l11_o07,S22,S22,F2,F2,sacro,scĩfico,Sacro ,sc̃ifico
-185,p458_l14_o01,S22,S22,F2,F2,saturo,satio,Saturo ,satio
-186,p458_l16_o01,S22,S22,F2,F2,obseruatis,consideratis,obseruatis. ,notatis
-187,p458_l18_o01,S22,S22,F2,F2,ordino,dispono,Ordino ,orno
-188,p458_l21_o05,S22,S22,F2,F2,uber,habundans,Vber ,copiosꝰ
-189,p458_l21_o06,S22,S22,F2,F2,ubero, abundo,Exubero ,habundo
-190,p458_l25_o08,S22,S22,F3,F3,nugor,efecero desitio de(cur)so,Nur̶gor ,uilesco det᷑por
-191,p458_l26_o08,S23,S23,F4,F4,arieto,more arietis ago,Arieto ,ꝯiuros destruo/ł gub̶no
-192,p458_l28_o10,S22,S22,F3,F3,turpo,fodo deformo,Turpo ,fedo de/formo
-193,p458_l29_o02,S22,S22,F2,F2,tenuis,gracilis,Tenuis ,macer
-194,p458_l29_o05,S22,S22,F3,F3,tristis,Dolens / mestus,Tristis ,Mestꝰ/męrens
-195,p458_l30_o09,S23,S23,F3,F3,roro,inrigo /ł irore ꝑfundo,",Roro ",rorẽ emitto
-196,p459_l02_o01,S22,S22,F3,F3,nex,mors int̃emptio,Nex ,mors supplicium
-197,p459_l02_o07,S22,S22,F3,F3,uindico,punio /ulciscor,Vindico ,ulciscor/defendo
-198,p459_l05_o09,S22,S22,F2,F2,p̃ceps,impello ,Pręceps ,ꝓnꝰ
-199,p459_l07_o07,S22,S22,F3,F3,aestuo,ebullio ł tardeo,ęstuo ,ardeo caleo/ferueo
-200,p459_l08_o05,S22,S22,F2,F2,gelo,constringo,Gelo ,frigeo
-201,p459_l19_o09,S23,S23,F3,F3,scriba,doctor ñ officiale,Scriba ,lege peritꝰ
-202,p459_l25_o04,S22,S22,F2,F2,pandus,manifestus,Pandus ,aꝑtꝰ patulus
-203,p459_l31_o07,S22,S22,F2,F2,formido,timor,Formido ,paueo
-204,p459_l35_o10,S22,S22,F2,F2,tulisse,facta eẽ,tulisse ,diriuasse
-205,p460_l07_o01,S22,S22,F2,F2,indesinenter,indistant̃,indesinenter  ,incessanter
-206,p460_l14_o09,S22,S22,F2,F2,superuacuo,exsuperfluo,suꝑuacuo ,suꝑfluo
-207,p461_l17_o02,S22,S22,F2,F2,scortor,mechor,scortor ,Meretricor
-208,p461_l17_o06,S22,S22,F3,F3,ingurgito,in mergo,ingurgito ,deglutino absorbeo
-209,p461_l18_o06,S22,S22,F2,F2,ingurgitasses,p̃cipitasses,ingurgitasses ,immersisses
-210,p461_l23_o03,S22,S22,F2,F2,fore,esse,forte ,euentu
-211,p462_l06_o01,S22,S22,F2,F2,incrementa,aumenta,incrementa ,aucmenta
-212,p462_l10_o05,S22,S22,F2,F2,opitulor,auxilior,opitulor ,Adiuuo
-213,p462_l11_o09,S22,S22,F2,F2,litigo,contendo,Litigo. ,c̃tendo
-214,p462_l13_o03,S22,S22,F2,F2,quia,qđ,quę ,
-215,p462_l16_o01,S22,S22,F2,F2,temere,p̃sũtiose,temere ,p̃sũptiose
-216,p462_l17_o03,S22,S22,F2,F2,diutius,longius,diutius ,longius
-217,p462_l26_o03,S22,S22,F2,F2,caneo,senesco,caneo ,albeo
-218,p462_l26_o04,S22,S22,F2,F2,calles,semita,calles ,uia
-219,p462_l28_o06,S22,S22,F3,F3,imbuo,instruo doceo,imbuo ,ostendo ł rep̃hendo
-220,p462_l28_o07,S22,S22,F2,F2,acuo,acumino,acuo ,increpo
-221,p462_l28_o09,S22,S22,F2,F2,arguo,increpo,arguo ,soluo
-222,p462_l29_o11,S22,S22,F2,F2,fluctuo,titubo,Fluctuo ,titubo
-223,p462_l32_o10,S23,S23,F3,F3,strues,congeries lignorũ,strues ,c̃geries lignoꝵ
-224,p463_l09_o08,S22,S22,F2,F2,largior,tribuo,largio ,tribuo
-225,p463_l15_o03,S22,S22,F2,F2,insignis,nobilis,in̶asignis ,nobilis
-226,p463_l25_o03,S22,S22,F3,F3,metor,t̃mino finio,Metor ,figo t̃mino
-227,p463_l25_o09,S22,S22,F2,F2,metior,mensuro,metior ,÷ mensuro
-228,p464_l13_o09,S22,S22,F2,F2,eger,infirmus,ager ,infirmꝰ
-229,p466_l06_o03,S22,S22,F2,F2,rimor,ꝑscrutor,Rimor ,inqͥro
-230,p466_l21_o09,S23,S23,F4,F4,paciscor,pactũ facio,pacisor ,pacẽ fatio
-231,p470_l09_o07,S22,S22,F2,F2,glisco,cresco,Glisco ,cresco
+77,p451_l22_o04,S22,S22,F2,F2,orior,nascor,Orior ,nascor
+78,p451_l23_o05,S22,S22,F2,F2,potior,utor,potior ,possideo
+79,p451_l33_o03,S22,S22,F2,F2,disserere,manifestare,disserere ,exponere
+80,p451_l34_o05,S22,S22,F2,F2,ubertati,copie,ubertati ,abundantię
+81,p452_l02_o04,S22,S22,F2,F2,motu ,ĩ modo,motu ,modo
+82,p452_l02_o07,S3232,S3232,F2,F2,eas,terminationes,eas ,.s. terminationes
+83,p452_l04_o03,S22,S22,F2,F2,adherentia ,ĩ coherentia,adhęrentia ,seruientia
+84,p452_l05_o01,S22,S22,F3,F3,origines,principia exordia,origines ,initia ł pͥmor/dia
+85,p452_l08_o08,S22,S22,F3,F3,distinctę;,diuise separate,destinatę. ,disciretę/ordinatę
+86,p452_l13_o05,S22,S22,F2,F2,obseruando,custodiendo,scilicet ,.s. iure
+87,p452_l15_o08,S22,S22,F2,F2,litigo,rexo,Litigo ,altercor
+88,p452_l15_o09,S22,S22,F2,F2,litigium,iurgium,Litigiũ ,Rixa
+89,p452_l15_o10,S22,S22,F2,F2,mercor,emtores,Mercor ,cõmuto
+90,p452_l17_o05,S25,S25,F3,F3,mancipium,manu captũ,Mancipiũ ,qđqđ manu capit
+91,p452_l18_o05,S22,S22,F2,F2,gaudeo,letor,Gaudeo ,congratulor
+92,p452_l21_o01,S22,S22,F3,F3,obsequor,obedio pareo,Obsequor ,oboedio/obtẽmpero
+93,p452_l21_o06,S23,S23,F3,F3,domicilium,parua casida,Domicilium ,domꝰ auiũ
+94,p452_l22_o05,S22,S22,F2,F2,cerno ,sedes,Cerno ,uideo
+95,p452_l22_o06,S23,S23,F3,F3,silicernium,senes incuru /Infirmitas senũ,Silicernium ,ipsa res
+96,p452_l23_o02,S22,S22,F3,F3,ridiculum,Fraus siue irrisio,Ridiculum ,paruus risus/ł derisio/chachinnus
+97,p452_l23_o03,S22,S22,F3,F3,perpendo ,Libro / coequo ,Perpendo ,coęquo ꝑpendo/mensuro
+98,p452_l23_o05,S22,S22,F2,F2,euerso,destruo,Euerso ,destruo
+99,p452_l27_o01,S22,S22,F2,F2,tego,cooperio ,Tego ,operio
+100,p452_l27_o02,S22,S22,F2,F2,tegimen,cooperimentũ,Tegimen ,operimentũ
+101,p452_l29_o01,S3232,S3232,F2,F2,quorum,s̃ nominũ,quoꝵ ,.s. nõinũ
+102,p452_l31_o10,S22,S22,F2,F2,presertim,ĩ maxime ł ominino,p̃sertim ,maxime
+103,p453_l02_o06,S53,S53,F3,F3,positionis ,s̃ pͥme persone,positionis ,pͥmę ꝑsonę
+104,p453_l03_o02,S53,S53,F3,F3,sole,s littere due.,solę ,.s. .s. & .t.
+105,p453_l05_o08,S22,S22,F2,F2,censor,iudex,censor ,iudex
+106,p453_l04_o12,S22,S22,F3,F3,conusltor,inꝗsitor consiliarius,consultor ,consiliator/interrogator/ꝓuidens
+107,p453_l12_o03,S22,S22,F2,F2,horreo.,timeo,Horreo ,abominor
+108,p453_l14_o02,S22,S22,F3,F3,furor,ipsa iracundia,furor ,ira insanio
+109,p453_l14_o03,S22,S22,F2,F2,liquor,defluo,Liquor ,fluo
+110,p453_l15_o01,S53,S53,F3,F3,quorũ,nominũ p̃ dictoꝝ,quorũ-duo ,÷ liquor ⁊ sopor
+111,p453_l17_o07,S22,S22,F2,F2,sordidus , tͫpisseđ ,sordidus ,maculatꝰ
+112,p453_l17_o08,S22,S22,F2,F2,frigeo,algeo,Frigeo ,algeo
+113,p453_l19_o03,S22,S22,F2,F2,torreo ,arefio uro,Torreo ,uro
+114,p453_l19_o09,S22,S22,F2,F2,cupio ,desidero ,cupio ,opto
+115,p453_l20_o02,S22,S22,F3,F3,uiuidus,sagax & agilis,uiuidus ,uitalis uelox agilis acutus
+116,p453_l26_o05,S22,S22,F3,F3,teges,ipsũ cooperimentũ,teges ,ł ꝓtectio/obumbratio
+117,p453_l26_o09,S22,S22,F3,F3,cedes,clades ꝑcutio,cędes ,pescis/occidio/homicidiũ
+118,p453_l27_o02,S22,S22,F2,F2,struo,congero,Struo ,edifico
+119,p453_l29_o06,S22,S22,F3,F3,utilis ,uibilis/uelox,utilis ,habilis/aptus/ꝓficuus/idoneus
+120,p453_l29_o07,S22,S22,F2,F2,efutio ,inanesco,Effutio ,effundo
+121,p453_l29_o08,S22,S22,F3,F3,efutilis,uacuus instabilis,effutił ,uanus/ instabilis
+122,p453_l30_o01,S22,S22,F2,F2,occiduus,occidentalis,occiduus ,transitiuus
+123,p453_l30_o04,S22,S22,F3,F3,cedo,paucior ãbulo / in,Pręcido ,ambulo/cedo
+124,p453_l32_o01,S22,S22,F2,F2,strido,sono,Strido ,sono
+125,p453_l32_o04,S22,S22,F2,F2,gerulus,portator,geruł ,portitor
+126,p453_l33_o01,S22,S22,F2,F2,tremo ,mobo ł,Tremo ,febricito
+127,p453_l33_o07,S22,S22,F2,F2,adopto,associo,Adopto ,desidero
+128,p453_l33_o08,S22,S22,F2,F2,adoptulus,quasi adoptiuus,adoptuł. ,adoptans /ualde desiderat᷑ Idem est & adoptiuus
+129,p454_l02_o01,S22,S22,F3,F3,contumax,arrogans c̃tem̃tor ,contumax ,suꝑbus/uibrans crispans/febricitans
+130,p454_l03_o01,S22,S22,F3,F3,perspicax,diluciđ manifestꝰ,ꝑspicax ,ingeniosus astutus/clarus uigilans
+131,p454_l03_o03,S22,S22,F3,F3,efficax,acius uelox,efficax ,effitiens/ł potens
+132,p454_l03_o05,S22,S22,F2,F2,fallax,decptor,fallax ,m̃dax
+133,p454_l03_o07,S22,S22,F2,F2,emax,negotiator,emax ,ẽptor
+134,p454_l03_o10,S22,S22,F3,F3,sagio,p̃sagio / diuino,Sagio ,diuino/ꝓpheto
+135,p454_l04_o04,S23,S23,F4,F4,salax,ꝗ frequent̃ sallit,salax ,uelox / qͥ bene potest dire
+136,p454_l12_o03,S22,S22,F2,F2,furibundus,insanꝰ,Furibundus. ,simił furenti
+137,p454_l17_o07,S23,S23,F4,F4,pronuba,mulier ꝗ disponit nuptias,ꝓnuba ,ꝗ nubentib p̃est
+138,p454_l20_o08,S22,S22,F2,F2,suadeo,ortor,Suadeo ,adortor
+139,p454_l20_o09,S22,S22,F2,F2,suadela,oratio,Suadela ,adoracio
+140,p454_l21_o08,S22,S22,F2,F2,ruo,cado,Ruo ,cado
+141,p454_l21_o10,S22,S22,F2,F2,rapio,tollo,Rapio ,aufero
+142,p454_l30_o02,S54,S54,F3,F3,arcus,ab arcendo,archus ,ab arcendis
+143,p455_l12_o05,S22,S22,F3,F3,deses,stultꝰ inconstans desidios,deses ,piger stultus/ł neglegens
+144,p455_l19_o02,S23,S23,F3,F3,ꝓpugnanculũ,torris ubi pugnatiũ,Propugnaculũ ,summa pars muri
+145,p455_l19_o06,S22,S22,F3,F3,munimentũ,ꝓtectio ł tutela / scutũ,Munimentũ ,tutamen ÷ defensio
+146,p455_l20_o03,S22,S22,F3,F3,solamen,Solatiũ / auxiliũ,Solamen ,consolatio/adiutoriũ
+147,p455_l22_o02,S23,S23,F3,F3,amabilis,dignꝰ amore,amabilis ,amando habilis
+148,p455_l22_o04,S23,S23,F3,F3,laudabilis,dignꝰ laude,Laudabilis ,habilis ad laudandũ
+149,p455_l28_o06,S22,S22,F2,F2,equatio,p̃portio,Aequatio ,assimilatio
+150,p455_l28_o07,S22,S22,F2,F2,obseruatio,custodia,Obseruatio ,custodia
+151,p456_l01_o07,S23,S23,F3,F3,tonstrina,ipsa res ł domus,Tonstrina ,opꝰ tonsoris
+152,p456_l05_o03,S22,S22,F2,F2,suasor,adortator,Suasor ,adhortator
+153,p456_l07_o04,S22,S22,F2,F2,aduectitius,deportatitius,Aduectitius ,apportatitius
+154,p456_l16_o06-07,S22,S22,F3,F3,in accidentib; ,in adiectiuis,in accidentib; ,÷ in adiectiuis
+155,p457_l04_o06,S22,S22,F2,F2,mere,iđ pure,merę ,purę
+156,p457_l08_o02,S22,S22,F2,F2,superuacua,suꝑflua,suꝑuacua ,suꝑflua
+157,p457_l10_o03,S22,S22,F2,F2,clementia,misericordia,clementia ,Benignitas
+158,p457_l10_o05,S22,S22,F3,F3,inertia,pigritia ł stultitia,Inertia ,stultitia/sine arte
+159,p457_l15_o05,S22,S22,F2,F2,turba,cont᷑bacio,Turba ,multiudo
+160,p457_l16_o10,S22,S22,F2,F2,fugo,repẽllo ac,Fugo ,expello
+161,p457_l17_o02,S22,S22,F2,F2,stillo,defluo,Stilla ,gutta
+162,p457_l19_o03,S22,S22,F2,F2,nundinor,mercator,Nundinor ,mercor
+163,p457_l20_o05,S22,S22,F2,F2,moror,tardo,moror ,tardo
+164,p457_l20_o07,S22,S22,F2,F2,quadra,qͣsi diuido,Quadra ,quadrangulũ
+165,p457_l21_o11,S22,S22,F3,F3,multo,uindico punio,Multo ,dãpno occido/condẽpno
+166,p457_l22_o03,S22,S22,F2,F2,rixo,obiurgo,Rixo ,contendo
+167,p457_l22_o05,S22,S22,F3,F3,lixa,ł aqua/mercenarius,Lixa ,seruus militũ/siue mercenarius
+168,p457_l26_o07,S22,S22,F3,F3,prob;,idoneus strenuus sagax,ꝓbus ,bonus ęquus/ꝑfectus
+169,p457_l26_o11,S22,S22,F3,F3,opacus,spissus ũbrosus ,Opacus ,spissus/densus
+170,p457_l27_o07,S22,S22,F2,F2,nudus,discooꝑtꝰ,Nudus ,aꝑtꝰ
+171,p457_l27_o10,S22,S22,F2,F2,fedus,turpis ,Fedus ,turpis
+172,p457_l28_o04,S22,S22,F2,F2,uagus,instans,Vagus ,instabilis
+173,p457_l28_o09,S22,S22,F2,F2,pio,purgo,Pio ,purgo
+174,p457_l31_o05,S22,S22,F2,F2,crispus,c̃cussus,Crispus ,terratꝰ
+175,p457_l33_o02,S22,S22,F2,F2,ignarus,inscius,Ignarus ,inscius
+176,p457_l33_o06,S22,S22,F2,F2,lassus,fatigatus,Lassus ,fessus
+177,p457_l33_o11,S22,S22,F2,F2,dilato,ãplifico,dilato ,ãplifico
+178,p457_l34_o05,S22,S22,F3,F3,apto,c̃iungo assotio,Apto ,Accõmođ ł dignor
+179,p458_l03_o06,S22,S22,F3,F3,terminus,finis meta,Terminꝰ ,finis meta
+180,p458_l02_o02,S23,S23,F4,F4,grecor,more grecorũ ago,Grecor ,more greco loquor
+181,p458_l02_o06,S22,S22,F2,F2,uulgo,manifesto,Vulgo ,diffamo
+182,p458_l03_o10,S23,S23,F4,F4,perenno,toto anno inopere persisto,ꝑenno ,ꝑmaneo p unũ annũ ł moror/ꝑ annos/ꝓtelo
+183,p458_l06_o13,S23,S23,F4,F4,colum,ubi lac mundatur,Colũ ,instrum̃tũ unde/colat᷑ lac ł uinũ
+184,p458_l07_o07,S23,S23,F4,F4,peculior,peculiã aufero,depeculior ,aufero diuitias tuas a te/deuasto
+185,p458_l08_o12,S23,S23,F4,F4,stagnũ,aqua q; ñ decurritur,Stagnũ ,Genus metalli ł lacus qͥ ñ currit a stando dictꝰ
+186,p458_l11_o07,S22,S22,F2,F2,sacro,scĩfico,Sacro ,sc̃ifico
+187,p458_l14_o01,S22,S22,F2,F2,saturo,satio,Saturo ,satio
+188,p458_l16_o01,S22,S22,F2,F2,obseruatis,consideratis,obseruatis. ,notatis
+189,p458_l18_o01,S22,S22,F2,F2,ordino,dispono,Ordino ,orno
+190,p458_l21_o05,S22,S22,F2,F2,uber,habundans,Vber ,copiosꝰ
+191,p458_l21_o06,S22,S22,F2,F2,ubero, abundo,Exubero ,habundo
+192,p458_l25_o08,S22,S22,F3,F3,nugor,efecero desitio de(cur)so,Nur̶gor ,uilesco det᷑por
+193,p458_l26_o08,S23,S23,F4,F4,arieto,more arietis ago,Arieto ,ꝯiuros destruo/ł gub̶no
+194,p458_l28_o10,S22,S22,F3,F3,turpo,fodo deformo,Turpo ,fedo de/formo
+195,p458_l29_o02,S22,S22,F2,F2,tenuis,gracilis,Tenuis ,macer
+196,p458_l29_o05,S22,S22,F3,F3,tristis,Dolens / mestus,Tristis ,Mestꝰ/męrens
+197,p458_l30_o09,S23,S23,F3,F3,roro,inrigo /ł irore ꝑfundo,",Roro ",rorẽ emitto
+198,p459_l02_o01,S22,S22,F3,F3,nex,mors int̃emptio,Nex ,mors supplicium
+199,p459_l02_o07,S22,S22,F3,F3,uindico,punio /ulciscor,Vindico ,ulciscor/defendo
+200,p459_l05_o09,S22,S22,F2,F2,p̃ceps,impello ,Pręceps ,ꝓnꝰ
+201,p459_l07_o07,S22,S22,F3,F3,aestuo,ebullio ł tardeo,ęstuo ,ardeo caleo/ferueo
+202,p459_l08_o05,S22,S22,F2,F2,gelo,constringo,Gelo ,frigeo
+203,p459_l19_o09,S23,S23,F3,F3,scriba,doctor ñ officiale,Scriba ,lege peritꝰ
+204,p459_l25_o04,S22,S22,F2,F2,pandus,manifestus,Pandus ,aꝑtꝰ patulus
+205,p459_l31_o07,S22,S22,F2,F2,formido,timor,Formido ,paueo
+206,p459_l35_o10,S22,S22,F2,F2,tulisse,facta eẽ,tulisse ,diriuasse
+207,p460_l07_o01,S22,S22,F2,F2,indesinenter,indistant̃,indesinenter  ,incessanter
+208,p460_l14_o09,S22,S22,F2,F2,superuacuo,exsuperfluo,suꝑuacuo ,suꝑfluo
+209,p461_l17_o02,S22,S22,F2,F2,scortor,mechor,scortor ,Meretricor
+210,p461_l17_o06,S22,S22,F3,F3,ingurgito,in mergo,ingurgito ,deglutino absorbeo
+211,p461_l18_o06,S22,S22,F2,F2,ingurgitasses,p̃cipitasses,ingurgitasses ,immersisses
+212,p461_l23_o03,S22,S22,F2,F2,fore,esse,forte ,euentu
+213,p462_l06_o01,S22,S22,F2,F2,incrementa,aumenta,incrementa ,aucmenta
+214,p462_l10_o05,S22,S22,F2,F2,opitulor,auxilior,opitulor ,Adiuuo
+215,p462_l11_o09,S22,S22,F2,F2,litigo,contendo,Litigo. ,c̃tendo
+216,p462_l13_o03,S22,S22,F2,F2,quia,qđ,quę ,
+217,p462_l16_o01,S22,S22,F2,F2,temere,p̃sũtiose,temere ,p̃sũptiose
+218,p462_l17_o03,S22,S22,F2,F2,diutius,longius,diutius ,longius
+219,p462_l26_o03,S22,S22,F2,F2,caneo,senesco,caneo ,albeo
+220,p462_l26_o04,S22,S22,F2,F2,calles,semita,calles ,uia
+221,p462_l28_o06,S22,S22,F3,F3,imbuo,instruo doceo,imbuo ,ostendo ł rep̃hendo
+222,p462_l28_o07,S22,S22,F2,F2,acuo,acumino,acuo ,increpo
+223,p462_l28_o09,S22,S22,F2,F2,arguo,increpo,arguo ,soluo
+224,p462_l29_o11,S22,S22,F2,F2,fluctuo,titubo,Fluctuo ,titubo
+225,p462_l32_o10,S23,S23,F3,F3,strues,congeries lignorũ,strues ,c̃geries lignoꝵ
+226,p463_l09_o08,S22,S22,F2,F2,largior,tribuo,largio ,tribuo
+227,p463_l15_o03,S22,S22,F2,F2,insignis,nobilis,in̶asignis ,nobilis
+228,p463_l25_o03,S22,S22,F3,F3,metor,t̃mino finio,Metor ,figo t̃mino
+229,p463_l25_o09,S22,S22,F2,F2,metior,mensuro,metior ,÷ mensuro
+230,p464_l13_o09,S22,S22,F2,F2,eger,infirmus,ager ,infirmꝰ
+231,p466_l06_o03,S22,S22,F2,F2,rimor,ꝑscrutor,Rimor ,inqͥro
+232,p466_l21_o09,S23,S23,F4,F4,paciscor,pactũ facio,pacisor ,pacẽ fatio
+233,p470_l09_o07,S22,S22,F2,F2,glisco,cresco,Glisco ,cresco
