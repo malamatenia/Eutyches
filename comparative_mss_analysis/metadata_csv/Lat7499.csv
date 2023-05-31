@@ -51,8 +51,6 @@ folio,lemma_id,lemma,gloss_id,gloss,gloss_type,gloss_form,marginal_note_id,margi
 73r,p447_l14_o01,spetiales ,p447_l14_o01_a,singulares & ꝓpͥas,S22,F3,,,
 73r,p447_l14_o02,exequit᷑ ,p447_l14_o02_a,÷ cseqͥt᷑  ualde seqͥt᷑ contin&,S23,F3,p447_l14_o02_b,S4181,F5
 73r,p447_l01_o00,EVTICII ,p447_l01_o00_a,Eutex euticis. Inde euticius eutici,S54,F3,,,
-73r,p447_l03_o01,DE VERBO ,,,,,,,
-73r,p447_l17_o01,TRES ,,,,,,,
 73r,p447_l17_o02,QUIDEM ,p447_l17_o02_a,causa ł c̃iunctio,S35,F3,,,
 73r,p447_l17_o08,VNA ,p447_l17_o08_a,ꝓ pͥma ponit᷑,S53,F4,p447_l17_o08_b,S53,F5
 73r,p447_l18_o01,CARENS ,p447_l18_o01_a,÷ caret ac/centu in fine,S23,F4,,,
@@ -79,8 +77,8 @@ folio,lemma_id,lemma,gloss_id,gloss,gloss_type,gloss_form,marginal_note_id,margi
 73r,p448_l06_o05,ꝓrsus ,p448_l06_o05_a,certe om̃ino,S22,F3,,,
 73r,p448_l07_o01,inditia ,p448_l07_o01_a,signa,S22,F2,p448_l07_o01_b,S53,F5
 73r,p448_l07_o03,iterum ,p448_l07_o03_a,.s. uident᷑,S53,F2,,,
-73r,p448_l07_o04,carere ,p448_l07_o04_a,ñ habere inditiis,S23,F3,,,
-73r,p448_l07_o06,om̃ib; ,,,,,,,
+73r,p448_l07_o04,carere ,p448_l07_o04_a,ñ habere,S23,F3,,,
+73r,p448_l07_o06,om̃ib; ,p448_l07_o06_a,inditiis,S53,F2,,,
 73r,p448_l07_o05,penitus ,p448_l07_o05_a,funditꝰ ꝑietũ,S23,F3,,,
 73r,p448_l08_o01,ex parte ,,,,,p448_l08_o01_b,S53,F5
 73r,p448_l08_o02,uident᷑ ,p448_l08_o02_a,.s. latini,S53,F2,,,
@@ -230,7 +228,6 @@ folio,lemma_id,lemma,gloss_id,gloss,gloss_type,gloss_form,marginal_note_id,margi
 74r,p449_l29_o01,specialẽ. ,p449_l29_o01_a,ꝓpriã,S22,F2,,,
 74r,p449_l29_o02,ipsa ,p449_l29_o02_a,possid& coniugatio,S53,F3,,,
 74r,p449_l29_o07,solũ ,p449_l29_o07_a,solũ mͦ /.s. hoc hab&,S22,F2,,,
-74r,p449_l30_o01,possidet ,,,,,,,
 74r,p449_l30_o03,Habeo ,p449_l30_o03_a,possideo,S22,F2,p449_l30_o03_b,S23,F5
 74r,p449_l30_o04,Taceo ,p449_l30_o04_a,sileo,S22,F2,,,
 74r,p449_l30_o09,Moneo ,p449_l30_o09_a,admoneo ł doceo,S22,F3,,,
@@ -238,7 +235,7 @@ folio,lemma_id,lemma,gloss_id,gloss,gloss_type,gloss_form,marginal_note_id,margi
 74r,f74r_l17_o12,Scabeo ,f74r_l17_o12_a,scalpo leꝓsus/effitio/scalpeo :,S22,F3,,,
 74r,f74r_l18_o01,Arceo ,f74r_l18_o01_a,ꝓhibeo,S22,F2,,,
 74r,p449_l31_o01,Censeo ,p449_l31_o01_a,iudico,S22,F2,p449_l31_o01_b,S24,F5
-74r,p449_l30_o05,Candeo ,,,,,,,
+74r,p449_l30_o05,Candeo ,p449_l30_o05_a,albesco ł splendeo,S22,F3,,,
 74r,p449_l30_o11,Areo ,p449_l30_o11_a,sicco,S22,F2,,,
 74r,p449_l30_o07,Squaleo ,p449_l30_o07_a,sordido,S22,F2,,,
 74r,f74r_l18_o07,Geo ,f74r_l18_o07_a,mensuro,S22,F2,f74r_l18_o07_b,S54,F4
@@ -251,7 +248,7 @@ folio,lemma_id,lemma,gloss_id,gloss,gloss_type,gloss_form,marginal_note_id,margi
 74r,p449_l31_o04,Eodẽ ,p449_l31_o04_a,sicuti illa uerba in .eo. desinentia,S53,F3,,,
 74r,p449_l33_o02,polliceor ,p449_l33_o02_a,spondeo ł ꝓmitto,S22,F3,,,
 74r,p449_l33_o03,Liqueor ,p449_l33_o03_a,liquorẽ facio,S23,F3,,,
-74r,p449_l33_o04,Medeor ,,,,,,,
+74r,p449_l33_o04,Medeor ,,,,,p449_l33_o04_a,S23,F4
 74r,p449_l33_o06,Mereor ,p449_l33_o06_a,tristor,S22,F2,p449_l33_o06_b,S554,F5
 74r,p449_l33_o05,Reor ,p449_l33_o05_a,estimo,S22,F2,,,
 74r,p449_l33_o07,Vereor ,p449_l33_o07_a,paueo timeo,S22,F3,p449_l33_o07_b,S24,F5
@@ -276,7 +273,7 @@ folio,lemma_id,lemma,gloss_id,gloss,gloss_type,gloss_form,marginal_note_id,margi
 74v,p450_l02_o09,Eo ,p450_l02_o09_a,ãbulor,S22,F2,,,
 74v,p450_l02_o11,queo ,p450_l02_o11_a,possũ,S22,F2,,,
 74v,p450_l03_o04,(e)is ,p450_l03_o04_a,eo et q̃o,S53,F3,,,
-74v,p450_l03_o07,illis ,,,,,,,
+74v,p450_l03_o07,illis ,p450_l03_o07_a,s. ex superiorib; ÷ beo,S53,F3,,,
 74v,p450_l05_o03,Imbuo ,p450_l05_o03_a,+Imbibo atq; immolo. ut uirgłs nrĩs ab ouilib/imbu& agnꝰ  /doceo c̃secro,S4181,F4,,,
 74v,p450_l05_o04,Tribuo ,p450_l05_o04_a,dono do,S22,F3,p450_l05_o04_b,S24,F5
 74v,p450_l05_o06,Induo ,p450_l05_o06_a,cirũdo,S22,F2,,,
@@ -319,7 +316,7 @@ folio,lemma_id,lemma,gloss_id,gloss,gloss_type,gloss_form,marginal_note_id,margi
 74v,p450_l15_o06,Nuntius ,p450_l15_o06_a,missos,S22,F2,,,
 74v,p450_l15_o07,ñtio ,p450_l15_o07_a,narro,S22,F2,,,
 74v,p450_l15_o09,Saucius ,p450_l15_o09_a,uulneratꝰ/ł uulnerator,S22,F3,,,
-74v,p450_l16_o01,Saucio ,,,,,,,
+74v,p450_l16_o01,Saucio ,p450_l16_o01_a,uulnero,S22,F2,,,
 74v,p450_l16_o03,Sotius ,p450_l16_o03_a,cõpar/sodalis/cliens,S22,F3,,,
 74v,p450_l16_o04,Sotio ,p450_l16_o04_a,coniungo,S22,F2,,,
 74v,p450_l16_o06,Curia. ,,,,,p450_l16_o06_b,S63,F3
@@ -354,7 +351,6 @@ folio,lemma_id,lemma,gloss_id,gloss,gloss_type,gloss_form,marginal_note_id,margi
 74v,p450_l26_o01,pio ,p450_l26_o01_a,mundo,S22,F2,,,
 74v,p450_l26_o03,qđ ,p450_l26_o03_a,.s. uebũ hio/et pio,S53,F3,,,
 74v,p450_l27_o02,Amplio ,p450_l27_o02_a,ãplifico accumulo/ł congrego,S22,F3,p450_l27_o02_b,S53,F5
-75r,p450_l28_o10,antiqui ,,,,,,,
 75r,p451_l02_o05-06,ꝑ apocopam ,p451_l02_o05-06_a,ꝑ abscisionẽ ultimę litterę,S53,F3,,,
 75r,p451_l02_o09,lani ,p451_l02_o09_a,ꝓ lanii,S611,F2,,,
 75r,f75r_l04_o11,qđ ,f75r_l04_o11_a,÷ ꝓferre nõa ꝑ/apocopam,S53,F3,,,
@@ -439,7 +435,7 @@ folio,lemma_id,lemma,gloss_id,gloss,gloss_type,gloss_form,marginal_note_id,margi
 75v,p451_l22_o07,Fugio  ,,,,,p451_l22_o07_a,S331,F4
 75v,p451_l22_o11,Morior ,p451_l22_o11_a,intereo,S22,F2,,,
 75v,p451_l23_o01,Patior ,p451_l23_o01_a,÷ sustineo / passionẽ,S23,F3,,,
-75v,p451_l22_o04,Orior ,,,,,,,
+75v,p451_l22_o04,Orior ,p451_l22_o04_a,nascor,S22,F2,,,
 75v,p451_l23_o05,potior ,p451_l23_o05_a,possideo,S22,F2,,,
 75v,p451_l25_o11,plerũq ,p451_l25_o11_a,frequenter,S22,F2,p451_l25_o11_b,S53,F5
 75v,p451_l27_o01,diriuatũ ,p451_l27_o01_a,si non sit ÷  ñ ⁊? si ponit᷑ hic ꝓ ,S53,F5,p451_l27_o01_b,S53,F5
@@ -505,7 +501,7 @@ cõputetur. qartius fons tamen idẽ/ẽ quar/tus &/t̃tius/fons",S53,F5,,,
 76r,p452_l17_o01,Sacrifitium ,p452_l17_o01_a,oblatio,S22,F2,,,
 76r,p452_l17_o02,Participo ,p452_l17_o02_a,partẽ capio,S25,F3,,,
 76r,p452_l17_o04,Mancipo ,p452_l17_o04_a,subdo/manu capio,S22,F3,,,
-76r,p452_l17_o05,Mancipiũ ,,,,,,,
+76r,p452_l17_o05,Mancipiũ ,p452_l17_o05_a,qđqđ manu capit,S25,F3,,,
 76r,p452_l17_o06,Impero ,p452_l17_o06_a,regno precipio,S22,F3,,,
 76r,p452_l17_o07,Imperium ,p452_l17_o07_a,regnũ potestas,S22,F3,,,
 76r,p452_l18_o01,Conuiuor ,p452_l18_o01_a,cũ ãliis uiuo/ad conuiuium sum / a conuiua dictũ,S23,F4,,,
@@ -603,7 +599,7 @@ cõputetur. qartius fons tamen idẽ/ẽ quar/tus &/t̃tius/fons",S53,F5,,,
 76v,p453_l10_o11,Marceo ,p453_l10_o11_a,areo,S22,F2,,,
 76v,p453_l11_o01,Marcor ,p453_l11_o01_a,ariditas siccitas dolor languor,S22,F3,,,
 76v,p453_l11_o02,Candeo ,p453_l11_o02_a,albesco splendeo -dor,S22,F3,,,
-76v,p453_l11_o04,Algeo ,,,,,,,
+76v,p453_l11_o04,Algeo ,p453_l11_o04_a,rigreo -gor,S22,F2,,,
 76v,f76v_l22_o04,Obsono ,f76v_l22_o04_a,contrasono ł conuiuo Nutrio nutritor ł nutrimentum,S611,F3,,,
 76v,p453_l11_o11,tenor ,p453_l11_o11_a,accentꝰ uis uirtꝰ,S22,F3,,,
 76v,p453_l12_o01,Tepeo ,p453_l12_o01_a,tepiđ euenio/ł fio,S23,F3,p453_l12_o01_b,S23,F4
@@ -672,7 +668,7 @@ cõputetur. qartius fons tamen idẽ/ẽ quar/tus &/t̃tius/fons",S53,F5,,,
 77r,p453_l30_o05,Pręciduus ,p453_l30_o05_a,locus ad ꝑgendũ habilis,S23,F3,,,
 77r,p453_l30_o06,ꝑspitio ,p453_l30_o06_a,conspicor/uigilo,S22,F3,,,
 77r,p453_l30_o07,ꝑspicuus ,p453_l30_o07_a,clarꝰ/manifestꝰ,S22,F3,,,
-77r,p453_l31_o02,diuiduus ,,,,,,,
+77r,p453_l31_o02,diuiduus ,p453_l31_o02_a,diuisus/diuidenđ,S22,F3,,,
 77r,p453_l31_o07,bibuł ,p453_l31_o07_a,nimis bibens,S22,F2,,,
 77r,p453_l31_o09,penduł ,p453_l31_o09_a,ꝗ pend&,S23,F4,,,
 77r,p453_l32_o01,Strido ,p453_l32_o01_a,sono,S22,F2,,,
@@ -748,7 +744,6 @@ cõputetur. qartius fons tamen idẽ/ẽ quar/tus &/t̃tius/fons",S53,F5,,,
 77v,p454_l19_o03,Gigno ,p454_l19_o03_a,nutrio,S22,F2,,,
 77v,f77v_l16_o07,(add) ,f77v_l16_o07_a,ut,S611,F2,,,
 77v,p454_l19_o05,antiq; ,p454_l19_o05_a,dicebat᷑,S53,F2,,,
-77v,p454_l19_o06,Geno ,,,,,,,
 77v,p454_l19_o07,Terrigena ,p454_l19_o07_a,a t̃ra genitꝰ / siue gigas ꝗ dic/ti st̃/ t̃rę si/łii,S23,F4,,,
 77v,p454_l19_o09,conuiua ,p454_l19_o09_a,ꝗ in conuiuio ẽ/ł simul uiuens/ł uescens,S23,F4,,,
 77v,p454_l20_o01,insideor ,p454_l20_o01_a,fraudor,S22,F2,,,
@@ -771,7 +766,7 @@ cõputetur. qartius fons tamen idẽ/ẽ quar/tus &/t̃tius/fons",S53,F5,,,
 77v,p454_l23_o03,Epulo ,,,,,p454_l23_o03_a,S4181,F5
 77v,p454_l23_o05,Latro ,p454_l23_o05_a,fur a latendo dr̃/ latendo furat᷑,S54,F4,,,
 77v,p454_l23_o06,Lenio ,p454_l23_o06_a,sedo placo/blandior,S22,F3,,,
-77v,p454_l23_o07,leno ,,,,,,,
+77v,p454_l23_o07,leno ,,,,,p454_l23_o07_b,S23,F5
 77v,p454_l23_o08,comedo ,,,,,p454_l23_o08_b,S23,F5
 77v,p454_l23_o09,Palpo ,p454_l23_o09_a,tango,S22,F2,,,
 77v,p454_l23_o10,uerbero ,,,,,p454_l23_o10_a,S23,F5
@@ -780,7 +775,7 @@ cõputetur. qartius fons tamen idẽ/ẽ quar/tus &/t̃tius/fons",S53,F5,,,
 78r,p454_l25_o07,torpedo ,,,,,p454_l25_o07_a,S23,F3
 78r,p454_l25_o09,cupido ,,,,,p454_l25_o09_a,S553,F5
 78r,p454_l25_o12,formido ,,,,,p454_l25_o12_b,S23,F4
-78r,p454_l26_o03,caligo ,,,,,,,
+78r,p454_l26_o03,caligo ,,,,,p454_l26_o03_b,S23,F5
 78r,p454_l26_o04,ꝓpago ,,,,,p454_l26_o04_b,S23,F4
 78r,p454_l28_o10,parco ,,,,,p454_l28_o10_a,S5,F5
 78r,p454_l29_o07,fidus ,p454_l29_o07_a,credulus,S22,F2,,,
@@ -800,7 +795,7 @@ cõputetur. qartius fons tamen idẽ/ẽ quar/tus &/t̃tius/fons",S53,F5,,,
 78r,p454_l31_o07,inuidus ,p454_l31_o07_a,inuidus ẽ ꝗ inuid& inuidiosus / ꝗ alterius inuidiã patitur,S23,F5,,,
 78r,p454_l31_o09,ꝓfugus ,p454_l31_o09_a,porro fugiens/ł longe,S25,F4,,,
 78r,p454_l32_o01-02,A fatio ,,,,,p454_l32_o01-02_a,S631,F4
-78r,p454_l32_o06,benifcus ,,,,,,,
+78r,p454_l32_o06,benifcus ,,,,,p454_l32_o06_b,S8141,F5
 78r,p454_l32_o08,ueneficus. ,p454_l32_o08_a,uenenũ faciens/ł malitiosus,S23,F4,p454_l32_o08_b,S13,F5
 78r,p454_l33_o03,fatidicus ,p454_l33_o03_a,fata dicens,S25,F3,,,
 78r,p454_l33_o04,ueridicus ,p454_l33_o04_a,uera dicens,S25,F3,,,
@@ -1010,7 +1005,7 @@ cõputetur. qartius fons tamen idẽ/ẽ quar/tus &/t̃tius/fons",S53,F5,,,
 80r,p457_l15_o02,pręcedentib; ,p457_l15_o02_a,.s. ante positionẽ ueboꝵ,S23,F3,,,
 80r,p457_l15_o05,Turba ,p457_l15_o05_a,multiudo,S22,F2,,,
 80r,p457_l15_o06,Turbo ,p457_l15_o06_a,cõmuueo,S22,F2,p457_l15_o06_b,S23,F5
-80r,p457_l15_o07,Spica ,,,,,,,
+80r,p457_l15_o07,Spica ,,,,,p457_l15_o07_a,S5,F5
 80r,p457_l16_o02,Inspico ,p457_l16_o02_a,acuo findo,S22,F3,,,
 80r,p457_l16_o05,Pręda ,p457_l16_o05_a,rapina,S22,F2,,,
 80r,p457_l16_o06,Prędor ,p457_l16_o06_a,rapio,S22,F2,,,
@@ -1101,7 +1096,6 @@ cõputetur. qartius fons tamen idẽ/ẽ quar/tus &/t̃tius/fons",S53,F5,,,
 80r,p458_l01_o01,Mutuus ,p458_l01_o01_a,prestator/p̃statꝰ,S22,F3,,,
 80r,p458_l01_o02,Mutuor ,p458_l01_o02_a,presto,S22,F2,p458_l01_o02_b,S23,F5
 80r,p458_l01_o05,fixis ,p458_l01_o05_a,s. nõib; fi/unt uerba,S53,F3,,,
-80r,p458_l01_o08,Loco ,,,,,p458_l01_o08_a,S4181,F5
 80r,p458_l01_o10,Focus ,p458_l01_o10_a,"Φos grece, Lux latine. Inde diriuat᷑ focus correpta fo :",S211,F4,,,
 80r,p458_l01_o11,Suffoco ,p458_l01_o11_a,a noẽ focꝰ suffoco ÷ strangulo,S54,F3,,,
 80r,p458_l02_o02,Grecor ,p458_l02_o02_a,more greco loquor,S23,F4,,,
@@ -1115,7 +1109,6 @@ cõputetur. qartius fons tamen idẽ/ẽ quar/tus &/t̃tius/fons",S53,F5,,,
 80v,p458_l03_o09,Annus ,p458_l03_o09_a,annꝰ rotał la/anus uetũ,S23,F3,,,
 80v,p458_l03_o10,ꝑenno ,p458_l03_o10_a,ꝑmaneo p unũ annũ ł moror/ꝑ annos/ꝓtelo,S23,F4,,,
 80v,p458_l04_o02,Sonus ,,,,,p458_l04_o02_a,S23,F5
-80v,p458_l04_o03,Sono ,,,,,,,
 80v,p458_l04_o06,Numerus ,p458_l04_o06_a,qͣsi nũmoꝵ riuus,S553,F3,,,
 80v,p458_l05_o01,diriuo ,p458_l05_o01_a,deduco/mano/ł deriuo,S22,F3,,,
 80v,p458_l05_o06,Stomachus ,p458_l05_o06_a,ira ł leticia,S22,F3,,,
@@ -1307,9 +1300,8 @@ cõputetur. qartius fons tamen idẽ/ẽ quar/tus &/t̃tius/fons",S53,F5,,,
 81v,p459_l27_o01-02,cũ monstrabant᷑ ,p459_l27_o01-02_a,alii codices / cõmostrabuNT᷑ ÷ simul /.s. A nobis,S62,F4,,,
 81v,p459_l27_o04,quę ,p459_l27_o04_a,.s. nõa,S3232,F2,,,
 81v,p459_l28_o01,diriuata ,p459_l28_o01_a,suNT,S419,F2,,,
-81v,p459_l28_o02-03,non generalib; ,,,,,,,
+81v,p459_l28_o02-03,non generalib; ,p459_l28_o02-03_a,s spetialib/÷ ꝓpriis,S22,F2,,,
 81v,p459_l28_o04,clausulis ,p459_l28_o04_a,terminationib,S22,F2,,,
-81v,p459_l28_o07-08,in multis ,,,,,,,
 81v,p459_l28_o09,adeo ,p459_l28_o09_a,intantũ maxime multũ,S22,F3,,,
 81v,p459_l29_o03,ꝓbant᷑ ,p459_l29_o03_a,experiuntur/cognoscuntur,S22,F3,,,
 81v,p459_l30_o03,adhęreant ,p459_l30_o03_a,seruiant/adiungaNT,S22,F3,,,
@@ -1391,7 +1383,7 @@ cõputetur. qartius fons tamen idẽ/ẽ quar/tus &/t̃tius/fons",S53,F5,,,
 82r,p460_l24_o02,terminationes ,p460_l24_o02_a,.s. primitiuas,S53,F2,,,
 82r,p460_l24_o03,Verboꝵ ,p460_l24_o03_a,.s. terminationes,S412,F2,,,
 82r,p460_l24_o09,generales ,p460_l24_o09_a,÷ paucas,S53,F2,p460_l24_o09_b,S631,F5
-82r,p460_l25_o03-04,ad unã ,,,,,,,
+82r,p460_l25_o03-04,ad unã ,p460_l25_o03-04_a,÷ ad primam,S53,F3,,,
 82r,p460_l26_o03,uideb̶mꝰ ,p460_l26_o03_a,.s. uidet᷑,S22,F2,,,
 82r,p460_l26_o06,eoq; ,p460_l26_o06_a,ꝓ hęc,S22,F2,,,
 82r,p460_l26_o08,unformiter ,p460_l26_o08_a,scđm unã formã,S23,F3,,,
@@ -1418,7 +1410,6 @@ cõputetur. qartius fons tamen idẽ/ẽ quar/tus &/t̃tius/fons",S53,F5,,,
 82v,f82v_l06_o13,indico ,f82v_l06_o13_a,indimo,S22,F2,,,
 82v,p461_l01_o05,Manceps ,p461_l01_o05_a,mancꝰ ł manucapiens,S25,F3,,,
 82v,p461_l01_o07,Mancipo ,p461_l01_o07_a,subdo familor seruio inde mancipiũ,S22,F3,,,
-82v,p461_l02_o01,sic ,,,,,,,
 82v,p461_l02_o06,manifestis ,p461_l02_o06_a,ex,S611,F2,,,
 82v,p461_l02_o07,incerta ,p461_l02_o07_a,illa qͣ sunt(dubia),S23,F4,,,
 82v,p461_l02_o08,regulantur ,p461_l02_o08_a,÷ ꝑ regulã cognoscuNT᷑/ł ordinant᷑,S53,F4,,,
@@ -1483,9 +1474,6 @@ cõputetur. qartius fons tamen idẽ/ẽ quar/tus &/t̃tius/fons",S53,F5,,,
 82v,p461_l26_o09-10,in possessionẽ ,p461_l26_o09-10_a,.s. illa ꝑfecta in .scͦ. ut inesco -as a noẽ qđ ẽ  ęsca,S53,F4,,,
 82v,p461_l27_o03,concesserunt ,p461_l27_o03_b,Alii codices in positioñ tribuere,S62,F4,,,
 82v,p461_l27_o03,concesserunt ,p461_l27_o03_a,÷ informãt primam ꝑsonã indct̃.s. auctoresi,S53,F4,,,
-82v,p461_l27_o04,singulisq; ,,,,,,,
-82v,p461_l27_o05,formis ,,,,,,,
-82v,p461_l28_o01,singulas ,,,,,,,
 82v,p461_l28_o02,accipere ,,,,,p461_l28_o02_a,S62,F3
 82v,p461_l28_o03,coactis ,p461_l28_o03_a,c̃iunctis,S22,F2,,,
 82v,p461_l28_o09,meditetiua ,p461_l28_o09_a,uerba ut lecturio,S53,F3,,,
@@ -1520,7 +1508,6 @@ cõputetur. qartius fons tamen idẽ/ẽ quar/tus &/t̃tius/fons",S53,F5,,,
 83r,p462_l08_o08,nobilito ,p462_l08_o08_a,nobił efficior ł insignio,S23,F3,,,
 83r,p462_l08_o09,Oscis ,,,,,p462_l08_o09_a,S62,F4
 83r,p462_l08_o10,oscito ,,,,,p462_l08_o10_b,S23,F4
-83r,f83r_l06_o10,Periculũ ,,,,,,,
 83r,f83r_l06_o12,debilis ,f83r_l06_o12_a,infirmꝰ,S22,F2,,,
 83r,f83r_l06_o13,debilito ,,,,,f83r_l06_o13_a,S5,F5
 83r,p462_l09_o02,uentilo ,p462_l09_o02_a,ꝓicio purgo,S22,F3,p462_l09_o02_b,S23,F5
@@ -1554,7 +1541,6 @@ cõputetur. qartius fons tamen idẽ/ẽ quar/tus &/t̃tius/fons",S53,F5,,,
 83r,p462_l17_o05,rationib; ,p462_l17_o05_a,.s. in,S611,F2,,,
 83r,p462_l17_o06,immorer ,p462_l17_o06_a,demoror tardem,S22,F3,,,
 83r,p462_l17_o10,citius ,p462_l17_o10_a,.s. defici&,S53,F2,,,
-83r,p462_l17_o11,quã ,,,,,,,
 83r,p462_l18_o01,exempla ,p462_l18_o01_a,.s. sicut usq nc̃/p̃dixi,S53,F4,,,
 83r,p462_l18_o07,traductiones ,p462_l18_o07_a,diriuationes,S22,F2,,,
 83r,p462_l19_o08,contentiosus ,p462_l19_o08_a,÷ c̃tendens,S22,F2,,,
@@ -1594,7 +1580,6 @@ cõputetur. qartius fons tamen idẽ/ẽ quar/tus &/t̃tius/fons",S53,F5,,,
 83r,p462_l32_o10,strues ,p462_l32_o10_a,c̃geries lignoꝵ,S23,F3,,,
 83r,p462_l32_o11-12,magis ipsa ,p462_l32_o11-12_a,.s. et ideo sunt ista t̃tię  pͥmitiua st̃,S53,F4,p462_l32_o11-12_b,S53,F4
 83r,p462_l33_o07,Struo ,,,,,p462_l33_o07_a,S23,F4
-83r,p462_l33_o08,fatiunt  ,,,,,,,
 83r,p462_l33_o09,uerba ,p462_l33_o09_a,.s. ex se,S53,F3,,,
 83r,p462_l33_o10,Sin ,p462_l33_o10_a,casuał c̃iunctio,S35,F3,,,
 83r,p463_l01_o03,desinat ,p463_l01_o03_a,.s. uerbũ,S415,F2,,,
@@ -1613,7 +1598,6 @@ cõputetur. qartius fons tamen idẽ/ẽ quar/tus &/t̃tius/fons",S53,F5,,,
 83r,p463_l07_o01,Cuius ,p463_l07_o01_a,÷ quartę,S3232,F2,,,
 83r,p463_l08_o05,coniugatione ,p463_l08_o05_a,declin,S611,F2,,,
 83r,p463_l08_o06,bulla ,p463_l08_o06_a,ornam̃tũ camelorũ si/ue uesicule in aqua,S23,F4,,,
-83r,p463_l08_o08,poena ,,,,,,,
 83r,p463_l09_o03,suꝑbus ,,,,,p463_l09_o03_a,S211,F4
 83r,p463_l09_o06,blandior ,p463_l09_o06_a,Adulor decipio :,S22,F3,,,
 83r,p463_l09_o07,Largus ,p463_l09_o07_a,dapsilis abundans,S22,F3,,,
@@ -1668,7 +1652,6 @@ cõputetur. qartius fons tamen idẽ/ẽ quar/tus &/t̃tius/fons",S53,F5,,,
 83v,p463_l27_o09,prima  ,,,,,p463_l27_o09_a,S5,F5
 83v,p463_l27_o10,insanio ,p463_l27_o10_a,am̃tor insanit enĩ qui ñ est sanꝰ,S23,F4,,,
 83v,p463_l28_o09,aptus ,p463_l28_o09_a,c̃ueniens ⁊ dignꝰ,S22,F3,,,
-83v,p463_l28_o10,apto ,,,,,,,
 83v,p463_l29_o06,eo ,p463_l29_o06_a,qđ ÷ aptus,S53,F4,,,
 83v,p463_l29_o08, Ineptus  ,p463_l29_o08_a,anc̃e apͭꝰ inc̃ueniens,S22,F3,,,
 83v,p463_l29_o09,ineptio ,p463_l29_o09_a,: inc̃uenient̃ aliquid fatio ł aliꝗd stultꝰ fio,S23,F4,,,
@@ -1738,7 +1721,6 @@ cõputetur. qartius fons tamen idẽ/ẽ quar/tus &/t̃tius/fons",S53,F5,,,
 84r,p465_l14_o04,passiua ,,,,,p465_l14_o04_a,S5,F5
 84r,p465_l16_o06,significatio ,p465_l16_o06_a,÷ passiua,S53,F2,,,
 84r,p465_l17_o06,Mutato ,p465_l17_o06_a,.s. si efficiant᷑ deponentia,S53,F3,p465_l17_o06_b,S5,F5
-84r,p465_l17_o10,significatione ,,,,,,,
 84r,p465_l18_o10,obseruat ,p465_l18_o10_a,.s. et efficiant᷑,S22,F3,,,
 84r,p465_l19_o01,significatione: ,p465_l19_o01_a,c̃iugationẽ ÷ passiuã,S611,F3,,,
 84r,p465_l19_o03,sperno ,p465_l19_o03_a,inhonoro/despitio,S22,F3,,,
@@ -1780,7 +1762,6 @@ cõputetur. qartius fons tamen idẽ/ẽ quar/tus &/t̃tius/fons",S53,F5,,,
 84r,p465_l30_o10,orior ,p465_l30_o10_a,nascor,S22,F2,,,
 84r,p465_l31_o01,potior ,p465_l31_o01_a,fruor & possideo,S22,F3,,,
 84r,p465_l31_o07,modos ,p465_l31_o07_a,idẽ ẽ & mođ; / ł mot?,S23,F3,,,
-84r,p456_l0_o0,In .uor. ,,,,,,,
 84r,p465_l32_o06,fruor ,p465_l32_o06_a,utor inde frum̃tũ,S54,F3,p465_l32_o06_b,S4181,F4
 84r,f84r_l22_o02,(add) ,f84r_l22_o02_a,"Sequor -eris, Loquor -eris",S611,F3,,,
 84r,p465_l33_o04,posteriora ,p465_l33_o04_a,÷ loquor liquor sequor  ñ est ibi .u. uocalis ideo de?icit hoc,S64,F4,,,
@@ -1832,15 +1813,15 @@ cõputetur. qartius fons tamen idẽ/ẽ quar/tus &/t̃tius/fons",S53,F5,,,
 84v,p466_l25_o10,primitius ,p466_l25_o10_a,uerbis,S53,F2,,,
 84v,p466_l26_o07,Semelq; ,p466_l26_o07_a,una uice,S22,F3,,,
 84v,p466_l26_o09,generalit̃ ,,,,,p466_l26_o09_a,S53,F5
-84v,p466_l28_o02,diriuatiua ,,,,,,,
-84v,p466_l30_o0,uindicat ,,,,,,,
+84v,p466_l28_o02,diriuatiua ,,,,,p466_l28_o02_a,S53,F4
+84v,p466_l30_o05,uindicat ,,,,,p466_l30_o05_b,S64,F4
 84v,p466_l30_o06,quãuis ,p466_l30_o06_a,.s. hab& illa pͥma c̃iugatio,S53,F4,p466_l30_o06_b,S53,F5
 84v,p466_l30_o08,diriuata ,p466_l30_o08_a,uerba,S53,F2,,,
 84v,p466_l34_o09,solet ,p466_l34_o09_a,ł uidet᷑,S22,F2,,,
 84v,p467_l01_o02,quia ,p467_l01_o02_a,Debeo scđm libellu inchoare,S5,F4,,,
 84v,p467_l01_o06-07,antedictis ,p467_l01_o06-07_a,regulis,S53,F2,,,
 84v,p467_l02_o03,ignorari ,p467_l02_o03_a,utrũ sint diriuatiua an pͥimitiua,S53,F4,,,
-84v,p467_l02_o04,diriuatiua ,,,,,p467_l02_o04_a,S53,F4
+84v,p467_l02_o04,diriuatiua ,,,,,,,
 84v,p467_l02_o06,quoꝵ ,p467_l02_o06_a,uerborũ,S3232,F2,,,
 84v,p467_l02_o07,dubia ,,,,,p467_l02_o07_a,S5,F4
 84v,p467_l02_o09,originatio ,p467_l02_o09_a,initiũ fundam̃tu,S22,F3,,,
@@ -1850,7 +1831,6 @@ cõputetur. qartius fons tamen idẽ/ẽ quar/tus &/t̃tius/fons",S53,F5,,,
 84v,p467_l04_o01,scrutari. ,p467_l04_o01_a,inquirere,S22,F2,,,
 84v,p467_l05_o15,opinor ,p467_l05_o15_a,ęstimo,S22,F2,,,
 84v,p467_l06_o07,scđa ,p467_l06_o07_a,coniugatio,S53,F2,,,
-84v,p467_l07_o03,disillabũ ,,,,,,,
 84v,p467_l07_o05,neo ,p467_l07_o05_a,filo,S22,F2,,,
 84v,p467_l08_o04,fleo ,p467_l08_o04_a,ploro,S22,F2,,,
 84v,f84v_l34_o13,geo ,f84v_l34_o13_a,mensuro,S22,F2,,,
@@ -1880,8 +1860,8 @@ cõputetur. qartius fons tamen idẽ/ẽ quar/tus &/t̃tius/fons",S53,F5,,,
 86v,p472_l09_o01,cędunt ,p472_l09_o01_a,uerberant,S22,F2,,,
 86v,p472_l11_o02,reor ,p472_l11_o02_a,puto,S22,F2,,,
 86v,p472_l14_o08,occido ,p472_l14_o08_a,u,S11,F1,,,
-86v,p472_l14_o09,incido ,,,,,,,
-86v,p472_l14_o10,decido ,p472_l14_o10_a,u,S11,F1,,,
+86v,p472_l14_o09,incido ,p472_l14_o09_a,u,S11,F1,,,
+86v,p472_l14_o10,decido ,,,,,,,
 86v,p473_l01_o01,Secunđ ,p473_l01_o01_a,÷ ꝓsꝑ,S22,F2,,,
 87r,p474_l07_o04,ΙΕΡΩCΥΛΩ ,p474_l07_o04_a,÷ immolo,S211,F2,,,
 87r,p474_l16_o06,antelata. ,p474_l16_o06_a,enarrata,S22,F2,,,
