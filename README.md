@@ -1,10 +1,12 @@
+## *The project is not yet finished, as corrections will be made in the following month mainly in the paper after deliberation with the defense jury*
+
 # *Eutyches Grammaticus, but glossed*
 
 
 <img width="620" alt="Screenshot 2023-05-28 at 23 33 53" src="https://github.com/malamatenia/Eutyches/assets/92155767/adbacf6f-2072-4e9d-84ac-86f8ef360b00">
 
 
-# **Navigating though the repository**
+# **Navigating through the repository**
 
 ## Folder names
 
