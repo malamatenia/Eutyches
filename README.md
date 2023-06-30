@@ -1,4 +1,4 @@
-## *The project is not yet finished, as corrections will be made in the following month mainly in the paper after deliberation with the defense jury*
+# *The project is not yet finished, as corrections will be made in the following month mainly in the paper after deliberation with the defense jury*
 
 # *Eutyches Grammaticus, but glossed*
 
