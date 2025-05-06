@@ -1,4 +1,4 @@
-# *The project is partially finished, as corrections will be made in the following months mainly in the dissertation after deliberation with the defense jury. A paper publication concerning this MA work is expected in 2024 in the series Studia Artistarum of Brepols, as the publication of the proceedings of the journées d'étude in the memory of Louis Holtz that were held in Paris in June 2023 https://chartes.hypotheses.org/9407  *
+# **The project is partially finished, as corrections will be made in the following months mainly in the dissertation after deliberation with the defense jury. A paper publication concerning this MA work is expected in 2025 in the series Studia Artistarum of Brepols, as the publication of the proceedings of the journées d'étude in the memory of Louis Holtz that were held in Paris in June 2023 https://chartes.hypotheses.org/9407**
 
 # *Eutyches Grammaticus, but glossed*
 
