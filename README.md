@@ -6,9 +6,9 @@
 <img width="620" alt="Screenshot 2023-05-28 at 23 33 53" src="https://github.com/malamatenia/Eutyches/assets/92155767/adbacf6f-2072-4e9d-84ac-86f8ef360b00">
 
 
-# **Navigating through the repository**
+# **Navigating the repository**
 
-## Folder names
+## Structure
 
 | Folder Name | Description |
 | ----------- |  ---- |
@@ -41,9 +41,9 @@ This project adheres to this renewal of tools and methods for the edition of gra
   <img width="500" height="700" src="https://user-images.githubusercontent.com/92155767/170118764-169a3d76-01af-41a6-8ee3-392c578cce0a.jpg" >
 </p>
 
-# **A wild pipeline appears!**
+# **Pipeline Overview**
 
-The following graph concisely describes the pipeline ( that clearly has optimization potential!) that was developed and implemented for the M1 dissertation. Limitations and improvements (in French) are discussed in the final chapter.
+The following graph concisely describes the pipeline that was developed and implemented for the M1 dissertation. Limitations and improvements (in French) are discussed in the final chapter of the mémoire.
 
 <p align="center">
   <img width="600" height="700" src="https://user-images.githubusercontent.com/92155767/169708060-5867a67e-90d9-4618-8ebd-f00358ad3227.png">
@@ -54,16 +54,4 @@ The following graph concisely describes the pipeline ( that clearly has optimiza
 # **Quality control**
 
 We decided, following HTR-United workflows, to proceed with the implementation of chocomufin for the control of the special characters and HTRVX for the proper implementation of SegmOnto. Chocomufin is a software workflow developed by Clérice Thubault and Pinche Ariane that creates a table of the characters (```table.csv```) that exist in the ground truth for both documents and checks, with every push and pull request that the .xml documents found in the folders are conforming to this particular table. HTRVX, developed -surprise!- also by Thibault Clérice, is an excellent tool that reports back on SegmOnto non-compliant ALTO files, containing blank/non-attributed lines/unbound lines in zones/non-detectable extra empty zones created on eScriptorium and particularly helped with some gazillion lines that we had to manually annotate :)
-
-
-
-## **To-do for the M2 (done!)** 
-
-- [x] Augment the dataset with at least 1-2 glossed witnesses (there are now 4 with a 5th one in mind)
-- [x] Train a Segmentation model and hope for the best
-- [ ] Think through a less time-consuming and more accurate method for lemma tagging, already during the transcription (Annotations option on eScriptorium?)
-- [x] Find a way to provide basic XML-TEI tags for identified lemmas and glosses
-- [x] Extract the .csv content directly from the XML files.
-- [x] Plot the results
-- [x] Experimental analysis on diversity and diffusion of gloses
 
