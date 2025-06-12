@@ -1,6 +1,7 @@
-# **The project is partially finished, as corrections will be made in the following months mainly in the dissertation after deliberation with the defense jury. A paper publication concerning this MA work is expected in 2025 in the series Studia Artistarum of Brepols, as the publication of the proceedings of the journées d'étude in the memory of Louis Holtz that were held in Paris in June 2023 https://chartes.hypotheses.org/9407**
+## **The project is partially finished, as corrections will be made in the following months mainly in the dissertation after deliberation with the defense jury. A paper publication concerning this MA work is expected in 2025 in the series Studia Artistarum of Brepols, as the publication of the proceedings of the journées d'étude in the memory of Louis Holtz that were held in Paris in June 2023 https://chartes.hypotheses.org/9407**
 
-# *Eutyches Grammaticus, but glossed*
+
+# *Eutyches Grammaticus, but glossed* [![DOI](https://zenodo.org/badge/486251721.svg)](https://doi.org/10.5281/zenodo.15646103)
 
 
 <img width="620" alt="Screenshot 2023-05-28 at 23 33 53" src="https://github.com/malamatenia/Eutyches/assets/92155767/adbacf6f-2072-4e9d-84ac-86f8ef360b00">
